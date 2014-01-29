@@ -1,0 +1,265 @@
+---
+layout: page
+title: Publications
+group: navigation
+permalink: "publications.html"
+---
+{% include JB/setup %}
+
+Google Scholar Citations
+------------------------
+
+View my Google Scholar Citations
+[profile](http://scholar.google.com/citations?user=8XOPyM4AAAAJ&hl=en) 
+
+Other sites
+-----------
+
+Get the results of a PubMed search on my name (with a few hits added manually):
+[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Hansen%2C+Kasper+D%5BAuthor%5D+or+Hansen%2C+Kasper+Daniel%5BAuthor%5D+or+17681996%5BPmid%5D+or+21177974%5BPmid%5D+or+23999529%5BPmid%5D)
+
+Computational Biology
+---------------------
+
+MJ Aryee, AE Jaffe, H Corrada-Bravo, C Ladd-Acosta, AP Feinberg, KD Hansen<sup>&dagger;</sup>, RA Irizarry<sup>&dagger;</sup>.<br>
+<i>Minfi: A flexible and comprehensive Bioconductor package for the analysis of Infinium DNA Methylation microarrays.</i><br>
+Bioinformatics 2014. 
+
+AC Frazee, S Sabunciyan, <b>KD Hansen</b>, RA Irizarry, JT Leek<sup>&dagger;</sup>.<br>
+<i>Differential expression analysis of RNA-seq data at single-base resolution.</i><br>
+Biostatistics 2013.
+[DOI](http://dx.doi.org/10.1093/biostatistics/kxt053)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/24398039)
+
+ML Smith<sup>&dagger;</sup>, KA Baggerly, H Bengtsson, ME Ritchie, <b>KD Hansen</b><sup>&dagger;</sup>.<br>
+<i>illuminaio: An open source IDAT parsing tool for Illumina microarrays.</i><br>
+F1000 Research 2013.  Awaiting peer review.
+[DOI](http://dx.doi.org/10.12688/f1000research.2-264.v1)
+
+<b>KD Hansen</b><sup>&lowast;</sup>, S Sabunciyan<sup>&lowast;</sup>, B Langmead, N Nagy, R Curley, G Klein, E Klein, D Salamon, AP Feinberg<sup>&dagger;</sup>.<br>
+<i>Large-scale hypomethylated blocks associated with Epstein-Barr virus-induced B-cell
+immortalization.</i><br>
+Genome Research 2013.
+[DOI](http://dx.doi.org/10.1101/gr.157743.113)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/24068705)<br>
+
+C Ladd-Acosta, <b>KD Hansen</b>, E Briem, MD Fallin, WE Kaufmann, AP Feinberg<sup>&dagger;</sup>.<br>
+<i>Common DNA methylation alterations in multiple brain regions in autism.</i><br>
+Molecular Psychiatry 2013.
+[DOI](http://dx.doi.org/10.1038/mp.2013.114)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/23999529)
+
+<b>KD Hansen</b><sup>&lowast;,&dagger;</sup>, B Langmead<sup>&lowast;&dagger;</sup>, RA Irizarry<sup>&dagger;</sup>.<br>
+<i>BSmooth: from whole genome bisulfite sequencing reads to
+differentially methylated regions.</i><br>
+Genome Biology 2012, 13(10):R83.
+[DOI](http://dx.doi.org/10.1186/gb-2012-13-10-r83)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/23034175)<br>
+<font size=-1>
+Highly accessed
+</font>
+
+BR Herb<sup>&lowast;</sup>, F Wolschin<sup>&lowast;</sup>, <b>KD Hansen</b>, MJ Aryee, B Langmead,
+RA Irizarry, GV Amdam<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.<br>
+<i>Reversible switching between epigenetic states in honeybee behavioral subcastes.</i><br>
+Nature Neuroscience 2012, 15(10):1371-1373.
+[DOI](http://dx.doi.org/10.1038/nn.3218)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/22983211)<br>
+<font size=-1>
+&ensp;&ensp;Coverage by Nature News [URL](http://www.nature.com/news/job-swapping-makes-its-mark-on-honeybee-dna-1.11418)<br>
+&ensp;&ensp;Coverage by LA Times [URL](http://www.latimes.com/news/science/sciencenow/lat-sci-sn-worker-bees-switch-jobs-via-their-epigenomes-20120917,0,3764312.story)<br>
+&ensp;&ensp;Coverage by The New Republic [URL](http://www.tnr.com/blog/plank/107327/epigenetics-bees-biology)<br>
+&ensp;&ensp;Coverage by the Guardian UK [URL](http://www.guardian.co.uk/environment/2012/sep/16/bee-study-behaviour)<br>
+&ensp;&ensp;Coverage by Discover Magazine [URL](http://blogs.discovermagazine.com/notrocketscience/2012/09/16/bee-epigenetics-nurses-foragers-reversible/)<br>
+&ensp;&ensp;Coverage by The Scientist [URL](http://the-scientist.com/2012/09/16/controlling-bee-fate/)<br>
+</font>
+
+J Tung<sup>&dagger;</sup>, LB Barreiro, ZP Johnson, <b>KD Hansen</b>, V Michopoulos, D
+Toufexis, K Michelini, ME Wilson, Y Gilad<sup>&dagger;</sup>.<br>
+<i>Social environment is associated with gene regulatory variation in
+the rhesus macaque immune system.</i><br>
+PNAS 2012, 109(17):6490-6495.
+[DOI](http://dx.doi.org/10.1073/pnas.1202734109)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/22493251)<br>
+<font size=-1>
+&ensp;&ensp;Faculty of 1000 reviews [f1000](http://f1000.com/14267420)<br>
+&ensp;&ensp;Coverage by NY times [URL](http://www.nytimes.com/2012/04/10/science/changes-in-social-status-seen-in-monkeys-genes.html?src=rechp)<br>
+&ensp;&ensp;Coverage by Genomeweb [URL](http://www.genomeweb.com/blog/healthy-popularity)<br>
+&ensp;&ensp;Coverage by Videnskab.db [URL](http://videnskab.dk/krop-sundhed/taber-aber-har-darligt-immunforsvar)
+</font>
+
+S Munshaw, HS Hwang, M Torbenson, J Quinn, <b>KD Hansen</b>, J
+Astemborski, SH Mehta, SC Ray, DL Thomas, A Balagopal<sup>&dagger;</sup>.<br>
+<i>Laser captured hepatocytes show association of association of butyrylcholinesterase gene loss and
+fibrosis progression<br>
+&ensp;in hepatitis C infected drug users.</i><br>
+Hepatology 2012, 56(2):544-554.
+[DOI](http://dx.doi.org/10.1002/hep.25655)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/22331678)
+
+<b>KD Hansen</b>, RA Irizarry, and Z WU<sup>&dagger;</sup>.<br>
+<i>Removing technical variability in RNA-Seq data using conditional
+quantile normalization.</i><br>
+Biostatistics 2012, 13(2):204-216.
+[DOI](http://dx.doi.org/10.1093/biostatistics/kxr054)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/22285995)
+
+<b>KD Hansen</b><sup>&lowast;</sup>, W Timp<sup>&lowast;</sup>, H
+Corrada Bravo<sup>&lowast;</sup>, S Sabunciyan<sup>&lowast;</sup>, B
+Langmead<sup>&lowast;</sup>, OG McDonald, B Wen, H Wu, Y Liu, D Diep,<br>
+&ensp;E Briem, K Zhang, RA Irizarry<sup>&dagger;</sup>, and AP Feinberg<sup>&dagger;</sup>.<br> 
+<i>Increased methylation variation in epigenetic domains across cancer
+types.</i><br>
+Nature Genetics 2011, 43:768-775.
+[DOI](http://dx.doi.org/10.1038/ng.865)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/21706001)<br>
+<font size=-1>
+&ensp;&ensp;Faculty of 1000 reviews [f1000](http://f1000.com/11598956)<br>
+&ensp;&ensp;Comment by JP Issa in Nat Genet, <i>Epigenetic variation and cellular Darwinism</i>.
+[DOI](http://dx.doi.org/10.1038/ng.897) 
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/21792236)<br>
+&ensp;&ensp;Described in Cell
+[DOI](http://dx.doi.org/10.1016/j.cell.2011.09.021)<br>
+&ensp;&ensp;Coverage by Genomeweb [URL](http://www.genomeweb.com/sequencing/study-suggests-widespread-loss-epigenetic-regulation-cancer-genomes)
+</font>
+
+<b>KD Hansen</b>, Z Wu, RA Irizarry<sup>&dagger;</sup>, and JT Leek<sup>&dagger;</sup>.<br>
+<i>Sequencing technology does not eliminate biological
+variability.</i><br>
+Nature Biotechnology 2011, 29:572-573.
+[DOI](http://dx.doi.org/10.1038/nbt.1910)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/21747377)
+
+AN Brooks<sup>&lowast;</sup>, L Yang<sup>&lowast;</sup>, MO Duff, <b>KD Hansen</b>, JW Park, S Dudoit, SE
+Brenner<sup>&dagger;</sup>, and BR Graveley<sup>&dagger;</sup>.<br>
+<i>Conservation of an RNA regulatory map between Drosophila and
+mammals.</i><br>
+Genome Research 2011, 21(2):193-202.
+[DOI](http://dx.doi.org/10.1101/gr.108662.110) 
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/20921232)
+
+The modENCODE Consortium, <i> et al.</i><br>
+<i>Identification of functional elements and regulatory circuits by
+Drosophila modENCODE.</i><br>
+Science 2010, 330:1787-1797.
+[DOI](http://dx.doi.org/10.1126/science.1198374)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/21177974)
+
+B Langmead, <b>KD Hansen</b>, and JT Leek<sup>&dagger;</sup>.<br>
+<i>Cloud-scale RNA-sequencing differential expression analysis with
+Myrna.</i><br>
+Genome Biology 2010, 11:R83.
+[DOI](http://dx.doi.org/10.1186/gb-2010-11-8-r83)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/20701754)<br>
+<font size=-1>
+Highly accessed
+</font>
+
+<b>KD Hansen</b><sup>&dagger;</sup>, SE Brenner, and S Dudoit.<br>
+<i>Biases in Illumina transcriptome sequencing caused by random
+hexamer priming.</i><br>
+Nucleic Acids Research 2010, 38(12):e131.
+[DOI](http://dx.doi.org/10.1093/nar/gkq224)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/20395217)
+
+JH Bullard<sup>&lowast;,&dagger;</sup>, EA Purdom<sup>&lowast;</sup>, <b>KD Hansen</b>, and
+S Dudoit.<br>
+<i>Evaluation of statistical methods for normalization and
+differential expression in mRNA-Seq experiments.</i><br> 
+BMC Bioinformatics 2010, 11:94.
+[DOI](http://dx.doi.org/10.1186/1471-2105-11-94)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/20167110)<br>
+<font size=-1>
+Highly accessed
+</font>
+
+<b>KD Hansen</b><sup>&lowast;</sup>, LF Lareau<sup>&lowast;</sup>, M Blanchette, RE Green, Q Meng,
+J Rehwinkel, FL Gallusser, E Izaurralde, DC Rio, S Dudoit, and SE Brenner<sup>&dagger;</sup>. <br>
+<i>Genome-wide identification of alternative splice forms
+down-regulated by nonsense-mediated mRNA decay in Drosophila.</i><br>
+PLoS Genetics 2009, 5(6):e1000525.
+[DOI](http://dx.doi.org/10.1371/journal.pgen.1000525)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/19543372)
+
+A Lee<sup>&lowast;</sup>, <b>KD Hansen</b><sup>&lowast;</sup>, J Bullard<sup>&lowast;</sup>, S
+Dudoit, and G Sherlock<sup>&dagger;</sup>.<br>
+<i>Novel low abundance and transient RNAs in yeast revealed by tiling
+microarrays and ultra high-throughput sequencing are not<br>
+&ensp; conserved across closely related yeast species</i>.<br>
+PLoS Genetics 2008, 4(12):e1000299.
+[DOI](http://dx.doi.org/10.1371/journal.pgen.1000299)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/19096707)
+
+
+Computational Biology, Preprints
+--------------------------------
+
+<b>KD Hansen</b>, RA Irizarry, and Z WU<sup>&dagger;</sup>.<br>
+<i>Removing technical variability in RNA-Seq data using conditional
+quantile normalization.</i><br>
+Johns Hopkins University, Dept. of Biostatistics Working
+Papers. Working Paper 227.
+[PREPRINT](http://www.bepress.com/jhubiostat/paper227)
+
+JH Bullard<sup>&lowast;</sup>, EA Purdom<sup>&lowast;</sup>, <b>KD Hansen</b>, S Durinck, and
+S Dudoit.<br>
+<i>Statistical Inference in mRNA-Seq: Exploratory Data Analysis and
+Differential Expression.</i><br>
+Working Paper 247, U.C. Berkeley, Division of Biostatistics, 2009.
+[URL](http://www.bepress.com/ucbbiostat/paper247/)
+
+H Bengtsson<sup>&dagger;</sup>, K Simpson, J Bullard, and <b>KD Hansen</b>.<br>
+<i>aroma.affymetrix: A generic framework in R for analyzing small to
+very large Affymetrix data sets in bounded memory</i>.<br>
+Technical Report 745, Department of Statistics, University of
+California, Berkeley, 2008.
+[PDF](http://www.stat.berkeley.edu/tech-reports/745.pdf)
+
+
+Other
+-----
+
+JH Andersen<sup>&dagger;</sup>, M Harhoff, S Grimstrup, I Vilstrup, CF Lassen,
+LPA Brandt, AI Kryger, E Overgaard, <b>KD Hansen</b>, and S Mikkelsen.<br>
+<i>Computer mouse use predicts acute pain but not prolonged or chronic
+pain in the neck and shoulder</i>. <br>
+Occup Environ Med 2008, 65(2):126-131.
+[DOI](http://dx.doi.org/10.1136/oem.2007.033506)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/17681996)
+
+A-M Nybo Andersen<sup>&dagger;</sup>, <b>KD Hansen</b>, PK Andersen, and
+G Davey Smith.<br>
+<i>Advanced paternal age and risk of fetal death: a cohort study</i>.<br>
+American Journal of Epidemiology 2004, 160(12):1214-1222.
+[DOI](http://dx.doi.org/10.1093/aje/kwh332)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/15583374)
+
+H Dan&oslash;<sup>&dagger;</sup>, <b>KD Hansen</b>, P Jensen, JH Petersen, R Jacobsen,
+M Ewertz, and E Lynge.<br>
+<i>Fertility pattern does not explain social gradient in breast cancer
+in Denmark.</i><br>
+International Journal of Cancer 2004, 111(3):451-456.
+[DOI](http://dx.doi.org/10.1002/ijc.20203)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/15221976)
+
+H Dan&oslash;<sup>&dagger;</sup>, R Jacobsen, <b>KD Hansen</b>, JK Petersen, and
+E Lynge.<br>
+<i>Use of census data for construction of fertility history for danish
+women</i>.<br>
+Scandinavian Journal of Public Health 2004, 32:435-441.
+[DOI](http://dx.doi.org/10.1080/14034940410028163)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/15762028)
+
+K Schultz-Larsen, S Kreiner, S Hanning, N St&oslash;vring,
+<b>KD Hansen</b>, and S Lendal.<br>
+<i>Den danske &aelig;ldrepleje under forandring ("An Evaluation of the
+quality of the danish elder care")</i>. <br>
+Govermental report, 2004.
+
+<b>KD Hansen</b> and E Hansen.<br>
+<i>Opgaver i videreg&aring;ende sandsynlighedsregning ("Exercises in
+Advanced Probability")</i>.<br>
+University of Copenhagen (HC&Oslash; Tryk), 2000.
+
+<sup>&lowast;</sup> indicates equal contribution <br>
+<sup>&dagger;</sup> indicates corresponding author
