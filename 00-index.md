@@ -6,37 +6,6 @@ permalink: "index.html"
 ---
 {% include JB/setup %}
 
-<div class="splitcontentleft">
-<h2>Contact Information</h2>
-<p>Email:<br/>
-&nbsp;&nbsp;&nbsp;<a href="mailto:khansen@jhsph.edu">khansen@jhsph.edu</a>
-</p>
-
-<p>
-Offices:<br/>
-&nbsp;&nbsp;&nbsp;Biostatistics: 3648 Bloomberg School of Public Health</br>
-&nbsp;&nbsp;&nbsp;IGM: 453 Broadway Research Building
-</p>
-
-<p>
-Mail Address:<br/>
-&nbsp;&nbsp;&nbsp;Department of Biostatistics<br/>
-&nbsp;&nbsp;&nbsp;Bloomberg School of Public Health<br/>
-&nbsp;&nbsp;&nbsp;615 N. Wolfe Street, E3527<br/>
-&nbsp;&nbsp;&nbsp;Baltimore, MD 21205<br>
-&nbsp;&nbsp;&nbsp;USA
-</p>
-Curriculum Vitae:</br>
-&nbsp;&nbsp;&nbsp;<a href="http://www.biostat.jhsph.edu/~khansen/hansen_cv.pdf">PDF</a>
-<br/><br/><br/><br/>
-</div>
-
-<div class="splitcontentright">
-<img alt = "Kasper Daniel Hansen" align="right" src="media/people/khansen.jpg"/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-</div>
-
-
 Overview
 --------
 

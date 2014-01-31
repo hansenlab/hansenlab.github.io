@@ -33,7 +33,7 @@ Biostatistics 2013.
 
 ML Smith<sup>&dagger;</sup>, KA Baggerly, H Bengtsson, ME Ritchie, <b>KD Hansen</b><sup>&dagger;</sup>.<br>
 <i>illuminaio: An open source IDAT parsing tool for Illumina microarrays.</i><br>
-F1000 Research 2013.  Awaiting peer review.
+F1000Research 2013, 2:264.
 [DOI](http://dx.doi.org/10.12688/f1000research.2-264.v1)
 
 <b>KD Hansen</b><sup>&lowast;</sup>, S Sabunciyan<sup>&lowast;</sup>, B Langmead, N Nagy, R Curley, G Klein, E Klein, D Salamon, AP Feinberg<sup>&dagger;</sup>.<br>
