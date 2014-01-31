@@ -15,7 +15,8 @@ this is very good value for money.
 lineprof installation
 ---------------------
 
-I don't think lineprof is on CRAN.  You can get it from github using devtools
+At the time of writing, I don't think lineprof is on CRAN.  You can get it from github using
+devtools.
 
 ```r
 install.packages("devtools")
@@ -23,40 +24,459 @@ library(devtools)
 devtools::install_github("lineprof")
 ```
 
+Profiling preprocessRaw from minfi
+----------------------------------
+
+As an example we will profile the function `preprocessRaw` from my package `minfi` on Bioconductor.
+I started with this function because it is a fundamental workhorse in this package; there exists
+multiple `preprocessXX` functions which are more advanced version, with greater computational
+overload.  I had reports (from Jean-Phillipe Fortin) that the function seemed "slow" at times.
+
+We start by using `minfi` 1.8.9 from Bioconductor 2.13, which is the current stable release (see
+sessionInfo below).
+
+First, we load the package (and some example data) look at it
+
 ```r
 library(lineprof)
 library(minfiData)
 data(RGsetEx)
+
+preprocessRaw
+function (rgSet) {
+    .isRG(rgSet)
+    locusNames <- getManifestInfo(rgSet, "locusNames")
+    M <- matrix(NA_real_, ncol = ncol(rgSet), nrow = length(locusNames), 
+        dimnames = list(locusNames, sampleNames(rgSet)))
+    U <- M
+    TypeII.Name <- getProbeInfo(rgSet, type = "II")$Name
+    M[TypeII.Name, ] <- getGreen(rgSet)[getProbeInfo(rgSet, type = "II")$AddressA, ]
+    U[TypeII.Name, ] <- getRed(rgSet)[getProbeInfo(rgSet, type = "II")$AddressA, ]
+    TypeI.Red <- getProbeInfo(rgSet, type = "I-Red")
+    TypeI.Green <- getProbeInfo(rgSet, type = "I-Green")
+    M[TypeI.Red$Name, ] <- getRed(rgSet)[TypeI.Red$AddressB, ]
+    M[TypeI.Green$Name, ] <- getGreen(rgSet)[TypeI.Green$AddressB, ]
+    U[TypeI.Red$Name, ] <- getRed(rgSet)[TypeI.Red$AddressA, ]
+    U[TypeI.Green$Name, ] <- getGreen(rgSet)[TypeI.Green$AddressA, ]
+    out <- new("MethylSet", Meth = M, Unmeth = U, phenoData = phenoData(rgSet), 
+        annotation = annotation(rgSet))
+    out@preprocessMethod <- c(rg.norm = "Raw (no normalization or bg correction)", 
+        minfi = as.character(packageVersion("minfi")),
+		manifest = as.character(packageVersion("IlluminaHumanMethylation450kmanifest")))
+    out
+}
+```
+
+Let us run the function through `lineprof`, using input data from the `minfiData` package.
+
+```r
 prof <- lineprof(out <- preprocessRaw(RGsetEx))
 prof
 
 Reducing depth to 2 (from 49)
     time   alloc release  dups                                   ref
-1  0.697  57.106   9.783     6           c("preprocessRaw", ".isRG")
-2  0.593  52.868  17.123  1840 c("preprocessRaw", "getManifestInfo")
-3  0.133   4.025   9.841   580          c("preprocessRaw", "matrix")
-4  0.140   8.805   0.000   332                       "preprocessRaw"
-5  0.001   0.307   0.000     0 c("preprocessRaw", "lazyLoadDBfetch")
-6  0.118   8.993  11.672   172                       "preprocessRaw"
-7  0.362  53.227  51.545 14811    c("preprocessRaw", "getProbeInfo")
-8  0.120  11.345   7.343   306                       "preprocessRaw"
-9  0.001   0.624   0.000     0               c("preprocessRaw", "$")
-10 0.011   0.730   0.000    36                       "preprocessRaw"
-11 0.858 319.958 242.030 16250             c("preprocessRaw", "new")
-12 0.001   0.121   0.000    46  c("preprocessRaw", "packageVersion")
-13 0.016   0.000   0.463   149                       "preprocessRaw"
+1  0.762  57.126   9.783     6           c("preprocessRaw", ".isRG")
+2  0.763  53.099  17.311  2083 c("preprocessRaw", "getManifestInfo")
+3  0.001   0.461   0.000     0                       "preprocessRaw"
+4  0.127   3.734   9.879   603          c("preprocessRaw", "matrix")
+5  0.001   0.648   0.000   172 c("preprocessRaw", "lazyLoadDBfetch")
+6  0.265  16.299   7.429   371                       "preprocessRaw"
+7  0.372  52.962  52.391 15272    c("preprocessRaw", "getProbeInfo")
+8  0.159  11.143  13.202   350                       "preprocessRaw"
+9  1.123 314.745 240.995 16679             c("preprocessRaw", "new")
+10 0.001   0.000   0.000   203  c("preprocessRaw", "packageVersion")
                              src
 1  preprocessRaw/.isRG          
 2  preprocessRaw/getManifestInfo
-3  preprocessRaw/matrix         
-4  preprocessRaw                
+3  preprocessRaw                
+4  preprocessRaw/matrix         
 5  preprocessRaw/lazyLoadDBfetch
 6  preprocessRaw                
 7  preprocessRaw/getProbeInfo   
 8  preprocessRaw                
-9  preprocessRaw/$              
-10 preprocessRaw                
-11 preprocessRaw/new            
-12 preprocessRaw/packageVersion 
+9  preprocessRaw/new            
+10 preprocessRaw/packageVersion 
+```
+
+The output should be essentially self-explained.  Most lines in `preprocessRaw` has a `time`,
+`alloc` and `release` associated with it.  This tells us how much time the line takes, how much
+memory is allocated and how much is released. For this function, anything that takes time also has a
+lot of memory allocated.  We are particular interested in lines where a lot of memory is allocated
+and subsequently released.  The candidates are easily seen to be lines 1,2,4,6,7,8,9.
+
+In this package I have been following a tried and tested design approach, where information related
+to the array design (which does not change between experiments) is stored in an external package, in
+this case called `IlluminaHumanMethylation450kmanifest`. It turns out that a lot of the initial
+allocation is simply a conseqeunce of loading this package automatically.  Also, the `RGsetEx`
+dataset is lazy-loaded, so part of the time is spent loading this dataset into memory.
+
+In other words, some amount of this memory allocation happens the first time we run it.  We can
+verify this, by simply running the function one more time, where the manifest package and the
+dataset has already been accessed.
+
+```r
+prof <- lineprof(out <- preprocessRaw(RGsetEx))
+prof
+
+Reducing depth to 2 (from 38)
+   time   alloc release dups                                   ref
+1 0.002   0.463   0.000  368 c("preprocessRaw", "getManifestInfo")
+2 0.001   0.569   0.000    0                       "preprocessRaw"
+3 0.004   4.047   0.000   62          c("preprocessRaw", "matrix")
+4 0.359  17.443   0.000  540                       "preprocessRaw"
+5 0.291  48.166  49.693 9232    c("preprocessRaw", "getProbeInfo")
+6 0.266  12.536  20.570  350                       "preprocessRaw"
+7 0.927 314.958 216.111 6587             c("preprocessRaw", "new")
+8 0.001   0.123   0.000   29  c("preprocessRaw", "packageVersion")
+9 0.002   0.463   0.000  155                       "preprocessRaw"
+                            src
+1 preprocessRaw/getManifestInfo
+2 preprocessRaw                
+3 preprocessRaw/matrix         
+4 preprocessRaw                
+5 preprocessRaw/getProbeInfo   
+6 preprocessRaw                
+7 preprocessRaw/new            
+8 preprocessRaw/packageVersion 
+9 preprocessRaw                
+```
+
+Great, that reduced the memory consumption substantially for several of the calls.
+
+Now it is time to discuss the input and output data.  The input object `RGsetEx` is a class defined
+in `minfi`, called `RGChannelSet`.  It represents X samples profiled on the Illumina 450k
+microarray.  We are interested in running this code on large sample sizes (by large I mean X in the
+1,000 to 10,000 range), but we are profiling it on a small instance only containing X=6 samples.  We
+are particular interested in any inefficiencies which scales with the number of samples.
+
+The memory intensive data stored in the class can be thought of as two matrices `Red` and `Green`
+which have 622,399 rows and X columns.  In addition, there is a number of additional slots which are
+small for practical purposes.  The number of rows is fixed for this array.  The `preprocessRaw`
+function takes these two matrices and returns an object with the data intensive part stored as two
+matrices `Meth` and `Unmeth` with 485,512 rows and X columns (these two matrices are shortened as
+`M` and `U` in the code in `preprocessRaw` above).
+
+The classes are build on work done in the Bioconductor package `Biobase`, specifically the `eSet`
+class.  I have more to say on this below, but for now, it might be good to know that the matrices
+mentioned above are stored inside an environment inside the class, to get pass-by-reference (any
+reader who is inspired to explore this ought to look at `Biobase` and see the extensive amount of
+code necessary to get this right -- these days a user would probably use a reference class). This
+make simple memory reading a bit difficult, as evidenced by this
+
+```r
+print(object.size(RGsetEx), units = "auto")
+38 Mb
+
+print(object.size(getRed(RGsetEx)), units = "auto")
+52.2 Mb
+```
+
+Note that the 38MB in the output above does not include the `Red` and `Green` matrices.  The actual
+memory footprint of the object is actually 38+2x52 = 142MB.
+
+In the remaining lines, there are issues with a call to `getProbeInfo` and to `new`.  I know that
+`getProbeInfo` does not depend on X, whereas `new` does.  This is also the function call which looks
+to be the main culprit.  It appears that a number of unnecessary data duplication is taking
+place. Understanding how I fix this, requires some discussion of `Biobase` which I do in the next
+section. For the reader uninterested in this discussion, I addressed this by writing a specific
+constructor for my class, which I call `MethylSet` and it is defined as
+
+```r
+MethylSet <- function(Meth, Unmeth, phenoData, annotation = NULL) {
+    if(is.null(annotation))
+        annotation <- c(array = "IlluminaHumanMethylation450k",
+                        annotation = .default.450k.annotation)
+    stopifnot(rownames(Meth) == rownames(Unmeth))
+    stopifnot(colnames(Meth) == colnames(Unmeth))
+    stopifnot(colnames(Meth) == rownames(phenoData))
+    tmp <- matrix(nrow = 0, ncol = ncol(Meth))
+    out <- new("MethylSet", Meth = tmp, Unmeth = tmp,
+               phenoData = phenoData, annotation = annotation)
+    assayDataElement(out, "Meth") <- Meth
+    assayDataElement(out, "Unmeth") <- Unmeth
+    featureData(out) <- AnnotatedDataFrame(data = data.frame(row.names = row.names(Meth)),
+                                           dimLabels = c("featureNames", "featureColumns"))
+    out
+}
+```
+
+I fix `preprocessRaw` by replacing
+
+```r
+out <- new("MethylSet", Meth = M, Unmeth = U, phenoData = phenoData(rgSet), 
+    annotation = annotation(rgSet))
+```
+
+with
+
+```r
+out <- MethylSet(Meth = M, Unmeth = U, phenoData = phenoData(rgSet), 
+                 annotation = annotation(rgSet))
+```
+
+Because I am writing this blog post after I did the actual profiling, I have now implemented this
+fix in `minfi` 1.9.9 in Bioconductor 2.14, currently Bioconductor devel.  I hence switch
+R versions etc. (sessionInfo below), and get the following timings
+
+```r
+prof <- lineprof(out <- preprocessRaw(RGsetEx))
+prof
+
+Reducing depth to 2 (from 41)
+    time  alloc release dups                                   ref
+1  0.002  0.464   0.000  340 c("preprocessRaw", "getManifestInfo")
+2  0.036  3.474   0.000   58          c("preprocessRaw", "matrix")
+3  0.171  8.606   3.223  330                       "preprocessRaw"
+4  0.001  1.264   0.000  166               c("preprocessRaw", "$")
+5  0.150  7.705   5.868    5                       "preprocessRaw"
+6  0.415 43.322  41.536 8809    c("preprocessRaw", "getProbeInfo")
+7  0.038  2.063   0.000   68                       "preprocessRaw"
+8  0.001  0.243   0.000    0               c("preprocessRaw", "$")
+9  0.091  6.614   8.380  194                       "preprocessRaw"
+10 0.001  0.773   0.000    0        c("preprocessRaw", "getGreen")
+11 0.026  1.200   0.000   43                       "preprocessRaw"
+12 0.001  0.161   0.000    0               c("preprocessRaw", "$")
+13 0.018  0.599   8.155   36                       "preprocessRaw"
+14 0.031 15.590   0.000 7736       c("preprocessRaw", "MethylSet")
+15 0.001  0.512   0.000  115  c("preprocessRaw", "packageVersion")
+16 0.001  0.000   0.000   60                       "preprocessRaw"
+                             src
+1  preprocessRaw/getManifestInfo
+2  preprocessRaw/matrix         
+3  preprocessRaw                
+4  preprocessRaw/$              
+5  preprocessRaw                
+6  preprocessRaw/getProbeInfo   
+7  preprocessRaw                
+8  preprocessRaw/$              
+9  preprocessRaw                
+10 preprocessRaw/getGreen       
+11 preprocessRaw                
+12 preprocessRaw/$              
 13 preprocessRaw                
+14 preprocessRaw/MethylSet      
+15 preprocessRaw/packageVersion 
+16 preprocessRaw                
+```
+
+A dramatic improvement in speed and memory usage, which will be really important for use cases with
+X=1,000 instead of the very small example profiled here, with X=6.
+
+It is hard to overstate how easy it was to use `lineprof` to do this.  I did all of this in about 2
+hours, but that included reading the `lineprof` documentation.
+
+
+Fixing object construction
+--------------------------
+
+The class `MethylSet` is a simple extensive of `eSet` from `Biobase`. This package (and this
+particular class) has been hugely influential, it is probably hard to overstate the importance of
+this contribution.  `Biobase` was written many years ago, and is one of the early examples of using
+S4 classes to store massive datasets. For this reason, there is a number of design decisions that we
+now would do differentily (and which are done differently in more recent Bioconductor packages), but
+due to the importance of `Biobase` we have been reluctant to change the `eSet` class.
+
+One such design decision is the insistence on having the end-user (in this case me) using `new()` to
+instantiate new objects.  These days, this is all done using a class specific constructor, which is
+how I fixed the problem.
+
+The `eSet` class has the following important components.  First, a number of matrices, all with
+dimensions nFeatures x nSamples.  This is the `Red`/`Green` and `Meth`/`Unmeth` matrices mentioned
+above.  These matrices has to have the same row and column names.  We also have a `data.frame`
+called `pData` which has dimensions nSamples x nCovariates.  The rownames of `pData` has to be equal
+to the column names of the data matrices.  Finally, we have a `data.frame` called `featureData` with
+dimensions nFeatures x nFeatureCovariates.  Again, there are constraints on `featureData` and the
+data matrices including rownames.  In many practical examples, users (developers) does not include
+any data in the `fData` slot.  And when I say `data.frame`, it is more complicated.  Both `fData`
+and `pData` are components of a class called `AnnotatedDataFrame` which is really a `data.frame`
+with additional annotation (doh, could have guesses this). The class is
+
+```r
+getClass("eSet")
+
+Virtual Class "eSet" [package "Biobase"]
+
+Slots:
+                                                               
+Name:           assayData          phenoData        featureData
+Class:          AssayData AnnotatedDataFrame AnnotatedDataFrame
+                                                               
+Name:      experimentData         annotation       protocolData
+Class:              MIAxE          character AnnotatedDataFrame
+                         
+Name:   .__classVersion__
+Class:           Versions
+
+Extends: 
+Class "VersionedBiobase", directly
+Class "Versioned", by class "VersionedBiobase", distance 2
+
+Known Subclasses: "ExpressionSet", "NChannelSet", "MultiSet", "SnpSet"
+```
+
+The instantiation method for `eSet` (the `new` method) takes its arguments and does all kinds fo
+checking and then passes information to sub constructors that does more checking.  If you're really
+interested, I invite you to read the instatiation method(s) for the classes involved -- it is not
+trivial stuff.  This provides a certain amount of robustness, that I do not need.  For
+example, in the call
+
+```r
+out <- new("MethylSet", Meth = M, Unmeth = U, phenoData = phenoData(rgSet), 
+    annotation = annotation(rgSet))
+```
+
+I know that the column names of `Meth` and `Unmeth` match up with the row names of `pData`.  This is
+insured by design.  But the general instatiator does this for me: I could have provided `Meth` and
+`Unmeth` without column names and then the instantiation method would have used the row names from
+`pData` as column names for these two matrices.  It is this kind of robustness which makes the
+instantiation do a lot of unnecessary copying.
+
+I fix this by constructing my return object in pieces (I am now dissecting `MethylSet` defined
+above).  First, I use `new` on empty data matrices.
+
+```r
+tmp <- matrix(nrow = 0, ncol = ncol(Meth))
+out <- new("MethylSet", Meth = tmp, Unmeth = tmp,
+           phenoData = phenoData, annotation = annotation)
+```
+
+This involves very small objects, and actually fills in the column names of `tmp` as described
+above.  I then manually fix the `Meth` and `Unmeth` channels as
+
+```r
+assayDataElement(out, "Meth") <- Meth
+assayDataElement(out, "Unmeth") <- Unmeth
+```
+
+At this point, the return object `out` is invalid. This is because the rows of `Meth` and `Unmeth`
+does not correspond to the rows of the `featureData` slot that was created indirectly above with 0
+rows.  I need to fix this manually, by creating a `data.frame` with many rows, but 0 columns, like this
+
+```r
+featureData(out) <- AnnotatedDataFrame(data = data.frame(row.names = row.names(Meth)),
+                                       dimLabels = c("featureNames", "featureColumns"))
+```
+
+This last fix took me a while to figure out; everything else was straightforward. But I also have a
+decent insight into the internals of `Biobase` having used the package extensively as a foundation
+for several analysis packages I have written.
+
+Since it is always a good idea with error checking, I add some simple tests and settle on
+
+```r
+MethylSet <- function(Meth, Unmeth, phenoData, annotation = NULL) {
+    if(is.null(annotation))
+        annotation <- c(array = "IlluminaHumanMethylation450k",
+                        annotation = .default.450k.annotation)
+    stopifnot(rownames(Meth) == rownames(Unmeth))
+    stopifnot(colnames(Meth) == colnames(Unmeth))
+    stopifnot(colnames(Meth) == rownames(phenoData))
+    tmp <- matrix(nrow = 0, ncol = ncol(Meth))
+    out <- new("MethylSet", Meth = tmp, Unmeth = tmp,
+               phenoData = phenoData, annotation = annotation)
+    assayDataElement(out, "Meth") <- Meth
+    assayDataElement(out, "Unmeth") <- Unmeth
+    featureData(out) <- AnnotatedDataFrame(data = data.frame(row.names = row.names(Meth)),
+                                           dimLabels = c("featureNames", "featureColumns"))
+    out
+}
+```
+
+sessionInfo
+-----------
+
+For `minfi` 1.8.9, with the first version of `preprocessRaw`
+
+```r
+sessionInfo()
+R version 3.0.2 Patched (2014-01-27 r64899)
+Platform: x86_64-apple-darwin13.0.0 (64-bit)
+
+locale:
+[1] C
+
+attached base packages:
+[1] parallel  stats     graphics  grDevices utils     datasets  methods  
+[8] base     
+
+other attached packages:
+ [1] minfiData_0.4.2                                   
+ [2] IlluminaHumanMethylation450kanno.ilmn12.hg19_0.2.1
+ [3] IlluminaHumanMethylation450kmanifest_0.4.0        
+ [4] minfi_1.8.9                                       
+ [5] bumphunter_1.2.0                                  
+ [6] locfit_1.5-9.1                                    
+ [7] iterators_1.0.6                                   
+ [8] foreach_1.4.1                                     
+ [9] Biostrings_2.30.1                                 
+[10] GenomicRanges_1.14.4                              
+[11] XVector_0.2.0                                     
+[12] IRanges_1.20.6                                    
+[13] reshape_0.8.4                                     
+[14] plyr_1.8                                          
+[15] lattice_0.20-24                                   
+[16] Biobase_2.22.0                                    
+[17] BiocGenerics_0.8.0                                
+[18] lineprof_0.1                                      
+
+loaded via a namespace (and not attached):
+ [1] AnnotationDbi_1.24.0  DBI_0.2-7             MASS_7.3-29          
+ [4] R.methodsS3_1.6.1     RColorBrewer_1.0-5    RSQLite_0.11.4       
+ [7] XML_3.98-1.1          annotate_1.40.0       base64_1.1           
+[10] beanplot_1.1          codetools_0.2-8       digest_0.6.4         
+[13] doRNG_1.5.5           genefilter_1.44.0     grid_3.0.2           
+[16] illuminaio_0.4.0      itertools_0.1-1       limma_3.18.9         
+[19] matrixStats_0.8.14    mclust_4.2            multtest_2.18.0      
+[22] nlme_3.1-113          nor1mix_1.1-4         pkgmaker_0.17.4      
+[25] preprocessCore_1.24.0 registry_0.2          rngtools_1.2.3       
+[28] siggenes_1.36.0       splines_3.0.2         stats4_3.0.2         
+[31] stringr_0.6.2         survival_2.37-7       tools_3.0.2          
+[34] xtable_1.7-1         
+```
+
+For `minfi` 1.9.9, with the fixed version of `preprocessRaw`
+
+```r
+sessionInfo()
+R Under development (unstable) (2014-01-30 r64899)
+Platform: x86_64-apple-darwin13.0.0 (64-bit)
+
+locale:
+[1] C
+
+attached base packages:
+[1] parallel  stats     graphics  grDevices utils     datasets  methods  
+[8] base     
+
+other attached packages:
+ [1] minfiData_0.4.3                                   
+ [2] IlluminaHumanMethylation450kanno.ilmn12.hg19_0.2.1
+ [3] IlluminaHumanMethylation450kmanifest_0.4.0        
+ [4] minfi_1.9.9                                       
+ [5] bumphunter_1.3.7                                  
+ [6] locfit_1.5-9.1                                    
+ [7] iterators_1.0.6                                   
+ [8] foreach_1.4.1                                     
+ [9] Biostrings_2.31.12                                
+[10] XVector_0.3.6                                     
+[11] GenomicRanges_1.15.24                             
+[12] IRanges_1.21.23                                   
+[13] lattice_0.20-24                                   
+[14] Biobase_2.23.3                                    
+[15] BiocGenerics_0.9.3                                
+[16] lineprof_0.1                                      
+
+loaded via a namespace (and not attached):
+ [1] AnnotationDbi_1.25.9  DBI_0.2-7             MASS_7.3-29          
+ [4] R.methodsS3_1.6.1     RColorBrewer_1.0-5    RSQLite_0.11.4       
+ [7] XML_3.98-1.1          annotate_1.41.1       base64_1.1           
+[10] beanplot_1.1          codetools_0.2-8       digest_0.6.4         
+[13] doRNG_1.5.5           genefilter_1.45.1     grid_3.1.0           
+[16] illuminaio_0.5.5      limma_3.19.15         matrixStats_0.8.14   
+[19] mclust_4.2            multtest_2.19.1       nlme_3.1-113         
+[22] nor1mix_1.1-4         pkgmaker_0.17.4       preprocessCore_1.25.4
+[25] registry_0.2          reshape_0.8.4         rngtools_1.2.3       
+[28] siggenes_1.37.1       splines_3.1.0         stats4_3.1.0         
+[31] stringr_0.6.2         survival_2.37-7       tools_3.1.0          
+[34] xtable_1.7-1         
 ```
