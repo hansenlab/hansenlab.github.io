@@ -106,8 +106,8 @@ Biostatistics 2012, 13(2):204-216.
 
 <b>KD Hansen</b><sup>&lowast;</sup>, W Timp<sup>&lowast;</sup>, H
 Corrada Bravo<sup>&lowast;</sup>, S Sabunciyan<sup>&lowast;</sup>, B
-Langmead<sup>&lowast;</sup>, OG McDonald, B Wen, H Wu, Y Liu, D Diep,<br>
-&ensp;E Briem, K Zhang, RA Irizarry<sup>&dagger;</sup>, and AP Feinberg<sup>&dagger;</sup>.<br> 
+Langmead<sup>&lowast;</sup>, OG McDonald, B Wen, H Wu, Y Liu, D Diep, E Briem, K Zhang, RA
+Irizarry<sup>&dagger;</sup>, and AP Feinberg<sup>&dagger;</sup>.<br>
 <i>Increased methylation variation in epigenetic domains across cancer
 types.</i><br>
 Nature Genetics 2011, 43:768-775.
@@ -183,9 +183,8 @@ PLoS Genetics 2009, 5(6):e1000525.
 
 A Lee<sup>&lowast;</sup>, <b>KD Hansen</b><sup>&lowast;</sup>, J Bullard<sup>&lowast;</sup>, S
 Dudoit, and G Sherlock<sup>&dagger;</sup>.<br>
-<i>Novel low abundance and transient RNAs in yeast revealed by tiling
-microarrays and ultra high-throughput sequencing are not<br>
-&ensp; conserved across closely related yeast species</i>.<br>
+<i>Novel low abundance and transient RNAs in yeast revealed by tiling microarrays and ultra
+high-throughput sequencing are not conserved across closely related yeast species</i>.<br> 
 PLoS Genetics 2008, 4(12):e1000299.
 [DOI](http://dx.doi.org/10.1371/journal.pgen.1000299)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/19096707)
