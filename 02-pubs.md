@@ -21,13 +21,15 @@ Get the results of a PubMed search on my name (with a few hits added manually):
 Computational Biology
 ---------------------
 
-MJ Aryee, AE Jaffe, H Corrada-Bravo, C Ladd-Acosta, AP Feinberg, KD Hansen<sup>&dagger;</sup>, RA Irizarry<sup>&dagger;</sup>.<br>
+MJ Aryee, AE Jaffe, H Corrada-Bravo, C Ladd-Acosta, AP Feinberg, <b>KD Hansen</b><sup>&dagger;</sup>, RA Irizarry<sup>&dagger;</sup>.<br>
 <i>Minfi: A flexible and comprehensive Bioconductor package for the analysis of Infinium DNA Methylation microarrays.</i><br>
-Bioinformatics 2014. 
+Bioinformatics 2014. In Press.
+[DOI](http://dx.doi.org/10.1093/bioinformatics/btu049)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/24478339)
 
 AC Frazee, S Sabunciyan, <b>KD Hansen</b>, RA Irizarry, JT Leek<sup>&dagger;</sup>.<br>
 <i>Differential expression analysis of RNA-seq data at single-base resolution.</i><br>
-Biostatistics 2013.
+Biostatistics 2013. In Press.
 [DOI](http://dx.doi.org/10.1093/biostatistics/kxt053)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24398039)
 
@@ -39,13 +41,13 @@ F1000Research 2013, 2:264.
 <b>KD Hansen</b><sup>&lowast;</sup>, S Sabunciyan<sup>&lowast;</sup>, B Langmead, N Nagy, R Curley, G Klein, E Klein, D Salamon, AP Feinberg<sup>&dagger;</sup>.<br>
 <i>Large-scale hypomethylated blocks associated with Epstein-Barr virus-induced B-cell
 immortalization.</i><br>
-Genome Research 2013.
+Genome Research 2013. In Press.
 [DOI](http://dx.doi.org/10.1101/gr.157743.113)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24068705)<br>
 
 C Ladd-Acosta, <b>KD Hansen</b>, E Briem, MD Fallin, WE Kaufmann, AP Feinberg<sup>&dagger;</sup>.<br>
 <i>Common DNA methylation alterations in multiple brain regions in autism.</i><br>
-Molecular Psychiatry 2013.
+Molecular Psychiatry 2013. In Press.
 [DOI](http://dx.doi.org/10.1038/mp.2013.114)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/23999529)
 
