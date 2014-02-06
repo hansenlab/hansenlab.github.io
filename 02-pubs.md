@@ -33,15 +33,10 @@ Biostatistics 2013. In Press.
 [DOI](http://dx.doi.org/10.1093/biostatistics/kxt053)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24398039)
 
-ML Smith<sup>&dagger;</sup>, KA Baggerly, H Bengtsson, ME Ritchie, <b>KD Hansen</b><sup>&dagger;</sup>.<br>
-<i>illuminaio: An open source IDAT parsing tool for Illumina microarrays.</i><br>
-F1000Research 2013, 2:264.
-[DOI](http://dx.doi.org/10.12688/f1000research.2-264.v1)
-
 <b>KD Hansen</b><sup>&lowast;</sup>, S Sabunciyan<sup>&lowast;</sup>, B Langmead, N Nagy, R Curley, G Klein, E Klein, D Salamon, AP Feinberg<sup>&dagger;</sup>.<br>
 <i>Large-scale hypomethylated blocks associated with Epstein-Barr virus-induced B-cell
 immortalization.</i><br>
-Genome Research 2013. In Press.
+Genome Research 2014. 24(2).  177--184},
 [DOI](http://dx.doi.org/10.1101/gr.157743.113)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24068705)<br>
 
@@ -50,6 +45,11 @@ C Ladd-Acosta, <b>KD Hansen</b>, E Briem, MD Fallin, WE Kaufmann, AP Feinberg<su
 Molecular Psychiatry 2013. In Press.
 [DOI](http://dx.doi.org/10.1038/mp.2013.114)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/23999529)
+
+ML Smith<sup>&dagger;</sup>, KA Baggerly, H Bengtsson, ME Ritchie, <b>KD Hansen</b><sup>&dagger;</sup>.<br>
+<i>illuminaio: An open source IDAT parsing tool for Illumina microarrays.</i><br>
+F1000Research 2013, 2:264.
+[DOI](http://dx.doi.org/10.12688/f1000research.2-264.v1)
 
 <b>KD Hansen</b><sup>&lowast;,&dagger;</sup>, B Langmead<sup>&lowast;&dagger;</sup>, RA Irizarry<sup>&dagger;</sup>.<br>
 <i>BSmooth: from whole genome bisulfite sequencing reads to
