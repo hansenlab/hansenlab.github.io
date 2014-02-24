@@ -36,7 +36,7 @@ Biostatistics 2013. In Press.
 <b>KD Hansen</b><sup>&lowast;</sup>, S Sabunciyan<sup>&lowast;</sup>, B Langmead, N Nagy, R Curley, G Klein, E Klein, D Salamon, AP Feinberg<sup>&dagger;</sup>.<br>
 <i>Large-scale hypomethylated blocks associated with Epstein-Barr virus-induced B-cell
 immortalization.</i><br>
-Genome Research 2014. 24(2).  177--184},
+Genome Research 2014. 24(2).  177--184,
 [DOI](http://dx.doi.org/10.1101/gr.157743.113)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24068705)<br>
 
@@ -194,6 +194,11 @@ PLoS Genetics 2008, 4(12):e1000299.
 
 Computational Biology, Preprints
 --------------------------------
+
+JP Fortin, A Labbe, M Lemire, BW Zanke, TJ Hudson, EJ Fertig, CMT Greenwood and <b>KD Hansen</b><sup>&dagger;</sup>.<br>
+<i>Functional normalization of 450k methylation array data improves replication in large cancer studies.</i><br>
+bioRxiv, 2014
+[DOI](http://dx.doi.org/10.1101/002956)
 
 <b>KD Hansen</b>, RA Irizarry, and Z WU<sup>&dagger;</sup>.<br>
 <i>Removing technical variability in RNA-Seq data using conditional
