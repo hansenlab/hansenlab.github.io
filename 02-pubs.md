@@ -23,7 +23,7 @@ Computational Biology
 
 MJ Aryee, AE Jaffe, H Corrada-Bravo, C Ladd-Acosta, AP Feinberg, <b>KD Hansen</b><sup>&dagger;</sup>, RA Irizarry<sup>&dagger;</sup>.<br>
 <i>Minfi: A flexible and comprehensive Bioconductor package for the analysis of Infinium DNA Methylation microarrays.</i><br>
-Bioinformatics 2014, In Press.
+Bioinformatics 2014, 30(10):1363-1369.
 [DOI](http://dx.doi.org/10.1093/bioinformatics/btu049)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24478339)
 
@@ -37,7 +37,11 @@ C Ladd-Acosta, <b>KD Hansen</b>, E Briem, MD Fallin, WE Kaufmann, AP Feinberg<su
 <i>Common DNA methylation alterations in multiple brain regions in autism.</i><br>
 Molecular Psychiatry 2013. In Press.
 [DOI](http://dx.doi.org/10.1038/mp.2013.114)
-[PMID](http://www.ncbi.nlm.nih.gov/pubmed/23999529)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/23999529)<br>
+<font size=-1>
+&ensp;&ensp;Faculty of 1000 reviews [f1000](http://f1000.com/prime/718097865)<br>
+</font>
+
 
 <b>KD Hansen</b><sup>&lowast;</sup>, S Sabunciyan<sup>&lowast;</sup>, B Langmead, N Nagy, R Curley, G Klein, E Klein, D Salamon, AP Feinberg<sup>&dagger;</sup>.<br>
 <i>Large-scale hypomethylated blocks associated with Epstein-Barr virus-induced B-cell

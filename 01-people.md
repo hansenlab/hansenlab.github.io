@@ -13,7 +13,7 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)<br>
 &nbsp;&nbsp;&nbsp;Johns Hopkins University<br>
 <br>
-&nbsp;&nbsp;&nbsp;[Contact](contact.html)<br>
+&nbsp;&nbsp;&nbsp;[Contact](index.html) | [Bio](bio.html) | [CV](cv.pdf)<br>
 <br><br>
 
 <img alt = "Jean-Philippe Fortin" align="left" src="media/people/fortin.png" width=200 height=200/>
