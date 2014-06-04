@@ -23,7 +23,7 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Johns Hopkins University<br>
 <br>
 &nbsp;&nbsp;&nbsp;[Personal Webpage](http://jfortinbiostats.com)<br>
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 <img alt = "Kipper Fletez-Brant" align="left" src="media/people/kipper.jpg" width=200 height=200/>
 &nbsp;&nbsp;&nbsp;Kipper Fletez-Brant<br>
