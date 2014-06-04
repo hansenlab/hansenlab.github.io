@@ -9,13 +9,13 @@ permalink: "publications.html"
 Google Scholar Citations
 ------------------------
 
-View my Google Scholar Citations
-[profile](http://scholar.google.com/citations?user=8XOPyM4AAAAJ&hl=en) 
+View the Google Scholar Citations
+[profile](http://scholar.google.com/citations?user=8XOPyM4AAAAJ&hl=en) of Kasper D. Hansen
 
 Other sites
 -----------
 
-Get the results of a PubMed search on my name (with a few hits added manually):
+Get the results of a PubMed search on Kasper D. Hansen
 [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Hansen%2C+Kasper+D%5BAuthor%5D+or+Hansen%2C+Kasper+Daniel%5BAuthor%5D+or+17681996%5BPmid%5D+or+21177974%5BPmid%5D+or+23999529%5BPmid%5D)
 
 Computational Biology
