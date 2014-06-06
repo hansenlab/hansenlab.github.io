@@ -9,8 +9,7 @@ permalink: "software.html"
 Bioconductor
 ------------
 
-I am a contributor to the [Bioconductor](http://www.bioconductor.org)
-project.
+We contribute to the [Bioconductor](http://www.bioconductor.org) project.
 
 [affxparser](http://www.bioconductor.org/packages/release/bioc/html/affxparser.html): A package for
 parsing output files from Affymetrix microarrays using the [Fusion SDK](http://www.affymetrix.com/partners_programs/programs/developer/fusion/index.affx?terms=no).
@@ -41,7 +40,6 @@ package implementing a general backend for the bumphunter approach.
 |
 [build release](http://bioconductor.org/checkResults/release/bioc-LATEST/bumphunter)
 ]
-  
 
 [cqn](http://www.bioconductor.org/packages/release/bioc/html/cqn.html): A package for normalizing
 RNA-seq data using the CQN algorithm.

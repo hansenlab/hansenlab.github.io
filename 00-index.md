@@ -9,17 +9,19 @@ permalink: "index.html"
 Overview
 --------
 
-The Hansen lab is led by Kasper Daniel Hansen.  We are associated with the
+The Hansen lab is led by Kasper Daniel Hansen.
+
+The lab is associated with the
 [McKusick-Nathans Insitute of Genetic Medicine](http://www.hopkinsmedicine.org/geneticmedicine) and
-the [Department of Biostatistics](http://www.biostat.jhsph.edu) at Johns Hopkins University, and is
-part of the [Center for Computational Biology](http://ccb.jhu.edu).
+the [Department of Biostatistics](http://www.biostat.jhsph.edu) at Johns Hopkins University.  We are
+part of [Center for Computational Biology](http://ccb.jhu.edu).
 
 Research Interests
 ------------------
 
 We are a computational biology lab, interested in analysis of high-throughput experiments.  Areas of
 special interest are epigenetics (particular DNA methylation), gene expression, and biases in
-high-throughput technologies.  We are developing additional interests in metabolomics.
+high-throughput technologies.
 
 Contact
 -------
