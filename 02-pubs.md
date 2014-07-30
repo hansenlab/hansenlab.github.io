@@ -21,7 +21,7 @@ Get the results of a PubMed search on Kasper D. Hansen
 Computational Biology
 ---------------------
 
-JP Fortin<sup>&dagger;</sup>, EJ Fertig, KD Hansen<sup>&dagger;</sup>.<br>
+JP Fortin<sup>&dagger;</sup>, EJ Fertig, <b>KD Hansen</b><sup>&dagger;</sup>.<br>
 <i>shinyMethyl: interactive quality control of Illumina 450k DNA methylation arrays in R.</i><br>
 F1000Research 2014, 3:175.
 [DOI](http://dx.doi.org/10.12688/f1000research.4680.1)
