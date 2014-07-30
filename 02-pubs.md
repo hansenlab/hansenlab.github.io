@@ -21,6 +21,11 @@ Get the results of a PubMed search on Kasper D. Hansen
 Computational Biology
 ---------------------
 
+JP Fortin<sup>&dagger;</sup>, EJ Fertig, KD Hansen<sup>&dagger;</sup>.<br>
+<i>shinyMethyl: interactive quality control of Illumina 450k DNA methylation arrays in R.</i><br>
+F1000Research 2014, 3:175.
+[DOI](http://dx.doi.org/10.12688/f1000research.4680.1)
+
 MJ Aryee, AE Jaffe, H Corrada-Bravo, C Ladd-Acosta, AP Feinberg, <b>KD Hansen</b><sup>&dagger;</sup>, RA Irizarry<sup>&dagger;</sup>.<br>
 <i>Minfi: A flexible and comprehensive Bioconductor package for the analysis of Infinium DNA Methylation microarrays.</i><br>
 Bioinformatics 2014, 30(10):1363-1369.
@@ -29,19 +34,18 @@ Bioinformatics 2014, 30(10):1363-1369.
 
 AC Frazee, S Sabunciyan, <b>KD Hansen</b>, RA Irizarry, JT Leek<sup>&dagger;</sup>.<br>
 <i>Differential expression analysis of RNA-seq data at single-base resolution.</i><br>
-Biostatistics 2014, In Press.
+Biostatistics 2014, 15(3):413-426.
 [DOI](http://dx.doi.org/10.1093/biostatistics/kxt053)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24398039)
 
 C Ladd-Acosta, <b>KD Hansen</b>, E Briem, MD Fallin, WE Kaufmann, AP Feinberg<sup>&dagger;</sup>.<br>
 <i>Common DNA methylation alterations in multiple brain regions in autism.</i><br>
-Molecular Psychiatry 2013. In Press.
+Molecular Psychiatry 2014, 19(8):862-871.
 [DOI](http://dx.doi.org/10.1038/mp.2013.114)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/23999529)<br>
 <font size=-1>
 &ensp;&ensp;Faculty of 1000 reviews [f1000](http://f1000.com/prime/718097865)<br>
 </font>
-
 
 <b>KD Hansen</b><sup>&lowast;</sup>, S Sabunciyan<sup>&lowast;</sup>, B Langmead, N Nagy, R Curley, G Klein, E Klein, D Salamon, AP Feinberg<sup>&dagger;</sup>.<br>
 <i>Large-scale hypomethylated blocks associated with Epstein-Barr virus-induced B-cell
