@@ -141,6 +141,13 @@ Illumina array files, for test purposes.
 [build release](http://bioconductor.org/checkResults/release/data-experiment-LATEST/IlluminaDataTestFiles/)
 ]
 
+[shinyMethylData](http://bioconductor.org/packages/release/data/experiment/html/shinyMethylData.html):
+example summary data for the shinyMethyl package.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
+[build devel](http://bioconductor.org/checkResults/devel/data-experiment-LATEST/shinyMethylData/)
+]
+
+
 Annotation packages (Bioconductor)
 ----------------------------------
 
