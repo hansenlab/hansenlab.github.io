@@ -91,15 +91,20 @@ visualizing graphs using the [Graphviz](http://www.graphviz.org) toolkit.
 [build release](http://bioconductor.org/checkResults/release/bioc-LATEST/Rgraphviz)
 ]
 
+[shinyMethyl](http://www.bioconductor.org/packages/devel/bioc/html/shinyMethyl.html): A package for
+interactive visualization and quality control of 450k arrays, using
+[shiny](http://www.rstudio.com/shiny/).
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
+[download stats](http://bioconductor.org/packages/stats/bioc/shinyMethyl.html)
+| 
+[build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/shinyMethyl)
+]
+
 Non Bioconductor
 ----------------
 
 [Myrna](http://bowtie-bio.sourceforge.net/myrna/index.shtml): Cloud-scale differential expression
 for RNA-seq.
-
-[shinyMethyl](http://shinymethyl.com): Interactive visualization of 450k methylation data using
-Bioconductor and [shiny](http://www.rstudio.com/shiny/).
-
 
 Data packages (Bioconductor)
 ----------------------------
