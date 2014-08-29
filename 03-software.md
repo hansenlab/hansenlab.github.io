@@ -29,6 +29,8 @@ whole-genome bisulfite sequencing data.
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/bsseq)
 |
 [build release](http://bioconductor.org/checkResults/release/bioc-LATEST/bsseq)
+|
+[GitHub](https://github.com/kasperdanielhansen/bsseq)
 ]
 
 [bumphunter](http://www.bioconductor.org/packages/release/bioc/html/bumphunter.html}{bumphunter}): A
@@ -39,6 +41,8 @@ package implementing a general backend for the bumphunter approach.
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/bumphunter)
 |
 [build release](http://bioconductor.org/checkResults/release/bioc-LATEST/bumphunter)
+|
+[GitHub](https://github.com/ririzarr/bumphunter)
 ]
 
 [cqn](http://www.bioconductor.org/packages/release/bioc/html/cqn.html): A package for normalizing
@@ -79,6 +83,8 @@ Illumina's 450k methylation microarray.
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/minfi)
 |
 [build release](http://bioconductor.org/checkResults/release/bioc-LATEST/minfi)
+|
+[GitHub](https://github.com/kasperdanielhansen/minfi)
 ]
 
 [Rgraphviz](http://www.bioconductor.org/packages/release/bioc/html/Rgraphviz.html): A package for
@@ -89,6 +95,8 @@ visualizing graphs using the [Graphviz](http://www.graphviz.org) toolkit.
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/Rgraphviz)
 |
 [build release](http://bioconductor.org/checkResults/release/bioc-LATEST/Rgraphviz)
+|
+[GitHub](https://github.com/kasperdanielhansen/Rgraphviz)
 ]
 
 [shinyMethyl](http://www.bioconductor.org/packages/devel/bioc/html/shinyMethyl.html): A package for
@@ -98,6 +106,8 @@ interactive visualization and quality control of 450k arrays, using
 [download stats](http://bioconductor.org/packages/stats/bioc/shinyMethyl.html)
 | 
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/shinyMethyl)
+|
+[GitHub](https://github.com/Jfortin1/shinyMethyl)
 ]
 
 Non Bioconductor

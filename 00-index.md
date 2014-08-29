@@ -33,7 +33,7 @@ Contact
 <p>
 Offices:<br>
 &nbsp;&nbsp;&nbsp;Biostatistics: 3648 Bloomberg School of Public Health<br>
-&nbsp;&nbsp;&nbsp;IGM: 453 Miller Research Building
+&nbsp;&nbsp;&nbsp;IGM: 111 Welch Library
 </p>
 
 <p>
