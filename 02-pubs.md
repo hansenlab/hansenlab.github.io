@@ -11,7 +11,7 @@ Publication Repositories
 
 [Google Scholar Citations](http://scholar.google.com/citations?user=8XOPyM4AAAAJ&hl=en) |
 [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Hansen%2C+Kasper+D%5BAuthor%5D+or+Hansen%2C+Kasper+Daniel%5BAuthor%5D+or+17681996%5BPmid%5D+or+21177974%5BPmid%5D+or+23999529%5BPmid%5D) | 
-[ORCID](http://http://orcid.org/0000-0003-0086-0687): 0000-0003-0086-0687
+[ORCID](http://orcid.org/0000-0003-0086-0687): 0000-0003-0086-0687
 
 Computational Biology
 ---------------------
