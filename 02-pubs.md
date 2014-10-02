@@ -18,7 +18,7 @@ Computational Biology
 
 HT Bjornsson<sup>&lowast;,&dagger;</sup>, JS Benjamin<sup>&lowast;</sup>, L Zhang, J Weissman, EE Gerber, YC Chen, RG Vaurio, MC Potter, <b>KD Hansen</b>, HC Dietz.<br>
 <i>Histone deacetylase inhibition rescues structural and functional brain deficits in a mouse model of Kabuki syndrome.</i><br>
-Science Translational Medicine 2014, 6(256):256ra135-256ra135.
+Science Translational Medicine 2014, 6(256):256ra135.
 [DOI](http://dx.doi.org/10.1126/scitranslmed.3009278)
 
 JP Fortin<sup>&dagger;</sup>, EJ Fertig, <b>KD Hansen</b><sup>&dagger;</sup>.<br>
