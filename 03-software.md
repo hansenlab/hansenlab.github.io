@@ -19,6 +19,8 @@ parsing output files from Affymetrix microarrays using the [Fusion SDK](http://w
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/affxparser)
 |
 [build release](http://bioconductor.org/checkResults/release/bioc-LATEST/affxparser)
+|
+[GitHub](https://github.com/HenrikBengtsson/affxparser.git)
 ]
 
 [bsseq](http://www.bioconductor.org/packages/release/bioc/html/bsseq.html): A package for analyzing
@@ -73,6 +75,9 @@ for parsing output for Illumina microarrays.
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/illuminaio)
 |
 [build release](http://bioconductor.org/checkResults/release/bioc-LATEST/illuminaio)
+|
+[GitHub](https://github.com/HenrikBengtsson/illuminaio)
+
 ]
 
 [minfi](http://www.bioconductor.org/packages/release/bioc/html/minfi.html): A package for analysing
