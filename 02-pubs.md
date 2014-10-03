@@ -20,6 +20,7 @@ HT Bjornsson<sup>&lowast;,&dagger;</sup>, JS Benjamin<sup>&lowast;</sup>, L Zhan
 <i>Histone deacetylase inhibition rescues structural and functional brain deficits in a mouse model of Kabuki syndrome.</i><br>
 Science Translational Medicine 2014, 6(256):256ra135.
 [DOI](http://dx.doi.org/10.1126/scitranslmed.3009278)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/25273096)
 
 JP Fortin<sup>&dagger;</sup>, EJ Fertig, <b>KD Hansen</b><sup>&dagger;</sup>.<br>
 <i>shinyMethyl: interactive quality control of Illumina 450k DNA methylation arrays in R.</i><br>
