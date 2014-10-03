@@ -77,7 +77,6 @@ for parsing output for Illumina microarrays.
 [build release](http://bioconductor.org/checkResults/release/bioc-LATEST/illuminaio)
 |
 [GitHub](https://github.com/HenrikBengtsson/illuminaio)
-
 ]
 
 [minfi](http://www.bioconductor.org/packages/release/bioc/html/minfi.html): A package for analysing
