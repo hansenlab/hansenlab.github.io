@@ -10,7 +10,7 @@ Publication Repositories
 ------------------------
 
 [Google Scholar Citations](http://scholar.google.com/citations?user=8XOPyM4AAAAJ&hl=en) |
-[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Hansen%2C+Kasper+D%5BAuthor%5D+or+Hansen%2C+Kasper+Daniel%5BAuthor%5D+or+17681996%5BPmid%5D+or+21177974%5BPmid%5D+or+23999529%5BPmid%5D) | 
+[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Hansen%2C+Kasper+D%5BAuthor%5D+or+Hansen%2C+Kasper+Daniel%5BAuthor%5D+or+17681996%5BPmid%5D+or+21177974%5BPmid%5D+or+23999529%5BPmid%5D+or+25285208%5BPmid%5D) | 
 [ORCID](http://orcid.org/0000-0003-0086-0687): 0000-0003-0086-0687
 
 Computational Biology
@@ -26,6 +26,7 @@ JP Fortin<sup>&dagger;</sup>, EJ Fertig, <b>KD Hansen</b><sup>&dagger;</sup>.<br
 <i>shinyMethyl: interactive quality control of Illumina 450k DNA methylation arrays in R.</i><br>
 F1000Research 2014, 3:175.
 [DOI](http://dx.doi.org/10.12688/f1000research.4680.2)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/25285208)
 
 MJ Aryee, AE Jaffe, H Corrada-Bravo, C Ladd-Acosta, AP Feinberg, <b>KD Hansen</b><sup>&dagger;</sup>, RA Irizarry<sup>&dagger;</sup>.<br>
 <i>Minfi: A flexible and comprehensive Bioconductor package for the analysis of Infinium DNA Methylation microarrays.</i><br>
