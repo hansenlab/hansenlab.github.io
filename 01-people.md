@@ -34,5 +34,14 @@ permalink: "people.html"
 <br>
 <br><br><br><br>
 
+<img alt = "Leslie Myint" align="left" src="media/people/myint.jpg" width=200 height=200/>
+&nbsp;&nbsp;&nbsp;Leslie Myint<br>
+&nbsp;&nbsp;&nbsp;Graduate Student in Biostatistics<br>
+&nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)<br>
+&nbsp;&nbsp;&nbsp;Johns Hopkins University<br>
+<br>
+<br>
+<br><br><br><br>
+
 
 
