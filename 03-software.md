@@ -103,13 +103,15 @@ visualizing graphs using the [Graphviz](http://www.graphviz.org) toolkit.
 [GitHub](https://github.com/kasperdanielhansen/Rgraphviz)
 ]
 
-[shinyMethyl](http://www.bioconductor.org/packages/devel/bioc/html/shinyMethyl.html): A package for
+[shinyMethyl](http://www.bioconductor.org/packages/release/bioc/html/shinyMethyl.html): A package for
 interactive visualization and quality control of 450k arrays, using
 [shiny](http://www.rstudio.com/shiny/).
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
 [download stats](http://bioconductor.org/packages/stats/bioc/shinyMethyl.html)
 | 
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/shinyMethyl)
+|
+[build release](http://bioconductor.org/checkResults/release/bioc-LATEST/shinyMethyl)
 |
 [GitHub](https://github.com/Jfortin1/shinyMethyl)
 ]
@@ -159,6 +161,8 @@ Illumina array files, for test purposes.
 example summary data for the shinyMethyl package.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
 [build devel](http://bioconductor.org/checkResults/devel/data-experiment-LATEST/shinyMethylData/)
+|
+[build devel](http://bioconductor.org/checkResults/release/data-experiment-LATEST/shinyMethylData/)
 ]
 
 
