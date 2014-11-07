@@ -6,6 +6,8 @@ permalink: "publications.html"
 ---
 {% include JB/setup %}
 
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
 Publication Repositories
 ------------------------
 
@@ -20,6 +22,7 @@ MJ Ziller, KD Hansen, A Meissner<sup>&dagger;</sup>, MJ Aryee<sup>&dagger;</sup>
 <i>Coverage recommendations for methylation analysis by whole-genome bisulfite sequencing.</i><br>
 Nature Methods 2014.
 [DOI](http://dx.doi.org/10.1038/nmeth.3152)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/25362363)
 
 HT Bjornsson<sup>&lowast;,&dagger;</sup>, JS Benjamin<sup>&lowast;</sup>, L Zhang, J Weissman, EE Gerber, YC Chen, RG Vaurio, MC Potter, <b>KD Hansen</b>, HC Dietz.<br>
 <i>Histone deacetylase inhibition rescues structural and functional brain deficits in a mouse model of Kabuki syndrome.</i><br>
@@ -32,6 +35,7 @@ JP Fortin<sup>&dagger;</sup>, EJ Fertig, <b>KD Hansen</b><sup>&dagger;</sup>.<br
 F1000Research 2014, 3:175.
 [DOI](http://dx.doi.org/10.12688/f1000research.4680.2)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25285208)
+<div data-badge-type="4" data-doi="10.12688/f1000research.4680.2" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 MJ Aryee, AE Jaffe, H Corrada-Bravo, C Ladd-Acosta, AP Feinberg, <b>KD Hansen</b><sup>&dagger;</sup>, RA Irizarry<sup>&dagger;</sup>.<br>
 <i>Minfi: A flexible and comprehensive Bioconductor package for the analysis of Infinium DNA Methylation microarrays.</i><br>
