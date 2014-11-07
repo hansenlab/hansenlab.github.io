@@ -35,8 +35,7 @@ JP Fortin<sup>&dagger;</sup>, EJ Fertig, <b>KD Hansen</b><sup>&dagger;</sup>.<br
 <i>shinyMethyl: interactive quality control of Illumina 450k DNA methylation arrays in R.</i><br>
 F1000Research 2014, 3:175.
 [DOI](http://dx.doi.org/10.12688/f1000research.4680.2)
-[PMID](http://www.ncbi.nlm.nih.gov/pubmed/25285208)
-<div id="badge" data-badge-type="4" data-doi="10.12688/f1000research.4680.2" data-hide-no-mentions="true" class="altmetric-embed"></div>
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/25285208) <div id="badge" data-badge-type="4" data-doi="10.12688/f1000research.4680.2" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 #badge{ display:inline }
 
