@@ -23,14 +23,14 @@ MJ Ziller, KD Hansen, A Meissner<sup>&dagger;</sup>, MJ Aryee<sup>&dagger;</sup>
 Nature Methods 2014.<br>
 [DOI](http://dx.doi.org/10.1038/nmeth.3152)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25362363)
-<span data-badge-type="4" data-doi="10.12688/f1000research.4680.2" data-hide-no-mentions="true" class="altmetric-embed"></span>
+<span data-badge-type="4" data-doi="10.1038/nmeth.3152"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 HT Bjornsson<sup>&lowast;,&dagger;</sup>, JS Benjamin<sup>&lowast;</sup>, L Zhang, J Weissman, EE Gerber, YC Chen, RG Vaurio, MC Potter, <b>KD Hansen</b>, HC Dietz.<br>
 <i>Histone deacetylase inhibition rescues structural and functional brain deficits in a mouse model of Kabuki syndrome.</i><br>
 Science Translational Medicine 2014, 6(256):256ra135.<br>
 [DOI](http://dx.doi.org/10.1126/scitranslmed.3009278)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25273096)
-<span data-badge-type="4" data-doi="10.12688/f1000research.4680.2" data-hide-no-mentions="true" class="altmetric-embed"></span>
+<span data-badge-type="4" data-doi="10.1126/scitranslmed.3009278" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 JP Fortin<sup>&dagger;</sup>, EJ Fertig, <b>KD Hansen</b><sup>&dagger;</sup>.<br>
 <i>shinyMethyl: interactive quality control of Illumina 450k DNA methylation arrays in R.</i><br>
@@ -44,21 +44,21 @@ MJ Aryee, AE Jaffe, H Corrada-Bravo, C Ladd-Acosta, AP Feinberg, <b>KD Hansen</b
 Bioinformatics 2014, 30(10):1363-1369.<br>
 [DOI](http://dx.doi.org/10.1093/bioinformatics/btu049)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24478339)
-<span data-badge-type="4" data-doi="10.12688/f1000research.4680.2" data-hide-no-mentions="true" class="altmetric-embed"></span>
+<span data-badge-type="4" data-doi="10.1093/bioinformatics/btu049" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 AC Frazee, S Sabunciyan, <b>KD Hansen</b>, RA Irizarry, JT Leek<sup>&dagger;</sup>.<br>
 <i>Differential expression analysis of RNA-seq data at single-base resolution.</i><br>
 Biostatistics 2014, 15(3):413-426.<br>
 [DOI](http://dx.doi.org/10.1093/biostatistics/kxt053)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24398039)
-<span data-badge-type="4" data-doi="10.12688/f1000research.4680.2" data-hide-no-mentions="true" class="altmetric-embed"></span>
+<span data-badge-type="4" data-doi="10.1093/biostatistics/kxt053" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 C Ladd-Acosta, <b>KD Hansen</b>, E Briem, MD Fallin, WE Kaufmann, AP Feinberg<sup>&dagger;</sup>.<br>
 <i>Common DNA methylation alterations in multiple brain regions in autism.</i><br>
 Molecular Psychiatry 2014, 19(8):862-871.<br>
 [DOI](http://dx.doi.org/10.1038/mp.2013.114)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/23999529)
-<span data-badge-type="4" data-doi="10.12688/f1000research.4680.2" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
+<span data-badge-type="4" data-doi="10.1038/mp.2013.114" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
 <font size=-1>
 &ensp;&ensp;Faculty of 1000 reviews [f1000](http://f1000.com/prime/718097865)<br>
 </font>
@@ -68,7 +68,7 @@ Molecular Psychiatry 2014, 19(8):862-871.<br>
 immortalization.</i><br>
 Genome Research 2014, 24(2):177-184.<br>
 [DOI](http://dx.doi.org/10.1101/gr.157743.113)
-[PMID](http://www.ncbi.nlm.nih.gov/pubmed/24068705)<br>
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/24068705)
 <span data-badge-type="4" data-doi="10.12688/f1000research.4680.2" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 ML Smith<sup>&dagger;</sup>, KA Baggerly, H Bengtsson, ME Ritchie, <b>KD Hansen</b><sup>&dagger;</sup>.<br>
@@ -151,6 +151,7 @@ Nature Genetics 2011, 43:768-775.<br>
 [DOI](http://dx.doi.org/10.1038/ng.865)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/21706001)
 <span data-badge-type="4" data-doi="10.12688/f1000research.4680.2" data-hide-no-mentions="true" class="altmetric-embed"></span>
+<br>
 <font size=-1>
 &ensp;&ensp;Faculty of 1000 reviews [f1000](http://f1000.com/11598956)<br>
 &ensp;&ensp;Comment by JP Issa in Nat Genet, <i>Epigenetic variation and cellular Darwinism</i>.
