@@ -8,6 +8,7 @@ permalink: "publications.html"
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+
 Publication Repositories
 ------------------------
 
@@ -35,7 +36,9 @@ JP Fortin<sup>&dagger;</sup>, EJ Fertig, <b>KD Hansen</b><sup>&dagger;</sup>.<br
 F1000Research 2014, 3:175.
 [DOI](http://dx.doi.org/10.12688/f1000research.4680.2)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25285208)
-<div data-badge-type="4" data-doi="10.12688/f1000research.4680.2" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div id="badge" data-badge-type="4" data-doi="10.12688/f1000research.4680.2" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+#badge{ display:inline }
 
 MJ Aryee, AE Jaffe, H Corrada-Bravo, C Ladd-Acosta, AP Feinberg, <b>KD Hansen</b><sup>&dagger;</sup>, RA Irizarry<sup>&dagger;</sup>.<br>
 <i>Minfi: A flexible and comprehensive Bioconductor package for the analysis of Infinium DNA Methylation microarrays.</i><br>
