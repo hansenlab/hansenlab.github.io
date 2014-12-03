@@ -18,9 +18,14 @@ Publication Repositories
 Computational Biology
 ---------------------
 
-MJ Ziller, KD Hansen, A Meissner<sup>&dagger;</sup>, MJ Aryee<sup>&dagger;</sup>.<br>
+JP Fortin, A Labbe, M Lemire, BW Zanke, TJ Hudson, EJ Fertig, CMT Greenwood and <b>KD Hansen</b><sup>&dagger;</sup>.<br>
+<i>Functional normalization of 450k methylation array data improves replication in large cancer studies.</i><br>
+Genome Biology 2014, 15:503.<br>
+[DOI](http://dx.doi.org/10.1186/s13059-014-0503-2)
+
+MJ Ziller, <b>KD Hansen</b>, A Meissner<sup>&dagger;</sup>, MJ Aryee<sup>&dagger;</sup>.<br>
 <i>Coverage recommendations for methylation analysis by whole-genome bisulfite sequencing.</i><br>
-Nature Methods 2014.<br>
+Nature Methods 2014, in press.<br>
 [DOI](http://dx.doi.org/10.1038/nmeth.3152)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25362363)
 <span data-badge-type="4" data-doi="10.1038/nmeth.3152"" data-hide-no-mentions="true" class="altmetric-embed"></span>
