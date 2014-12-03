@@ -18,7 +18,7 @@ Publication Repositories
 Computational Biology
 ---------------------
 
-JP Fortin, A Labbe, M Lemire, BW Zanke, TJ Hudson, EJ Fertig, CMT Greenwood and <b>KD Hansen</b><sup>&dagger;</sup>.<br>
+<b>JP Fortin</b>, A Labbe, M Lemire, BW Zanke, TJ Hudson, EJ Fertig, CMT Greenwood and <b>KD Hansen</b><sup>&dagger;</sup>.<br>
 <i>Functional normalization of 450k methylation array data improves replication in large cancer studies.</i><br>
 Genome Biology 2014, 15:503.<br>
 [DOI](http://dx.doi.org/10.1186/s13059-014-0503-2)
@@ -37,7 +37,7 @@ Science Translational Medicine 2014, 6(256):256ra135.<br>
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25273096)
 <span data-badge-type="4" data-doi="10.1126/scitranslmed.3009278" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
-JP Fortin<sup>&dagger;</sup>, EJ Fertig, <b>KD Hansen</b><sup>&dagger;</sup>.<br>
+<b>JP Fortin</b><sup>&dagger;</sup>, EJ Fertig, <b>KD Hansen</b><sup>&dagger;</sup>.<br>
 <i>shinyMethyl: interactive quality control of Illumina 450k DNA methylation arrays in R.</i><br>
 F1000Research 2014, 3:175.<br>
 [DOI](http://dx.doi.org/10.12688/f1000research.4680.2)
@@ -247,7 +247,7 @@ PLoS Genetics 2008, 4(12):e1000299.<br>
 Computational Biology, Preprints
 --------------------------------
 
-JP Fortin, A Labbe, M Lemire, BW Zanke, TJ Hudson, EJ Fertig, CMT Greenwood and <b>KD Hansen</b><sup>&dagger;</sup>.<br>
+<b>JP Fortin</b>, A Labbe, M Lemire, BW Zanke, TJ Hudson, EJ Fertig, CMT Greenwood and <b>KD Hansen</b><sup>&dagger;</sup>.<br>
 <i>Functional normalization of 450k methylation array data improves replication in large cancer studies.</i><br>
 bioRxiv, 2014.<br>
 [DOI](http://dx.doi.org/10.1101/002956)
