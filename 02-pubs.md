@@ -23,6 +23,7 @@ Computational Biology
 Genome Biology 2014, 15:503.<br>
 [DOI](http://dx.doi.org/10.1186/s13059-014-0503-2)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25517394)
+<span data-badge-type="4" data-doi="10.1186/s13059-014-0503-2"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 MJ Ziller, <b>KD Hansen</b>, A Meissner<sup>&dagger;</sup>, MJ Aryee<sup>&dagger;</sup>.<br>
 <i>Coverage recommendations for methylation analysis by whole-genome bisulfite sequencing.</i><br>
