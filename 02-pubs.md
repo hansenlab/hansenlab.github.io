@@ -22,6 +22,7 @@ Computational Biology
 <i>Functional normalization of 450k methylation array data improves replication in large cancer studies.</i><br>
 Genome Biology 2014, 15:503.<br>
 [DOI](http://dx.doi.org/10.1186/s13059-014-0503-2)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/25517394)
 
 MJ Ziller, <b>KD Hansen</b>, A Meissner<sup>&dagger;</sup>, MJ Aryee<sup>&dagger;</sup>.<br>
 <i>Coverage recommendations for methylation analysis by whole-genome bisulfite sequencing.</i><br>
@@ -131,8 +132,7 @@ PNAS 2012, 109(17):6490-6495.<br>
 S Munshaw, HS Hwang, M Torbenson, J Quinn, <b>KD Hansen</b>, J
 Astemborski, SH Mehta, SC Ray, DL Thomas, A Balagopal<sup>&dagger;</sup>.<br>
 <i>Laser captured hepatocytes show association of association of butyrylcholinesterase gene loss and
-fibrosis progression<br>
-&ensp;in hepatitis C infected drug users.</i><br>
+fibrosis progression in hepatitis C infected drug users.</i><br>
 Hepatology 2012, 56(2):544-554.<br>
 [DOI](http://dx.doi.org/10.1002/hep.25655)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22331678)
