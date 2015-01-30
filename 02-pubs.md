@@ -18,6 +18,14 @@ Publication Repositories
 Computational Biology
 ---------------------
 
+W Huber<sup>&dagger;</sup>, VJ Carey, R Gentleman, S Anders, M Carlson, BS Carvalho, H
+Corrada-Bravo, S Davis, L Gatto, T Girke, R Gottardo, Florian Hahne, <b>KD Hansen</b>, RA Irizarry,
+M Lawrence, MI Love, J MacDonald, V Obenchain, AK Oleś, H Pagès, A Reyes, P Shannon, GK Smyth, D
+Tenenbaum, L Waldron, and M Morgan.<br>
+<i>Orchestrating high-throughput genomic analysis with Bioconductor.</i><br>
+Nature Methods 2015, 12(2):115-121.<br>
+[DOI](http://dx.doi.org/10.1038/nmeth.3252)
+
 <b>JP Fortin</b>, A Labbe, M Lemire, BW Zanke, TJ Hudson, EJ Fertig, CMT Greenwood and <b>KD Hansen</b><sup>&dagger;</sup>.<br>
 <i>Functional normalization of 450k methylation array data improves replication in large cancer studies.</i><br>
 Genome Biology 2014, 15:503.<br>
