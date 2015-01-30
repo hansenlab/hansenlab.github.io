@@ -25,6 +25,7 @@ Tenenbaum, L Waldron, and M Morgan.<br>
 <i>Orchestrating high-throughput genomic analysis with Bioconductor.</i><br>
 Nature Methods 2015, 12(2):115-121.<br>
 [DOI](http://dx.doi.org/10.1038/nmeth.3252)
+<span data-badge-type="4" data-doi="10.1038/nmeth.3252"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 <b>JP Fortin</b>, A Labbe, M Lemire, BW Zanke, TJ Hudson, EJ Fertig, CMT Greenwood and <b>KD Hansen</b><sup>&dagger;</sup>.<br>
 <i>Functional normalization of 450k methylation array data improves replication in large cancer studies.</i><br>
