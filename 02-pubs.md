@@ -18,6 +18,12 @@ Publication Repositories
 Computational Biology
 ---------------------
 
+X Hong<sup>&lowast;</sup>, K Hao<sup>&lowast;</sup>, Ladd-C Acosta<sup>&lowast;</sup>, <b>KD Hansen</b>, Tsai X, HJ Liu, X Xu, TA Thornton, D Caruso, CA Keet, Y Sun, G Wang, W Luo, R Kumar, R Fuleihan, AM Singh, Kim RE, JS Story, RS Gupta, P Gao, Z Chen, SO Walker, TR Bartell, TH Beaty, MD Fallin, R Schleimer, PG Holt, Nadeau KC, RA Wood, JA Pongracic, DE  Weeks, and X Wang.<br>
+<i>Genome-wide association study identifies peanut allergy-specific loci and evidence of epigenetic mediation in US children.</i><br>
+Nature Communications 2015, 6:6304.<br>
+[DOI](http://dx.doi.org/10.1038/ncomms7304)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/25710614)
+
 W Huber<sup>&dagger;</sup>, VJ Carey, R Gentleman, S Anders, M Carlson, BS Carvalho, H
 Corrada-Bravo, S Davis, L Gatto, T Girke, R Gottardo, Florian Hahne, <b>KD Hansen</b>, RA Irizarry,
 M Lawrence, MI Love, J MacDonald, V Obenchain, AK Oleś, H Pagès, A Reyes, P Shannon, GK Smyth, D
