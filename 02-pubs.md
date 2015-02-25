@@ -23,6 +23,7 @@ X Hong<sup>&lowast;</sup>, K Hao<sup>&lowast;</sup>, Ladd-C Acosta<sup>&lowast;<
 Nature Communications 2015, 6:6304.<br>
 [DOI](http://dx.doi.org/10.1038/ncomms7304)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25710614)
+<span data-badge-type="4" data-doi="10.1038/ncomms7304"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 W Huber<sup>&dagger;</sup>, VJ Carey, R Gentleman, S Anders, M Carlson, BS Carvalho, H
 Corrada-Bravo, S Davis, L Gatto, T Girke, R Gottardo, Florian Hahne, <b>KD Hansen</b>, RA Irizarry,
