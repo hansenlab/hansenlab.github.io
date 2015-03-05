@@ -15,10 +15,18 @@ Publication Repositories
 [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Hansen%2C+Kasper+D%5BAuthor%5D+or+Hansen%2C+Kasper+Daniel%5BAuthor%5D+or+17681996%5BPmid%5D+or+21177974%5BPmid%5D+or+23999529%5BPmid%5D+or+25285208%5BPmid%5D) | 
 [ORCID](http://orcid.org/0000-0003-0086-0687): 0000-0003-0086-0687
 
+Unpublished Preprints
+---------------------
+
+A Pacis, L Tailleux, J Lambourne, V Yotova, A Dumaine, A Danckaert, F Luca, JC Grenier, <b>KD Hansen</b>, B Gicquel, M Yu, A Pai, J Tung, C He, T Pastinen, R Pique-Regi, Y Gilad<sup>&dagger;</sup> and L Barreiro<sup>&dagger;</sup>.<br>
+<i>Bacterial Infection Remodels the DNA Methylation Landscape of Human Dendritic Cells.</i><br>
+bioRxiv, 2015.
+[DOI](http://dx.doi.org/10.1101/016022)
+
 Computational Biology
 ---------------------
 
-X Hong<sup>&lowast;</sup>, K Hao<sup>&lowast;</sup>, Ladd-C Acosta<sup>&lowast;</sup>, <b>KD Hansen</b>, Tsai X, HJ Liu, X Xu, TA Thornton, D Caruso, CA Keet, Y Sun, G Wang, W Luo, R Kumar, R Fuleihan, AM Singh, Kim RE, JS Story, RS Gupta, P Gao, Z Chen, SO Walker, TR Bartell, TH Beaty, MD Fallin, R Schleimer, PG Holt, Nadeau KC, RA Wood, JA Pongracic, DE  Weeks, and X Wang.<br>
+X Hong<sup>&lowast;</sup>, K Hao<sup>&lowast;</sup>, Ladd-C Acosta<sup>&lowast;</sup>, <b>KD Hansen</b>, Tsai X, HJ Liu, X Xu, TA Thornton, D Caruso, CA Keet, Y Sun, G Wang, W Luo, R Kumar, R Fuleihan, AM Singh, Kim RE, JS Story, RS Gupta, P Gao, Z Chen, SO Walker, TR Bartell, TH Beaty, MD Fallin, R Schleimer, PG Holt, Nadeau KC, RA Wood, JA Pongracic, DE  Weeks, and X Wang<sup>&dagger;</sup>.<br>
 <i>Genome-wide association study identifies peanut allergy-specific loci and evidence of epigenetic mediation in US children.</i><br>
 Nature Communications 2015, 6:6304.<br>
 [DOI](http://dx.doi.org/10.1038/ncomms7304)
@@ -269,6 +277,7 @@ Computational Biology, Preprints
 <i>Functional normalization of 450k methylation array data improves replication in large cancer studies.</i><br>
 bioRxiv, 2014.<br>
 [DOI](http://dx.doi.org/10.1101/002956)
+<br>Published in Genome Biology 2014.
 
 <b>KD Hansen</b>, RA Irizarry, and Z WU<sup>&dagger;</sup>.<br>
 <i>Removing technical variability in RNA-Seq data using conditional
@@ -276,6 +285,8 @@ quantile normalization.</i><br>
 Johns Hopkins University, Dept. of Biostatistics Working
 Papers. Working Paper 227.<br>
 [PREPRINT](http://www.bepress.com/jhubiostat/paper227)
+<br>Published in Biostatistics 2012.
+
 
 JH Bullard<sup>&lowast;</sup>, EA Purdom<sup>&lowast;</sup>, <b>KD Hansen</b>, S Durinck, and
 S Dudoit.<br>
@@ -283,6 +294,7 @@ S Dudoit.<br>
 Differential Expression.</i><br>
 Working Paper 247, U.C. Berkeley, Division of Biostatistics, 2009.<br>
 [URL](http://www.bepress.com/ucbbiostat/paper247/)
+<br>Published in BMC Bioinformatics 2010.
 
 H Bengtsson<sup>&dagger;</sup>, K Simpson, J Bullard, and <b>KD Hansen</b>.<br>
 <i>aroma.affymetrix: A generic framework in R for analyzing small to
