@@ -270,8 +270,8 @@ PLoS Genetics 2008, 4(12):e1000299.<br>
 <span data-badge-type="4" data-doi="10.1371/journal.pgen.1000299" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 
-Computational Biology, Preprints
---------------------------------
+Published Preprints
+-------------------
 
 <b>JP Fortin</b>, A Labbe, M Lemire, BW Zanke, TJ Hudson, EJ Fertig, CMT Greenwood and <b>KD Hansen</b><sup>&dagger;</sup>.<br>
 <i>Functional normalization of 450k methylation array data improves replication in large cancer studies.</i><br>
@@ -286,7 +286,6 @@ Johns Hopkins University, Dept. of Biostatistics Working
 Papers. Working Paper 227.<br>
 [PREPRINT](http://www.bepress.com/jhubiostat/paper227)
 <br>Published in Biostatistics 2012.
-
 
 JH Bullard<sup>&lowast;</sup>, EA Purdom<sup>&lowast;</sup>, <b>KD Hansen</b>, S Durinck, and
 S Dudoit.<br>
