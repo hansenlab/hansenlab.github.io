@@ -9,8 +9,6 @@ permalink: "index.html"
 Overview
 --------
 
-TEST
-
 The Hansen lab is led by Kasper Daniel Hansen.
 
 The lab is associated with the
