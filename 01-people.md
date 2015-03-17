@@ -13,10 +13,9 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)<br>
 &nbsp;&nbsp;&nbsp;Johns Hopkins University<br>
 <br>
-&nbsp;&nbsp;&nbsp;[Contact](index.html) | [CV](files/hansen_cv.pdf)<br>
-&nbsp;&nbsp;&nbsp;
-Twitter: [@KasperDHansen](https://twitter.com/KasperDHansen) |
+&nbsp;&nbsp;&nbsp;Twitter: [@KasperDHansen](https://twitter.com/KasperDHansen) |
 GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)<br>
+&nbsp;&nbsp;&nbsp;[Contact](index.html) | [CV](files/hansen_cv.pdf)<br>
 <br>
 
 <img alt = "Jean-Philippe Fortin" align="left" src="media/people/fortin.png" width=200 height=200/>
@@ -25,8 +24,10 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)<br>
 &nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)<br>
 &nbsp;&nbsp;&nbsp;Johns Hopkins University<br>
 <br>
+&nbsp;&nbsp;&nbsp;Twitter: [@JayPykw](https://twitter.com/JayPykw) |
+GitHub: [Jfortin1](https://github.com/Jfortin1)<br>
 &nbsp;&nbsp;&nbsp;[Personal Webpage](http://jfortinbiostats.com)<br>
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <img alt = "Kipper Fletez-Brant" align="left" src="media/people/kipper.jpg" width=200 height=200/>
 &nbsp;&nbsp;&nbsp;Kipper Fletez-Brant<br>
