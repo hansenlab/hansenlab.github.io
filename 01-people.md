@@ -14,7 +14,10 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Johns Hopkins University<br>
 <br>
 &nbsp;&nbsp;&nbsp;[Contact](index.html) | [CV](files/hansen_cv.pdf)<br>
-<br><br>
+&nbsp;&nbsp;&nbsp;
+Twitter: [@KasperDHansen](https://twitter.com/KasperDHansen) |
+GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)<br>
+<br>
 
 <img alt = "Jean-Philippe Fortin" align="left" src="media/people/fortin.png" width=200 height=200/>
 &nbsp;&nbsp;&nbsp;Jean-Philippe Fortin<br>
