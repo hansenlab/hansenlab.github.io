@@ -33,6 +33,13 @@ Nature Communications 2015, 6:6304.<br>
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25710614)
 <span data-badge-type="4" data-doi="10.1038/ncomms7304"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
+MJ Ziller, <b>KD Hansen</b>, A Meissner<sup>&dagger;</sup>, MJ Aryee<sup>&dagger;</sup>.<br>
+<i>Coverage recommendations for methylation analysis by whole-genome bisulfite sequencing.</i><br>
+Nature Methods 2015, 12(3):230-232.<br>
+[DOI](http://dx.doi.org/10.1038/nmeth.3152)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/25362363)
+<span data-badge-type="4" data-doi="10.1038/nmeth.3152"" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 W Huber<sup>&dagger;</sup>, VJ Carey, R Gentleman, S Anders, M Carlson, BS Carvalho, H
 Corrada-Bravo, S Davis, L Gatto, T Girke, R Gottardo, Florian Hahne, <b>KD Hansen</b>, RA Irizarry,
 M Lawrence, MI Love, J MacDonald, V Obenchain, AK Oleś, H Pagès, A Reyes, P Shannon, GK Smyth, D
@@ -49,13 +56,6 @@ Genome Biology 2014, 15:503.<br>
 [DOI](http://dx.doi.org/10.1186/s13059-014-0503-2)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25599564)
 <span data-badge-type="4" data-doi="10.1186/s13059-014-0503-2"" data-hide-no-mentions="true" class="altmetric-embed"></span>
-
-MJ Ziller, <b>KD Hansen</b>, A Meissner<sup>&dagger;</sup>, MJ Aryee<sup>&dagger;</sup>.<br>
-<i>Coverage recommendations for methylation analysis by whole-genome bisulfite sequencing.</i><br>
-Nature Methods 2015, 12:230-232.<br>
-[DOI](http://dx.doi.org/10.1038/nmeth.3152)
-[PMID](http://www.ncbi.nlm.nih.gov/pubmed/25362363)
-<span data-badge-type="4" data-doi="10.1038/nmeth.3152"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 HT Bjornsson<sup>&lowast;,&dagger;</sup>, JS Benjamin<sup>&lowast;</sup>, L Zhang, J Weissman, EE Gerber, YC Chen, RG Vaurio, MC Potter, <b>KD Hansen</b>, HC Dietz.<br>
 <i>Histone deacetylase inhibition rescues structural and functional brain deficits in a mouse model of Kabuki syndrome.</i><br>
