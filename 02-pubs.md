@@ -267,7 +267,7 @@ high-throughput sequencing are not conserved across closely related yeast specie
 PLoS Genetics 2008, 4(12):e1000299.<br>
 [DOI](http://dx.doi.org/10.1371/journal.pgen.1000299): 10.1371/journal.pgen.1000299<br>
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/19096707): 19096707<br>
-[PMC](http://www.ncbi.nlm.nih.gov/pmc/PMC19096707): PMC19096707<br>
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2601015): PMC2601015<br>
 <span data-badge-type="4" data-doi="10.1371/journal.pgen.1000299" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 
