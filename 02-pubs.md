@@ -183,7 +183,7 @@ quantile normalization.</i><br>
 Biostatistics 2012, 13(2):204-216.<br>
 [DOI](http://dx.doi.org/10.1093/biostatistics/kxr054) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22285995) |
-[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3145050) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3297825) |
 <span data-badge-type="4" data-doi="10.1093/biostatistics/kxr054" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 <b>KD Hansen</b><sup>&lowast;</sup>, W Timp<sup>&lowast;</sup>, H
