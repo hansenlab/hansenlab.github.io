@@ -265,11 +265,8 @@ Dudoit, and G Sherlock<sup>&dagger;</sup>.<br>
 <i>Novel low abundance and transient RNAs in yeast revealed by tiling microarrays and ultra
 high-throughput sequencing are not conserved across closely related yeast species</i>.<br> 
 PLoS Genetics 2008, 4(12):e1000299.<br>
-<!-- [DOI](http://dx.doi.org/10.1371/journal.pgen.1000299): 10.1371/journal.pgen.1000299<br> -->
-<!-- [PMID](http://www.ncbi.nlm.nih.gov/pubmed/19096707): 19096707<br> -->
-<!-- [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2601015): PMC2601015<br> -->
-DOI: [10.1371/journal.pgen.1000299](http://dx.doi.org/10.1371/journal.pgen.1000299)<br>
-PMID: [19096707](http://www.ncbi.nlm.nih.gov/pubmed/19096707)<br>
+DOI: [10.1371/journal.pgen.1000299](http://dx.doi.org/10.1371/journal.pgen.1000299) |
+PMID: [19096707](http://www.ncbi.nlm.nih.gov/pubmed/19096707) |
 PMC: [PMC2601015](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2601015)<br>
 
 <span data-badge-type="4" data-doi="10.1371/journal.pgen.1000299" data-hide-no-mentions="true" class="altmetric-embed"></span>
