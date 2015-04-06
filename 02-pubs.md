@@ -50,7 +50,6 @@ Tenenbaum, L Waldron, and M Morgan.<br>
 Nature Methods 2015, 12(2):115-121.<br>
 [DOI](http://dx.doi.org/10.1038/nmeth.3252) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25633503) |
-[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/) |
 <span data-badge-type="4" data-doi="10.1038/nmeth.3252"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 <b>JP Fortin</b>, A Labbe, M Lemire, BW Zanke, TJ Hudson, EJ Fertig, CMT Greenwood and <b>KD Hansen</b><sup>&dagger;</sup>.<br>
@@ -66,7 +65,6 @@ HT Bjornsson<sup>&lowast;,&dagger;</sup>, JS Benjamin<sup>&lowast;</sup>, L Zhan
 Science Translational Medicine 2014, 6(256):256ra135.<br>
 [DOI](http://dx.doi.org/10.1126/scitranslmed.3009278) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25273096) |
-[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/) |
 <span data-badge-type="4" data-doi="10.1126/scitranslmed.3009278" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 <b>JP Fortin</b><sup>&dagger;</sup>, EJ Fertig, <b>KD Hansen</b><sup>&dagger;</sup>.<br>
@@ -185,7 +183,7 @@ quantile normalization.</i><br>
 Biostatistics 2012, 13(2):204-216.<br>
 [DOI](http://dx.doi.org/10.1093/biostatistics/kxr054) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22285995) |
-[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC22285995) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3145050) |
 <span data-badge-type="4" data-doi="10.1093/biostatistics/kxr054" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 <b>KD Hansen</b><sup>&lowast;</sup>, W Timp<sup>&lowast;</sup>, H
@@ -197,7 +195,7 @@ types.</i><br>
 Nature Genetics 2011, 43:768-775.<br>
 [DOI](http://dx.doi.org/10.1038/ng.865) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/21706001) |
-[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC22331678) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3145050) |
 <span data-badge-type="4" data-doi="10.1038/ng.865" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <br>
 <font size=-1>
@@ -216,7 +214,7 @@ variability.</i><br>
 Nature Biotechnology 2011, 29:572-573.<br>
 [DOI](http://dx.doi.org/10.1038/nbt.1910) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/21747377) |
-[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC21747377) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3137276) |
 <span data-badge-type="4" data-doi="10.1038/nbt.1910" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 AN Brooks<sup>&lowast;</sup>, L Yang<sup>&lowast;</sup>, MO Duff, <b>KD Hansen</b>, JW Park, S Dudoit, SE
@@ -226,7 +224,7 @@ mammals.</i><br>
 Genome Research 2011, 21(2):193-202.<br>
 [DOI](http://dx.doi.org/10.1101/gr.108662.110) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/20921232) |
-[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC20921232) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3032923) |
 <span data-badge-type="4" data-doi="10.1101/gr.108662.110" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 The modENCODE Consortium, <i> et al.</i><br>
@@ -235,7 +233,7 @@ Drosophila modENCODE.</i><br>
 Science 2010, 330:1787-1797.<br>
 [DOI](http://dx.doi.org/10.1126/science.1198374) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/21177974) |
-[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC21177974) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3192495) |
 <span data-badge-type="4" data-doi="10.1126/science.1198374" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 B Langmead, <b>KD Hansen</b>, and JT Leek<sup>&dagger;</sup>.<br>
@@ -244,7 +242,7 @@ Myrna.</i><br>
 Genome Biology 2010, 11:R83.<br>
 [DOI](http://dx.doi.org/10.1186/gb-2010-11-8-r83) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/20701754) |
-[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC20701754) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2945785) |
 <span data-badge-type="4" data-doi="10.1186/gb-2010-11-8-r83" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <br>
 <font size=-1>
@@ -257,7 +255,7 @@ hexamer priming.</i><br>
 Nucleic Acids Research 2010, 38(12):e131.<br>
 [DOI](http://dx.doi.org/10.1093/nar/gkq224) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/20395217) |
-[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC20395217) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2896536) |
 <span data-badge-type="4" data-doi="10.1093/nar/gkq224" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 JH Bullard<sup>&lowast;,&dagger;</sup>, EA Purdom<sup>&lowast;</sup>, <b>KD Hansen</b>, and
@@ -267,7 +265,7 @@ differential expression in mRNA-Seq experiments.</i><br>
 BMC Bioinformatics 2010, 11:94.<br>
 [DOI](http://dx.doi.org/10.1186/1471-2105-11-94) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/20167110) |
-[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC20167110) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2838869) |
 <span data-badge-type="4" data-doi="10.1186/1471-2105-11-94" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <br>
 <font size=-1>
@@ -281,7 +279,7 @@ down-regulated by nonsense-mediated mRNA decay in Drosophila.</i><br>
 PLoS Genetics 2009, 5(6):e1000525.<br>
 [DOI](http://dx.doi.org/10.1371/journal.pgen.1000525) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/19543372) |
-[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC19543372) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2689934) |
 <span data-badge-type="4" data-doi="10.1371/journal.pgen.1000525" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 A Lee<sup>&lowast;</sup>, <b>KD Hansen</b><sup>&lowast;</sup>, J Bullard<sup>&lowast;</sup>, S
@@ -337,8 +335,7 @@ LPA Brandt, AI Kryger, E Overgaard, <b>KD Hansen</b>, and S Mikkelsen.<br>
 pain in the neck and shoulder</i>. <br>
 Occup Environ Med 2008, 65(2):126-131.<br>
 [DOI](http://dx.doi.org/10.1136/oem.2007.033506) |
-[PMID](http://www.ncbi.nlm.nih.gov/pubmed/17681996) |
-[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC17681996)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/17681996)
 
 
 A-M Nybo Andersen<sup>&dagger;</sup>, <b>KD Hansen</b>, PK Andersen, and
@@ -346,8 +343,7 @@ G Davey Smith.<br>
 <i>Advanced paternal age and risk of fetal death: a cohort study</i>.<br>
 American Journal of Epidemiology 2004, 160(12):1214-1222.<br>
 [DOI](http://dx.doi.org/10.1093/aje/kwh332) |
-[PMID](http://www.ncbi.nlm.nih.gov/pubmed/15583374) |
-[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC15583374)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/15583374)
 
 H Dan&oslash;<sup>&dagger;</sup>, <b>KD Hansen</b>, P Jensen, JH Petersen, R Jacobsen,
 M Ewertz, and E Lynge.<br>
@@ -355,8 +351,7 @@ M Ewertz, and E Lynge.<br>
 in Denmark.</i><br>
 International Journal of Cancer 2004, 111(3):451-456.<br>
 [DOI](http://dx.doi.org/10.1002/ijc.20203) |
-[PMID](http://www.ncbi.nlm.nih.gov/pubmed/15221976) |
-[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC15221976)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/15221976)
 
 H Dan&oslash;<sup>&dagger;</sup>, R Jacobsen, <b>KD Hansen</b>, JK Petersen, and
 E Lynge.<br>
@@ -364,8 +359,7 @@ E Lynge.<br>
 women</i>.<br>
 Scandinavian Journal of Public Health 2004, 32:435-441.<br>
 [DOI](http://dx.doi.org/10.1080/14034940410028163) |
-[PMID](http://www.ncbi.nlm.nih.gov/pubmed/15762028) |
-[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC15762028)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/15762028)
 
 K Schultz-Larsen, S Kreiner, S Hanning, N St&oslash;vring,
 <b>KD Hansen</b>, and S Lendal.<br>
