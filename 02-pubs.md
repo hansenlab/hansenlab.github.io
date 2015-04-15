@@ -25,9 +25,9 @@ bioRxiv, 2015.
 Computational Biology
 ---------------------
 
-AR Vandiver, RA Irizarry, <b>KD Hansen</b>, LA Garza, A Runarsson, Arni, X Li, AL Chien, TS Wang, SG Leung, S Kang, and AP Feinberg, Andrew P<sup>&dagger;</sup>.<br>
+AR Vandiver, RA Irizarry, <b>KD Hansen</b>, LA Garza, A Runarsson, Arni, X Li, AL Chien, TS Wang, SG Leung, S Kang, and AP Feinberg<sup>&dagger;</sup>.<br>
 <i>Age and sun exposure-related widespread genomic blocks of hypomethylation in nonmalignant skin.</i><br>
-Genome Biology 2015.<br>
+Genome Biology 2015, 16:80.<br>
 [DOI](http://www.dx.doi.org/10.1186/s13059-015-0644-y) |
 <span data-badge-type="4" data-doi="10.1186/s13059-015-0644-y"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
@@ -127,7 +127,7 @@ F1000Research 2013, 2:264.<br>
 <b>KD Hansen</b><sup>&lowast;,&dagger;</sup>, B Langmead<sup>&lowast;&dagger;</sup>, RA Irizarry<sup>&dagger;</sup>.<br>
 <i>BSmooth: from whole genome bisulfite sequencing reads to
 differentially methylated regions.</i><br>
-Genome Biology 2012, 13(10):R83.<br>
+Genome Biology 2012, 13:R83.<br>
 [DOI](http://dx.doi.org/10.1186/gb-2012-13-10-r83) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/23034175) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3491411) |
