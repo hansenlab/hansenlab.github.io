@@ -14,7 +14,6 @@ Publication Repositories
 [Google Scholar Citations](http://scholar.google.com/citations?user=8XOPyM4AAAAJ&hl=en) |
 [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Hansen%2C+Kasper+D%5BAuthor%5D+or+Hansen%2C+Kasper+Daniel%5BAuthor%5D+or+17681996%5BPmid%5D+or+21177974%5BPmid%5D+or+23999529%5BPmid%5D+or+25285208%5BPmid%5D) | 
 [ORCID](http://orcid.org/0000-0003-0086-0687): 0000-0003-0086-0687
-
 Unpublished Preprints
 ---------------------
 
@@ -25,6 +24,12 @@ bioRxiv, 2015.
 
 Computational Biology
 ---------------------
+
+AR Vandiver, RA Irizarry, <b>KD Hansen</b>, LA Garza, A Runarsson, Arni, X Li, AL Chien, TS Wang, SG Leung, S Kang, and AP Feinberg, Andrew P<sup>&dagger;</sup>.<br>
+<i>Age and sun exposure-related widespread genomic blocks of hypomethylation in nonmalignant skin.</i><br>
+Genome Biology 2015.<br>
+[DOI](http://www.dx.doi.org/10.1186/s13059-015-0644-y) |
+<span data-badge-type="4" data-doi="10.1186/s13059-015-0644-y"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 X Hong<sup>&lowast;</sup>, K Hao<sup>&lowast;</sup>, C Ladd-Acosta<sup>&lowast;</sup>, <b>KD Hansen</b>, Tsai X, HJ Liu, X Xu, TA Thornton, D Caruso, CA Keet, Y Sun, G Wang, W Luo, R Kumar, R Fuleihan, AM Singh, Kim RE, JS Story, RS Gupta, P Gao, Z Chen, SO Walker, TR Bartell, TH Beaty, MD Fallin, R Schleimer, PG Holt, Nadeau KC, RA Wood, JA Pongracic, DE  Weeks, and X Wang<sup>&dagger;</sup>.<br>
 <i>Genome-wide association study identifies peanut allergy-specific loci and evidence of epigenetic mediation in US children.</i><br>
