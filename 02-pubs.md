@@ -71,6 +71,7 @@ HT Bjornsson<sup>&lowast;,&dagger;</sup>, JS Benjamin<sup>&lowast;</sup>, L Zhan
 Science Translational Medicine 2014, 6(256):256ra135.<br>
 [DOI](http://dx.doi.org/10.1126/scitranslmed.3009278) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25273096) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4406328) |
 <span data-badge-type="4" data-doi="10.1126/scitranslmed.3009278" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 <b>JP Fortin</b><sup>&dagger;</sup>, EJ Fertig, <b>KD Hansen</b><sup>&dagger;</sup>.<br>
