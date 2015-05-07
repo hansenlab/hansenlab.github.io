@@ -14,12 +14,18 @@ Publication Repositories
 [Google Scholar Citations](http://scholar.google.com/citations?user=8XOPyM4AAAAJ&hl=en) |
 [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Hansen%2C+Kasper+D%5BAuthor%5D+or+Hansen%2C+Kasper+Daniel%5BAuthor%5D+or+17681996%5BPmid%5D+or+21177974%5BPmid%5D+or+23999529%5BPmid%5D+or+25285208%5BPmid%5D) | 
 [ORCID](http://orcid.org/0000-0003-0086-0687): 0000-0003-0086-0687
+
 Unpublished Preprints
 ---------------------
 
+<b>JP Fortin</b> and <b>KD Hansen<sup>&dagger;</sup>.</b><br>
+<i>Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data.</i><br>
+bioRxiv, 2015.<br>
+[DOI](http://dx.doi.org/10.1101/019000)
+
 A Pacis, L Tailleux, J Lambourne, V Yotova, A Dumaine, A Danckaert, F Luca, JC Grenier, <b>KD Hansen</b>, B Gicquel, M Yu, A Pai, J Tung, C He, T Pastinen, R Pique-Regi, Y Gilad<sup>&dagger;</sup> and L Barreiro<sup>&dagger;</sup>.<br>
 <i>Bacterial Infection Remodels the DNA Methylation Landscape of Human Dendritic Cells.</i><br>
-bioRxiv, 2015.
+bioRxiv, 2015.<br>
 [DOI](http://dx.doi.org/10.1101/016022)
 
 Computational Biology
