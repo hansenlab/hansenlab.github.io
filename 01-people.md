@@ -45,7 +45,7 @@ GitHub: [Jfortin1](https://github.com/Jfortin1)<br>
 &nbsp;&nbsp;&nbsp;Johns Hopkins University<br>
 <br>
 <br>
-<br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ### Support staff
 
