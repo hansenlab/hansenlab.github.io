@@ -54,6 +54,7 @@ GitHub: [Jfortin1](https://github.com/Jfortin1)<br>
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<b>Responsibility</b>: During the summer months, Jeffrey is responsible for<br>
 &nbsp;&nbsp;&nbsp;lab child care at the Cold Spring Pool.<br>
+&nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<b>Bio</b>: Jeffrey has a bachelor degree from Utah State and joins us<br>
 &nbsp;&nbsp;&nbsp;with 3.5 years of experience working with toddlers and infants.<br>
 <br>
