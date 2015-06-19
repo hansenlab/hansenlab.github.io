@@ -47,5 +47,13 @@ GitHub: [Jfortin1](https://github.com/Jfortin1)<br>
 <br>
 <br><br><br><br>
 
+### Support staff
 
-
+<img alt = "Jeffrey" align="left" src="media/people/jeffrey.png" width=200 height=200/>
+&nbsp;&nbsp;&nbsp;<b>Manny</b><br>
+&nbsp;&nbsp;&nbsp;Jeffrey L.<br>
+&nbsp;&nbsp;&nbsp;During the summer months, Jeffrey is responsible for lab child care at the Cold Spring Pool.<br>
+&nbsp;&nbsp;&nbsp;He has a bachelor degree from Utah State and joins us with 3.5 years of experience working with toddlers and infants.<br>
+<br>
+<br>
+<br><br><br><br>
