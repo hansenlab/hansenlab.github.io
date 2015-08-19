@@ -11,7 +11,7 @@ Bioconductor
 
 We contribute to the [Bioconductor](http://www.bioconductor.org) project.
 
-[affxparser](http://www.bioconductor.org/packages/release/bioc/html/affxparser.html): A package for
+[affxparser](http://www.bioconductor.org/packages/affxparser): A package for
 parsing output files from Affymetrix microarrays using the [Fusion SDK](http://www.affymetrix.com/partners_programs/programs/developer/fusion/index.affx?terms=no).
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
 [download stats](http://bioconductor.org/packages/stats/bioc/affxparser.html)
@@ -23,7 +23,7 @@ parsing output files from Affymetrix microarrays using the [Fusion SDK](http://w
 [GitHub](https://github.com/HenrikBengtsson/affxparser.git)
 ]
 
-[bsseq](http://www.bioconductor.org/packages/release/bioc/html/bsseq.html): A package for analyzing
+[bsseq](http://www.bioconductor.org/packages/bsseq): A package for analyzing
 whole-genome bisulfite sequencing data.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
 [download stats](http://bioconductor.org/packages/stats/bioc/bsseq.html)
@@ -35,7 +35,7 @@ whole-genome bisulfite sequencing data.
 [GitHub](https://github.com/kasperdanielhansen/bsseq)
 ]
 
-[bumphunter](http://www.bioconductor.org/packages/release/bioc/html/bumphunter.html}{bumphunter}): A
+[bumphunter](http://www.bioconductor.org/packages/bumphunter}{bumphunter}): A
 package implementing a general backend for the bumphunter approach. 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
 [download stats](http://bioconductor.org/packages/stats/bioc/bumphunter.html)
@@ -47,7 +47,7 @@ package implementing a general backend for the bumphunter approach.
 [GitHub](https://github.com/ririzarr/bumphunter)
 ]
 
-[cqn](http://www.bioconductor.org/packages/release/bioc/html/cqn.html): A package for normalizing
+[cqn](http://www.bioconductor.org/packages/cqn): A package for normalizing
 RNA-seq data using the CQN algorithm.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
 [download stats](http://bioconductor.org/packages/stats/bioc/cqn.html)
@@ -57,7 +57,7 @@ RNA-seq data using the CQN algorithm.
 [build release](http://bioconductor.org/checkResults/release/bioc-LATEST/cqn)
 ]
 
-[Genominator](http://www.bioconductor.org/packages/release/bioc/html/Genominator.html): A package
+[Genominator](http://www.bioconductor.org/packages/Genominator): A package
 implementing a [SQLite](http://www.sqlite.org) based backend for genomic data, including sequencing and microarrays.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
 [download stats](http://bioconductor.org/packages/stats/bioc/Genominator.html)
@@ -67,7 +67,7 @@ implementing a [SQLite](http://www.sqlite.org) based backend for genomic data, i
 [build release](http://bioconductor.org/checkResults/release/bioc-LATEST/Genominator)
 ]
 
-[illuminaio](http://www.bioconductor.org/packages/release/bioc/html/illuminaio.html): A package
+[illuminaio](http://www.bioconductor.org/packages/illuminaio): A package
 for parsing output for Illumina microarrays.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
 [download stats](http://bioconductor.org/packages/stats/bioc/illuminaio.html)
@@ -79,7 +79,7 @@ for parsing output for Illumina microarrays.
 [GitHub](https://github.com/HenrikBengtsson/illuminaio)
 ]
 
-[minfi](http://www.bioconductor.org/packages/release/bioc/html/minfi.html): A package for analysing
+[minfi](http://www.bioconductor.org/packages/minfi): A package for analysing
 Illumina's 450k methylation microarray.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
 [download stats](http://bioconductor.org/packages/stats/bioc/minfi.html)
@@ -91,7 +91,7 @@ Illumina's 450k methylation microarray.
 [GitHub](https://github.com/kasperdanielhansen/minfi)
 ]
 
-[Rgraphviz](http://www.bioconductor.org/packages/release/bioc/html/Rgraphviz.html): A package for
+[Rgraphviz](http://www.bioconductor.org/packages/Rgraphviz): A package for
 visualizing graphs using the [Graphviz](http://www.graphviz.org) toolkit.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
 [download stats](http://bioconductor.org/packages/stats/bioc/Rgraphviz.html)
@@ -103,7 +103,7 @@ visualizing graphs using the [Graphviz](http://www.graphviz.org) toolkit.
 [GitHub](https://github.com/kasperdanielhansen/Rgraphviz)
 ]
 
-[shinyMethyl](http://www.bioconductor.org/packages/release/bioc/html/shinyMethyl.html): A package for
+[shinyMethyl](http://www.bioconductor.org/packages/shinyMethyl): A package for
 interactive visualization and quality control of 450k arrays, using
 [shiny](http://www.rstudio.com/shiny/).
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
