@@ -29,7 +29,7 @@ Computational Biology
 <b>JP Fortin</b> and <b>KD Hansen</b><sup>&dagger;</sup>.<br>
 <i>Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data.</i><br>
 Genome Biology 2015, 16:180.<br>
-[DOI](http://www.dx.doi.org10.1186/s13059-015-0741-y)
+[DOI](http://www.dx.doi.org/10.1186/s13059-015-0741-y)
 
 AR Vandiver, RA Irizarry, <b>KD Hansen</b>, LA Garza, A Runarsson, Arni, X Li, AL Chien, TS Wang, SG Leung, S Kang, and AP Feinberg<sup>&dagger;</sup>.<br>
 <i>Age and sun exposure-related widespread genomic blocks of hypomethylation in nonmalignant skin.</i><br>
