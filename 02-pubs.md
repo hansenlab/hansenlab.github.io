@@ -18,11 +18,6 @@ Publication Repositories
 Unpublished Preprints
 ---------------------
 
-<b>JP Fortin</b> and <b>KD Hansen<sup>&dagger;</sup>.</b><br>
-<i>Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data.</i><br>
-bioRxiv, 2015.<br>
-[DOI](http://dx.doi.org/10.1101/019000)
-
 A Pacis, L Tailleux, J Lambourne, V Yotova, A Dumaine, A Danckaert, F Luca, JC Grenier, <b>KD Hansen</b>, B Gicquel, M Yu, A Pai, J Tung, C He, T Pastinen, R Pique-Regi, Y Gilad<sup>&dagger;</sup> and L Barreiro<sup>&dagger;</sup>.<br>
 <i>Bacterial Infection Remodels the DNA Methylation Landscape of Human Dendritic Cells.</i><br>
 bioRxiv, 2015.<br>
@@ -30,6 +25,11 @@ bioRxiv, 2015.<br>
 
 Computational Biology
 ---------------------
+
+<b>JP Fortin</b> and <b>KD Hansen</b><sup>&dagger;</sup>.<br>
+<i>Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data.</i><br>
+Genome Biology 2015, 16:180.<br>
+[DOI](http://www.dx.doi.org10.1186/s13059-015-0741-y)
 
 AR Vandiver, RA Irizarry, <b>KD Hansen</b>, LA Garza, A Runarsson, Arni, X Li, AL Chien, TS Wang, SG Leung, S Kang, and AP Feinberg<sup>&dagger;</sup>.<br>
 <i>Age and sun exposure-related widespread genomic blocks of hypomethylation in nonmalignant skin.</i><br>
@@ -310,6 +310,11 @@ PLoS Genetics 2008, 4(12):e1000299.<br>
 
 Published Preprints
 -------------------
+
+<b>JP Fortin</b> and <b>KD Hansen<sup>&dagger;</sup>.</b><br>
+<i>Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data.</i><br>
+bioRxiv, 2015.<br>
+[DOI](http://dx.doi.org/10.1101/019000)
 
 <b>JP Fortin</b>, A Labbe, M Lemire, BW Zanke, TJ Hudson, EJ Fertig, CMT Greenwood and <b>KD Hansen</b><sup>&dagger;</sup>.<br>
 <i>Functional normalization of 450k methylation array data improves replication in large cancer studies.</i><br>
