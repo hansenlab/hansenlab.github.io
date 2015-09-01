@@ -35,6 +35,7 @@ Computational Biology
 <i>Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data.</i><br>
 Genome Biology 2015, 16:180.<br>
 [DOI](http://www.dx.doi.org/10.1186/s13059-015-0741-y) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/26316348) |
 <span data-badge-type="4" data-doi="10.1186/s13059-015-0741-y"" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
 <font size=-1>
 Research highlight by Mourad and Cuvier [Genome Biology](http://www.dx.doi.org/10.1186/s13059-015-0752-8)
