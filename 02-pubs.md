@@ -324,6 +324,7 @@ Published Preprints
 <i>Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data.</i><br>
 bioRxiv, 2015.<br>
 [DOI](http://dx.doi.org/10.1101/019000)
+<br>Published in Genome Biology 2015.
 
 <b>JP Fortin</b>, A Labbe, M Lemire, BW Zanke, TJ Hudson, EJ Fertig, CMT Greenwood and <b>KD Hansen</b><sup>&dagger;</sup>.<br>
 <i>Functional normalization of 450k methylation array data improves replication in large cancer studies.</i><br>
