@@ -20,12 +20,12 @@ Unpublished Preprints
 
 A Pacis, L Tailleux, J Lambourne, V Yotova, A Dumaine, A Danckaert, F Luca, JC Grenier, <b>KD Hansen</b>, B Gicquel, M Yu, A Pai, J Tung, C He, T Pastinen, R Pique-Regi, Y Gilad<sup>&dagger;</sup> and L Barreiro<sup>&dagger;</sup>.<br>
 <i>Bacterial Infection Remodels the DNA Methylation Landscape of Human Dendritic Cells.</i><br>
-bioRxiv, 2015.<br>
+bioRxiv 2015.<br>
 [DOI](http://dx.doi.org/10.1101/016022)
 
 W Huber<sup>&dagger;</sup>, V Carey, S Davis, <b>KD Hansen</b> and M Morgan.<br>
-<i>The Bioconductor channel in F1000Research.</i>
-F1000Research 4, (2015).<br>
+<i>The Bioconductor channel in F1000Research.</i><br>
+F1000Research 2015, 4.<br>
 [DOI](http://dx.doi.org/10.12688/f1000research.6758.1)
 
 Computational Biology
@@ -35,7 +35,7 @@ Computational Biology
 <i>Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data.</i><br>
 Genome Biology 2015, 16:180.<br>
 [DOI](http://www.dx.doi.org/10.1186/s13059-015-0741-y) |
-<span data-badge-type="4" data-doi="10.1186/s13059-015-0741-y"" data-hide-no-mentions="true" class="altmetric-embed"></span>
+<span data-badge-type="4" data-doi="10.1186/s13059-015-0741-y"" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
 <font size=-1>
 &ensp;&ensp;Research highlight by Mourad and Cuvier [Genome Biology](http://www.dx.doi.org/10.1186/s13059-015-0752-8)
 </font>
