@@ -23,6 +23,11 @@ A Pacis, L Tailleux, J Lambourne, V Yotova, A Dumaine, A Danckaert, F Luca, JC G
 bioRxiv, 2015.<br>
 [DOI](http://dx.doi.org/10.1101/016022)
 
+W Huber<sup>&dagger;</sup>, V Carey, S Davis, <b>KD Hansen</b> and M Morgan.<br>
+<i>The Bioconductor channel in F1000Research.</i>
+F1000Research 4, (2015).<br>
+[DOI](http://dx.doi.org/10.12688/f1000research.6758.1)
+
 Computational Biology
 ---------------------
 
