@@ -37,7 +37,7 @@ Genome Biology 2015, 16:180.<br>
 [DOI](http://www.dx.doi.org/10.1186/s13059-015-0741-y) |
 <span data-badge-type="4" data-doi="10.1186/s13059-015-0741-y"" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
 <font size=-1>
-&ensp;&ensp;Research highlight by Mourad and Cuvier [Genome Biology](http://www.dx.doi.org/10.1186/s13059-015-0752-8)
+Research highlight by Mourad and Cuvier [Genome Biology](http://www.dx.doi.org/10.1186/s13059-015-0752-8)
 </font>
 
 AR Vandiver, RA Irizarry, <b>KD Hansen</b>, LA Garza, A Runarsson, Arni, X Li, AL Chien, TS Wang, SG Leung, S Kang, and AP Feinberg<sup>&dagger;</sup>.<br>
@@ -123,7 +123,7 @@ Molecular Psychiatry 2014, 19(8):862-871.<br>
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4184909) |
 <span data-badge-type="4" data-doi="10.1038/mp.2013.114" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
 <font size=-1>
-&ensp;&ensp;Faculty of 1000 reviews [f1000](http://f1000.com/prime/718097865)<br>
+Faculty of 1000 reviews [f1000](http://f1000.com/prime/718097865)<br>
 </font>
 
 <b>KD Hansen</b><sup>&lowast;</sup>, S Sabunciyan<sup>&lowast;</sup>, B Langmead, N Nagy, R Curley, G Klein, E Klein, D Salamon, AP Feinberg<sup>&dagger;</sup>.<br>
@@ -166,12 +166,12 @@ Nature Neuroscience 2012, 15(10):1371-1373.<br>
 <span data-badge-type="4" data-doi="10.1038/nn.3218" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <br>
 <font size=-1>
-&ensp;&ensp;Coverage by Nature News [URL](http://www.nature.com/news/job-swapping-makes-its-mark-on-honeybee-dna-1.11418)<br>
-&ensp;&ensp;Coverage by LA Times [URL](http://www.latimes.com/news/science/sciencenow/lat-sci-sn-worker-bees-switch-jobs-via-their-epigenomes-20120917,0,3764312.story)<br>
-&ensp;&ensp;Coverage by The New Republic [URL](http://www.tnr.com/blog/plank/107327/epigenetics-bees-biology)<br>
-&ensp;&ensp;Coverage by the Guardian UK [URL](http://www.guardian.co.uk/environment/2012/sep/16/bee-study-behaviour)<br>
-&ensp;&ensp;Coverage by Discover Magazine [URL](http://blogs.discovermagazine.com/notrocketscience/2012/09/16/bee-epigenetics-nurses-foragers-reversible/)<br>
-&ensp;&ensp;Coverage by The Scientist [URL](http://the-scientist.com/2012/09/16/controlling-bee-fate/)<br>
+Coverage by Nature News [URL](http://www.nature.com/news/job-swapping-makes-its-mark-on-honeybee-dna-1.11418)<br>
+Coverage by LA Times [URL](http://www.latimes.com/news/science/sciencenow/lat-sci-sn-worker-bees-switch-jobs-via-their-epigenomes-20120917,0,3764312.story)<br>
+Coverage by The New Republic [URL](http://www.tnr.com/blog/plank/107327/epigenetics-bees-biology)<br>
+Coverage by the Guardian UK [URL](http://www.guardian.co.uk/environment/2012/sep/16/bee-study-behaviour)<br>
+Coverage by Discover Magazine [URL](http://blogs.discovermagazine.com/notrocketscience/2012/09/16/bee-epigenetics-nurses-foragers-reversible/)<br>
+Coverage by The Scientist [URL](http://the-scientist.com/2012/09/16/controlling-bee-fate/)<br>
 </font>
 
 J Tung<sup>&dagger;</sup>, LB Barreiro, ZP Johnson, <b>KD Hansen</b>, V Michopoulos, D
@@ -185,10 +185,10 @@ PNAS 2012, 109(17):6490-6495.<br>
 <span data-badge-type="4" data-doi="10.1073/pnas.1202734109" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <br>
 <font size=-1>
-&ensp;&ensp;Faculty of 1000 reviews [f1000](http://f1000.com/14267420)<br>
-&ensp;&ensp;Coverage by NY times [URL](http://www.nytimes.com/2012/04/10/science/changes-in-social-status-seen-in-monkeys-genes.html?src=rechp)<br>
-&ensp;&ensp;Coverage by Genomeweb [URL](http://www.genomeweb.com/blog/healthy-popularity)<br>
-&ensp;&ensp;Coverage by Videnskab.db [URL](http://videnskab.dk/krop-sundhed/taber-aber-har-darligt-immunforsvar)
+Faculty of 1000 reviews [f1000](http://f1000.com/14267420)<br>
+Coverage by NY times [URL](http://www.nytimes.com/2012/04/10/science/changes-in-social-status-seen-in-monkeys-genes.html?src=rechp)<br>
+Coverage by Genomeweb [URL](http://www.genomeweb.com/blog/healthy-popularity)<br>
+Coverage by Videnskab.db [URL](http://videnskab.dk/krop-sundhed/taber-aber-har-darligt-immunforsvar)
 </font>
 
 S Munshaw, HS Hwang, M Torbenson, J Quinn, <b>KD Hansen</b>, J
@@ -223,13 +223,13 @@ Nature Genetics 2011, 43:768-775.<br>
 <span data-badge-type="4" data-doi="10.1038/ng.865" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <br>
 <font size=-1>
-&ensp;&ensp;Faculty of 1000 reviews [f1000](http://f1000.com/11598956)<br>
-&ensp;&ensp;Comment by JP Issa in Nat Genet, <i>Epigenetic variation and cellular Darwinism</i>.
+Faculty of 1000 reviews [f1000](http://f1000.com/11598956)<br>
+Comment by JP Issa in Nat Genet, <i>Epigenetic variation and cellular Darwinism</i>.
 [DOI](http://dx.doi.org/10.1038/ng.897) 
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/21792236)<br>
-&ensp;&ensp;Described in Cell
+Described in Cell
 [DOI](http://dx.doi.org/10.1016/j.cell.2011.09.021)<br>
-&ensp;&ensp;Coverage by Genomeweb [URL](http://www.genomeweb.com/sequencing/study-suggests-widespread-loss-epigenetic-regulation-cancer-genomes)
+Coverage by Genomeweb [URL](http://www.genomeweb.com/sequencing/study-suggests-widespread-loss-epigenetic-regulation-cancer-genomes)
 </font>
 
 <b>KD Hansen</b>, Z Wu, RA Irizarry<sup>&dagger;</sup>, and JT Leek<sup>&dagger;</sup>.<br>
