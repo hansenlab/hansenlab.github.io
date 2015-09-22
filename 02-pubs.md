@@ -18,11 +18,6 @@ Publication Repositories
 Unpublished Preprints
 ---------------------
 
-A Pacis, L Tailleux, J Lambourne, V Yotova, A Dumaine, A Danckaert, F Luca, JC Grenier, <b>KD Hansen</b>, B Gicquel, M Yu, A Pai, J Tung, C He, T Pastinen, R Pique-Regi, Y Gilad<sup>&dagger;</sup> and L Barreiro<sup>&dagger;</sup>.<br>
-<i>Bacterial Infection Remodels the DNA Methylation Landscape of Human Dendritic Cells.</i><br>
-bioRxiv 2015.<br>
-[DOI](http://dx.doi.org/10.1101/016022)
-
 W Huber<sup>&dagger;</sup>, V Carey, S Davis, <b>KD Hansen</b> and M Morgan.<br>
 <i>The Bioconductor channel in F1000Research.</i><br>
 F1000Research 2015, 4.<br>
@@ -30,6 +25,11 @@ F1000Research 2015, 4.<br>
 
 Computational Biology
 ---------------------
+
+A Pacis, L Tailleux, AM Morin, J Lambourne, JL Maclsaac, V Yotova, A Dumaine, A Danckaert, F Luca, J Grenier, <b>KD Hansen</b>, B Gicquel, M Yu, A Pai, C He, J Tung, T Pastinen, MS Kobor, R Pique-Regi, Y Gilad<sup>&dagger;</sup>, and LB Barreiro<sup>&dagger;</sup>.<br>
+<i>Bacterial infection remodels the DNA methylation landscape of human dendritic cells.</i><br>Genome Research 2015, In Press.<br>
+[DOI](http://dx.doi.org/10.1101/gr.192005.115) |
+<span data-badge-type="4" data-doi="10.1101/gr.192005.115"" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
 
 <b>JP Fortin</b> and <b>KD Hansen</b><sup>&dagger;</sup>.<br>
 <i>Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data.</i><br>
@@ -320,6 +320,11 @@ PLoS Genetics 2008, 4(12):e1000299.<br>
 
 Published Preprints
 -------------------
+
+A Pacis, L Tailleux, J Lambourne, V Yotova, A Dumaine, A Danckaert, F Luca, JC Grenier, <b>KD Hansen</b>, B Gicquel, M Yu, A Pai, J Tung, C He, T Pastinen, R Pique-Regi, Y Gilad<sup>&dagger;</sup> and L Barreiro<sup>&dagger;</sup>.<br>
+<i>Bacterial Infection Remodels the DNA Methylation Landscape of Human Dendritic Cells.</i><br>
+bioRxiv 2015.<br>
+[DOI](http://dx.doi.org/10.1101/016022)
 
 <b>JP Fortin</b> and <b>KD Hansen<sup>&dagger;</sup>.</b><br>
 <i>Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data.</i><br>
