@@ -35,7 +35,7 @@ whole-genome bisulfite sequencing data.
 [GitHub](https://github.com/kasperdanielhansen/bsseq)
 ]
 
-[bumphunter](http://www.bioconductor.org/packages/bumphunter}{bumphunter}): A
+[bumphunter](http://www.bioconductor.org/packages/bumphunter): A
 package implementing a general backend for the bumphunter approach. 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
 [download stats](http://bioconductor.org/packages/stats/bioc/bumphunter.html)
