@@ -26,8 +26,16 @@ F1000Research 2015, 4.<br>
 Computational Biology
 ---------------------
 
+L Kannan, M Ramos, A Re, N El-Hachem, A Safikhani, DMA Gendoo, S Davis, S Gomez-Cabrero, R Castelo, <b>KD Hansen</b>, VJ Carey, M Morgan, AC Culhane, B Haibe-Kains, and L Waldron<sup>&dagger;</sup>.<br>
+<i>Public data and open source tools for multi-assay genomic investigation of disease.</i><br>
+Brief Bioinformatics 2015, In press.<br>
+[DOI](http://dx.doi.org/10.1093/bib/bbv080) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/26463000) |
+<span data-badge-type="4" data-doi="10.1093/bib/bbv080"" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
+
 A Pacis, L Tailleux, AM Morin, J Lambourne, JL Maclsaac, V Yotova, A Dumaine, A Danckaert, F Luca, J Grenier, <b>KD Hansen</b>, B Gicquel, M Yu, A Pai, C He, J Tung, T Pastinen, MS Kobor, R Pique-Regi, Y Gilad<sup>&dagger;</sup>, and LB Barreiro<sup>&dagger;</sup>.<br>
-<i>Bacterial infection remodels the DNA methylation landscape of human dendritic cells.</i><br>Genome Research 2015, In Press.<br>
+<i>Bacterial infection remodels the DNA methylation landscape of human dendritic cells.</i><br>
+Genome Research 2015, In Press.<br>
 [DOI](http://dx.doi.org/10.1101/gr.192005.115) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26392366) |
 <span data-badge-type="4" data-doi="10.1101/gr.192005.115"" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
