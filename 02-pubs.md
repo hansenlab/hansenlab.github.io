@@ -26,7 +26,7 @@ F1000Research 2015, 4.<br>
 Computational Biology
 ---------------------
 
-AR Vandiver, A Idrizi, L Rizzardi, AP Feinberg, <br>KD Hansen</b><sup>&dagger;</sup>.<br>
+AR Vandiver, A Idrizi, L Rizzardi, AP Feinberg, <b>KD Hansen</b><sup>&dagger;</sup>.<br>
 <i>DNA methylation is stable during replication and cell cycle arrest.</i><br>
 Scientific Reports 2015, In press.<br>
 
