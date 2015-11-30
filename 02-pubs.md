@@ -18,11 +18,6 @@ Publication Repositories
 Unpublished Preprints
 ---------------------
 
-W Huber<sup>&dagger;</sup>, V Carey, S Davis, <b>KD Hansen</b> and M Morgan.<br>
-<i>The Bioconductor channel in F1000Research.</i><br>
-F1000Research 2015, 4.<br>
-[DOI](http://dx.doi.org/10.12688/f1000research.6758.1)
-
 Computational Biology
 ---------------------
 
@@ -34,6 +29,7 @@ L Gatto, <b>KD Hansen</b>, MR Hoopmann, H Henning, O Kohlbacher, and A Beyer<sup
 <i>Testing and validation of computational methods for mass spectrometry.</i><br>
 Journal of Proteome Research 2015, In press.<br>
 [DOI](10.1021/acs.jproteome.5b00852) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/26549429) |
 <span data-badge-type="4" data-doi="10.1021/acs.jproteome.5b00852"" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
 
 L Kannan, M Ramos, A Re, N El-Hachem, A Safikhani, DMA Gendoo, S Davis, S Gomez-Cabrero, R Castelo, <b>KD Hansen</b>, VJ Carey, M Morgan, AC Culhane, B Haibe-Kains, and L Waldron<sup>&dagger;</sup>.<br>
@@ -336,6 +332,15 @@ PLoS Genetics 2008, 4(12):e1000299.<br>
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/19096707) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2601015) |
 <span data-badge-type="4" data-doi="10.1371/journal.pgen.1000299" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+
+Editorials (not peer-reviewed)
+------------------------------
+
+W Huber<sup>&dagger;</sup>, V Carey, S Davis, <b>KD Hansen</b> and M Morgan.<br>
+<i>The Bioconductor channel in F1000Research.</i><br>
+F1000Research 2015, 4.<br>
+[DOI](http://dx.doi.org/10.12688/f1000research.6758.1)
 
 
 Published Preprints
