@@ -23,12 +23,14 @@ Computational Biology
 
 AR Vandiver, A Idrizi, L Rizzardi, AP Feinberg, <b>KD Hansen</b><sup>&dagger;</sup>.<br>
 <i>DNA methylation is stable during replication and cell cycle arrest.</i><br>
-Scientific Reports 2015, In press.<br>
+Scientific Reports 2015, 5:17911.<br>
+[DOI](http://dx.doi.org/10.1038/srep17911) |
+<span data-badge-type="4" data-doi="10.1038/srep17911"" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
 
 L Gatto, <b>KD Hansen</b>, MR Hoopmann, H Henning, O Kohlbacher, and A Beyer<sup>&dagger;</sup>.<br>
 <i>Testing and validation of computational methods for mass spectrometry.</i><br>
 Journal of Proteome Research 2015, In press.<br>
-[DOI](10.1021/acs.jproteome.5b00852) |
+[DOI](http://dx.doi.org/10.1021/acs.jproteome.5b00852) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26549429) |
 <span data-badge-type="4" data-doi="10.1021/acs.jproteome.5b00852"" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
 
@@ -41,7 +43,7 @@ Brief Bioinformatics 2015, In press.<br>
 
 A Pacis, L Tailleux, AM Morin, J Lambourne, JL Maclsaac, V Yotova, A Dumaine, A Danckaert, F Luca, J Grenier, <b>KD Hansen</b>, B Gicquel, M Yu, A Pai, C He, J Tung, T Pastinen, MS Kobor, R Pique-Regi, Y Gilad<sup>&dagger;</sup>, and LB Barreiro<sup>&dagger;</sup>.<br>
 <i>Bacterial infection remodels the DNA methylation landscape of human dendritic cells.</i><br>
-Genome Research 2015, In Press.<br>
+Genome Research 2015, 25(12):1801-1811.<br>
 [DOI](http://dx.doi.org/10.1101/gr.192005.115) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26392366) |
 <span data-badge-type="4" data-doi="10.1101/gr.192005.115"" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
