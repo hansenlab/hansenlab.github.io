@@ -26,6 +26,7 @@ AR Vandiver, A Idrizi, L Rizzardi, AP Feinberg, <b>KD Hansen</b><sup>&dagger;</s
 Scientific Reports 2015, 5:17911.<br>
 [DOI](http://dx.doi.org/10.1038/srep17911) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26648411) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4673417) | 
 <span data-badge-type="4" data-doi="10.1038/srep17911"" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
 
 L Gatto, <b>KD Hansen</b>, MR Hoopmann, H Henning, O Kohlbacher, and A Beyer<sup>&dagger;</sup>.<br>
