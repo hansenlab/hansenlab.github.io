@@ -49,6 +49,7 @@ A Pacis, L Tailleux, AM Morin, J Lambourne, JL Maclsaac, V Yotova, A Dumaine, A 
 Genome Research 2015, 25(12):1801-1811.<br>
 [DOI](http://dx.doi.org/10.1101/gr.192005.115) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26392366) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4665002) |
 <span data-badge-type="4" data-doi="10.1101/gr.192005.115"" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
 
 <b>JP Fortin</b> and <b>KD Hansen</b><sup>&dagger;</sup>.<br>

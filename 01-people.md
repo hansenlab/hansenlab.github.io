@@ -18,6 +18,27 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)<br>
 &nbsp;&nbsp;&nbsp;[Contact](index.html) | [CV](files/hansen_cv.pdf)<br>
 <br>
 
+<img alt = "Peter Hickey" align="left" src="media/people/hickey.png" width=200 height=200/>
+&nbsp;&nbsp;&nbsp;Peter Hickey<br>
+&nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
+&nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)<br>
+&nbsp;&nbsp;&nbsp;Johns Hopkins University<br>
+<br>
+&nbsp;&nbsp;&nbsp;Twitter: [@JayPykw](https://twitter.com/PeteHaitch) |
+GitHub: [PeteHaitch](https://github.com/PeteHaitch)<br>
+&nbsp;&nbsp;&nbsp;<br>
+<br><br><br><br><br>
+
+
+<img alt = "Kipper Fletez-Brant" align="left" src="media/people/kipper.jpg" width=200 height=200/>
+&nbsp;&nbsp;&nbsp;Kipper Fletez-Brant<br>
+&nbsp;&nbsp;&nbsp;Graduate Student in Human Genetics<br>
+&nbsp;&nbsp;&nbsp;[McKusick-Nathans Insitute of Genetic Medicine](http://www.hopkinsmedicine.org/geneticmedicine)<br>
+&nbsp;&nbsp;&nbsp;Johns Hopkins University<br>
+<br>
+<br>
+<br><br><br><br>
+
 <img alt = "Jean-Philippe Fortin" align="left" src="media/people/fortin.png" width=200 height=200/>
 &nbsp;&nbsp;&nbsp;Jean-Philippe Fortin<br>
 &nbsp;&nbsp;&nbsp;Graduate Student in Biostatistics<br>
@@ -28,15 +49,6 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)<br>
 GitHub: [Jfortin1](https://github.com/Jfortin1)<br>
 &nbsp;&nbsp;&nbsp;[Personal Webpage](http://jfortinbiostats.com)<br>
 <br><br><br><br><br>
-
-<img alt = "Kipper Fletez-Brant" align="left" src="media/people/kipper.jpg" width=200 height=200/>
-&nbsp;&nbsp;&nbsp;Kipper Fletez-Brant<br>
-&nbsp;&nbsp;&nbsp;Graduate Student in Human Genetics<br>
-&nbsp;&nbsp;&nbsp;[McKusick-Nathans Insitute of Genetic Medicine](http://www.hopkinsmedicine.org/geneticmedicine)<br>
-&nbsp;&nbsp;&nbsp;Johns Hopkins University<br>
-<br>
-<br>
-<br><br><br><br>
 
 <img alt = "Leslie Myint" align="left" src="media/people/myint.jpg" width=200 height=200/>
 &nbsp;&nbsp;&nbsp;Leslie Myint<br>
