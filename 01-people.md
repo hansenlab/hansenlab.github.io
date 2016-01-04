@@ -27,7 +27,7 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)<br>
 &nbsp;&nbsp;&nbsp;Twitter: [@PeteHaitch](https://twitter.com/PeteHaitch) |
 GitHub: [PeteHaitch](https://github.com/PeteHaitch)<br>
 &nbsp;&nbsp;&nbsp;<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 
 <img alt = "Kipper Fletez-Brant" align="left" src="media/people/kipper.jpg" width=200 height=200/>
@@ -48,7 +48,7 @@ GitHub: [PeteHaitch](https://github.com/PeteHaitch)<br>
 &nbsp;&nbsp;&nbsp;Twitter: [@JayPykw](https://twitter.com/JayPykw) |
 GitHub: [Jfortin1](https://github.com/Jfortin1)<br>
 &nbsp;&nbsp;&nbsp;[Personal Webpage](http://jfortinbiostats.com)<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 <img alt = "Leslie Myint" align="left" src="media/people/myint.jpg" width=200 height=200/>
 &nbsp;&nbsp;&nbsp;Leslie Myint<br>
@@ -57,7 +57,10 @@ GitHub: [Jfortin1](https://github.com/Jfortin1)<br>
 &nbsp;&nbsp;&nbsp;Johns Hopkins University<br>
 <br>
 &nbsp;&nbsp;&nbsp;GitHub: [lmyint](https://github.com/lmyint)<br>
-<br><br><br><br><br><br><br><br>
+<br>
+<br><br><br><br>
+
+<br><br>
 
 ### Support staff
 
