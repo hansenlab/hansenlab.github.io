@@ -58,7 +58,7 @@ GitHub: [Jfortin1](https://github.com/Jfortin1)<br>
 <br>
 &nbsp;&nbsp;&nbsp;GitHub: [lmyint](https://github.com/lmyint)<br>
 <br>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ### Support staff
 
