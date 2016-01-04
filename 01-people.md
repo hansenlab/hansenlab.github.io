@@ -24,7 +24,7 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)<br>
 &nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)<br>
 &nbsp;&nbsp;&nbsp;Johns Hopkins University<br>
 <br>
-&nbsp;&nbsp;&nbsp;Twitter: [@JayPykw](https://twitter.com/PeteHaitch) |
+&nbsp;&nbsp;&nbsp;Twitter: [@PeteHaitch](https://twitter.com/PeteHaitch) |
 GitHub: [PeteHaitch](https://github.com/PeteHaitch)<br>
 &nbsp;&nbsp;&nbsp;<br>
 <br><br><br><br><br>
@@ -36,7 +36,7 @@ GitHub: [PeteHaitch](https://github.com/PeteHaitch)<br>
 &nbsp;&nbsp;&nbsp;[McKusick-Nathans Insitute of Genetic Medicine](http://www.hopkinsmedicine.org/geneticmedicine)<br>
 &nbsp;&nbsp;&nbsp;Johns Hopkins University<br>
 <br>
-<br>
+&nbsp;&nbsp;&nbsp;Twitter: [@kipperfb](https://twitter.com/kipperfb) | GitHub: [cafletezbrant](https://github.com/cafletezbrant)<br>
 <br><br><br><br>
 
 <img alt = "Jean-Philippe Fortin" align="left" src="media/people/fortin.png" width=200 height=200/>
@@ -56,7 +56,7 @@ GitHub: [Jfortin1](https://github.com/Jfortin1)<br>
 &nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)<br>
 &nbsp;&nbsp;&nbsp;Johns Hopkins University<br>
 <br>
-<br>
+&nbsp;&nbsp;&nbsp;GitHub: [lmyint](https://github.com/lmyint)<br>
 <br><br><br><br><br><br><br><br>
 
 ### Support staff
