@@ -57,7 +57,7 @@ GitHub: [Jfortin1](https://github.com/Jfortin1)<br>
 &nbsp;&nbsp;&nbsp;Johns Hopkins University<br>
 <br>
 &nbsp;&nbsp;&nbsp;GitHub: [lmyint](https://github.com/lmyint)<br>
-<br>
+&nbsp;&nbsp;&nbsp;[Blog](https://lesliemyint.wordpress.com)<br>
 <br><br><br><br>
 
 <br><br><br><br>
