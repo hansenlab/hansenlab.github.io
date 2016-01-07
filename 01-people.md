@@ -18,7 +18,7 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)<br>
 &nbsp;&nbsp;&nbsp;[Contact](index.html) | [CV](files/hansen_cv.pdf)<br>
 <br>
 
-<img alt = "Peter Hickey" align="left" src="media/people/hickey.png" width=200 height=200/>
+<img alt = "Peter Hickey" align="left" src="media/people/phickey.jpg" width=200 height=200/>
 &nbsp;&nbsp;&nbsp;Peter Hickey<br>
 &nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
 &nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)<br>
