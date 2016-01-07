@@ -26,9 +26,8 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)<br>
 <br>
 &nbsp;&nbsp;&nbsp;Twitter: [@PeteHaitch](https://twitter.com/PeteHaitch) |
 GitHub: [PeteHaitch](https://github.com/PeteHaitch)<br>
-&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;[Personal Webpage](http://www.peterhickey.org)<br>
 <br><br><br><br>
-
 
 <img alt = "Kipper Fletez-Brant" align="left" src="media/people/kipper.jpg" width=200 height=200/>
 &nbsp;&nbsp;&nbsp;Kipper Fletez-Brant<br>
