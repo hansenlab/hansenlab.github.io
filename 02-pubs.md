@@ -19,6 +19,11 @@ Publication Repositories
 Unpublished Preprints
 ---------------------
 
+A Nellore, AE Jaffe, <b>JP Fortin</b>, J Alquicira-Hernández, L Collado-Torres, S Wang, RA Phillips, N Karbhari, <b>KD Hansen</B>, B Langmead<sup>&dagger;</sup>, JT Leek<sup>&dagger;</sup><br>
+<i>Human splicing diversity across the Sequence Read Archive.</i><br>
+bioRxiv 2015.<br>
+[DOI](http://dx.doi.org/10.1101/038224]
+
 Computational Biology
 ---------------------
 
