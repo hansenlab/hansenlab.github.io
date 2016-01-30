@@ -360,43 +360,44 @@ Published Preprints
 A Pacis, L Tailleux, J Lambourne, V Yotova, A Dumaine, A Danckaert, F Luca, JC Grenier, <b>KD Hansen</b>, B Gicquel, M Yu, A Pai, J Tung, C He, T Pastinen, R Pique-Regi, Y Gilad<sup>&dagger;</sup> and L Barreiro<sup>&dagger;</sup>.<br>
 <i>Bacterial Infection Remodels the DNA Methylation Landscape of Human Dendritic Cells.</i><br>
 bioRxiv 2015.<br>
-[DOI](http://dx.doi.org/10.1101/016022)
+[DOI](http://dx.doi.org/10.1101/016022) |
+Published in Genome Research 2015.
 
 <b>JP Fortin</b> and <b>KD Hansen<sup>&dagger;</sup>.</b><br>
 <i>Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data.</i><br>
 bioRxiv, 2015.<br>
-[DOI](http://dx.doi.org/10.1101/019000)
-<br>Published in Genome Biology 2015.
+[DOI](http://dx.doi.org/10.1101/019000) |
+Published in Genome Biology 2015.
 
 <b>JP Fortin</b>, A Labbe, M Lemire, BW Zanke, TJ Hudson, EJ Fertig, CMT Greenwood and <b>KD Hansen</b><sup>&dagger;</sup>.<br>
 <i>Functional normalization of 450k methylation array data improves replication in large cancer studies.</i><br>
 bioRxiv, 2014.<br>
-[DOI](http://dx.doi.org/10.1101/002956)
-<br>Published in Genome Biology 2014.
+[DOI](http://dx.doi.org/10.1101/002956) |
+Published in Genome Biology 2014.
 
 <b>KD Hansen</b>, RA Irizarry, and Z WU<sup>&dagger;</sup>.<br>
 <i>Removing technical variability in RNA-Seq data using conditional
 quantile normalization.</i><br>
 Johns Hopkins University, Dept. of Biostatistics Working
 Papers. Working Paper 227.<br>
-[PREPRINT](http://www.bepress.com/jhubiostat/paper227)
-<br>Published in Biostatistics 2012.
+[PREPRINT](http://www.bepress.com/jhubiostat/paper227) |
+Published in Biostatistics 2012.
 
 JH Bullard<sup>&lowast;</sup>, EA Purdom<sup>&lowast;</sup>, <b>KD Hansen</b>, S Durinck, and
 S Dudoit.<br>
 <i>Statistical Inference in mRNA-Seq: Exploratory Data Analysis and
 Differential Expression.</i><br>
 Working Paper 247, U.C. Berkeley, Division of Biostatistics, 2009.<br>
-[URL](http://www.bepress.com/ucbbiostat/paper247/)
-<br>Published in BMC Bioinformatics 2010.
+[URL](http://www.bepress.com/ucbbiostat/paper247/) |
+Published in BMC Bioinformatics 2010.
 
 H Bengtsson<sup>&dagger;</sup>, K Simpson, J Bullard, and <b>KD Hansen</b>.<br>
 <i>aroma.affymetrix: A generic framework in R for analyzing small to
 very large Affymetrix data sets in bounded memory</i>.<br>
 Technical Report 745, Department of Statistics, University of
 California, Berkeley, 2008.<br>
-[PDF](http://www.stat.berkeley.edu/tech-reports/745.pdf)
-
+[PDF](http://www.stat.berkeley.edu/tech-reports/745.pdf) |
+Abandoned.
 
 Other
 -----
