@@ -19,15 +19,21 @@ Publication Repositories
 Unpublished Preprints
 ---------------------
 
-A Nellore, AE Jaffe, <b>JP Fortin</b>, J Alquicira-Hernández, L Collado-Torres, S Wang, RA Phillips, N Karbhari, <b>KD Hansen</B>, B Langmead<sup>&dagger;</sup>, JT Leek<sup>&dagger;</sup><br>
+A Nellore, AE Jaffe, <b>JP Fortin</b>, J Alquicira-Hernández, L Collado-Torres, S Wang, RA Phillips, N Karbhari, <b>KD Hansen</B>, B Langmead<sup>&dagger;</sup>, and JT Leek<sup>&dagger;</sup>.<br>
 <i>Human splicing diversity across the Sequence Read Archive.</i><br>
+bioRxiv 2016.<br>
+[DOI](http://dx.doi.org/10.1101/038224) | <span data-badge-type="4" data-doi="10.1101/038224"" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
+
+A Nellore<sup>&dagger;</sup>, C Wilks, <b>KD Hansen</b>, JT Leek, and B Langmead<sup>&dagger;</sup>.<br>
+<i>Rail-dbGaP: a protocol and tool for analyzing protected genomic data in a commercial cloud.</i><br>
 bioRxiv 2015.<br>
-[DOI](http://dx.doi.org/10.1101/038224)
+[DOI](http://dx.doi.org/10.1101/035287) | <span data-badge-type="4" data-doi="035287"" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
+
 
 Computational Biology
 ---------------------
 
-AR Vandiver, A Idrizi, L Rizzardi, AP Feinberg, <b>KD Hansen</b><sup>&dagger;</sup>.<br>
+AR Vandiver, A Idrizi, L Rizzardi, AP Feinberg, and <b>KD Hansen</b><sup>&dagger;</sup>.<br>
 <i>DNA methylation is stable during replication and cell cycle arrest.</i><br>
 Scientific Reports 2015, 5:17911.<br>
 [DOI](http://dx.doi.org/10.1038/srep17911) |
@@ -380,7 +386,7 @@ Published in Genome Biology 2014.
 quantile normalization.</i><br>
 Johns Hopkins University, Dept. of Biostatistics Working
 Papers. Working Paper 227.<br>
-[PREPRINT](http://www.bepress.com/jhubiostat/paper227) |
+[URL](http://www.bepress.com/jhubiostat/paper227) |
 Published in Biostatistics 2012.
 
 JH Bullard<sup>&lowast;</sup>, EA Purdom<sup>&lowast;</sup>, <b>KD Hansen</b>, S Durinck, and
