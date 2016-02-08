@@ -27,7 +27,7 @@ bioRxiv 2016.<br>
 A Nellore<sup>&dagger;</sup>, C Wilks, <b>KD Hansen</b>, JT Leek, and B Langmead<sup>&dagger;</sup>.<br>
 <i>Rail-dbGaP: a protocol and tool for analyzing protected genomic data in a commercial cloud.</i><br>
 bioRxiv 2015.<br>
-[DOI](http://dx.doi.org/10.1101/035287) | <span data-badge-type="4" data-doi="035287"" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
+[DOI](http://dx.doi.org/10.1101/035287) | <span data-badge-type="4" data-doi="10.1101/035287"" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
 
 
 Computational Biology
