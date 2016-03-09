@@ -22,7 +22,7 @@ Unpublished Preprints
 A Nellore, AE Jaffe, <b>JP Fortin</b>, J Alquicira-Hernández, L Collado-Torres, S Wang, RA Phillips, N Karbhari, <b>KD Hansen</B>, B Langmead<sup>&dagger;</sup>, and JT Leek<sup>&dagger;</sup>.<br>
 <i>Human splicing diversity across the Sequence Read Archive.</i><br>
 bioRxiv 2016.<br>
-[DOI](http://dx.doi.org/10.1101/038224) | <span data-badge-type="4" data-doi="10.1101/038224"" data-hide-no-mentions="true" class="altmetric-embed" markdown="span"></span><br>
+[DOI](http://dx.doi.org/10.1101/038224) | <span data-badge-type="4" data-doi="10.1101/038224"" data-hide-no-mentions="true" class="altmetric-embed" markdown="1"></span><br>
 
 A Nellore<sup>&dagger;</sup>, C Wilks, <b>KD Hansen</b>, JT Leek, and B Langmead<sup>&dagger;</sup>.<br>
 <i>Rail-dbGaP: a protocol and tool for analyzing protected genomic data in a commercial cloud.</i><br>
