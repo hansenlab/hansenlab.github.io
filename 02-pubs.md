@@ -69,7 +69,7 @@ Genome Biology 2015, 16:180.<br />
 [DOI](http://www.dx.doi.org/10.1186/s13059-015-0741-y) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26316348) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4574526) |
-<span data-badge-type="4" data-doi="10.1186/s13059-015-0741-y" data-hide-no-mentions="true" class="altmetric-embed"></span><br />
+<div data-badge-type="4" data-doi="10.1186/s13059-015-0741-y" data-hide-no-mentions="true" class="altmetric-embed"></div><br />
 <font size="-1">
 Research highlight by Mourad and Cuvier in [Genome Biology](http://www.dx.doi.org/10.1186/s13059-015-0752-8)
 </font>
