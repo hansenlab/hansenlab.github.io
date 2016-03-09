@@ -18,7 +18,7 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)<br>
 &nbsp;&nbsp;&nbsp;[Contact](index.html) | [CV](files/hansen_cv.pdf)<br>
 <br>
 
-<img alt = "Peter Hickey" align="left" src="media/people/phickey.jpg" width=200 height=200/>
+<img alt="Peter Hickey" align="left" src="media/people/phickey.jpg" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Peter Hickey<br>
 &nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
 &nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)<br>
@@ -29,7 +29,7 @@ GitHub: [PeteHaitch](https://github.com/PeteHaitch)<br>
 &nbsp;&nbsp;&nbsp;[Personal Webpage](http://www.peterhickey.org)<br>
 <br><br><br><br>
 
-<img alt = "Kipper Fletez-Brant" align="left" src="media/people/kipper.jpg" width=200 height=200/>
+<img alt="Kipper Fletez-Brant" align="left" src="media/people/kipper.jpg" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Kipper Fletez-Brant<br>
 &nbsp;&nbsp;&nbsp;Graduate Student in Human Genetics<br>
 &nbsp;&nbsp;&nbsp;[McKusick-Nathans Insitute of Genetic Medicine](http://www.hopkinsmedicine.org/geneticmedicine)<br>
@@ -38,7 +38,7 @@ GitHub: [PeteHaitch](https://github.com/PeteHaitch)<br>
 &nbsp;&nbsp;&nbsp;Twitter: [@kipperfb](https://twitter.com/kipperfb) | GitHub: [cafletezbrant](https://github.com/cafletezbrant)<br>
 <br><br><br><br>
 
-<img alt = "Jean-Philippe Fortin" align="left" src="media/people/fortin.png" width=200 height=200/>
+<img alt="Jean-Philippe Fortin" align="left" src="media/people/fortin.png" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Jean-Philippe Fortin<br>
 &nbsp;&nbsp;&nbsp;Graduate Student in Biostatistics<br>
 &nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)<br>
@@ -49,7 +49,7 @@ GitHub: [Jfortin1](https://github.com/Jfortin1)<br>
 &nbsp;&nbsp;&nbsp;[Personal Webpage](http://jfortinbiostats.com)<br>
 <br><br><br><br>
 
-<img alt = "Leslie Myint" align="left" src="media/people/myint.jpg" width=200 height=200/>
+<img alt="Leslie Myint" align="left" src="media/people/myint.jpg" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Leslie Myint<br>
 &nbsp;&nbsp;&nbsp;Graduate Student in Biostatistics<br>
 &nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)<br>
@@ -63,7 +63,7 @@ GitHub: [Jfortin1](https://github.com/Jfortin1)<br>
 
 ### Support staff
 
-<img alt = "Jeffrey" align="left" src="media/people/jeffrey.png" width=200 height=200/>
+<img alt="Jeffrey" align="left" src="media/people/jeffrey.png" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;<b>Lab Manny:</b> Jeffrey L.<br>
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<b>Responsibility</b>: During the summer months, Jeffrey is responsible for<br>
