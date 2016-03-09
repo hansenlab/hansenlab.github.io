@@ -33,6 +33,20 @@ bioRxiv 2015.<br>
 Computational Biology
 ---------------------
 
+L Kannan, M Ramos, A Re, N El-Hachem, A Safikhani, DMA Gendoo, S Davis, S Gomez-Cabrero, R Castelo, <b>KD Hansen</b>, VJ Carey, M Morgan, AC Culhane, B Haibe-Kains, and L Waldron<sup>&dagger;</sup>.<br>
+<i>Public data and open source tools for multi-assay genomic investigation of disease.</i><br>
+Brief Bioinformatics 2015, In press.<br>
+[DOI](http://dx.doi.org/10.1093/bib/bbv080) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/26463000) |
+<span data-badge-type="4" data-doi="10.1093/bib/bbv080"" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
+
+L Gatto, <b>KD Hansen</b>, MR Hoopmann, H Henning, O Kohlbacher, and A Beyer<sup>&dagger;</sup>.<br>
+<i>Testing and validation of computational methods for mass spectrometry.</i><br>
+Journal of Proteome Research 2016, 15(3):809-814.<br>
+[DOI](http://dx.doi.org/10.1021/acs.jproteome.5b00852) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/26549429) |
+<span data-badge-type="4" data-doi="10.1021/acs.jproteome.5b00852"" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
+
 AR Vandiver, A Idrizi, L Rizzardi, AP Feinberg, and <b>KD Hansen</b><sup>&dagger;</sup>.<br>
 <i>DNA methylation is stable during replication and cell cycle arrest.</i><br>
 Scientific Reports 2015, 5:17911.<br>
@@ -40,20 +54,6 @@ Scientific Reports 2015, 5:17911.<br>
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26648411) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4673417) | 
 <span data-badge-type="4" data-doi="10.1038/srep17911"" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
-
-L Gatto, <b>KD Hansen</b>, MR Hoopmann, H Henning, O Kohlbacher, and A Beyer<sup>&dagger;</sup>.<br>
-<i>Testing and validation of computational methods for mass spectrometry.</i><br>
-Journal of Proteome Research 2015, In press.<br>
-[DOI](http://dx.doi.org/10.1021/acs.jproteome.5b00852) |
-[PMID](http://www.ncbi.nlm.nih.gov/pubmed/26549429) |
-<span data-badge-type="4" data-doi="10.1021/acs.jproteome.5b00852"" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
-
-L Kannan, M Ramos, A Re, N El-Hachem, A Safikhani, DMA Gendoo, S Davis, S Gomez-Cabrero, R Castelo, <b>KD Hansen</b>, VJ Carey, M Morgan, AC Culhane, B Haibe-Kains, and L Waldron<sup>&dagger;</sup>.<br>
-<i>Public data and open source tools for multi-assay genomic investigation of disease.</i><br>
-Brief Bioinformatics 2015, In press.<br>
-[DOI](http://dx.doi.org/10.1093/bib/bbv080) |
-[PMID](http://www.ncbi.nlm.nih.gov/pubmed/26463000) |
-<span data-badge-type="4" data-doi="10.1093/bib/bbv080"" data-hide-no-mentions="true" class="altmetric-embed"></span><br>
 
 A Pacis, L Tailleux, AM Morin, J Lambourne, JL Maclsaac, V Yotova, A Dumaine, A Danckaert, F Luca, J Grenier, <b>KD Hansen</b>, B Gicquel, M Yu, A Pai, C He, J Tung, T Pastinen, MS Kobor, R Pique-Regi, Y Gilad<sup>&dagger;</sup>, and LB Barreiro<sup>&dagger;</sup>.<br>
 <i>Bacterial infection remodels the DNA methylation landscape of human dendritic cells.</i><br>
