@@ -6,7 +6,7 @@ permalink: "people.html"
 ---
 {% include JB/setup %}
 
-<img alt = "Kasper Daniel Hansen" align="left" src="media/people/khansen.jpg" width=200 height=200/>
+<img alt="Kasper Daniel Hansen" align="left" src="media/people/khansen.jpg" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Kasper Daniel Hansen<br>
 &nbsp;&nbsp;&nbsp;Assistant Professor<br>
 &nbsp;&nbsp;&nbsp;[McKusick-Nathans Insitute of Genetic Medicine](http://www.hopkinsmedicine.org/geneticmedicine)<br>
