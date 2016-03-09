@@ -24,7 +24,7 @@ A Nellore, AE Jaffe, <b>JP Fortin</b>, J Alquicira-Hernández, L Collado-Torres,
 bioRxiv 2016.<br>
 [DOI](http://dx.doi.org/10.1101/038224) | <span data-badge-type="4" data-doi="10.1101/038224"" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
-<div data-badge-type="4" data-doi="10.1101/038224"" data-hide-no-mentions="true" class="altmetric-embed" markdown="block"></div><br />
+<div data-badge-type="4" data-doi="10.1101/038224" data-hide-no-mentions="true" class="altmetric-embed"></div><br />
 
 A Nellore<sup>&dagger;</sup>, C Wilks, <b>KD Hansen</b>, JT Leek, and B Langmead<sup>&dagger;</sup>.<br>
 <i>Rail-dbGaP: a protocol and tool for analyzing protected genomic data in a commercial cloud.</i><br>
