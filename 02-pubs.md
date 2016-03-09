@@ -70,7 +70,7 @@ Genome Biology 2015, 16:180.<br />
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26316348) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4574526) |
 <span data-badge-type="4" data-doi="10.1186/s13059-015-0741-y" data-hide-no-mentions="true" class="altmetric-embed"></span><br />
-<font size="-1" markdown="1">
+<font size="-1">
 Research highlight by Mourad and Cuvier in [Genome Biology](http://www.dx.doi.org/10.1186/s13059-015-0752-8)
 </font>
 
@@ -156,7 +156,7 @@ Molecular Psychiatry 2014, 19(8):862-871.<br />
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/23999529) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4184909) |
 <span data-badge-type="4" data-doi="10.1038/mp.2013.114" data-hide-no-mentions="true" class="altmetric-embed"></span><br />
-<font size=-1>
+<font size="-1">
 Faculty of 1000 reviews [f1000](http://f1000.com/prime/718097865)<br />
 </font>
 
@@ -186,7 +186,7 @@ Genome Biology 2012, 13:R83.<br />
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3491411) |
 <span data-badge-type="4" data-doi="10.1186/gb-2012-13-10-r83" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <br />
-<font size=-1>
+<font size="-1">
 Highly accessed
 </font>
 
@@ -199,7 +199,7 @@ Nature Neuroscience 2012, 15(10):1371-1373.<br />
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3518384) |
 <span data-badge-type="4" data-doi="10.1038/nn.3218" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <br />
-<font size=-1>
+<font size="-1">
 Coverage by Nature News [URL](http://www.nature.com/news/job-swapping-makes-its-mark-on-honeybee-dna-1.11418)<br />
 Coverage by LA Times [URL](http://www.latimes.com/news/science/sciencenow/lat-sci-sn-worker-bees-switch-jobs-via-their-epigenomes-20120917,0,3764312.story)<br />
 Coverage by The New Republic [URL](http://www.tnr.com/blog/plank/107327/epigenetics-bees-biology)<br />
@@ -218,7 +218,7 @@ PNAS 2012, 109(17):6490-6495.<br />
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3340061) |
 <span data-badge-type="4" data-doi="10.1073/pnas.1202734109" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <br />
-<font size=-1>
+<font size="-1">
 Faculty of 1000 reviews [f1000](http://f1000.com/14267420)<br />
 Coverage by NY times [URL](http://www.nytimes.com/2012/04/10/science/changes-in-social-status-seen-in-monkeys-genes.html?src=rechp)<br />
 Coverage by Genomeweb [URL](http://www.genomeweb.com/blog/healthy-popularity)<br />
@@ -256,7 +256,7 @@ Nature Genetics 2011, 43:768-775.<br />
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3145050) |
 <span data-badge-type="4" data-doi="10.1038/ng.865" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <br />
-<font size=-1>
+<font size="-1">
 Faculty of 1000 reviews [f1000](http://f1000.com/11598956)<br />
 Comment by JP Issa in Nat Genet, <i>Epigenetic variation and cellular Darwinism</i>.
 [DOI](http://dx.doi.org/10.1038/ng.897) 
@@ -303,7 +303,7 @@ Genome Biology 2010, 11:R83.<br />
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2945785) |
 <span data-badge-type="4" data-doi="10.1186/gb-2010-11-8-r83" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <br />
-<font size=-1>
+<font size="-1">
 Highly accessed
 </font>
 
@@ -326,7 +326,7 @@ BMC Bioinformatics 2010, 11:94.<br />
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2838869) |
 <span data-badge-type="4" data-doi="10.1186/1471-2105-11-94" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <br />
-<font size=-1>
+<font size="-1">
 Highly accessed
 </font>
 
