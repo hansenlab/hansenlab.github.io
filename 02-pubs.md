@@ -45,6 +45,7 @@ L Gatto, <b>KD Hansen</b>, MR Hoopmann, H Henning, O Kohlbacher, and A Beyer<sup
 Journal of Proteome Research 2016, 15(3):809-814.<br />
 [DOI](http://doi.org/10.1021/acs.jproteome.5b00852) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26549429) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4804830) |
 <span data-badge-type="4" data-doi="10.1021/acs.jproteome.5b00852" data-hide-no-mentions="true" class="altmetric-embed"></span><br />
 
 AR Vandiver, A Idrizi, L Rizzardi, AP Feinberg, and <b>KD Hansen</b><sup>&dagger;</sup>.<br />

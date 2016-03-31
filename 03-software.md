@@ -125,7 +125,7 @@ for RNA-seq.
 Data packages (Bioconductor)
 ----------------------------
 
-[AffymetrixDataTestFiles](http://bioconductor.org/packages/release/data/experiment/html/AffymetrixDataTestFiles.html):
+[AffymetrixDataTestFiles](http://bioconductor.org/packages/AffymetrixDataTestFiles):
 Affymetrix array files, for test purposes.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
 [build devel](http://bioconductor.org/checkResults/devel/data-experiment-LATEST/AffymetrixDataTestFiles/)
@@ -133,7 +133,7 @@ Affymetrix array files, for test purposes.
 [build release](http://bioconductor.org/checkResults/release/data-experiment-LATEST/AffymetrixDataTestFiles/)
 ]
 
-[bsseqData](http://bioconductor.org/packages/release/data/experiment/html/bsseqData.html): WGBS
+[bsseqData](http://bioconductor.org/packages/bsseqData): WGBS
 example data, for the bsseq package.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
 [build devel](http://bioconductor.org/checkResults/devel/data-experiment-LATEST/bsseqData/)
@@ -141,7 +141,7 @@ example data, for the bsseq package.
 [build release](http://bioconductor.org/checkResults/release/data-experiment-LATEST/bsseqData/)
 ]
 
-[minfiData](http://bioconductor.org/packages/release/data/experiment/html/minfiData.html): 450k data
+[minfiData](http://bioconductor.org/packages/minfiData): 450k data
 example data, for the minfi package (and others).
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
 [build devel](http://bioconductor.org/checkResults/devel/data-experiment-LATEST/minfiData/)
@@ -149,7 +149,7 @@ example data, for the minfi package (and others).
 [build release](http://bioconductor.org/checkResults/release/data-experiment-LATEST/minfiData/)
 ]
 
-[IlluminaDataTestFiles](http://bioconductor.org/packages/release/data/experiment/html/IlluminaDataTestFiles.html):
+[IlluminaDataTestFiles](http://bioconductor.org/packages/IlluminaDataTestFiles):
 Illumina array files, for test purposes.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
 [build devel](http://bioconductor.org/checkResults/devel/data-experiment-LATEST/IlluminaDataTestFiles/)
@@ -157,7 +157,7 @@ Illumina array files, for test purposes.
 [build release](http://bioconductor.org/checkResults/release/data-experiment-LATEST/IlluminaDataTestFiles/)
 ]
 
-[shinyMethylData](http://bioconductor.org/packages/release/data/experiment/html/shinyMethylData.html):
+[shinyMethylData](http://bioconductor.org/packages/shinyMethylData):
 example summary data for the shinyMethyl package.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
 [build devel](http://bioconductor.org/checkResults/devel/data-experiment-LATEST/shinyMethylData/)
@@ -169,10 +169,12 @@ example summary data for the shinyMethyl package.
 Annotation packages (Bioconductor)
 ----------------------------------
 
-[IlluminaHumanMethylation27kmanifest](http://bioconductor.org/packages/release/data/annotation/html/IlluminaHumanMethylation27kmanifest.html): annotation files for the 27k array.
+[IlluminaHumanMethylation27kmanifest](http://bioconductor.org/packages/IlluminaHumanMethylation27kmanifest): annotation files for the 27k array.
 
-[IlluminaHumanMethylation450kmanifest](http://bioconductor.org/packages/release/data/annotation/html/IlluminaHumanMethylation450kmanifest.html): annotation files for the 450k array.
+[IlluminaHumanMethylation450kmanifest](http://bioconductor.org/packages/IlluminaHumanMethylation450kmanifest): annotation files for the 450k array.
 
-[IlluminaHumanMethylation450kanno.ilmn12.hg19](http://bioconductor.org/packages/release/data/annotation/html/IlluminaHumanMethylation450kanno.ilmn12.hg19.html): annotation files for the 450k array.
+[IlluminaHumanMethylation450kanno.ilmn12.hg19](http://bioconductor.org/packages/IlluminaHumanMethylation450kanno.ilmn12.hg19): annotation files for the 450k array.
 
+[IlluminaHumanMethylationEPICmanifest](http://bioconductor.org/packages/IlluminaHumanMethylationEPICmanifest): annotation files for the EPIC array.
 
+[IlluminaHumanMethylationEPICanno.ilm10b2.hg19](http://bioconductor.org/packages/IlluminaHumanMethylationEPICanno.ilm10b2.hg19): annotation files for the EPIC array.
