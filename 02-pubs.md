@@ -14,7 +14,8 @@ Publication Repositories
 [Google Scholar Citations](http://scholar.google.com/citations?user=8XOPyM4AAAAJ&hl=en) |
 [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Hansen%2C+Kasper+D%5BAuthor%5D+or+Hansen%2C+Kasper+Daniel%5BAuthor%5D+or+17681996%5BPmid%5D+or+21177974%5BPmid%5D+or+23999529%5BPmid%5D+or+25285208%5BPmid%5D) | 
 [ORCID](http://orcid.org/0000-0003-0086-0687): 0000-0003-0086-0687 |
-[Europe PMC Citations](http://europepmc.org/authors/0000-0003-0086-0687)
+[Europe PMC Citations](http://europepmc.org/authors/0000-0003-0086-0687) |
+[Impactstory](https://impactstory.org/u/0000-0003-0086-0687)
 
 Unpublished Preprints
 ---------------------
@@ -24,14 +25,14 @@ A Nellore, AE Jaffe, <b>JP Fortin</b>, J Alquicira-Hernández, L Collado-Torres,
 bioRxiv 2016.<br />
 [DOI](http://doi.org/10.1101/038224) | <span data-badge-type="4" data-doi="10.1101/038224" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
-A Nellore<sup>&dagger;</sup>, C Wilks, <b>KD Hansen</b>, JT Leek, and B Langmead<sup>&dagger;</sup>.<br />
-<i>Rail-dbGaP: a protocol and tool for analyzing protected genomic data in a commercial cloud.</i><br />
-bioRxiv 2015.<br />
-[DOI](http://doi.org/10.1101/035287) | <span data-badge-type="4" data-doi="10.1101/035287" data-hide-no-mentions="true" class="altmetric-embed"></span><br />
-
-
 Computational Biology
 ---------------------
+
+A Nellore<sup>&dagger;</sup>, C Wilks, <b>KD Hansen</b>, JT Leek, and B Langmead<sup>&dagger;</sup>.<br />
+<i>Rail-dbGaP: a protocol and tool for analyzing protected genomic data in a commercial cloud.</i><br />
+Bioinformatics 2016, In press.<br />
+[DOI](http://doi.org/10.1093/bioinformatics/btw177) | 
+<span data-badge-type="4" data-doi="10.1093/bioinformatics/btw177" data-hide-no-mentions="true" class="altmetric-embed"></span><br /> 
 
 L Kannan, M Ramos, A Re, N El-Hachem, A Safikhani, DMA Gendoo, S Davis, S Gomez-Cabrero, R Castelo, <b>KD Hansen</b>, VJ Carey, M Morgan, AC Culhane, B Haibe-Kains, and L Waldron<sup>&dagger;</sup>.<br />
 <i>Public data and open source tools for multi-assay genomic investigation of disease.</i><br />
@@ -363,6 +364,12 @@ F1000Research 2015, 4.<br />
 
 Published Preprints
 -------------------
+
+A Nellore<sup>&dagger;</sup>, C Wilks, <b>KD Hansen</b>, JT Leek, and B Langmead<sup>&dagger;</sup>.<br />
+<i>Rail-dbGaP: a protocol and tool for analyzing protected genomic data in a commercial cloud.</i><br />
+bioRxiv 2015.<br />
+[DOI](http://doi.org/10.1101/035287) | <span data-badge-type="4" data-doi="10.1101/035287" data-hide-no-mentions="true" class="altmetric-embed"></span><br /> |
+Published in Bioinformatics 2016
 
 A Pacis, L Tailleux, J Lambourne, V Yotova, A Dumaine, A Danckaert, F Luca, JC Grenier, <b>KD Hansen</b>, B Gicquel, M Yu, A Pai, J Tung, C He, T Pastinen, R Pique-Regi, Y Gilad<sup>&dagger;</sup> and L Barreiro<sup>&dagger;</sup>.<br />
 <i>Bacterial Infection Remodels the DNA Methylation Landscape of Human Dendritic Cells.</i><br />
