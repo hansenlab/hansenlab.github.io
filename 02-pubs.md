@@ -32,6 +32,7 @@ A Nellore<sup>&dagger;</sup>, C Wilks, <b>KD Hansen</b>, JT Leek, and B Langmead
 <i>Rail-dbGaP: a protocol and tool for analyzing protected genomic data in a commercial cloud.</i><br />
 Bioinformatics 2016, In press.<br />
 [DOI](http://doi.org/10.1093/bioinformatics/btw177) | 
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/27153614) |
 <span data-badge-type="4" data-doi="10.1093/bioinformatics/btw177" data-hide-no-mentions="true" class="altmetric-embed"></span><br /> 
 
 L Kannan, M Ramos, A Re, N El-Hachem, A Safikhani, DMA Gendoo, S Davis, S Gomez-Cabrero, R Castelo, <b>KD Hansen</b>, VJ Carey, M Morgan, AC Culhane, B Haibe-Kains, and L Waldron<sup>&dagger;</sup>.<br />
