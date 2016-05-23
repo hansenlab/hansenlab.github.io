@@ -363,6 +363,15 @@ F1000Research 2015, 4.<br />
 [DOI](http://doi.org/10.12688/f1000research.6758.1)
 
 
+Books
+-----
+
+<b>KD Hansen</b>.<br />
+<i>Bioconductor, Introduction to Core Technologies.</i><br />
+Leanpub, 2016.<br />
+[URL](https://leanpub.com/bioconductor/)
+
+
 Published Preprints
 -------------------
 
