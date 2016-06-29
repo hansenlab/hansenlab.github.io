@@ -25,6 +25,12 @@ A Nellore, AE Jaffe, <b>JP Fortin</b>, J Alquicira-Hernández, L Collado-Torres,
 bioRxiv 2016.<br />
 [DOI](http://doi.org/10.1101/038224) | <span data-badge-type="4" data-doi="10.1101/038224" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
+SV Andrews, C Ladd-Acosta, AP Feinberg, <b>KD Hansen</b>, MD Fallin.<br />
+<i>'Gap hunting' to identify multimodal distributions of DNA methylation.</i><br />
+bioRxiv 2016.<br />
+[DOI](http://dx.doi.org/10.1101/059659) | <span data-badge-type="4" data-doi="10.1101/059659" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+
+
 Computational Biology
 ---------------------
 
