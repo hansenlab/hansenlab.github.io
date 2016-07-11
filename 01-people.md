@@ -38,16 +38,6 @@ GitHub: [PeteHaitch](https://github.com/PeteHaitch)<br>
 &nbsp;&nbsp;&nbsp;Twitter: [@kipperfb](https://twitter.com/kipperfb) | GitHub: [cafletezbrant](https://github.com/cafletezbrant)<br>
 <br><br><br><br>
 
-<img alt="Jean-Philippe Fortin" align="left" src="media/people/fortin.png" width="200" height="200"/>
-&nbsp;&nbsp;&nbsp;Jean-Philippe Fortin<br>
-&nbsp;&nbsp;&nbsp;Graduate Student in Biostatistics<br>
-&nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)<br>
-&nbsp;&nbsp;&nbsp;Johns Hopkins University<br>
-<br>
-&nbsp;&nbsp;&nbsp;Twitter: [@JayPykw](https://twitter.com/JayPykw) |
-GitHub: [Jfortin1](https://github.com/Jfortin1)<br>
-&nbsp;&nbsp;&nbsp;[Personal Webpage](http://jfortinbiostats.com)<br>
-<br><br><br><br>
 
 <img alt="Leslie Myint" align="left" src="media/people/myint.jpg" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Leslie Myint<br>
@@ -72,4 +62,17 @@ GitHub: [Jfortin1](https://github.com/Jfortin1)<br>
 &nbsp;&nbsp;&nbsp;<b>Bio</b>: Jeffrey has a bachelor degree from Utah State and joins us<br>
 &nbsp;&nbsp;&nbsp;with 3.5 years of experience working with toddlers and infants.<br>
 <br>
+<br><br><br><br>
+
+### Alumni
+
+<img alt="Jean-Philippe Fortin" align="left" src="media/people/fortin.png" width="200" height="200"/>
+&nbsp;&nbsp;&nbsp;Jean-Philippe Fortin<br>
+&nbsp;&nbsp;&nbsp;Was: Graduate Student in Biostatistics<br>
+&nbsp;&nbsp;&nbsp;Now: Postdoc at UPenn<br>
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;Twitter: [@JayPykw](https://twitter.com/JayPykw) |
+GitHub: [Jfortin1](https://github.com/Jfortin1)<br>
+&nbsp;&nbsp;&nbsp;[Personal Webpage](http://jfortinbiostats.com)<br>
 <br><br><br><br>
