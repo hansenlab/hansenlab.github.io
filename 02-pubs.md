@@ -47,7 +47,7 @@ Bioinformatics 2016, In press.<br />
 
 L Kannan, M Ramos, A Re, N El-Hachem, A Safikhani, DMA Gendoo, S Davis, S Gomez-Cabrero, R Castelo, <b>KD Hansen</b>, VJ Carey, M Morgan, AC Culhane, B Haibe-Kains, and L Waldron<sup>&dagger;</sup>.<br />
 <i>Public data and open source tools for multi-assay genomic investigation of disease.</i><br />
-Brief Bioinformatics 2015, In press.<br />
+Brief Bioinformatics 2016, 17(4):603-615.<br />
 [DOI](http://doi.org/10.1093/bib/bbv080) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26463000) |
 <span data-badge-type="4" data-doi="10.1093/bib/bbv080" data-hide-no-mentions="true" class="altmetric-embed"></span><br />
