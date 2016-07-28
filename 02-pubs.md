@@ -31,9 +31,14 @@ bioRxiv 2016.<br />
 [DOI](http://dx.doi.org/10.1101/059659) | <span data-badge-type="4" data-doi="10.1101/059659" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 X Li, Y Liu, T Salz, <b>KD Hansen</b>, AP Feinberg.<br />
-<i>Whole genome analysis of the methylome and hydroxymethylome in normal and malignant lung and liver.<i><br />
+<i>Whole genome analysis of the methylome and hydroxymethylome in normal and malignant lung and liver.</i><br />
 bioRxiv 2016.<br />
 [DOI](http://dx.doi.org/10.1101/062588) | <span data-badge-type="4" data-doi="10.1101/062588" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+
+<b>JP Fortin</b>, T Triche Jr, <b>KD Hansen</b><sup>&dagger;</sup>.<br />
+<i>Preprocessing, normalization and integration of the Illumina HumanMethylationEPIC array.</i><br />
+bioRxiv, 2016.<br />
+[DOI](http://dx.doi.org/10.1101/065490) | <span data-badge-type="4" data-doi="10.1101/065490" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 Computational Biology
 ---------------------
