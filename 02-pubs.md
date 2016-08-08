@@ -20,25 +20,30 @@ Publication Repositories
 Unpublished Preprints
 ---------------------
 
-A Nellore, AE Jaffe, <b>JP Fortin</b>, J Alquicira-Hernández, L Collado-Torres, S Wang, RA Phillips, N Karbhari, <b>KD Hansen</B>, B Langmead<sup>&dagger;</sup>, and JT Leek<sup>&dagger;</sup>.<br />
-<i>Human splicing diversity across the Sequence Read Archive.</i><br />
-bioRxiv 2016.<br />
-[DOI](http://doi.org/10.1101/038224) | <span data-badge-type="4" data-doi="10.1101/038224" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+L Collado-Torres<sup>&lowast;</sup>, A Nellore<sup>&lowast;</sup>, K Kammers, SE Ellis, MA Taub, <b>KD Hansen</b>, AE Jaffe<sup>&dagger;</sup>, B Langmead<sup>&dagger;</sup>, JT Leek<sup>&dagger;</sup>.<br />
+<i>recount: A large-scale resource of analysis-ready RNA-seq expression data.<i><br />
+bioRxiv, 2016.<br />
+[DOI](http://dx.doi.org/10.1101/068478)
 
-SV Andrews, C Ladd-Acosta, AP Feinberg, <b>KD Hansen</b>, MD Fallin.<br />
-<i>'Gap hunting' to identify multimodal distributions of DNA methylation.</i><br />
-bioRxiv 2016.<br />
-[DOI](http://dx.doi.org/10.1101/059659) | <span data-badge-type="4" data-doi="10.1101/059659" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+<b>JP Fortin</b>, T Triche Jr, <b>KD Hansen</b><sup>&dagger;</sup>.<br />
+<i>Preprocessing, normalization and integration of the Illumina HumanMethylationEPIC array.</i><br />
+bioRxiv, 2016.<br />
+[DOI](http://dx.doi.org/10.1101/065490) | <span data-badge-type="4" data-doi="10.1101/065490" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 X Li, Y Liu, T Salz, <b>KD Hansen</b>, AP Feinberg.<br />
 <i>Whole genome analysis of the methylome and hydroxymethylome in normal and malignant lung and liver.</i><br />
 bioRxiv 2016.<br />
 [DOI](http://dx.doi.org/10.1101/062588) | <span data-badge-type="4" data-doi="10.1101/062588" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
-<b>JP Fortin</b>, T Triche Jr, <b>KD Hansen</b><sup>&dagger;</sup>.<br />
-<i>Preprocessing, normalization and integration of the Illumina HumanMethylationEPIC array.</i><br />
-bioRxiv, 2016.<br />
-[DOI](http://dx.doi.org/10.1101/065490) | <span data-badge-type="4" data-doi="10.1101/065490" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+SV Andrews, C Ladd-Acosta, AP Feinberg, <b>KD Hansen</b>, MD Fallin.<br />
+<i>'Gap hunting' to identify multimodal distributions of DNA methylation.</i><br />
+bioRxiv 2016.<br />
+[DOI](http://dx.doi.org/10.1101/059659) | <span data-badge-type="4" data-doi="10.1101/059659" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+
+A Nellore, AE Jaffe, <b>JP Fortin</b>, J Alquicira-Hernández, L Collado-Torres, S Wang, RA Phillips, N Karbhari, <b>KD Hansen</B>, B Langmead<sup>&dagger;</sup>, and JT Leek<sup>&dagger;</sup>.<br />
+<i>Human splicing diversity across the Sequence Read Archive.</i><br />
+bioRxiv 2016.<br />
+[DOI](http://doi.org/10.1101/038224) | <span data-badge-type="4" data-doi="10.1101/038224" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 Computational Biology
 ---------------------
@@ -55,6 +60,7 @@ L Kannan, M Ramos, A Re, N El-Hachem, A Safikhani, DMA Gendoo, S Davis, S Gomez-
 Brief Bioinformatics 2016, 17(4):603-615.<br />
 [DOI](http://doi.org/10.1093/bib/bbv080) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26463000) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4945830) |
 <span data-badge-type="4" data-doi="10.1093/bib/bbv080" data-hide-no-mentions="true" class="altmetric-embed"></span><br />
 
 L Gatto, <b>KD Hansen</b>, MR Hoopmann, H Henning, O Kohlbacher, and A Beyer<sup>&dagger;</sup>.<br />
@@ -277,8 +283,9 @@ Nature Genetics 2011, 43:768-775.<br />
 <font size="-1">
 Faculty of 1000 reviews [f1000](http://f1000.com/11598956)<br />
 Comment by JP Issa in Nat Genet, <i>Epigenetic variation and cellular Darwinism</i>.
-[DOI](http://doi.org/10.1038/ng.897) 
-[PMID](http://www.ncbi.nlm.nih.gov/pubmed/21792236)<br />
+[DOI](http://doi.org/10.1038/ng.897) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/21792236)
+<br />
 Described in Cell
 [DOI](http://doi.org/10.1016/j.cell.2011.09.021)<br />
 Coverage by Genomeweb [URL](http://www.genomeweb.com/sequencing/study-suggests-widespread-loss-epigenetic-regulation-cancer-genomes)
