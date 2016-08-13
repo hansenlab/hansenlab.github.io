@@ -179,7 +179,7 @@ Molecular Psychiatry 2014, 19(8):862-871.<br />
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/23999529) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4184909) |
 <span data-badge-type="4" data-doi="10.1038/mp.2013.114" data-hide-no-mentions="true" class="altmetric-embed"></span><br />
-&#8627; Faculty of 1000 reviews [URL](http://f1000.com/prime/718097865)<br />
+&#8627; Faculty of 1000 review [URL](http://f1000.com/prime/718097865)<br />
 
 <b>KD Hansen</b><sup>&lowast;</sup>, S Sabunciyan<sup>&lowast;</sup>, B Langmead, N Nagy, R Curley, G Klein, E Klein, D Salamon, AP Feinberg<sup>&dagger;</sup>.<br />
 <i>Large-scale hypomethylated blocks associated with Epstein-Barr virus-induced B-cell
@@ -233,10 +233,10 @@ PNAS 2012, 109(17):6490-6495.<br />
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22493251) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3340061) |
 <span data-badge-type="4" data-doi="10.1073/pnas.1202734109" data-hide-no-mentions="true" class="altmetric-embed"></span><br />
-&#8627; Faculty of 1000 reviews [URL](http://f1000.com/14267420)<br />
-&#8627; Coverage by NY times [URL](http://www.nytimes.com/2012/04/10/science/changes-in-social-status-seen-in-monkeys-genes.html?src=rechp)<br />
-&#8627; Coverage by Genomeweb [URL](http://www.genomeweb.com/blog/healthy-popularity)<br />
-&#8627; Coverage by Videnskab.db [URL](http://videnskab.dk/krop-sundhed/taber-aber-har-darligt-immunforsvar)
+&#8627; Faculty of 1000 review [URL](http://f1000.com/14267420)<br />
+&#8627; Press Coverage:  [NY Times](http://www.nytimes.com/2012/04/10/science/changes-in-social-status-seen-in-monkeys-genes.html?src=rechp) |
+[Genomeweb](http://www.genomeweb.com/blog/healthy-popularity) |
+[Videnskab.dk](http://videnskab.dk/krop-sundhed/taber-aber-har-darligt-immunforsvar)
 
 S Munshaw, HS Hwang, M Torbenson, J Quinn, <b>KD Hansen</b>, J
 Astemborski, SH Mehta, SC Ray, DL Thomas, A Balagopal<sup>&dagger;</sup>.<br />
@@ -269,14 +269,14 @@ Nature Genetics 2011, 43:768-775.<br />
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3145050) |
 <span data-badge-type="4" data-doi="10.1038/ng.865" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <br />
-&#8627; Faculty of 1000 reviews [URL](http://f1000.com/11598956)<br />
 &#8627; Comment by JP Issa in Nat Genet, <i>Epigenetic variation and cellular Darwinism</i>.
 [DOI](http://doi.org/10.1038/ng.897) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/21792236)
 <br />
+&#8627; Faculty of 1000 review [URL](http://f1000.com/11598956)<br />
 &#8627; Described in Cell
 [DOI](http://doi.org/10.1016/j.cell.2011.09.021)<br />
-&#8627; Coverage by Genomeweb [URL](http://www.genomeweb.com/sequencing/study-suggests-widespread-loss-epigenetic-regulation-cancer-genomes)
+&#8627; Press Coverage: [Genomeweb](http://www.genomeweb.com/sequencing/study-suggests-widespread-loss-epigenetic-regulation-cancer-genomes)
 
 <b>KD Hansen</b>, Z Wu, RA Irizarry<sup>&dagger;</sup>, and JT Leek<sup>&dagger;</sup>.<br />
 <i>Sequencing technology does not eliminate biological
