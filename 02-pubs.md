@@ -23,7 +23,7 @@ Unpublished Preprints
 L Collado-Torres<sup>&lowast;</sup>, A Nellore<sup>&lowast;</sup>, K Kammers, SE Ellis, MA Taub, <b>KD Hansen</b>, AE Jaffe<sup>&dagger;</sup>, B Langmead<sup>&dagger;</sup>, JT Leek<sup>&dagger;</sup>.<br />
 <i>recount: A large-scale resource of analysis-ready RNA-seq expression data.<i><br />
 bioRxiv, 2016.<br />
-[DOI](http://dx.doi.org/10.1101/068478)
+[DOI](http://dx.doi.org/10.1101/068478) | <span data-badge-type="4" data-doi="10.1101/068478" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 <b>JP Fortin</b>, T Triche Jr, <b>KD Hansen</b><sup>&dagger;</sup>.<br />
 <i>Preprocessing, normalization and integration of the Illumina HumanMethylationEPIC array.</i><br />
