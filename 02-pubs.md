@@ -50,9 +50,10 @@ Computational Biology
 
 A Nellore<sup>&dagger;</sup>, C Wilks, <b>KD Hansen</b>, JT Leek, and B Langmead<sup>&dagger;</sup>.<br />
 <i>Rail-dbGaP: a protocol and tool for analyzing protected genomic data in a commercial cloud.</i><br />
-Bioinformatics 2016, In press.<br />
+Bioinformatics 2016, 32(16):2551-2553.<br />
 [DOI](http://doi.org/10.1093/bioinformatics/btw177) | 
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27153614) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4978928) |
 <span data-badge-type="4" data-doi="10.1093/bioinformatics/btw177" data-hide-no-mentions="true" class="altmetric-embed"></span><br /> 
 
 L Kannan, M Ramos, A Re, N El-Hachem, A Safikhani, DMA Gendoo, S Davis, S Gomez-Cabrero, R Castelo, <b>KD Hansen</b>, VJ Carey, M Morgan, AC Culhane, B Haibe-Kains, and L Waldron<sup>&dagger;</sup>.<br />
@@ -400,25 +401,29 @@ Published Preprints
 A Nellore<sup>&dagger;</sup>, C Wilks, <b>KD Hansen</b>, JT Leek, and B Langmead<sup>&dagger;</sup>.<br />
 <i>Rail-dbGaP: a protocol and tool for analyzing protected genomic data in a commercial cloud.</i><br />
 bioRxiv 2015.<br />
-[DOI](http://doi.org/10.1101/035287) | <span data-badge-type="4" data-doi="10.1101/035287" data-hide-no-mentions="true" class="altmetric-embed"></span><br /> |
+[DOI](http://doi.org/10.1101/035287) |
+<span data-badge-type="4" data-doi="10.1101/035287" data-hide-no-mentions="true" class="altmetric-embed"></span> |
 Published in Bioinformatics 2016
 
 A Pacis, L Tailleux, J Lambourne, V Yotova, A Dumaine, A Danckaert, F Luca, JC Grenier, <b>KD Hansen</b>, B Gicquel, M Yu, A Pai, J Tung, C He, T Pastinen, R Pique-Regi, Y Gilad<sup>&dagger;</sup> and L Barreiro<sup>&dagger;</sup>.<br />
 <i>Bacterial Infection Remodels the DNA Methylation Landscape of Human Dendritic Cells.</i><br />
 bioRxiv 2015.<br />
 [DOI](http://doi.org/10.1101/016022) |
+<span data-badge-type="4" data-doi="10.1101/016022" data-hide-no-mentions="true" class="altmetric-embed"></span> |
 Published in Genome Research 2015.
 
 <b>JP Fortin</b> and <b>KD Hansen<sup>&dagger;</sup>.</b><br />
 <i>Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data.</i><br />
 bioRxiv, 2015.<br />
 [DOI](http://doi.org/10.1101/019000) |
+<span data-badge-type="4" data-doi="10.1101/019000" data-hide-no-mentions="true" class="altmetric-embed"></span> |
 Published in Genome Biology 2015.
 
 <b>JP Fortin</b>, A Labbe, M Lemire, BW Zanke, TJ Hudson, EJ Fertig, CMT Greenwood and <b>KD Hansen</b><sup>&dagger;</sup>.<br />
 <i>Functional normalization of 450k methylation array data improves replication in large cancer studies.</i><br />
 bioRxiv, 2014.<br />
 [DOI](http://doi.org/10.1101/002956) |
+<span data-badge-type="4" data-doi="10.1101/002956" data-hide-no-mentions="true" class="altmetric-embed"></span> |
 Published in Genome Biology 2014.
 
 <b>KD Hansen</b>, RA Irizarry, and Z WU<sup>&dagger;</sup>.<br />
