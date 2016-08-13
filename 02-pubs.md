@@ -95,7 +95,7 @@ Genome Biology 2015, 16:180.<br />
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26316348) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4574526) |
 <span data-badge-type="4" data-doi="10.1186/s13059-015-0741-y" data-hide-no-mentions="true" class="altmetric-embed"></span><br />
-&#8627; Research highlight by Mourad and Cuvier in Genome Biology [URL](http://www.dx.doi.org/10.1186/s13059-015-0752-8)
+&#8627; Research highlight by Mourad and Cuvier in Genome Biology | [DOI](http://www.dx.doi.org/10.1186/s13059-015-0752-8)
 
 AR Vandiver, RA Irizarry, <b>KD Hansen</b>, LA Garza, A Runarsson, Arni, X Li, AL Chien, TS Wang, SG Leung, S Kang, and AP Feinberg<sup>&dagger;</sup>.<br />
 <i>Age and sun exposure-related widespread genomic blocks of hypomethylation in nonmalignant skin.</i><br />
@@ -217,11 +217,12 @@ Nature Neuroscience 2012, 15(10):1371-1373.<br />
 <span data-badge-type="4" data-doi="10.1038/nn.3218" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <br />
 &#8627; Coverage by Nature News [URL](http://www.nature.com/news/job-swapping-makes-its-mark-on-honeybee-dna-1.11418)<br />
-&#8627; Coverage by LA Times [URL](http://www.latimes.com/news/science/sciencenow/lat-sci-sn-worker-bees-switch-jobs-via-their-epigenomes-20120917,0,3764312.story)<br />
-&#8627; Coverage by The New Republic [URL](http://www.tnr.com/blog/plank/107327/epigenetics-bees-biology)<br />
-&#8627; Coverage by the Guardian UK [URL](http://www.guardian.co.uk/environment/2012/sep/16/bee-study-behaviour)<br />
-&#8627; Coverage by Discover Magazine [URL](http://blogs.discovermagazine.com/notrocketscience/2012/09/16/bee-epigenetics-nurses-foragers-reversible/)<br />
-&#8627; Coverage by The Scientist [URL](http://the-scientist.com/2012/09/16/controlling-bee-fate/)<br />
+&#8627; Press coverage:
+[LA Time](http://www.latimes.com/news/science/sciencenow/lat-sci-sn-worker-bees-switch-jobs-via-their-epigenomes-20120917,0,3764312.story) |
+[The New Republic](http://www.tnr.com/blog/plank/107327/epigenetics-bees-biology) |
+[The Guardian UK](http://www.guardian.co.uk/environment/2012/sep/16/bee-study-behaviour) |
+[Discover Magazine](http://blogs.discovermagazine.com/notrocketscience/2012/09/16/bee-epigenetics-nurses-foragers-reversible/) | 
+[The Scientist](http://the-scientist.com/2012/09/16/controlling-bee-fate/)<br />
 
 J Tung<sup>&dagger;</sup>, LB Barreiro, ZP Johnson, <b>KD Hansen</b>, V Michopoulos, D
 Toufexis, K Michelini, ME Wilson, Y Gilad<sup>&dagger;</sup>.<br />
