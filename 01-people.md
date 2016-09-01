@@ -49,6 +49,17 @@ GitHub: [PeteHaitch](https://github.com/PeteHaitch)<br>
 &nbsp;&nbsp;&nbsp;[Blog](https://lesliemyint.wordpress.com)<br>
 <br><br><br><br>
 
+
+<img alt="Leandros Boukas" align="left" src="media/people/boukas.jpg" width="200" height="200"/>
+&nbsp;&nbsp;&nbsp;Leandros Boukas<br>
+&nbsp;&nbsp;&nbsp;Graduate Student in Human Genetics<br>
+&nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)<br>
+&nbsp;&nbsp;&nbsp;[McKusick-Nathans Insitute of Genetic Medicine](http://www.hopkinsmedicine.org/geneticmedicine)<br>
+&nbsp;&nbsp;&nbsp;Johns Hopkins University<br>
+<br>
+&nbsp;&nbsp;&nbsp;GitHub: [leandrosboukas](https://github.com/leandrosboukas)<br>
+<br><br><br><br><br>
+
 <br><br><br><br>
 
 ### Support staff
