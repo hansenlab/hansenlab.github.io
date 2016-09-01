@@ -47,7 +47,7 @@ GitHub: [PeteHaitch](https://github.com/PeteHaitch)<br>
 <br>
 &nbsp;&nbsp;&nbsp;GitHub: [lmyint](https://github.com/lmyint)<br>
 &nbsp;&nbsp;&nbsp;[Blog](https://lesliemyint.wordpress.com)<br>
-<br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 
 <img alt="Leandros Boukas" align="left" src="media/people/boukas.jpg" width="200" height="200"/>
