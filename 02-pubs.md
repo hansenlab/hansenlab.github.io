@@ -23,7 +23,7 @@ Unpublished Preprints
 P Wulfridge, B Langmead, AP Feinberg, <b>KD Hansen</b><sup>&dagger;</sup>.<br />
 <i>Choice of reference genome can introduce massive bias in bisulfite sequencing data.</i><br />
 bioRxiv, 2016.<br />
-[DOI](http://dx.doi.org/10.1101/076844) | | <span data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+[DOI](http://dx.doi.org/10.1101/076844) | | <span data-badge-type="4" data-doi="10.1101/076844" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 L Collado-Torres<sup>&lowast;</sup>, A Nellore<sup>&lowast;</sup>, K Kammers, SE Ellis, MA Taub, <b>KD Hansen</b>, AE Jaffe<sup>&dagger;</sup>, B Langmead<sup>&dagger;</sup>, JT Leek<sup>&dagger;</sup>.<br />
 <i>recount: A large-scale resource of analysis-ready RNA-seq expression data.</i><br />
