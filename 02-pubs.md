@@ -17,8 +17,8 @@ Publication Repositories
 [Europe PMC Citations](http://europepmc.org/authors/0000-0003-0086-0687) |
 [Impactstory](https://impactstory.org/u/0000-0003-0086-0687)
 
-Unpublished Preprints
----------------------
+Current Preprints
+-----------------
 
 P Wulfridge, B Langmead, AP Feinberg, <b>KD Hansen</b><sup>&dagger;</sup>.<br />
 <i>Choice of reference genome can introduce massive bias in bisulfite sequencing data.</i><br />
