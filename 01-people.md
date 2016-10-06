@@ -60,6 +60,17 @@ GitHub: [PeteHaitch](https://github.com/PeteHaitch)<br>
 &nbsp;&nbsp;&nbsp;GitHub: [leandrosboukas](https://github.com/leandrosboukas)<br>
 <br><br><br><br><br>
 
+
+<img alt="Charles Zheng" align="left" src="media/people/czheng.jpg" width="200" height="200"/>
+&nbsp;&nbsp;&nbsp;Shijie (Charles) Zheng<br>
+&nbsp;&nbsp;&nbsp;Visiting Scholar<br>
+&nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)<br>
+&nbsp;&nbsp;&nbsp;Johns Hopkins University<br>
+<br>
+&nbsp;&nbsp;&nbsp;GitHub: [sjczheng](https://github.com/sjczheng)<br>
+<br><br><br><br><br>
+
+
 <br><br><br><br>
 
 ### Support staff
