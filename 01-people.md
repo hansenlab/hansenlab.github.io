@@ -50,7 +50,7 @@ GitHub: [PeteHaitch](https://github.com/PeteHaitch)<br>
 <br><br><br><br><br><br><br><br>
 
 
-<img alt="Leandros Boukas" align="left" src="media/people/boukas.jpg" width="200" height="200"/>
+<img alt="Leandros Boukas" align="left" src="media/people/lboukas.png" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Leandros Boukas<br>
 &nbsp;&nbsp;&nbsp;Graduate Student in Human Genetics<br>
 &nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)<br>
