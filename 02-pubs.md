@@ -51,8 +51,9 @@ Computational Biology
 X Li, Y Liu, T Salz, <b>KD Hansen</b>, AP Feinberg<sup>&dagger;</sup>.<br />
 <i>Whole genome analysis of the methylome and hydroxymethylome in normal and malignant lung and liver.</i><br />
 Genome Research 2016, In press.<br />
-[DOI](http://dx.doi.org/10.1101/gr.211854.116) | <span data-badge-type="4" data-doi="10.1101/gr.211854.116" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
-Published in Genome Research 2016
+[DOI](http://dx.doi.org/10.1101/gr.211854.116) | 
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/27737935) |
+<span data-badge-type="4" data-doi="10.1101/gr.211854.116" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 A Nellore<sup>&dagger;</sup>, C Wilks, <b>KD Hansen</b>, JT Leek, and B Langmead<sup>&dagger;</sup>.<br />
 <i>Rail-dbGaP: a protocol and tool for analyzing protected genomic data in a commercial cloud.</i><br />
