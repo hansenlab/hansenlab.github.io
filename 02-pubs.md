@@ -35,11 +35,6 @@ bioRxiv, 2016.<br />
 bioRxiv, 2016.<br />
 [DOI](http://dx.doi.org/10.1101/065490) | <span data-badge-type="4" data-doi="10.1101/065490" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
-X Li, Y Liu, T Salz, <b>KD Hansen</b>, AP Feinberg.<br />
-<i>Whole genome analysis of the methylome and hydroxymethylome in normal and malignant lung and liver.</i><br />
-bioRxiv 2016.<br />
-[DOI](http://dx.doi.org/10.1101/062588) | <span data-badge-type="4" data-doi="10.1101/062588" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
-
 SV Andrews, C Ladd-Acosta, AP Feinberg, <b>KD Hansen</b>, MD Fallin.<br />
 <i>'Gap hunting' to identify multimodal distributions of DNA methylation.</i><br />
 bioRxiv 2016.<br />
@@ -52,6 +47,12 @@ bioRxiv 2016.<br />
 
 Computational Biology
 ---------------------
+
+X Li, Y Liu, T Salz, <b>KD Hansen</b>, AP Feinberg<sup>&dagger;</sup>.<br />
+<i>Whole genome analysis of the methylome and hydroxymethylome in normal and malignant lung and liver.</i><br />
+Genome Research 2016, In press.<br />
+[DOI](http://dx.doi.org/10.1101/gr.211854.116) | <span data-badge-type="4" data-doi="10.1101/gr.211854.116" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
+Published in Genome Research 2016
 
 A Nellore<sup>&dagger;</sup>, C Wilks, <b>KD Hansen</b>, JT Leek, and B Langmead<sup>&dagger;</sup>.<br />
 <i>Rail-dbGaP: a protocol and tool for analyzing protected genomic data in a commercial cloud.</i><br />
@@ -382,6 +383,13 @@ Leanpub, 2016.<br />
 
 Published Preprints
 -------------------
+
+X Li, Y Liu, T Salz, <b>KD Hansen</b>, AP Feinberg.<br />
+<i>Whole genome analysis of the methylome and hydroxymethylome in normal and malignant lung and liver.</i><br />
+bioRxiv 2016.<br />
+[DOI](http://dx.doi.org/10.1101/062588) | <span data-badge-type="4" data-doi="10.1101/062588" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
+Published in Genome Research 2016
+
 
 A Nellore<sup>&dagger;</sup>, C Wilks, <b>KD Hansen</b>, JT Leek, and B Langmead<sup>&dagger;</sup>.<br />
 <i>Rail-dbGaP: a protocol and tool for analyzing protected genomic data in a commercial cloud.</i><br />
