@@ -6,8 +6,13 @@ permalink: "teaching.html"
 ---
 {% include JB/setup %}
 
-Short Courses
--------------
+Coursera
+--------
 
-ENAR 2012, <i>[Statistical Methods for Next Generation Sequencing](enar2012.html)</i>
+I am a co-director of the [Genomic Data Science](https://www.coursera.org/specializations/genomic-data-science) specialization, where I teach [Bioconductor for Genomic Data Science](https://www.coursera.org/learn/bioconductor).
+
+Bioconductor Book
+----------------
+
+I have written [Bioconductor](https://leanpub.com/bioconductor), _an introduction to core technologies_.  It is available for free (see link) but you can also buy (donate).
 
