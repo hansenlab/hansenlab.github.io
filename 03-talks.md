@@ -14,8 +14,8 @@ Biological Data Science, Oct 26-29, 2016 |
 [PDF](./media/talks/2016/)
 
 
-Poster
-------
+Posters
+-------
 
 _The quantitative relationship between histone modifications and
 gene expression across different individuals_  
