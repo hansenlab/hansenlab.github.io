@@ -165,6 +165,17 @@ example summary data for the shinyMethyl package.
 [build devel](http://bioconductor.org/checkResults/release/data-experiment-LATEST/shinyMethylData/)
 ]
 
+[yamss](http://www.bioconductor.org/packages/yamss): Software for MS-based metabolomics.  Implements the bakedpi algorithm.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
+[download stats](http://bioconductor.org/packages/stats/bioc/yamss.html)
+| 
+[build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/yamss)
+|
+[build release](http://bioconductor.org/checkResults/release/bioc-LATEST/yamss)
+|
+[GitHub](https://github.com/hansenlab/yamss)
+]
+
 
 Annotation packages (Bioconductor)
 ----------------------------------
