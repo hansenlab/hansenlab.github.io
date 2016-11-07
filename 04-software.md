@@ -118,7 +118,7 @@ interactive visualization and quality control of 450k arrays, using
 
 [yamss](http://www.bioconductor.org/packages/yamss): Software for MS-based metabolomics.  Implements the bakedpi algorithm.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
-[download stats](http://bioconductor.org/packages/stats/bioc/yamss.html)
+[download stats](http://bioconductor.org/packages/stats/bioc/yamss)
 | 
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/yamss)
 |
