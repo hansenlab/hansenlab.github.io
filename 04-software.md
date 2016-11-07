@@ -14,7 +14,7 @@ We contribute to the [Bioconductor](http://www.bioconductor.org) project.
 [affxparser](http://www.bioconductor.org/packages/affxparser): A package for
 parsing output files from Affymetrix microarrays using the [Fusion SDK](http://www.affymetrix.com/partners_programs/programs/developer/fusion/index.affx?terms=no).
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
-[download stats](http://bioconductor.org/packages/stats/bioc/affxparser.html)
+[download stats](http://bioconductor.org/packages/stats/bioc/affxparser)
 | 
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/affxparser)
 |
@@ -26,7 +26,7 @@ parsing output files from Affymetrix microarrays using the [Fusion SDK](http://w
 [bsseq](http://www.bioconductor.org/packages/bsseq): A package for analyzing
 whole-genome bisulfite sequencing data.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
-[download stats](http://bioconductor.org/packages/stats/bioc/bsseq.html)
+[download stats](http://bioconductor.org/packages/stats/bioc/bsseq)
 | 
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/bsseq)
 |
@@ -38,7 +38,7 @@ whole-genome bisulfite sequencing data.
 [bumphunter](http://www.bioconductor.org/packages/bumphunter): A
 package implementing a general backend for the bumphunter approach. 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
-[download stats](http://bioconductor.org/packages/stats/bioc/bumphunter.html)
+[download stats](http://bioconductor.org/packages/stats/bioc/bumphunter)
 | 
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/bumphunter)
 |
@@ -50,7 +50,7 @@ package implementing a general backend for the bumphunter approach.
 [cqn](http://www.bioconductor.org/packages/cqn): A package for normalizing
 RNA-seq data using the CQN algorithm.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
-[download stats](http://bioconductor.org/packages/stats/bioc/cqn.html)
+[download stats](http://bioconductor.org/packages/stats/bioc/cqn)
 | 
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/cqn)
 |
@@ -60,7 +60,7 @@ RNA-seq data using the CQN algorithm.
 [Genominator](http://www.bioconductor.org/packages/Genominator): A package
 implementing a [SQLite](http://www.sqlite.org) based backend for genomic data, including sequencing and microarrays.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
-[download stats](http://bioconductor.org/packages/stats/bioc/Genominator.html)
+[download stats](http://bioconductor.org/packages/stats/bioc/Genominator)
 | 
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/Genominator)
 |
@@ -70,7 +70,7 @@ implementing a [SQLite](http://www.sqlite.org) based backend for genomic data, i
 [illuminaio](http://www.bioconductor.org/packages/illuminaio): A package
 for parsing output for Illumina microarrays.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
-[download stats](http://bioconductor.org/packages/stats/bioc/illuminaio.html)
+[download stats](http://bioconductor.org/packages/stats/bioc/illuminaio)
 | 
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/illuminaio)
 |
@@ -82,7 +82,7 @@ for parsing output for Illumina microarrays.
 [minfi](http://www.bioconductor.org/packages/minfi): A package for analysing
 Illumina's 450k methylation microarray.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
-[download stats](http://bioconductor.org/packages/stats/bioc/minfi.html)
+[download stats](http://bioconductor.org/packages/stats/bioc/minfi)
 | 
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/minfi)
 |
@@ -94,7 +94,7 @@ Illumina's 450k methylation microarray.
 [Rgraphviz](http://www.bioconductor.org/packages/Rgraphviz): A package for
 visualizing graphs using the [Graphviz](http://www.graphviz.org) toolkit.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
-[download stats](http://bioconductor.org/packages/stats/bioc/Rgraphviz.html)
+[download stats](http://bioconductor.org/packages/stats/bioc/Rgraphviz)
 | 
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/Rgraphviz)
 |
@@ -107,7 +107,7 @@ visualizing graphs using the [Graphviz](http://www.graphviz.org) toolkit.
 interactive visualization and quality control of 450k arrays, using
 [shiny](http://www.rstudio.com/shiny/).
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
-[download stats](http://bioconductor.org/packages/stats/bioc/shinyMethyl.html)
+[download stats](http://bioconductor.org/packages/stats/bioc/shinyMethyl)
 | 
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/shinyMethyl)
 |
