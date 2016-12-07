@@ -35,11 +35,6 @@ bioRxiv, 2016.<br />
 bioRxiv, 2016.<br />
 [DOI](http://dx.doi.org/10.1101/065490) | <span data-badge-type="4" data-doi="10.1101/065490" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
-SV Andrews, C Ladd-Acosta, AP Feinberg, <b>KD Hansen</b>, MD Fallin.<br />
-<i>'Gap hunting' to identify multimodal distributions of DNA methylation.</i><br />
-bioRxiv 2016.<br />
-[DOI](http://dx.doi.org/10.1101/059659) | <span data-badge-type="4" data-doi="10.1101/059659" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
-
 A Nellore, AE Jaffe, <b>JP Fortin</b>, J Alquicira-Hernández, L Collado-Torres, S Wang, RA Phillips, N Karbhari, <b>KD Hansen</B>, B Langmead<sup>&dagger;</sup>, and JT Leek<sup>&dagger;</sup>.<br />
 <i>Human splicing diversity across the Sequence Read Archive.</i><br />
 bioRxiv 2016.<br />
@@ -47,6 +42,12 @@ bioRxiv 2016.<br />
 
 Computational Biology
 ---------------------
+
+SV Andrews<sup>&lowast;</sup>, C Ladd-Acosta<sup>&lowast;</sup>, AP Feinberg, <b>KD Hansen</b>, MD Fallin.<br />
+<i>'Gap hunting' to characterize clustered probe signals in Illumina methylation array data.</i><br />
+Epigenetics and Chromatin 2016, 9:56.<br />
+[DOI](http://doi.org/10.1186/s13072-016-0107-z) | 
+<span data-badge-type="4" data-doi="10.1186/s13072-016-0107-z" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 X Li, Y Liu, T Salz, <b>KD Hansen</b>, AP Feinberg<sup>&dagger;</sup>.<br />
 <i>Whole genome analysis of the methylome and hydroxymethylome in normal and malignant lung and liver.</i><br />
@@ -385,19 +386,24 @@ Leanpub, 2016.<br />
 Published Preprints
 -------------------
 
+SV Andrews, C Ladd-Acosta, AP Feinberg, <b>KD Hansen</b>, MD Fallin.<br />
+<i>'Gap hunting' to identify multimodal distributions of DNA methylation.</i><br />
+bioRxiv 2016.<br />
+[DOI](http://dx.doi.org/10.1101/059659) | <span data-badge-type="4" data-doi="10.1101/059659" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
+Published in Epigenetics and Chromatin 2016.
+
 X Li, Y Liu, T Salz, <b>KD Hansen</b>, AP Feinberg.<br />
 <i>Whole genome analysis of the methylome and hydroxymethylome in normal and malignant lung and liver.</i><br />
 bioRxiv 2016.<br />
 [DOI](http://dx.doi.org/10.1101/062588) | <span data-badge-type="4" data-doi="10.1101/062588" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
-Published in Genome Research 2016
-
+Published in Genome Research 2016.
 
 A Nellore<sup>&dagger;</sup>, C Wilks, <b>KD Hansen</b>, JT Leek, and B Langmead<sup>&dagger;</sup>.<br />
 <i>Rail-dbGaP: a protocol and tool for analyzing protected genomic data in a commercial cloud.</i><br />
 bioRxiv 2015.<br />
 [DOI](http://doi.org/10.1101/035287) |
 <span data-badge-type="4" data-doi="10.1101/035287" data-hide-no-mentions="true" class="altmetric-embed"></span> |
-Published in Bioinformatics 2016
+Published in Bioinformatics 2016.
 
 A Pacis, L Tailleux, J Lambourne, V Yotova, A Dumaine, A Danckaert, F Luca, JC Grenier, <b>KD Hansen</b>, B Gicquel, M Yu, A Pai, J Tung, C He, T Pastinen, R Pique-Regi, Y Gilad<sup>&dagger;</sup> and L Barreiro<sup>&dagger;</sup>.<br />
 <i>Bacterial Infection Remodels the DNA Methylation Landscape of Human Dendritic Cells.</i><br />
