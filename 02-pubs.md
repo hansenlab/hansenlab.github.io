@@ -23,22 +23,22 @@ Current Preprints
 P Wulfridge, B Langmead, AP Feinberg, <b>KD Hansen</b><sup>&dagger;</sup>.<br />
 <i>Choice of reference genome can introduce massive bias in bisulfite sequencing data.</i><br />
 bioRxiv, 2016.<br />
-[DOI](http://dx.doi.org/10.1101/076844) | | <span data-badge-type="4" data-doi="10.1101/076844" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+[DOI](https://doi.org/10.1101/076844) | | <span data-badge-type="4" data-doi="10.1101/076844" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 L Collado-Torres<sup>&lowast;</sup>, A Nellore<sup>&lowast;</sup>, K Kammers, SE Ellis, MA Taub, <b>KD Hansen</b>, AE Jaffe<sup>&dagger;</sup>, B Langmead<sup>&dagger;</sup>, JT Leek<sup>&dagger;</sup>.<br />
 <i>recount: A large-scale resource of analysis-ready RNA-seq expression data.</i><br />
 bioRxiv, 2016.<br />
-[DOI](http://dx.doi.org/10.1101/068478) | <span data-badge-type="4" data-doi="10.1101/068478" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+[DOI](https://doi.org/10.1101/068478) | <span data-badge-type="4" data-doi="10.1101/068478" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 <b>JP Fortin</b>, T Triche Jr, <b>KD Hansen</b><sup>&dagger;</sup>.<br />
 <i>Preprocessing, normalization and integration of the Illumina HumanMethylationEPIC array.</i><br />
 bioRxiv, 2016.<br />
-[DOI](http://dx.doi.org/10.1101/065490) | <span data-badge-type="4" data-doi="10.1101/065490" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+[DOI](https://doi.org/10.1101/065490) | <span data-badge-type="4" data-doi="10.1101/065490" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 A Nellore, AE Jaffe, <b>JP Fortin</b>, J Alquicira-Hernández, L Collado-Torres, S Wang, RA Phillips, N Karbhari, <b>KD Hansen</B>, B Langmead<sup>&dagger;</sup>, and JT Leek<sup>&dagger;</sup>.<br />
 <i>Human splicing diversity across the Sequence Read Archive.</i><br />
 bioRxiv 2016.<br />
-[DOI](http://doi.org/10.1101/038224) | <span data-badge-type="4" data-doi="10.1101/038224" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+[DOI](https://doi.org/10.1101/038224) | <span data-badge-type="4" data-doi="10.1101/038224" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 Computational Biology
 ---------------------
@@ -46,13 +46,13 @@ Computational Biology
 JS Benjamin, GO Pilarowski, GA Carossoa, L Zhang, DL Huso, LA Goff, HJ Vernon, <b>KD Hansen</b>, and HT Bjornsson.<br />
 <i>A ketogenic diet rescues hippocampal memory defects in a mouse model of Kabuki syndrome.<./i><br />
 PNAS 2016, In press.<br />
-[DOI](http://dx.doi.org/10.1073/pnas.1611431114) |
+[DOI](https://doi.org/10.1073/pnas.1611431114) |
 <span data-badge-type="4" data-doi="10.1073/pnas.1611431114" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 SV Andrews<sup>&lowast;</sup>, C Ladd-Acosta<sup>&lowast;</sup>, AP Feinberg, <b>KD Hansen</b>, MD Fallin.<br />
 <i>'Gap hunting' to characterize clustered probe signals in Illumina methylation array data.</i><br />
 Epigenetics and Chromatin 2016, 9:56.<br />
-[DOI](http://doi.org/10.1186/s13072-016-0107-z) | 
+[DOI](https://doi.org/10.1186/s13072-016-0107-z) | 
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27980682) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5142147) |
 <span data-badge-type="4" data-doi="10.1186/s13072-016-0107-z" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
@@ -60,7 +60,7 @@ Epigenetics and Chromatin 2016, 9:56.<br />
 X Li, Y Liu, T Salz, <b>KD Hansen</b>, AP Feinberg<sup>&dagger;</sup>.<br />
 <i>Whole genome analysis of the methylome and hydroxymethylome in normal and malignant lung and liver.</i><br />
 Genome Research 2016, 26(12):1730-1741.<br />
-[DOI](http://dx.doi.org/10.1101/gr.211854.116) | 
+[DOI](https://doi.org/10.1101/gr.211854.116) | 
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27737935) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5131824) |
 <span data-badge-type="4" data-doi="10.1101/gr.211854.116" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
@@ -68,7 +68,7 @@ Genome Research 2016, 26(12):1730-1741.<br />
 A Nellore<sup>&dagger;</sup>, C Wilks, <b>KD Hansen</b>, JT Leek, and B Langmead<sup>&dagger;</sup>.<br />
 <i>Rail-dbGaP: a protocol and tool for analyzing protected genomic data in a commercial cloud.</i><br />
 Bioinformatics 2016, 32(16):2551-2553.<br />
-[DOI](http://doi.org/10.1093/bioinformatics/btw177) | 
+[DOI](https://doi.org/10.1093/bioinformatics/btw177) | 
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27153614) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4978928) |
 <span data-badge-type="4" data-doi="10.1093/bioinformatics/btw177" data-hide-no-mentions="true" class="altmetric-embed"></span><br /> 
@@ -76,7 +76,7 @@ Bioinformatics 2016, 32(16):2551-2553.<br />
 L Kannan, M Ramos, A Re, N El-Hachem, A Safikhani, DMA Gendoo, S Davis, S Gomez-Cabrero, R Castelo, <b>KD Hansen</b>, VJ Carey, M Morgan, AC Culhane, B Haibe-Kains, and L Waldron<sup>&dagger;</sup>.<br />
 <i>Public data and open source tools for multi-assay genomic investigation of disease.</i><br />
 Brief Bioinformatics 2016, 17(4):603-615.<br />
-[DOI](http://doi.org/10.1093/bib/bbv080) |
+[DOI](https://doi.org/10.1093/bib/bbv080) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26463000) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4945830) |
 <span data-badge-type="4" data-doi="10.1093/bib/bbv080" data-hide-no-mentions="true" class="altmetric-embed"></span><br />
@@ -84,7 +84,7 @@ Brief Bioinformatics 2016, 17(4):603-615.<br />
 L Gatto, <b>KD Hansen</b>, MR Hoopmann, H Henning, O Kohlbacher, and A Beyer<sup>&dagger;</sup>.<br />
 <i>Testing and validation of computational methods for mass spectrometry.</i><br />
 Journal of Proteome Research 2016, 15(3):809-814.<br />
-[DOI](http://doi.org/10.1021/acs.jproteome.5b00852) |
+[DOI](https://doi.org/10.1021/acs.jproteome.5b00852) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26549429) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4804830) |
 <span data-badge-type="4" data-doi="10.1021/acs.jproteome.5b00852" data-hide-no-mentions="true" class="altmetric-embed"></span><br />
@@ -92,7 +92,7 @@ Journal of Proteome Research 2016, 15(3):809-814.<br />
 AR Vandiver, A Idrizi, L Rizzardi, AP Feinberg, and <b>KD Hansen</b><sup>&dagger;</sup>.<br />
 <i>DNA methylation is stable during replication and cell cycle arrest.</i><br />
 Scientific Reports 2015, 5:17911.<br />
-[DOI](http://doi.org/10.1038/srep17911) |
+[DOI](https://doi.org/10.1038/srep17911) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26648411) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4673417) | 
 <span data-badge-type="4" data-doi="10.1038/srep17911" data-hide-no-mentions="true" class="altmetric-embed"></span><br />
@@ -100,7 +100,7 @@ Scientific Reports 2015, 5:17911.<br />
 A Pacis, L Tailleux, AM Morin, J Lambourne, JL Maclsaac, V Yotova, A Dumaine, A Danckaert, F Luca, J Grenier, <b>KD Hansen</b>, B Gicquel, M Yu, A Pai, C He, J Tung, T Pastinen, MS Kobor, R Pique-Regi, Y Gilad<sup>&dagger;</sup>, and LB Barreiro<sup>&dagger;</sup>.<br />
 <i>Bacterial infection remodels the DNA methylation landscape of human dendritic cells.</i><br />
 Genome Research 2015, 25(12):1801-1811.<br />
-[DOI](http://doi.org/10.1101/gr.192005.115) |
+[DOI](https://doi.org/10.1101/gr.192005.115) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26392366) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4665002) |
 <span data-badge-type="4" data-doi="10.1101/gr.192005.115" data-hide-no-mentions="true" class="altmetric-embed"></span><br />
@@ -125,7 +125,7 @@ Genome Biology 2015, 16:80.<br />
 X Hong<sup>&lowast;</sup>, K Hao<sup>&lowast;</sup>, C Ladd-Acosta<sup>&lowast;</sup>, <b>KD Hansen</b>, Tsai X, HJ Liu, X Xu, TA Thornton, D Caruso, CA Keet, Y Sun, G Wang, W Luo, R Kumar, R Fuleihan, AM Singh, Kim RE, JS Story, RS Gupta, P Gao, Z Chen, SO Walker, TR Bartell, TH Beaty, MD Fallin, R Schleimer, PG Holt, Nadeau KC, RA Wood, JA Pongracic, DE  Weeks, and X Wang<sup>&dagger;</sup>.<br />
 <i>Genome-wide association study identifies peanut allergy-specific loci and evidence of epigenetic mediation in US children.</i><br />
 Nature Communications 2015, 6:6304.<br />
-[DOI](http://doi.org/10.1038/ncomms7304) |
+[DOI](https://doi.org/10.1038/ncomms7304) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25710614) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4340086) |
 <span data-badge-type="4" data-doi="10.1038/ncomms7304" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -133,7 +133,7 @@ Nature Communications 2015, 6:6304.<br />
 MJ Ziller, <b>KD Hansen</b>, A Meissner<sup>&dagger;</sup>, MJ Aryee<sup>&dagger;</sup>.<br />
 <i>Coverage recommendations for methylation analysis by whole-genome bisulfite sequencing.</i><br />
 Nature Methods 2015, 12(3):230-232.<br />
-[DOI](http://doi.org/10.1038/nmeth.3152) |
+[DOI](https://doi.org/10.1038/nmeth.3152) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25362363) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4344394) |
 <span data-badge-type="4" data-doi="10.1038/nmeth.3152" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -144,7 +144,7 @@ M Lawrence, MI Love, J MacDonald, V Obenchain, AK Oleś, H Pagès, A Reyes, P Sh
 Tenenbaum, L Waldron, and M Morgan.<br />
 <i>Orchestrating high-throughput genomic analysis with Bioconductor.</i><br />
 Nature Methods 2015, 12(2):115-121.<br />
-[DOI](http://doi.org/10.1038/nmeth.3252) |
+[DOI](https://doi.org/10.1038/nmeth.3252) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25633503) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4509590) |
 <span data-badge-type="4" data-doi="10.1038/nmeth.3252" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -152,7 +152,7 @@ Nature Methods 2015, 12(2):115-121.<br />
 <b>JP Fortin</b>, A Labbe, M Lemire, BW Zanke, TJ Hudson, EJ Fertig, CMT Greenwood and <b>KD Hansen</b><sup>&dagger;</sup>.<br />
 <i>Functional normalization of 450k methylation array data improves replication in large cancer studies.</i><br />
 Genome Biology 2014, 15:503.<br />
-[DOI](http://doi.org/10.1186/s13059-014-0503-2) |
+[DOI](https://doi.org/10.1186/s13059-014-0503-2) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25599564) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4283580) |
 <span data-badge-type="4" data-doi="10.1186/s13059-014-0503-2" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -160,7 +160,7 @@ Genome Biology 2014, 15:503.<br />
 HT Bjornsson<sup>&lowast;,&dagger;</sup>, JS Benjamin<sup>&lowast;</sup>, L Zhang, J Weissman, EE Gerber, YC Chen, RG Vaurio, MC Potter, <b>KD Hansen</b>, HC Dietz.<br />
 <i>Histone deacetylase inhibition rescues structural and functional brain deficits in a mouse model of Kabuki syndrome.</i><br />
 Science Translational Medicine 2014, 6(256):256ra135.<br />
-[DOI](http://doi.org/10.1126/scitranslmed.3009278) |
+[DOI](https://doi.org/10.1126/scitranslmed.3009278) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25273096) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4406328) |
 <span data-badge-type="4" data-doi="10.1126/scitranslmed.3009278" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -168,7 +168,7 @@ Science Translational Medicine 2014, 6(256):256ra135.<br />
 <b>JP Fortin</b><sup>&dagger;</sup>, EJ Fertig, <b>KD Hansen</b><sup>&dagger;</sup>.<br />
 <i>shinyMethyl: interactive quality control of Illumina 450k DNA methylation arrays in R.</i><br />
 F1000Research 2014, 3:175.<br />
-[DOI](http://doi.org/10.12688/f1000research.4680.2) |
+[DOI](https://doi.org/10.12688/f1000research.4680.2) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25285208) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4176427) |
 <span data-badge-type="4" data-doi="10.12688/f1000research.4680.2" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -176,7 +176,7 @@ F1000Research 2014, 3:175.<br />
 MJ Aryee, AE Jaffe, H Corrada-Bravo, C Ladd-Acosta, AP Feinberg, <b>KD Hansen</b><sup>&dagger;</sup>, RA Irizarry<sup>&dagger;</sup>.<br />
 <i>Minfi: A flexible and comprehensive Bioconductor package for the analysis of Infinium DNA Methylation microarrays.</i><br />
 Bioinformatics 2014, 30(10):1363-1369.<br />
-[DOI](http://doi.org/10.1093/bioinformatics/btu049) |
+[DOI](https://doi.org/10.1093/bioinformatics/btu049) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24478339) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4016708) |
 <span data-badge-type="4" data-doi="10.1093/bioinformatics/btu049" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -184,7 +184,7 @@ Bioinformatics 2014, 30(10):1363-1369.<br />
 AC Frazee, S Sabunciyan, <b>KD Hansen</b>, RA Irizarry, JT Leek<sup>&dagger;</sup>.<br />
 <i>Differential expression analysis of RNA-seq data at single-base resolution.</i><br />
 Biostatistics 2014, 15(3):413-426.<br />
-[DOI](http://doi.org/10.1093/biostatistics/kxt053) |
+[DOI](https://doi.org/10.1093/biostatistics/kxt053) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24398039) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4059460) |
 <span data-badge-type="4" data-doi="10.1093/biostatistics/kxt053" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -192,7 +192,7 @@ Biostatistics 2014, 15(3):413-426.<br />
 C Ladd-Acosta, <b>KD Hansen</b>, E Briem, MD Fallin, WE Kaufmann, AP Feinberg<sup>&dagger;</sup>.<br />
 <i>Common DNA methylation alterations in multiple brain regions in autism.</i><br />
 Molecular Psychiatry 2014, 19(8):862-871.<br />
-[DOI](http://doi.org/10.1038/mp.2013.114) |
+[DOI](https://doi.org/10.1038/mp.2013.114) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/23999529) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4184909) |
 <span data-badge-type="4" data-doi="10.1038/mp.2013.114" data-hide-no-mentions="true" class="altmetric-embed"></span><br />
@@ -202,7 +202,7 @@ Molecular Psychiatry 2014, 19(8):862-871.<br />
 <i>Large-scale hypomethylated blocks associated with Epstein-Barr virus-induced B-cell
 immortalization.</i><br />
 Genome Research 2014, 24(2):177-184.<br />
-[DOI](http://doi.org/10.1101/gr.157743.113) |
+[DOI](https://doi.org/10.1101/gr.157743.113) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24068705) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3912409) |
 <span data-badge-type="4" data-doi="10.1101/gr.157743.113" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -210,7 +210,7 @@ Genome Research 2014, 24(2):177-184.<br />
 ML Smith<sup>&dagger;</sup>, KA Baggerly, H Bengtsson, ME Ritchie, <b>KD Hansen</b><sup>&dagger;</sup>.<br />
 <i>illuminaio: An open source IDAT parsing tool for Illumina microarrays.</i><br />
 F1000Research 2013, 2:264.<br />
-[DOI](http://doi.org/10.12688/f1000research.2-264.v1) |
+[DOI](https://doi.org/10.12688/f1000research.2-264.v1) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24701342) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3968891) |
 <span data-badge-type="4" data-doi="10.12688/f1000research.2-264.v1" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -219,7 +219,7 @@ F1000Research 2013, 2:264.<br />
 <i>BSmooth: from whole genome bisulfite sequencing reads to
 differentially methylated regions.</i><br />
 Genome Biology 2012, 13:R83.<br />
-[DOI](http://doi.org/10.1186/gb-2012-13-10-r83) |
+[DOI](https://doi.org/10.1186/gb-2012-13-10-r83) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/23034175) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3491411) |
 <span data-badge-type="4" data-doi="10.1186/gb-2012-13-10-r83" data-hide-no-mentions="true" class="altmetric-embed"></span><br />
@@ -228,7 +228,7 @@ BR Herb<sup>&lowast;</sup>, F Wolschin<sup>&lowast;</sup>, <b>KD Hansen</b>, MJ 
 RA Irizarry, GV Amdam<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.<br />
 <i>Reversible switching between epigenetic states in honeybee behavioral subcastes.</i><br />
 Nature Neuroscience 2012, 15(10):1371-1373.<br />
-[DOI](http://doi.org/10.1038/nn.3218) |
+[DOI](https://doi.org/10.1038/nn.3218) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22983211) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3518384) |
 <span data-badge-type="4" data-doi="10.1038/nn.3218" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -246,7 +246,7 @@ Toufexis, K Michelini, ME Wilson, Y Gilad<sup>&dagger;</sup>.<br />
 <i>Social environment is associated with gene regulatory variation in
 the rhesus macaque immune system.</i><br />
 PNAS 2012, 109(17):6490-6495.<br />
-[DOI](http://doi.org/10.1073/pnas.1202734109) |
+[DOI](https://doi.org/10.1073/pnas.1202734109) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22493251) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3340061) |
 <span data-badge-type="4" data-doi="10.1073/pnas.1202734109" data-hide-no-mentions="true" class="altmetric-embed"></span><br />
@@ -260,7 +260,7 @@ Astemborski, SH Mehta, SC Ray, DL Thomas, A Balagopal<sup>&dagger;</sup>.<br />
 <i>Laser captured hepatocytes show association of association of butyrylcholinesterase gene loss and
 fibrosis progression in hepatitis C infected drug users.</i><br />
 Hepatology 2012, 56(2):544-554.<br />
-[DOI](http://doi.org/10.1002/hep.25655) |
+[DOI](https://doi.org/10.1002/hep.25655) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22331678) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3388175) |
 <span data-badge-type="4" data-doi="10.1002/hep.25655" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -269,7 +269,7 @@ Hepatology 2012, 56(2):544-554.<br />
 <i>Removing technical variability in RNA-Seq data using conditional
 quantile normalization.</i><br />
 Biostatistics 2012, 13(2):204-216.<br />
-[DOI](http://doi.org/10.1093/biostatistics/kxr054) |
+[DOI](https://doi.org/10.1093/biostatistics/kxr054) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22285995) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3297825) |
 <span data-badge-type="4" data-doi="10.1093/biostatistics/kxr054" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -281,25 +281,25 @@ Irizarry<sup>&dagger;</sup>, and AP Feinberg<sup>&dagger;</sup>.<br />
 <i>Increased methylation variation in epigenetic domains across cancer
 types.</i><br />
 Nature Genetics 2011, 43:768-775.<br />
-[DOI](http://doi.org/10.1038/ng.865) |
+[DOI](https://doi.org/10.1038/ng.865) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/21706001) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3145050) |
 <span data-badge-type="4" data-doi="10.1038/ng.865" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <br />
 &#8627; Comment by JP Issa in Nat Genet, <i>Epigenetic variation and cellular Darwinism</i>.
-[DOI](http://doi.org/10.1038/ng.897) |
+[DOI](https://doi.org/10.1038/ng.897) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/21792236)
 <br />
 &#8627; Faculty of 1000 review [URL](http://f1000.com/11598956)<br />
 &#8627; Described in Cell
-[DOI](http://doi.org/10.1016/j.cell.2011.09.021)<br />
+[DOI](https://doi.org/10.1016/j.cell.2011.09.021)<br />
 &#8627; Press Coverage: [Genomeweb](http://www.genomeweb.com/sequencing/study-suggests-widespread-loss-epigenetic-regulation-cancer-genomes)
 
 <b>KD Hansen</b>, Z Wu, RA Irizarry<sup>&dagger;</sup>, and JT Leek<sup>&dagger;</sup>.<br />
 <i>Sequencing technology does not eliminate biological
 variability.</i><br />
 Nature Biotechnology 2011, 29:572-573.<br />
-[DOI](http://doi.org/10.1038/nbt.1910) |
+[DOI](https://doi.org/10.1038/nbt.1910) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/21747377) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3137276) |
 <span data-badge-type="4" data-doi="10.1038/nbt.1910" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -309,7 +309,7 @@ Brenner<sup>&dagger;</sup>, and BR Graveley<sup>&dagger;</sup>.<br />
 <i>Conservation of an RNA regulatory map between Drosophila and
 	mammals.</i><br />
 Genome Research 2011, 21(2):193-202.<br />
-[DOI](http://doi.org/10.1101/gr.108662.110) |
+[DOI](https://doi.org/10.1101/gr.108662.110) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/20921232) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3032923) |
 <span data-badge-type="4" data-doi="10.1101/gr.108662.110" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -318,7 +318,7 @@ The modENCODE Consortium, <i> et al.</i><br />
 <i>Identification of functional elements and regulatory circuits by
 Drosophila modENCODE.</i><br />
 Science 2010, 330:1787-1797.<br />
-[DOI](http://doi.org/10.1126/science.1198374) |
+[DOI](https://doi.org/10.1126/science.1198374) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/21177974) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3192495) |
 <span data-badge-type="4" data-doi="10.1126/science.1198374" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -327,7 +327,7 @@ B Langmead, <b>KD Hansen</b>, and JT Leek<sup>&dagger;</sup>.<br />
 <i>Cloud-scale RNA-sequencing differential expression analysis with
 Myrna.</i><br />
 Genome Biology 2010, 11:R83.<br />
-[DOI](http://doi.org/10.1186/gb-2010-11-8-r83) |
+[DOI](https://doi.org/10.1186/gb-2010-11-8-r83) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/20701754) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2945785) |
 <span data-badge-type="4" data-doi="10.1186/gb-2010-11-8-r83" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -337,7 +337,7 @@ Genome Biology 2010, 11:R83.<br />
 <i>Biases in Illumina transcriptome sequencing caused by random
 hexamer priming.</i><br />
 Nucleic Acids Research 2010, 38(12):e131.<br />
-[DOI](http://doi.org/10.1093/nar/gkq224) |
+[DOI](https://doi.org/10.1093/nar/gkq224) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/20395217) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2896536) |
 <span data-badge-type="4" data-doi="10.1093/nar/gkq224" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -347,7 +347,7 @@ S Dudoit.<br />
 <i>Evaluation of statistical methods for normalization and
 differential expression in mRNA-Seq experiments.</i><br /> 
 BMC Bioinformatics 2010, 11:94.<br />
-[DOI](http://doi.org/10.1186/1471-2105-11-94) |
+[DOI](https://doi.org/10.1186/1471-2105-11-94) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/20167110) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2838869) |
 <span data-badge-type="4" data-doi="10.1186/1471-2105-11-94" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -358,7 +358,7 @@ J Rehwinkel, FL Gallusser, E Izaurralde, DC Rio, S Dudoit, and SE Brenner<sup>&d
 <i>Genome-wide identification of alternative splice forms
 down-regulated by nonsense-mediated mRNA decay in Drosophila.</i><br />
 PLoS Genetics 2009, 5(6):e1000525.<br />
-[DOI](http://doi.org/10.1371/journal.pgen.1000525) |
+[DOI](https://doi.org/10.1371/journal.pgen.1000525) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/19543372) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2689934) |
 <span data-badge-type="4" data-doi="10.1371/journal.pgen.1000525" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -368,7 +368,7 @@ Dudoit, and G Sherlock<sup>&dagger;</sup>.<br />
 <i>Novel low abundance and transient RNAs in yeast revealed by tiling microarrays and ultra
 high-throughput sequencing are not conserved across closely related yeast species</i>.<br /> 
 PLoS Genetics 2008, 4(12):e1000299.<br />
-[DOI](http://doi.org/10.1371/journal.pgen.1000299) |
+[DOI](https://doi.org/10.1371/journal.pgen.1000299) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/19096707) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2601015) |
 <span data-badge-type="4" data-doi="10.1371/journal.pgen.1000299" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -380,7 +380,7 @@ Editorials (not peer-reviewed)
 W Huber<sup>&dagger;</sup>, V Carey, S Davis, <b>KD Hansen</b> and M Morgan.<br />
 <i>The Bioconductor channel in F1000Research.</i><br />
 F1000Research 2015, 4.<br />
-[DOI](http://doi.org/10.12688/f1000research.6758.1)
+[DOI](https://doi.org/10.12688/f1000research.6758.1)
 
 
 Books
@@ -398,40 +398,40 @@ Published Preprints
 SV Andrews, C Ladd-Acosta, AP Feinberg, <b>KD Hansen</b>, MD Fallin.<br />
 <i>'Gap hunting' to identify multimodal distributions of DNA methylation.</i><br />
 bioRxiv 2016.<br />
-[DOI](http://dx.doi.org/10.1101/059659) | <span data-badge-type="4" data-doi="10.1101/059659" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
+[DOI](https://doi.org/10.1101/059659) | <span data-badge-type="4" data-doi="10.1101/059659" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
 Published in Epigenetics and Chromatin 2016.
 
 X Li, Y Liu, T Salz, <b>KD Hansen</b>, AP Feinberg.<br />
 <i>Whole genome analysis of the methylome and hydroxymethylome in normal and malignant lung and liver.</i><br />
 bioRxiv 2016.<br />
-[DOI](http://dx.doi.org/10.1101/062588) | <span data-badge-type="4" data-doi="10.1101/062588" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
+[DOI](https://doi.org/10.1101/062588) | <span data-badge-type="4" data-doi="10.1101/062588" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
 Published in Genome Research 2016.
 
 A Nellore<sup>&dagger;</sup>, C Wilks, <b>KD Hansen</b>, JT Leek, and B Langmead<sup>&dagger;</sup>.<br />
 <i>Rail-dbGaP: a protocol and tool for analyzing protected genomic data in a commercial cloud.</i><br />
 bioRxiv 2015.<br />
-[DOI](http://doi.org/10.1101/035287) |
+[DOI](https://doi.org/10.1101/035287) |
 <span data-badge-type="4" data-doi="10.1101/035287" data-hide-no-mentions="true" class="altmetric-embed"></span> |
 Published in Bioinformatics 2016.
 
 A Pacis, L Tailleux, J Lambourne, V Yotova, A Dumaine, A Danckaert, F Luca, JC Grenier, <b>KD Hansen</b>, B Gicquel, M Yu, A Pai, J Tung, C He, T Pastinen, R Pique-Regi, Y Gilad<sup>&dagger;</sup> and L Barreiro<sup>&dagger;</sup>.<br />
 <i>Bacterial Infection Remodels the DNA Methylation Landscape of Human Dendritic Cells.</i><br />
 bioRxiv 2015.<br />
-[DOI](http://doi.org/10.1101/016022) |
+[DOI](https://doi.org/10.1101/016022) |
 <span data-badge-type="4" data-doi="10.1101/016022" data-hide-no-mentions="true" class="altmetric-embed"></span> |
 Published in Genome Research 2015.
 
 <b>JP Fortin</b> and <b>KD Hansen<sup>&dagger;</sup>.</b><br />
 <i>Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data.</i><br />
 bioRxiv, 2015.<br />
-[DOI](http://doi.org/10.1101/019000) |
+[DOI](https://doi.org/10.1101/019000) |
 <span data-badge-type="4" data-doi="10.1101/019000" data-hide-no-mentions="true" class="altmetric-embed"></span> |
 Published in Genome Biology 2015.
 
 <b>JP Fortin</b>, A Labbe, M Lemire, BW Zanke, TJ Hudson, EJ Fertig, CMT Greenwood and <b>KD Hansen</b><sup>&dagger;</sup>.<br />
 <i>Functional normalization of 450k methylation array data improves replication in large cancer studies.</i><br />
 bioRxiv, 2014.<br />
-[DOI](http://doi.org/10.1101/002956) |
+[DOI](https://doi.org/10.1101/002956) |
 <span data-badge-type="4" data-doi="10.1101/002956" data-hide-no-mentions="true" class="altmetric-embed"></span> |
 Published in Genome Biology 2014.
 
@@ -467,7 +467,7 @@ LPA Brandt, AI Kryger, E Overgaard, <b>KD Hansen</b>, and S Mikkelsen.<br />
 <i>Computer mouse use predicts acute pain but not prolonged or chronic
 pain in the neck and shoulder</i>. <br />
 Occup Environ Med 2008, 65(2):126-131.<br />
-[DOI](http://doi.org/10.1136/oem.2007.033506) |
+[DOI](https://doi.org/10.1136/oem.2007.033506) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/17681996)
 
 
@@ -475,7 +475,7 @@ A-M Nybo Andersen<sup>&dagger;</sup>, <b>KD Hansen</b>, PK Andersen, and
 G Davey Smith.<br />
 <i>Advanced paternal age and risk of fetal death: a cohort study</i>.<br />
 American Journal of Epidemiology 2004, 160(12):1214-1222.<br />
-[DOI](http://doi.org/10.1093/aje/kwh332) |
+[DOI](https://doi.org/10.1093/aje/kwh332) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/15583374)
 
 H Dan&oslash;<sup>&dagger;</sup>, <b>KD Hansen</b>, P Jensen, JH Petersen, R Jacobsen,
@@ -483,7 +483,7 @@ M Ewertz, and E Lynge.<br />
 <i>Fertility pattern does not explain social gradient in breast cancer
 in Denmark.</i><br />
 International Journal of Cancer 2004, 111(3):451-456.<br />
-[DOI](http://doi.org/10.1002/ijc.20203) |
+[DOI](https://doi.org/10.1002/ijc.20203) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/15221976)
 
 H Dan&oslash;<sup>&dagger;</sup>, R Jacobsen, <b>KD Hansen</b>, JK Petersen, and
@@ -491,7 +491,7 @@ E Lynge.<br />
 <i>Use of census data for construction of fertility history for danish
 women</i>.<br />
 Scandinavian Journal of Public Health 2004, 32:435-441.<br />
-[DOI](http://doi.org/10.1080/14034940410028163) |
+[DOI](https://doi.org/10.1080/14034940410028163) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/15762028)
 
 K Schultz-Larsen, S Kreiner, S Hanning, N St&oslash;vring,
