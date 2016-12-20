@@ -43,17 +43,26 @@ bioRxiv 2016.<br />
 Computational Biology
 ---------------------
 
+JS Benjamin, GO Pilarowski, GA Carossoa, L Zhang, DL Huso, LA Goff, HJ Vernon, <b>KD Hansen</b>, and HT Bjornsson.<br />
+<i>A ketogenic diet rescues hippocampal memory defects in a mouse model of Kabuki syndrome.<./i><br />
+PNAS 2016, In press.<br />
+[DOI](http://dx.doi.org/10.1073/pnas.1611431114) |
+<span data-badge-type="4" data-doi="10.1073/pnas.1611431114" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+
 SV Andrews<sup>&lowast;</sup>, C Ladd-Acosta<sup>&lowast;</sup>, AP Feinberg, <b>KD Hansen</b>, MD Fallin.<br />
 <i>'Gap hunting' to characterize clustered probe signals in Illumina methylation array data.</i><br />
 Epigenetics and Chromatin 2016, 9:56.<br />
 [DOI](http://doi.org/10.1186/s13072-016-0107-z) | 
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/27980682) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5142147) |
 <span data-badge-type="4" data-doi="10.1186/s13072-016-0107-z" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 X Li, Y Liu, T Salz, <b>KD Hansen</b>, AP Feinberg<sup>&dagger;</sup>.<br />
 <i>Whole genome analysis of the methylome and hydroxymethylome in normal and malignant lung and liver.</i><br />
-Genome Research 2016, In press.<br />
+Genome Research 2016, 26(12):1730-1741.<br />
 [DOI](http://dx.doi.org/10.1101/gr.211854.116) | 
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27737935) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5131824) |
 <span data-badge-type="4" data-doi="10.1101/gr.211854.116" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 A Nellore<sup>&dagger;</sup>, C Wilks, <b>KD Hansen</b>, JT Leek, and B Langmead<sup>&dagger;</sup>.<br />
