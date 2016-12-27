@@ -47,6 +47,7 @@ JS Benjamin, GO Pilarowski, GA Carossoa, L Zhang, DL Huso, LA Goff, HJ Vernon, <
 <i>A ketogenic diet rescues hippocampal memory defects in a mouse model of Kabuki syndrome.</i><br />
 PNAS 2016, In press.<br />
 [DOI](https://doi.org/10.1073/pnas.1611431114) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/27999180) |
 <span data-badge-type="4" data-doi="10.1073/pnas.1611431114" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 SV Andrews<sup>&lowast;</sup>, C Ladd-Acosta<sup>&lowast;</sup>, AP Feinberg, <b>KD Hansen</b>, MD Fallin.<br />
