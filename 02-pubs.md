@@ -30,25 +30,28 @@ L Collado-Torres<sup>&lowast;</sup>, A Nellore<sup>&lowast;</sup>, K Kammers, SE
 bioRxiv, 2016.<br />
 [DOI](https://doi.org/10.1101/068478) | <span data-badge-type="4" data-doi="10.1101/068478" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
-<b>JP Fortin</b>, T Triche Jr, <b>KD Hansen</b><sup>&dagger;</sup>.<br />
-<i>Preprocessing, normalization and integration of the Illumina HumanMethylationEPIC array.</i><br />
-bioRxiv, 2016.<br />
-[DOI](https://doi.org/10.1101/065490) | <span data-badge-type="4" data-doi="10.1101/065490" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
-
-A Nellore, AE Jaffe, <b>JP Fortin</b>, J Alquicira-Hernández, L Collado-Torres, S Wang, RA Phillips, N Karbhari, <b>KD Hansen</B>, B Langmead<sup>&dagger;</sup>, and JT Leek<sup>&dagger;</sup>.<br />
-<i>Human splicing diversity across the Sequence Read Archive.</i><br />
-bioRxiv 2016.<br />
-[DOI](https://doi.org/10.1101/038224) | <span data-badge-type="4" data-doi="10.1101/038224" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
-
 Computational Biology
 ---------------------
 
+<b>JP Fortin</b>, T Triche Jr, <b>KD Hansen</b><sup>&dagger;</sup>.<br />
+<i>Preprocessing, normalization and integration of the Illumina HumanMethylationEPIC array with minfi.</i><br />
+Bioinformatics 2017, in press.<br />
+[DOI](https://doi.org/10.1093/bioinformatics/btw691) | 
+<span data-badge-type="4" data-doi="10.1093/bioinformatics/btw691" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+
 JS Benjamin, GO Pilarowski, GA Carossoa, L Zhang, DL Huso, LA Goff, HJ Vernon, <b>KD Hansen</b>, and HT Bjornsson.<br />
 <i>A ketogenic diet rescues hippocampal memory defects in a mouse model of Kabuki syndrome.</i><br />
-PNAS 2016, In press.<br />
+PNAS 2017, In press.<br />
 [DOI](https://doi.org/10.1073/pnas.1611431114) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27999180) |
 <span data-badge-type="4" data-doi="10.1073/pnas.1611431114" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+
+A Nellore, AE Jaffe, <b>JP Fortin</b>, J Alquicira-Hernández, L Collado-Torres, S Wang, RA Phillips, N Karbhari, <b>KD Hansen</b>, B Langmead<sup>&dagger;</sup>, and JT Leek<sup>&dagger;</sup>.<br />
+<i>Human splicing diversity and the extent of unannotated splice junctions across human RNA-seq samples on the Sequence Read Archive.</i><br />
+Genome Biology 2016, 17:266.<br />
+[DOI](https://doi.org/10.1186/s13059-016-1118-6) | 
+<span data-badge-type="4" data-doi="10.1186/s13059-016-1118-6" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+&#8627; Research highlight by Robert and Watson in Genome Biology | [DOI](http://doi.org/10.1186/s13059-016-1121-y)
 
 SV Andrews<sup>&lowast;</sup>, C Ladd-Acosta<sup>&lowast;</sup>, AP Feinberg, <b>KD Hansen</b>, MD Fallin.<br />
 <i>'Gap hunting' to characterize clustered probe signals in Illumina methylation array data.</i><br />
@@ -395,6 +398,18 @@ Leanpub, 2016.<br />
 
 Published Preprints
 -------------------
+
+A Nellore, AE Jaffe, <b>JP Fortin</b>, J Alquicira-Hernández, L Collado-Torres, S Wang, RA Phillips, N Karbhari, <b>KD Hansen</B>, B Langmead<sup>&dagger;</sup>, and JT Leek<sup>&dagger;</sup>.<br />
+<i>Human splicing diversity across the Sequence Read Archive.</i><br />
+bioRxiv 2016.<br />
+[DOI](https://doi.org/10.1101/038224) | <span data-badge-type="4" data-doi="10.1101/038224" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
+Published in Genome Biology 2016.
+
+<b>JP Fortin</b>, T Triche Jr, <b>KD Hansen</b><sup>&dagger;</sup>.<br />
+<i>Preprocessing, normalization and integration of the Illumina HumanMethylationEPIC array.</i><br />
+bioRxiv, 2016.<br />
+[DOI](https://doi.org/10.1101/065490) | <span data-badge-type="4" data-doi="10.1101/065490" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
+Published in Bioinformatics 2017.
 
 SV Andrews, C Ladd-Acosta, AP Feinberg, <b>KD Hansen</b>, MD Fallin.<br />
 <i>'Gap hunting' to identify multimodal distributions of DNA methylation.</i><br />
