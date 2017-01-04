@@ -37,6 +37,7 @@ Computational Biology
 <i>Preprocessing, normalization and integration of the Illumina HumanMethylationEPIC array with minfi.</i><br />
 Bioinformatics 2017, in press.<br />
 [DOI](https://doi.org/10.1093/bioinformatics/btw691) | 
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/28035024) |
 <span data-badge-type="4" data-doi="10.1093/bioinformatics/btw691" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 JS Benjamin, GO Pilarowski, GA Carossoa, L Zhang, DL Huso, LA Goff, HJ Vernon, <b>KD Hansen</b>, and HT Bjornsson.<br />
@@ -50,6 +51,7 @@ A Nellore, AE Jaffe, <b>JP Fortin</b>, J Alquicira-Hernández, L Collado-Torres,
 <i>Human splicing diversity and the extent of unannotated splice junctions across human RNA-seq samples on the Sequence Read Archive.</i><br />
 Genome Biology 2016, 17:266.<br />
 [DOI](https://doi.org/10.1186/s13059-016-1118-6) | 
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/28038678) |
 <span data-badge-type="4" data-doi="10.1186/s13059-016-1118-6" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 &#8627; Research highlight by Robert and Watson in Genome Biology | [DOI](http://doi.org/10.1186/s13059-016-1121-y)
 
