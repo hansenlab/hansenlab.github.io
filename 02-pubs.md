@@ -52,6 +52,7 @@ A Nellore, AE Jaffe, <b>JP Fortin</b>, J Alquicira-Hernández, L Collado-Torres,
 Genome Biology 2016, 17:266.<br />
 [DOI](https://doi.org/10.1186/s13059-016-1118-6) | 
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/28038678) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5203714) |
 <span data-badge-type="4" data-doi="10.1186/s13059-016-1118-6" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 &#8627; Research highlight by Robert and Watson in Genome Biology | [DOI](http://doi.org/10.1186/s13059-016-1121-y)
 
