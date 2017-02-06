@@ -45,6 +45,7 @@ JS Benjamin, GO Pilarowski, GA Carossoa, L Zhang, DL Huso, LA Goff, HJ Vernon, <
 PNAS 2017, 114(1):125-130.<br />
 [DOI](https://doi.org/10.1073/pnas.1611431114) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27999180) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5224378) |
 <span data-badge-type="4" data-doi="10.1073/pnas.1611431114" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 A Nellore, AE Jaffe, <b>JP Fortin</b>, J Alquicira-Hernández, L Collado-Torres, S Wang, RA Phillips, N Karbhari, <b>KD Hansen</b>, B Langmead<sup>&dagger;</sup>, and JT Leek<sup>&dagger;</sup>.<br />
