@@ -36,8 +36,8 @@ Computational Biology
 ---------------------
 
 SC Zheng, S Beck, AE Jaffe, DC Koestler, <b>KD Hansen</b>, AE Houseman, RA Irizarry, and AE Teschendorff.<br />
-<i>Correcting for cell-type heterogeneity in epigenome-wide association studies: revisiting previous analyses.<i><br />
-Nature Methods 2017, 14(3);216-217.<br />
+<i>Correcting for cell-type heterogeneity in epigenome-wide association studies: revisiting previous analyses.</i><br />
+Nature Methods 2017, 14(3):216-217.<br />
 [DOI](http://doi.org/10.1038/nmeth.4187) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/28245219) |
 <span data-badge-type="4" data-doi="10.1038/nmeth.4187" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
