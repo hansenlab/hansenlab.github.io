@@ -23,20 +23,29 @@ Current Preprints
 P Wulfridge, B Langmead, AP Feinberg, <b>KD Hansen</b><sup>&dagger;</sup>.<br />
 <i>Choice of reference genome can introduce massive bias in bisulfite sequencing data.</i><br />
 bioRxiv, 2016.<br />
-[DOI](https://doi.org/10.1101/076844) | <span data-badge-type="4" data-doi="10.1101/076844" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+[DOI](https://doi.org/10.1101/076844) | 
+<span data-badge-type="4" data-doi="10.1101/076844" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
-L Collado-Torres<sup>&lowast;</sup>, A Nellore<sup>&lowast;</sup>, K Kammers, SE Ellis, MA Taub, <b>KD Hansen</b>, AE Jaffe<sup>&dagger;</sup>, B Langmead<sup>&dagger;</sup>, JT Leek<sup>&dagger;</sup>.<br />
+L Collado-Torres<sup>&lowast;</sup>, A Nellore<sup>&lowast;</sup>, K Kammers, SE Ellis, MA Taub, <b>KD Hansen</b>, AE Jaffe<sup>&dagger;</sup>, B Langmead<sup>&dagger;</sup>,  JT Leek<sup>&dagger;</sup>.<br />
 <i>recount: A large-scale resource of analysis-ready RNA-seq expression data.</i><br />
 bioRxiv, 2016.<br />
-[DOI](https://doi.org/10.1101/068478) | <span data-badge-type="4" data-doi="10.1101/068478" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+[DOI](https://doi.org/10.1101/068478) | 
+<span data-badge-type="4" data-doi="10.1101/068478" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 Computational Biology
 ---------------------
 
-<b>L Myint</b>, A Kleensang, L Zhao, T Hartung, and <b>KD Hansen</b><sup>&dagger;</sup>.<br>
+SC Zheng, S Beck, AE Jaffe, DC Koestler, <b>KD Hansen</b>, AE Houseman, RA Irizarry, and AE Teschendorff.<br />
+<i>Correcting for cell-type heterogeneity in epigenome-wide association studies: revisiting previous analyses.<i><br />
+Nature Methods 2017, 14(3);216-217.<br />
+[DOI](http://doi.org/10.1038/nmeth.4187) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/28245219) |
+<span data-badge-type="4" data-doi="10.1038/nmeth.4187" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+
+<b>L Myint</b>, A Kleensang, L Zhao, T Hartung, and <b>KD Hansen</b><sup>&dagger;</sup>.<br />
 <i>Joint bounding of peaks across samples improves differential analysis in mass spectrometry-based metabolomics.</i><br />
 Analytical Chemistry 2017, in press.<br />
-[DOI](http://dx.doi.org/10.1021/acs.analchem.6b04719) |
+[DOI](http://doi.org/10.1021/acs.analchem.6b04719) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/28221771) |
 <span data-badge-type="4" data-doi="10.1021/acs.analchem.6b04719" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
