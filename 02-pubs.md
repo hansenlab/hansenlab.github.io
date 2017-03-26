@@ -20,7 +20,7 @@ Publication Repositories
 Current Preprints
 -----------------
 
-L Rizzardi<sup>&lowast;</sup>, <b>P Hickey</b><sup>&lowast;</sup>, V Rodriguez, RakeR Tryggvadottir, C Callahan, A Idrizi, <b>KD Hansen</b><sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.<br />
+L Rizzardi<sup>&lowast;</sup>, <b>P Hickey</b><sup>&lowast;</sup>, V Rodriguez, R Tryggvadottir, C Callahan, A Idrizi, <b>KD Hansen</b><sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.<br />
 <i>Neuronal brain region-specific DNA methylation and chromatin accessibility are associated with neuropsychiatric disease heritability.</i> <br />
 bioRxiv 2017.<br />
 [DOI](https://doi.org/10.1101/120386) | 
