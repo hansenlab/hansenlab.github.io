@@ -20,6 +20,12 @@ Publication Repositories
 Current Preprints
 -----------------
 
+L Rizzardi<sup>&lowast;</sup>, <b>P Hickey</b><sup>&lowast;</sup>, V Rodriguez, RakeR Tryggvadottir, C Callahan, A Idrizi, <b>KD Hansen</b><sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.<br />
+<i>Neuronal brain region-specific DNA methylation and chromatin accessibility are associated with neuropsychiatric disease heritability.</i> <br />
+bioRxiv 2017.<br />
+[DOI](https://doi.org/10.1101/120386) | 
+<span data-badge-type="4" data-doi="10.1101/120386" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+
 P Wulfridge, B Langmead, AP Feinberg, <b>KD Hansen</b><sup>&dagger;</sup>.<br />
 <i>Choice of reference genome can introduce massive bias in bisulfite sequencing data.</i><br />
 bioRxiv, 2016.<br />
