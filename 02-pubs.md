@@ -50,14 +50,15 @@ Nature Methods 2017, 14(3):216-217.<br />
 
 <b>L Myint</b>, A Kleensang, L Zhao, T Hartung, and <b>KD Hansen</b><sup>&dagger;</sup>.<br />
 <i>Joint bounding of peaks across samples improves differential analysis in mass spectrometry-based metabolomics.</i><br />
-Analytical Chemistry 2017, in press.<br />
+Analytical Chemistry 2017, 89(6):3517-3523.<br />
 [DOI](http://doi.org/10.1021/acs.analchem.6b04719) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/28221771) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5362739) |
 <span data-badge-type="4" data-doi="10.1021/acs.analchem.6b04719" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 <b>JP Fortin</b>, T Triche Jr, <b>KD Hansen</b><sup>&dagger;</sup>.<br />
 <i>Preprocessing, normalization and integration of the Illumina HumanMethylationEPIC array with minfi.</i><br />
-Bioinformatics 2017, in press.<br />
+Bioinformatics 2017, 33(4):558-560.<br />
 [DOI](https://doi.org/10.1093/bioinformatics/btw691) | 
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/28035024) |
 <span data-badge-type="4" data-doi="10.1093/bioinformatics/btw691" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
