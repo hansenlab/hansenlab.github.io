@@ -41,6 +41,13 @@ bioRxiv, 2016.<br />
 Computational Biology
 ---------------------
 
+L Collado-Torres, A Nellore, K Kammers, SE Ellis, MA Taub, <b>KD Hansen</b>, AE Jaffe, B Langmead, JT Leek.<br />
+<i>Reproducible RNA-seq analysis using recount2.</i><br />
+Nature Biotechnology 2017, 35(4):319-321.<br />
+[DOI](http://doi.org/10.1038/nbt.3838) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/28398307) |
+<span data-badge-type="4" data-doi="10.1038/nbt.3838" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+
 SC Zheng, S Beck, AE Jaffe, DC Koestler, <b>KD Hansen</b>, AE Houseman, RA Irizarry, and AE Teschendorff.<br />
 <i>Correcting for cell-type heterogeneity in epigenome-wide association studies: revisiting previous analyses.</i><br />
 Nature Methods 2017, 14(3):216-217.<br />
