@@ -32,12 +32,6 @@ bioRxiv, 2016.<br />
 [DOI](https://doi.org/10.1101/076844) | 
 <span data-badge-type="4" data-doi="10.1101/076844" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
-L Collado-Torres<sup>&lowast;</sup>, A Nellore<sup>&lowast;</sup>, K Kammers, SE Ellis, MA Taub, <b>KD Hansen</b>, AE Jaffe<sup>&dagger;</sup>, B Langmead<sup>&dagger;</sup>,  JT Leek<sup>&dagger;</sup>.<br />
-<i>recount: A large-scale resource of analysis-ready RNA-seq expression data.</i><br />
-bioRxiv, 2016.<br />
-[DOI](https://doi.org/10.1101/068478) | 
-<span data-badge-type="4" data-doi="10.1101/068478" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
-
 Computational Biology
 ---------------------
 
@@ -46,6 +40,7 @@ L Collado-Torres, A Nellore, K Kammers, SE Ellis, MA Taub, <b>KD Hansen</b>, AE 
 Nature Biotechnology 2017, 35(4):319-321.<br />
 [DOI](http://doi.org/10.1038/nbt.3838) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/28398307) |
+[Preprint](https://doi.org/10.1101/068478) |
 <span data-badge-type="4" data-doi="10.1038/nbt.3838" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 SC Zheng, S Beck, AE Jaffe, DC Koestler, <b>KD Hansen</b>, AE Houseman, RA Irizarry, and AE Teschendorff.<br />
@@ -68,6 +63,7 @@ Analytical Chemistry 2017, 89(6):3517-3523.<br />
 Bioinformatics 2017, 33(4):558-560.<br />
 [DOI](https://doi.org/10.1093/bioinformatics/btw691) | 
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/28035024) |
+[Preprint](https://doi.org/10.1101/065490) |
 <span data-badge-type="4" data-doi="10.1093/bioinformatics/btw691" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 JS Benjamin, GO Pilarowski, GA Carossoa, L Zhang, DL Huso, LA Goff, HJ Vernon, <b>KD Hansen</b>, and HT Bjornsson.<br />
@@ -84,6 +80,7 @@ Genome Biology 2016, 17:266.<br />
 [DOI](https://doi.org/10.1186/s13059-016-1118-6) | 
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/28038678) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5203714) |
+[Preprint](https://doi.org/10.1101/038224) |
 <span data-badge-type="4" data-doi="10.1186/s13059-016-1118-6" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 &#8627; Research highlight by Robert and Watson in Genome Biology | [DOI](http://doi.org/10.1186/s13059-016-1121-y)
 
@@ -93,6 +90,7 @@ Epigenetics and Chromatin 2016, 9:56.<br />
 [DOI](https://doi.org/10.1186/s13072-016-0107-z) | 
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27980682) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5142147) |
+[Preprint](https://doi.org/10.1101/059659) |
 <span data-badge-type="4" data-doi="10.1186/s13072-016-0107-z" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 X Li, Y Liu, T Salz, <b>KD Hansen</b>, AP Feinberg<sup>&dagger;</sup>.<br />
@@ -101,6 +99,7 @@ Genome Research 2016, 26(12):1730-1741.<br />
 [DOI](https://doi.org/10.1101/gr.211854.116) | 
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27737935) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5131824) |
+[Preprint](https://doi.org/10.1101/062588) |
 <span data-badge-type="4" data-doi="10.1101/gr.211854.116" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 A Nellore<sup>&dagger;</sup>, C Wilks, <b>KD Hansen</b>, JT Leek, and B Langmead<sup>&dagger;</sup>.<br />
@@ -109,6 +108,7 @@ Bioinformatics 2016, 32(16):2551-2553.<br />
 [DOI](https://doi.org/10.1093/bioinformatics/btw177) | 
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27153614) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4978928) |
+[Preprint](https://doi.org/10.1101/035287) |
 <span data-badge-type="4" data-doi="10.1093/bioinformatics/btw177" data-hide-no-mentions="true" class="altmetric-embed"></span><br /> 
 
 L Kannan, M Ramos, A Re, N El-Hachem, A Safikhani, DMA Gendoo, S Davis, S Gomez-Cabrero, R Castelo, <b>KD Hansen</b>, VJ Carey, M Morgan, AC Culhane, B Haibe-Kains, and L Waldron<sup>&dagger;</sup>.<br />
@@ -141,6 +141,7 @@ Genome Research 2015, 25(12):1801-1811.<br />
 [DOI](https://doi.org/10.1101/gr.192005.115) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26392366) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4665002) |
+[Preprint](https://doi.org/10.1101/016022) |
 <span data-badge-type="4" data-doi="10.1101/gr.192005.115" data-hide-no-mentions="true" class="altmetric-embed"></span><br />
 
 <b>JP Fortin</b> and <b>KD Hansen</b><sup>&dagger;</sup>.<br />
@@ -149,6 +150,7 @@ Genome Biology 2015, 16:180.<br />
 [DOI](http://www.dx.doi.org/10.1186/s13059-015-0741-y) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26316348) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4574526) |
+[Preprint](https://doi.org/10.1101/019000) |
 <span data-badge-type="4" data-doi="10.1186/s13059-015-0741-y" data-hide-no-mentions="true" class="altmetric-embed"></span><br />
 &#8627; Research highlight by Mourad and Cuvier in Genome Biology | [DOI](http://www.dx.doi.org/10.1186/s13059-015-0752-8)
 
@@ -193,6 +195,7 @@ Genome Biology 2014, 15:503.<br />
 [DOI](https://doi.org/10.1186/s13059-014-0503-2) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25599564) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4283580) |
+[Preprint](https://doi.org/10.1101/002956) |
 <span data-badge-type="4" data-doi="10.1186/s13059-014-0503-2" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 HT Bjornsson<sup>&lowast;,&dagger;</sup>, JS Benjamin<sup>&lowast;</sup>, L Zhang, J Weissman, EE Gerber, YC Chen, RG Vaurio, MC Potter, <b>KD Hansen</b>, HC Dietz.<br />
@@ -310,6 +313,7 @@ Biostatistics 2012, 13(2):204-216.<br />
 [DOI](https://doi.org/10.1093/biostatistics/kxr054) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22285995) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3297825) |
+[Preprint](http://www.bepress.com/jhubiostat/paper227) |
 <span data-badge-type="4" data-doi="10.1093/biostatistics/kxr054" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 <b>KD Hansen</b><sup>&lowast;</sup>, W Timp<sup>&lowast;</sup>, H
@@ -388,6 +392,7 @@ BMC Bioinformatics 2010, 11:94.<br />
 [DOI](https://doi.org/10.1186/1471-2105-11-94) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/20167110) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2838869) |
+[Preprint](http://www.bepress.com/ucbbiostat/paper247) |
 <span data-badge-type="4" data-doi="10.1186/1471-2105-11-94" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <br />
 
@@ -432,6 +437,13 @@ Leanpub, 2016.<br />
 
 Published Preprints
 -------------------
+
+L Collado-Torres<sup>&lowast;</sup>, A Nellore<sup>&lowast;</sup>, K Kammers, SE Ellis, MA Taub, <b>KD Hansen</b>, AE Jaffe<sup>&dagger;</sup>, B Langmead<sup>&dagger;</sup>,  JT Leek<sup>&dagger;</sup>.<br />
+<i>recount: A large-scale resource of analysis-ready RNA-seq expression data.</i><br />
+bioRxiv, 2016.<br />
+[DOI](https://doi.org/10.1101/068478) | 
+<span data-badge-type="4" data-doi="10.1101/068478" data-hide-no-mentions="true" class="altmetric-embed"> </span><br /> |
+Published in Nature Biotechnology 2017.
 
 A Nellore, AE Jaffe, <b>JP Fortin</b>, J Alquicira-Hernández, L Collado-Torres, S Wang, RA Phillips, N Karbhari, <b>KD Hansen</B>, B Langmead<sup>&dagger;</sup>, and JT Leek<sup>&dagger;</sup>.<br />
 <i>Human splicing diversity across the Sequence Read Archive.</i><br />
