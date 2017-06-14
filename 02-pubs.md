@@ -20,11 +20,23 @@ Publication Repositories
 Current Preprints
 -----------------
 
+M Ramos, L Schiffer, A Re, A Azhar, A Basunia, CR Cabrera, T Chan, P Chapman, S Davis, D Gomez-Cabrero, AC Culhane, B Haibe-Kains, <b>KD Hansen</b>, H Kodali, MS Louis, AS Mer, M Riester, M Morgan, V Carey, L Waldron.<br />
+<i>Software for the integration of multi-omics experiments in Bioconductor.</i><br />
+bioRxiv 2017.<br />
+[DOI](https://doi.org/10.1101/144774) |
+<span data-badge-type="4" data-doi="10.1101/144774" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+
 L Rizzardi<sup>&lowast;</sup>, <b>P Hickey</b><sup>&lowast;</sup>, V Rodriguez, R Tryggvadottir, C Callahan, A Idrizi, <b>KD Hansen</b><sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.<br />
 <i>Neuronal brain region-specific DNA methylation and chromatin accessibility are associated with neuropsychiatric disease heritability.</i> <br />
 bioRxiv 2017.<br />
 [DOI](https://doi.org/10.1101/120386) | 
 <span data-badge-type="4" data-doi="10.1101/120386" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+
+SC Zheng, S Beck, AE Jaffe, DC Koestler, <b>KD Hansen</b>, AE Houseman, RA Irizarry, M Widschwendter, AE Teschendorff.<br />
+<i>Correcting For Cell-Type Heterogeneity In Epigenome-Wide Association Studies: Premature Analyses And Conclusions.</i><br />
+bioRxiv 2017.<br />
+[DOI](https://doi.org/10.1101/121533) |
+<span data-badge-type="4" data-doi="10.1101/121533" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 P Wulfridge, B Langmead, AP Feinberg, <b>KD Hansen</b><sup>&dagger;</sup>.<br />
 <i>Choice of reference genome can introduce massive bias in bisulfite sequencing data.</i><br />
@@ -63,6 +75,7 @@ Analytical Chemistry 2017, 89(6):3517-3523.<br />
 Bioinformatics 2017, 33(4):558-560.<br />
 [DOI](https://doi.org/10.1093/bioinformatics/btw691) | 
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/28035024) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5408810) | 
 [Preprint](https://doi.org/10.1101/065490) |
 <span data-badge-type="4" data-doi="10.1093/bioinformatics/btw691" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
