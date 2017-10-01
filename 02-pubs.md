@@ -20,6 +20,18 @@ Publication Repositories
 Current Preprints
 -----------------
 
+<b>L Myint</b>, DG Avramopoulos, LA Goff, <b>KD Hansen</b>.<br />
+<i>Linear models enable powerful differential activity analysis in massively parallel reporter assays.</i><br />
+bioRxiv 2017.<br />
+[DOI](https://doi.org/10.1101/196394) |
+<span data-badge-type="4" data-doi="10.1101/196394" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+
+V Gaysinskaya, BF Miller, GW van der Heijden, <b>KD Hansen</b>, A Bortvin.<br />
+<i>Transient Reduction Of DNA Methylation At The Onset Of Meiosis In Male Mice.</i><br />
+bioRxiv 2017.<br />
+[DOI](https://doi.org/10.1101/177535) |
+<span data-badge-type="4" data-doi="10.1101/177535" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+
 M Ramos, L Schiffer, A Re, A Azhar, A Basunia, CR Cabrera, T Chan, P Chapman, S Davis, D Gomez-Cabrero, AC Culhane, B Haibe-Kains, <b>KD Hansen</b>, H Kodali, MS Louis, AS Mer, M Riester, M Morgan, V Carey, L Waldron.<br />
 <i>Software for the integration of multi-omics experiments in Bioconductor.</i><br />
 bioRxiv 2017.<br />
@@ -40,7 +52,7 @@ bioRxiv 2017.<br />
 
 P Wulfridge, B Langmead, AP Feinberg, <b>KD Hansen</b><sup>&dagger;</sup>.<br />
 <i>Choice of reference genome can introduce massive bias in bisulfite sequencing data.</i><br />
-bioRxiv, 2016.<br />
+bioRxiv 2016.<br />
 [DOI](https://doi.org/10.1101/076844) | 
 <span data-badge-type="4" data-doi="10.1101/076844" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
