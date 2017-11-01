@@ -32,12 +32,6 @@ bioRxiv 2017.<br />
 [DOI](https://doi.org/10.1101/177535) |
 <span data-badge-type="4" data-doi="10.1101/177535" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
-M Ramos, L Schiffer, A Re, A Azhar, A Basunia, CR Cabrera, T Chan, P Chapman, S Davis, D Gomez-Cabrero, AC Culhane, B Haibe-Kains, <b>KD Hansen</b>, H Kodali, MS Louis, AS Mer, M Riester, M Morgan, V Carey, L Waldron.<br />
-<i>Software for the integration of multi-omics experiments in Bioconductor.</i><br />
-bioRxiv 2017.<br />
-[DOI](https://doi.org/10.1101/144774) |
-<span data-badge-type="4" data-doi="10.1101/144774" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
-
 L Rizzardi<sup>&lowast;</sup>, <b>P Hickey</b><sup>&lowast;</sup>, V Rodriguez, R Tryggvadottir, C Callahan, A Idrizi, <b>KD Hansen</b><sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.<br />
 <i>Neuronal brain region-specific DNA methylation and chromatin accessibility are associated with neuropsychiatric disease heritability.</i> <br />
 bioRxiv 2017.<br />
@@ -58,6 +52,13 @@ bioRxiv 2016.<br />
 
 Computational Biology
 ---------------------
+
+R Marcel, LSchiffer, A Re, RA Azhar, A Basunia, C Rodriguez, T Chan, P Chapman, SR Davis, D Gomez-Cabrero, AC Culhane, B Haibe-Kains, <b>KD Hansen</b>, H Kodali, MS Louis, AS Mer, M Riester, M Morgan, VJ Carey, Vince, L Waldron.<br />
+<i>Software for the Integration of Multiomics Experiments in Bioconductor.</i><br />
+Cancer Research 2017, 77(21):e39-e42.<br />
+[DOI](https://doi.org/10.1158/0008-5472.CAN-17-0344) |
+[Preprint](https://doi.org/10.1101/144774) |
+<span data-badge-type="4" data-doi="10.1158/0008-5472.CAN-17-0344" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 L Collado-Torres, A Nellore, K Kammers, SE Ellis, MA Taub, <b>KD Hansen</b>, AE Jaffe, B Langmead, JT Leek.<br />
 <i>Reproducible RNA-seq analysis using recount2.</i><br />
@@ -462,6 +463,12 @@ Leanpub, 2016.<br />
 
 Published Preprints
 -------------------
+
+M Ramos, L Schiffer, A Re, A Azhar, A Basunia, CR Cabrera, T Chan, P Chapman, S Davis, D Gomez-Cabrero, AC Culhane, B Haibe-Kains, <b>KD Hansen</b>, H Kodali, MS Louis, AS Mer, M Riester, M Morgan, V Carey, L Waldron.<br />
+<i>Software for the integration of multi-omics experiments in Bioconductor.</i><br />
+bioRxiv 2017.<br />
+[DOI](https://doi.org/10.1101/144774) |
+<span data-badge-type="4" data-doi="10.1101/144774" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 L Collado-Torres<sup>&lowast;</sup>, A Nellore<sup>&lowast;</sup>, K Kammers, SE Ellis, MA Taub, <b>KD Hansen</b>, AE Jaffe<sup>&dagger;</sup>, B Langmead<sup>&dagger;</sup>,  JT Leek<sup>&dagger;</sup>.<br />
 <i>recount: A large-scale resource of analysis-ready RNA-seq expression data.</i><br />
