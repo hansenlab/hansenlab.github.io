@@ -20,33 +20,41 @@ Publication Repositories
 Current Preprints
 -----------------
 
+<b>K Fltez-Brant</b>, Y Qiu, DU Gorkin, M Hu, <b>KD Hansen</b>.<br />
+<i>Removing unwanted variation between samples in Hi-C experiments.</i><br />
+bioRxiv 2017, 214361.<br>
+[DOI](https://doi.org/10.1101/214361) |
+<span data-badge-type="4" data-doi="10.1101/214361" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+
+10.1101/214361
+
 <b>L Myint</b>, DG Avramopoulos, LA Goff, <b>KD Hansen</b>.<br />
 <i>Linear models enable powerful differential activity analysis in massively parallel reporter assays.</i><br />
-bioRxiv 2017.<br />
+bioRxiv 2017, 196394.<br />
 [DOI](https://doi.org/10.1101/196394) |
 <span data-badge-type="4" data-doi="10.1101/196394" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 V Gaysinskaya, BF Miller, GW van der Heijden, <b>KD Hansen</b>, A Bortvin.<br />
 <i>Transient Reduction Of DNA Methylation At The Onset Of Meiosis In Male Mice.</i><br />
-bioRxiv 2017.<br />
+bioRxiv 2017, 177535.<br />
 [DOI](https://doi.org/10.1101/177535) |
 <span data-badge-type="4" data-doi="10.1101/177535" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 L Rizzardi<sup>&lowast;</sup>, <b>P Hickey</b><sup>&lowast;</sup>, V Rodriguez, R Tryggvadottir, C Callahan, A Idrizi, <b>KD Hansen</b><sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.<br />
 <i>Neuronal brain region-specific DNA methylation and chromatin accessibility are associated with neuropsychiatric disease heritability.</i> <br />
-bioRxiv 2017.<br />
+bioRxiv 2017, 120386.<br />
 [DOI](https://doi.org/10.1101/120386) | 
 <span data-badge-type="4" data-doi="10.1101/120386" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 SC Zheng, S Beck, AE Jaffe, DC Koestler, <b>KD Hansen</b>, AE Houseman, RA Irizarry, M Widschwendter, AE Teschendorff.<br />
 <i>Correcting For Cell-Type Heterogeneity In Epigenome-Wide Association Studies: Premature Analyses And Conclusions.</i><br />
-bioRxiv 2017.<br />
+bioRxiv 2017, 121533.<br />
 [DOI](https://doi.org/10.1101/121533) |
 <span data-badge-type="4" data-doi="10.1101/121533" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 P Wulfridge, B Langmead, AP Feinberg, <b>KD Hansen</b><sup>&dagger;</sup>.<br />
 <i>Choice of reference genome can introduce massive bias in bisulfite sequencing data.</i><br />
-bioRxiv 2016.<br />
+bioRxiv 2016, 076844.<br />
 [DOI](https://doi.org/10.1101/076844) | 
 <span data-badge-type="4" data-doi="10.1101/076844" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
@@ -466,65 +474,65 @@ Published Preprints
 
 M Ramos, L Schiffer, A Re, A Azhar, A Basunia, CR Cabrera, T Chan, P Chapman, S Davis, D Gomez-Cabrero, AC Culhane, B Haibe-Kains, <b>KD Hansen</b>, H Kodali, MS Louis, AS Mer, M Riester, M Morgan, V Carey, L Waldron.<br />
 <i>Software for the integration of multi-omics experiments in Bioconductor.</i><br />
-bioRxiv 2017.<br />
+bioRxiv 2017, 144774.<br />
 [DOI](https://doi.org/10.1101/144774) |
 <span data-badge-type="4" data-doi="10.1101/144774" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 L Collado-Torres<sup>&lowast;</sup>, A Nellore<sup>&lowast;</sup>, K Kammers, SE Ellis, MA Taub, <b>KD Hansen</b>, AE Jaffe<sup>&dagger;</sup>, B Langmead<sup>&dagger;</sup>,  JT Leek<sup>&dagger;</sup>.<br />
 <i>recount: A large-scale resource of analysis-ready RNA-seq expression data.</i><br />
-bioRxiv, 2016.<br />
+bioRxiv 2016, 068478.<br />
 [DOI](https://doi.org/10.1101/068478) | 
 <span data-badge-type="4" data-doi="10.1101/068478" data-hide-no-mentions="true" class="altmetric-embed"> </span><br /> |
 Published in Nature Biotechnology 2017.
 
 A Nellore, AE Jaffe, <b>JP Fortin</b>, J Alquicira-Hernández, L Collado-Torres, S Wang, RA Phillips, N Karbhari, <b>KD Hansen</B>, B Langmead<sup>&dagger;</sup>, and JT Leek<sup>&dagger;</sup>.<br />
 <i>Human splicing diversity across the Sequence Read Archive.</i><br />
-bioRxiv 2016.<br />
+bioRxiv 2016, 038224.<br />
 [DOI](https://doi.org/10.1101/038224) | <span data-badge-type="4" data-doi="10.1101/038224" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
 Published in Genome Biology 2016.
 
 <b>JP Fortin</b>, T Triche Jr, <b>KD Hansen</b><sup>&dagger;</sup>.<br />
 <i>Preprocessing, normalization and integration of the Illumina HumanMethylationEPIC array.</i><br />
-bioRxiv, 2016.<br />
+bioRxiv 2016, 065490.<br />
 [DOI](https://doi.org/10.1101/065490) | <span data-badge-type="4" data-doi="10.1101/065490" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
 Published in Bioinformatics 2017.
 
 SV Andrews, C Ladd-Acosta, AP Feinberg, <b>KD Hansen</b>, MD Fallin.<br />
 <i>'Gap hunting' to identify multimodal distributions of DNA methylation.</i><br />
-bioRxiv 2016.<br />
+bioRxiv 2016, 059659.<br />
 [DOI](https://doi.org/10.1101/059659) | <span data-badge-type="4" data-doi="10.1101/059659" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
 Published in Epigenetics and Chromatin 2016.
 
 X Li, Y Liu, T Salz, <b>KD Hansen</b>, AP Feinberg.<br />
 <i>Whole genome analysis of the methylome and hydroxymethylome in normal and malignant lung and liver.</i><br />
-bioRxiv 2016.<br />
+bioRxiv 2016, 062588.<br />
 [DOI](https://doi.org/10.1101/062588) | <span data-badge-type="4" data-doi="10.1101/062588" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
 Published in Genome Research 2016.
 
 A Nellore<sup>&dagger;</sup>, C Wilks, <b>KD Hansen</b>, JT Leek, and B Langmead<sup>&dagger;</sup>.<br />
 <i>Rail-dbGaP: a protocol and tool for analyzing protected genomic data in a commercial cloud.</i><br />
-bioRxiv 2015.<br />
+bioRxiv 2015, 035287.<br />
 [DOI](https://doi.org/10.1101/035287) |
 <span data-badge-type="4" data-doi="10.1101/035287" data-hide-no-mentions="true" class="altmetric-embed"></span> |
 Published in Bioinformatics 2016.
 
 A Pacis, L Tailleux, J Lambourne, V Yotova, A Dumaine, A Danckaert, F Luca, JC Grenier, <b>KD Hansen</b>, B Gicquel, M Yu, A Pai, J Tung, C He, T Pastinen, R Pique-Regi, Y Gilad<sup>&dagger;</sup> and L Barreiro<sup>&dagger;</sup>.<br />
 <i>Bacterial Infection Remodels the DNA Methylation Landscape of Human Dendritic Cells.</i><br />
-bioRxiv 2015.<br />
+bioRxiv 2015, 016022.<br />
 [DOI](https://doi.org/10.1101/016022) |
 <span data-badge-type="4" data-doi="10.1101/016022" data-hide-no-mentions="true" class="altmetric-embed"></span> |
 Published in Genome Research 2015.
 
 <b>JP Fortin</b> and <b>KD Hansen<sup>&dagger;</sup>.</b><br />
 <i>Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data.</i><br />
-bioRxiv, 2015.<br />
+bioRxiv 2015, 019000.<br />
 [DOI](https://doi.org/10.1101/019000) |
 <span data-badge-type="4" data-doi="10.1101/019000" data-hide-no-mentions="true" class="altmetric-embed"></span> |
 Published in Genome Biology 2015.
 
 <b>JP Fortin</b>, A Labbe, M Lemire, BW Zanke, TJ Hudson, EJ Fertig, CMT Greenwood and <b>KD Hansen</b><sup>&dagger;</sup>.<br />
 <i>Functional normalization of 450k methylation array data improves replication in large cancer studies.</i><br />
-bioRxiv, 2014.<br />
+bioRxiv 2014, 002956.<br />
 [DOI](https://doi.org/10.1101/002956) |
 <span data-badge-type="4" data-doi="10.1101/002956" data-hide-no-mentions="true" class="altmetric-embed"></span> |
 Published in Genome Biology 2014.
