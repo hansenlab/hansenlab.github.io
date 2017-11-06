@@ -26,8 +26,6 @@ bioRxiv 2017, 214361.<br>
 [DOI](https://doi.org/10.1101/214361) |
 <span data-badge-type="4" data-doi="10.1101/214361" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
-10.1101/214361
-
 <b>L Myint</b>, DG Avramopoulos, LA Goff, <b>KD Hansen</b>.<br />
 <i>Linear models enable powerful differential activity analysis in massively parallel reporter assays.</i><br />
 bioRxiv 2017, 196394.<br />
