@@ -23,6 +23,17 @@ parsing output files from Affymetrix microarrays using the [Fusion SDK](http://w
 [GitHub](https://github.com/HenrikBengtsson/affxparser.git)
 ]
 
+[bnbc](http://www.bioconductor.org/packages/bnbc): A package for normalization and removal of unwanted variation in Hi-C data.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
+[download stats](http://bioconductor.org/packages/stats/bioc/bnbc)
+| 
+[build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/bnbc)
+|
+[build release](http://bioconductor.org/checkResults/release/bioc-LATEST/bnbc)
+|
+[GitHub](https://github.com/hansenlab/bnbc)
+]
+
 [bsseq](http://www.bioconductor.org/packages/bsseq): A package for analyzing
 whole-genome bisulfite sequencing data.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
@@ -89,6 +100,17 @@ Illumina's 450k methylation microarray.
 [build release](http://bioconductor.org/checkResults/release/bioc-LATEST/minfi)
 |
 [GitHub](https://github.com/kasperdanielhansen/minfi)
+]
+
+[mpra](http://www.bioconductor.org/packages/mpra): A package for analysis of massively parallel reporter assays (MPRA).
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
+[download stats](http://bioconductor.org/packages/stats/bioc/mpra)
+| 
+[build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/mpra)
+|
+[build release](http://bioconductor.org/checkResults/release/bioc-LATEST/mpra)
+|
+[GitHub](https://github.com/hansenlab/mpra)
 ]
 
 [Rgraphviz](http://www.bioconductor.org/packages/Rgraphviz): A package for
