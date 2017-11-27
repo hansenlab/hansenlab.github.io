@@ -22,7 +22,7 @@ Current Preprints
 
 <b>K Fltez-Brant</b>, Y Qiu, DU Gorkin, M Hu, <b>KD Hansen</b>.<br />
 <i>Removing unwanted variation between samples in Hi-C experiments.</i><br />
-bioRxiv 2017, 214361.<br>
+bioRxiv 2017, 214361.<br />
 [DOI](https://doi.org/10.1101/214361) |
 <span data-badge-type="4" data-doi="10.1101/214361" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
@@ -58,6 +58,12 @@ bioRxiv 2016, 076844.<br />
 
 Computational Biology
 ---------------------
+
+WT Barrington, P Wulfridge, AE Wells, CM Rojas, SYF Howe, A Perry, K Hua, MA Pellizzon, <b>KD Hansen</b>, BH Voy, BJ Bennett, D Pomp, Daniel, AP Feinberg, DW Threadgill, David W.<br />
+<i>Improving metabolic health through precision dietetics in mice.</i><br />
+Genetics 2017, In press.<br />
+[DOI](https://doi.org/10.1534/genetics.117.300536) |
+<span data-badge-type="4" data-doi="10.1534/genetics.117.300536" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 R Marcel, LSchiffer, A Re, RA Azhar, A Basunia, C Rodriguez, T Chan, P Chapman, SR Davis, D Gomez-Cabrero, AC Culhane, B Haibe-Kains, <b>KD Hansen</b>, H Kodali, MS Louis, AS Mer, M Riester, M Morgan, VJ Carey, Vince, L Waldron.<br />
 <i>Software for the Integration of Multiomics Experiments in Bioconductor.</i><br />
