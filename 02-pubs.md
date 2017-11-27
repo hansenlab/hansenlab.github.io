@@ -63,12 +63,15 @@ WT Barrington, P Wulfridge, AE Wells, CM Rojas, SYF Howe, A Perry, K Hua, MA Pel
 <i>Improving metabolic health through precision dietetics in mice.</i><br />
 Genetics 2017, In press.<br />
 [DOI](https://doi.org/10.1534/genetics.117.300536) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/29158425) |
 <span data-badge-type="4" data-doi="10.1534/genetics.117.300536" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 R Marcel, LSchiffer, A Re, RA Azhar, A Basunia, C Rodriguez, T Chan, P Chapman, SR Davis, D Gomez-Cabrero, AC Culhane, B Haibe-Kains, <b>KD Hansen</b>, H Kodali, MS Louis, AS Mer, M Riester, M Morgan, VJ Carey, Vince, L Waldron.<br />
 <i>Software for the Integration of Multiomics Experiments in Bioconductor.</i><br />
 Cancer Research 2017, 77(21):e39-e42.<br />
 [DOI](https://doi.org/10.1158/0008-5472.CAN-17-0344) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/29092936) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5679241) |
 [Preprint](https://doi.org/10.1101/144774) |
 <span data-badge-type="4" data-doi="10.1158/0008-5472.CAN-17-0344" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
