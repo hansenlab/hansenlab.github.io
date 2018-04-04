@@ -32,12 +32,6 @@ bioRxiv 2017, 196394.<br />
 [DOI](https://doi.org/10.1101/196394) |
 <span data-badge-type="4" data-doi="10.1101/196394" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
-V Gaysinskaya, BF Miller, GW van der Heijden, <b>KD Hansen</b>, A Bortvin.<br />
-<i>Transient Reduction Of DNA Methylation At The Onset Of Meiosis In Male Mice.</i><br />
-bioRxiv 2017, 177535.<br />
-[DOI](https://doi.org/10.1101/177535) |
-<span data-badge-type="4" data-doi="10.1101/177535" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
-
 L Rizzardi<sup>&lowast;</sup>, <b>P Hickey</b><sup>&lowast;</sup>, V Rodriguez, R Tryggvadottir, C Callahan, A Idrizi, <b>KD Hansen</b><sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.<br />
 <i>Neuronal brain region-specific DNA methylation and chromatin accessibility are associated with neuropsychiatric disease heritability.</i> <br />
 bioRxiv 2017, 120386.<br />
@@ -58,6 +52,13 @@ bioRxiv 2016, 076844.<br />
 
 Computational Biology
 ---------------------
+
+V Gaysinskaya, BF Miller, GW van der Heijden, <b>KD Hansen</b>, A Bortvin.<br />
+<i>Transient reduction of DNA methylation at the onset of meiosis in male mice.</i><br />
+Epigenetics & Chromatin 2018, 11(1):15.<br />
+[DOI](https://doi.org/10.1186/s13072-018-0186-0) |
+[Preprint](https://doi.org/10.1101/177535) |
+<span data-badge-type="4" data-doi="10.1186/s13072-018-0186-0" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
 WT Barrington, P Wulfridge, AE Wells, CM Rojas, SYF Howe, A Perry, K Hua, MA Pellizzon, <b>KD Hansen</b>, BH Voy, BJ Bennett, D Pomp, Daniel, AP Feinberg, DW Threadgill, David W.<br />
 <i>Improving metabolic health through precision dietetics in mice.</i><br />
@@ -479,17 +480,25 @@ Leanpub, 2016.<br />
 Published Preprints
 -------------------
 
+V Gaysinskaya, BF Miller, GW van der Heijden, <b>KD Hansen</b>, A Bortvin.<br />
+<i>Transient Reduction Of DNA Methylation At The Onset Of Meiosis In Male Mice.</i><br />
+bioRxiv 2017, 177535.<br />
+[DOI](https://doi.org/10.1101/177535) |
+<span data-badge-type="4" data-doi="10.1101/177535" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
+Published in Epigenetics & Chromatin 2018
+
 M Ramos, L Schiffer, A Re, A Azhar, A Basunia, CR Cabrera, T Chan, P Chapman, S Davis, D Gomez-Cabrero, AC Culhane, B Haibe-Kains, <b>KD Hansen</b>, H Kodali, MS Louis, AS Mer, M Riester, M Morgan, V Carey, L Waldron.<br />
 <i>Software for the integration of multi-omics experiments in Bioconductor.</i><br />
 bioRxiv 2017, 144774.<br />
 [DOI](https://doi.org/10.1101/144774) |
-<span data-badge-type="4" data-doi="10.1101/144774" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+<span data-badge-type="4" data-doi="10.1101/144774" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
+Published in Cancer Research 2017
 
 L Collado-Torres<sup>&lowast;</sup>, A Nellore<sup>&lowast;</sup>, K Kammers, SE Ellis, MA Taub, <b>KD Hansen</b>, AE Jaffe<sup>&dagger;</sup>, B Langmead<sup>&dagger;</sup>,  JT Leek<sup>&dagger;</sup>.<br />
 <i>recount: A large-scale resource of analysis-ready RNA-seq expression data.</i><br />
 bioRxiv 2016, 068478.<br />
 [DOI](https://doi.org/10.1101/068478) | 
-<span data-badge-type="4" data-doi="10.1101/068478" data-hide-no-mentions="true" class="altmetric-embed"> </span><br /> |
+<span data-badge-type="4" data-doi="10.1101/068478" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
 Published in Nature Biotechnology 2017.
 
 A Nellore, AE Jaffe, <b>JP Fortin</b>, J Alquicira-Hernández, L Collado-Torres, S Wang, RA Phillips, N Karbhari, <b>KD Hansen</B>, B Langmead<sup>&dagger;</sup>, and JT Leek<sup>&dagger;</sup>.<br />
