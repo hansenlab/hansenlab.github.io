@@ -35,8 +35,10 @@ bioRxiv 2017, 196394.<br />
 L Rizzardi<sup>&lowast;</sup>, <b>P Hickey</b><sup>&lowast;</sup>, V Rodriguez, R Tryggvadottir, C Callahan, A Idrizi, <b>KD Hansen</b><sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.<br />
 <i>Neuronal brain region-specific DNA methylation and chromatin accessibility are associated with neuropsychiatric disease heritability.</i> <br />
 bioRxiv 2017, 120386.<br />
+[UCSC Genome Browser Hub](http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&hubUrl=https://s3.us-east-2.amazonaws.com/brainepigenome/hub.txt)<br />
 [DOI](https://doi.org/10.1101/120386) | 
 <span data-badge-type="4" data-doi="10.1101/120386" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+
 
 SC Zheng, S Beck, AE Jaffe, DC Koestler, <b>KD Hansen</b>, AE Houseman, RA Irizarry, M Widschwendter, AE Teschendorff.<br />
 <i>Correcting For Cell-Type Heterogeneity In Epigenome-Wide Association Studies: Premature Analyses And Conclusions.</i><br />
