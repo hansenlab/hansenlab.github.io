@@ -62,7 +62,7 @@ Epigenetics & Chromatin 2018, 11(1):15.<br />
 [Preprint](https://doi.org/10.1101/177535) |
 <span data-badge-type="4" data-doi="10.1186/s13072-018-0186-0" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
 
-WT Barrington, P Wulfridge, AE Wells, CM Rojas, SYF Howe, A Perry, K Hua, MA Pellizzon, <b>KD Hansen</b>, BH Voy, BJ Bennett, D Pomp, Daniel, AP Feinberg, DW Threadgill, David W.<br />
+WT Barrington, P Wulfridge, AE Wells, CM Rojas, SYF Howe, A Perry, K Hua, MA Pellizzon, <b>KD Hansen</b>, BH Voy, BJ Bennett, D Pomp, AP Feinberg, DW Threadgill, David W.<br />
 <i>Improving metabolic health through precision dietetics in mice.</i><br />
 Genetics 2018, 208(1):399-417.<br />
 [DOI](https://doi.org/10.1534/genetics.117.300536) |
