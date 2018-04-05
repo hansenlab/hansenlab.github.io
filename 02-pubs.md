@@ -55,6 +55,8 @@ bioRxiv 2016, 076844.<br />
 Computational Biology
 ---------------------
 
+### 2018
+
 V Gaysinskaya, BF Miller, GW van der Heijden, <b>KD Hansen</b>, A Bortvin.<br />
 <i>Transient reduction of DNA methylation at the onset of meiosis in male mice.</i><br />
 Epigenetics & Chromatin 2018, 11(1):15.<br />
@@ -68,6 +70,8 @@ Genetics 2018, 208(1):399-417.<br />
 [DOI](https://doi.org/10.1534/genetics.117.300536) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/29158425) |
 <span data-badge-type="4" data-doi="10.1534/genetics.117.300536" data-hide-no-mentions="true" class="altmetric-embed"> </span><br />
+
+### 2017
 
 R Marcel, LSchiffer, A Re, RA Azhar, A Basunia, C Rodriguez, T Chan, P Chapman, SR Davis, D Gomez-Cabrero, AC Culhane, B Haibe-Kains, <b>KD Hansen</b>, H Kodali, MS Louis, AS Mer, M Riester, M Morgan, VJ Carey, Vince, L Waldron.<br />
 <i>Software for the Integration of Multiomics Experiments in Bioconductor.</i><br />
