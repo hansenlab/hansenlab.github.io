@@ -57,8 +57,8 @@ Computational Biology
 
 **2018**
 
-TEST V Gaysinskaya, BF Miller, GW van der Heijden, **KD Hansen**, A Bortvin.  
-_Transient reduction of DNA methylation at the onset of meiosis in male mice.__  
+V Gaysinskaya, BF Miller, GW van der Heijden, **KD Hansen**, A Bortvin.  
+_Transient reduction of DNA methylation at the onset of meiosis in male mice._  
 Epigenetics & Chromatin 2018, 11(1):15.  
 [DOI](https://doi.org/10.1186/s13072-018-0186-0) |
 [Preprint](https://doi.org/10.1101/177535) |
