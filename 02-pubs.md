@@ -71,7 +71,7 @@ Genetics 2018, 208(1):399-417.
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/29158425) |
 <span data-badge-type="4" data-doi="10.1534/genetics.117.300536" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
-##### 2017
+**2017**
 
 R Marcel, LSchiffer, A Re, RA Azhar, A Basunia, C Rodriguez, T Chan, P Chapman, SR Davis, D Gomez-Cabrero, AC Culhane, B Haibe-Kains, **KD Hansen**, H Kodali, MS Louis, AS Mer, M Riester, M Morgan, VJ Carey, Vince, L Waldron.  
 _Software for the Integration of Multiomics Experiments in Bioconductor._  
@@ -121,6 +121,8 @@ PNAS 2017, 114(1):125-130.
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27999180) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5224378) |
 <span data-badge-type="4" data-doi="10.1073/pnas.1611431114" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
+**2016**
 
 A Nellore, AE Jaffe, **JP Fortin**, J Alquicira-Hernández, L Collado-Torres, S Wang, RA Phillips, N Karbhari, **KD Hansen**, B Langmead<sup>&dagger;</sup>, and JT Leek<sup>&dagger;</sup>.  
 _Human splicing diversity and the extent of unannotated splice junctions across human RNA-seq samples on the Sequence Read Archive._  
@@ -174,6 +176,8 @@ Journal of Proteome Research 2016, 15(3):809-814.
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26549429) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4804830) |
 <span data-badge-type="4" data-doi="10.1021/acs.jproteome.5b00852" data-hide-no-mentions="true" class="altmetric-embed"></span>  
+
+**2015**
 
 AR Vandiver, A Idrizi, L Rizzardi, AP Feinberg, and **KD Hansen**<sup>&dagger;</sup>.  
 _DNA methylation is stable during replication and cell cycle arrest._  
@@ -237,6 +241,8 @@ Nature Methods 2015, 12(2):115-121.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4509590) |
 <span data-badge-type="4" data-doi="10.1038/nmeth.3252" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
+**2014**
+
 **JP Fortin**, A Labbe, M Lemire, BW Zanke, TJ Hudson, EJ Fertig, CMT Greenwood and **KD Hansen**<sup>&dagger;</sup>.  
 _Functional normalization of 450k methylation array data improves replication in large cancer studies._  
 Genome Biology 2014, 15:503.  
@@ -296,6 +302,8 @@ Genome Research 2014, 24(2):177-184.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3912409) |
 <span data-badge-type="4" data-doi="10.1101/gr.157743.113" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
+**2013**
+
 ML Smith<sup>&dagger;</sup>, KA Baggerly, H Bengtsson, ME Ritchie, **KD Hansen**<sup>&dagger;</sup>.  
 _illuminaio: An open source IDAT parsing tool for Illumina microarrays._  
 F1000Research 2013, 2:264.  
@@ -303,6 +311,8 @@ F1000Research 2013, 2:264.
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24701342) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3968891) |
 <span data-badge-type="4" data-doi="10.12688/f1000research.2-264.v1" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+**2012**
 
 **KD Hansen**<sup>&lowast;,&dagger;</sup>, B Langmead<sup>&lowast;&dagger;</sup>, RA Irizarry<sup>&dagger;</sup>.  
 _BSmooth: from whole genome bisulfite sequencing reads to
@@ -364,6 +374,8 @@ Biostatistics 2012, 13(2):204-216.
 [Preprint](http://www.bepress.com/jhubiostat/paper227) |
 <span data-badge-type="4" data-doi="10.1093/biostatistics/kxr054" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
+**2011**
+
 **KD Hansen**<sup>&lowast;</sup>, W Timp<sup>&lowast;</sup>, H
 Corrada Bravo<sup>&lowast;</sup>, S Sabunciyan<sup>&lowast;</sup>, B
 Langmead<sup>&lowast;</sup>, OG McDonald, B Wen, H Wu, Y Liu, D Diep, E Briem, K Zhang, RA
@@ -404,6 +416,8 @@ Genome Research 2011, 21(2):193-202.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3032923) |
 <span data-badge-type="4" data-doi="10.1101/gr.108662.110" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
+**2010**
+
 The modENCODE Consortium, _ et al._  
 _Identification of functional elements and regulatory circuits by
 Drosophila modENCODE._  
@@ -443,6 +457,7 @@ BMC Bioinformatics 2010, 11:94.
 [Preprint](http://www.bepress.com/ucbbiostat/paper247) |
 <span data-badge-type="4" data-doi="10.1186/1471-2105-11-94" data-hide-no-mentions="true" class="altmetric-embed"></span>
   
+**2009 and earlier**
 
 **KD Hansen**<sup>&lowast;</sup>, LF Lareau<sup>&lowast;</sup>, M Blanchette, RE Green, Q Meng,
 J Rehwinkel, FL Gallusser, E Izaurralde, DC Rio, S Dudoit, and SE Brenner<sup>&dagger;</sup>.   
