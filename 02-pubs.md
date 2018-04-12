@@ -61,6 +61,8 @@ V Gaysinskaya, BF Miller, GW van der Heijden, **KD Hansen**, A Bortvin.
 _Transient reduction of DNA methylation at the onset of meiosis in male mice._  
 Epigenetics & Chromatin 2018, 11(1):15.  
 [DOI](https://doi.org/10.1186/s13072-018-0186-0) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/29618374) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5883305) |
 [Preprint](https://doi.org/10.1101/177535) |
 <span data-badge-type="4" data-doi="10.1186/s13072-018-0186-0" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
