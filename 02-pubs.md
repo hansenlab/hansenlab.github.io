@@ -20,6 +20,12 @@ Publication Repositories
 Current Preprints
 -----------------
 
+**L Boukas**, JM Havrilla, AR Quinlan, HT Bjornsson, **KD Hansen**.  
+_Co-expression patterns define epigenetic regulators associated with neurological dysfunction._  
+bioRxiv 2018, 219097  
+[DOI](https://doi.org/10.1101/219097) |
+<span data-badge-type="4" data-doi="10.1101/219097" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
 **K Fltez-Brant**, Y Qiu, DU Gorkin, M Hu, **KD Hansen**.  
 _Removing unwanted variation between samples in Hi-C experiments._  
 bioRxiv 2017, 214361.  
