@@ -7,26 +7,26 @@ permalink: "people.html"
 {% include JB/setup %}
 
 <img alt="Kasper Daniel Hansen" align="left" src="media/people/khansen.jpg" width="200" height="200"/>
-&nbsp;&nbsp;&nbsp;Kasper Daniel Hansen<br>
-&nbsp;&nbsp;&nbsp;Assistant Professor<br>
-&nbsp;&nbsp;&nbsp;[McKusick-Nathans Insitute of Genetic Medicine](http://www.hopkinsmedicine.org/geneticmedicine)<br>
-&nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)<br>
-&nbsp;&nbsp;&nbsp;Johns Hopkins University<br>
+&nbsp;&nbsp;&nbsp;Kasper Daniel Hansen  
+&nbsp;&nbsp;&nbsp;Associate Professor  
+&nbsp;&nbsp;&nbsp;[McKusick-Nathans Insitute of Genetic Medicine](http://www.hopkinsmedicine.org/geneticmedicine)  
+&nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)  
+&nbsp;&nbsp;&nbsp;Johns Hopkins University  
 <br>
 &nbsp;&nbsp;&nbsp;Twitter: [@KasperDHansen](https://twitter.com/KasperDHansen) |
-GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)<br>
-&nbsp;&nbsp;&nbsp;[Contact](index.html) | [CV](files/hansen_cv.pdf)<br>
+GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)  
+&nbsp;&nbsp;&nbsp;[Contact](index.html) | [CV](files/hansen_cv.pdf)  
 <br>
 
 <img alt="Peter Hickey" align="left" src="media/people/phickey.jpg" width="200" height="200"/>
-&nbsp;&nbsp;&nbsp;Peter Hickey<br>
-&nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
-&nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)<br>
-&nbsp;&nbsp;&nbsp;Johns Hopkins University<br>
+&nbsp;&nbsp;&nbsp;Peter Hickey  
+&nbsp;&nbsp;&nbsp;Postdoctoral Fellow  
+&nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)  
+&nbsp;&nbsp;&nbsp;Johns Hopkins University  
 <br>
 &nbsp;&nbsp;&nbsp;Twitter: [@PeteHaitch](https://twitter.com/PeteHaitch) |
-GitHub: [PeteHaitch](https://github.com/PeteHaitch)<br>
-&nbsp;&nbsp;&nbsp;[Personal Webpage](http://www.peterhickey.org)<br>
+GitHub: [PeteHaitch](https://github.com/PeteHaitch)  
+&nbsp;&nbsp;&nbsp;[Personal Webpage](http://www.peterhickey.org)  
 <br><br><br><br>
 
 <img alt="Kipper Fletez-Brant" align="left" src="media/people/kipper.jpg" width="200" height="200"/>
@@ -40,13 +40,13 @@ GitHub: [PeteHaitch](https://github.com/PeteHaitch)<br>
 
 
 <img alt="Leslie Myint" align="left" src="media/people/myint.jpg" width="200" height="200"/>
-&nbsp;&nbsp;&nbsp;Leslie Myint<br>
-&nbsp;&nbsp;&nbsp;Graduate Student in Biostatistics<br>
-&nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)<br>
-&nbsp;&nbsp;&nbsp;Johns Hopkins University<br>
+&nbsp;&nbsp;&nbsp;Leslie Myint  
+&nbsp;&nbsp;&nbsp;Graduate Student in Biostatistics  
+&nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)  
+&nbsp;&nbsp;&nbsp;Johns Hopkins University  
 <br>
-&nbsp;&nbsp;&nbsp;GitHub: [lmyint](https://github.com/lmyint)<br>
-&nbsp;&nbsp;&nbsp;[Blog](https://lesliemyint.wordpress.com)<br>
+&nbsp;&nbsp;&nbsp;GitHub: [lmyint](https://github.com/lmyint)  
+&nbsp;&nbsp;&nbsp;[Personal Webpage](https://lmyint.github.io/) | [Blog](https://lesliemyint.wordpress.com)  
 <br><br><br><br><br><br><br><br>
 
 
