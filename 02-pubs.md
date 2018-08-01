@@ -77,6 +77,7 @@ _Improving metabolic health through precision dietetics in mice._
 Genetics 2018, 208(1):399-417.  
 [DOI](https://doi.org/10.1534/genetics.117.300536) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/29158425) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5753872) |
 <span data-badge-type="4" data-doi="10.1534/genetics.117.300536" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 **2017**
