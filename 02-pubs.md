@@ -20,6 +20,12 @@ Publication Repositories
 Current Preprints
 -----------------
 
+**L Myint**, R Wang, **L Boukas**, **KD Hansen**, LA Goff, DG Avramopoulos.  
+_Testing the Regulatory Consequences of 1,049 Schizophrenia Associated Variants With a Massively Parallel Reporter Assay._  
+bioRxiv 2018, 447557  
+[DOI](https://doi.org/10.1101/447557) |
+<span data-badge-type="4" data-doi="10.1101/447557" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
 **L Boukas**, JM Havrilla, AR Quinlan, HT Bjornsson, **KD Hansen**.  
 _Co-expression patterns define epigenetic regulators associated with neurological dysfunction._  
 bioRxiv 2018, 219097  
@@ -45,18 +51,13 @@ bioRxiv 2017, 120386.
 [DOI](https://doi.org/10.1101/120386) | 
 <span data-badge-type="4" data-doi="10.1101/120386" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
-
-SC Zheng, S Beck, AE Jaffe, DC Koestler, **KD Hansen**, AE Houseman, RA Irizarry, M Widschwendter, AE Teschendorff.  
-_Correcting For Cell-Type Heterogeneity In Epigenome-Wide Association Studies: Premature Analyses And Conclusions._  
-bioRxiv 2017, 121533.  
-[DOI](https://doi.org/10.1101/121533) |
-<span data-badge-type="4" data-doi="10.1101/121533" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
 P Wulfridge, B Langmead, AP Feinberg, **KD Hansen**<sup>&dagger;</sup>.  
-_Choice of reference genome can introduce massive bias in bisulfite sequencing data._  
-bioRxiv 2016, 076844.  
+_Analyzing whole genome bisulfite sequencing data from highly divergent genotypes._  
+bioRxiv 2018, 076844.  
 [DOI](https://doi.org/10.1101/076844) | 
 <span data-badge-type="4" data-doi="10.1101/076844" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
+
 
 Computational Biology
 ---------------------
@@ -496,6 +497,12 @@ W Huber<sup>&dagger;</sup>, V Carey, S Davis, **KD Hansen** and M Morgan.
 _The Bioconductor channel in F1000Research._  
 F1000Research 2015, 4.  
 [DOI](https://doi.org/10.12688/f1000research.6758.1)
+
+SC Zheng, S Beck, AE Jaffe, DC Koestler, **KD Hansen**, AE Houseman, RA Irizarry, M Widschwendter, AE Teschendorff.  
+_Correcting For Cell-Type Heterogeneity In Epigenome-Wide Association Studies: Premature Analyses And Conclusions._  
+bioRxiv 2017, 121533.  
+[DOI](https://doi.org/10.1101/121533) |
+<span data-badge-type="4" data-doi="10.1101/121533" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 
 Books
