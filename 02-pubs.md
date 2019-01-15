@@ -59,7 +59,7 @@ Computational Biology
 LF Rizzardi<sup>&lowast;</sup>, **PF Hickey**<sup>&lowast;</sup>, VR DiBlasi, R Tryggvadottir, CM Callahan, A Idrizi, **KD Hansen**<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
 _Neuronal brain-region-specific DNA methylation and chromatin accessibility are associated with neuropsychiatric trait heritability._  
 Nature Neuroscience 2019, _In press_.  
-[UCSC Genome Browser Hub](http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&hubUrl=https://s3.us-east-2.amazonaws.com/brainepigenome/hub.txt)__
+[UCSC Genome Browser Hub](http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&hubUrl=https://s3.us-east-2.amazonaws.com/brainepigenome/hub.txt)  
 [DOI](https://doi.org/10.1038/s41593-018-0297-8) |
 [Preprint](https://doi.org/10.1101/120386) |
 <span data-badge-type="4" data-doi="10.1038/s41593-018-0297-8" data-hide-no-mentions="true" class="altmetric-embed"> </span>
