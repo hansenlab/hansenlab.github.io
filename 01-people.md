@@ -51,17 +51,17 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 <img alt="Peter Hickey" align="left" src="media/people/phickey.jpg" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Peter Hickey  
 &nbsp;&nbsp;&nbsp;Was: Postdoctoral Fellow in Biostatistics  
-&nbsp;&nbsp;&nbsp;Now: 
+&nbsp;&nbsp;&nbsp;Now: __
 <br>
 &nbsp;&nbsp;&nbsp;Twitter: [@PeteHaitch](https://twitter.com/PeteHaitch) |
 GitHub: [PeteHaitch](https://github.com/PeteHaitch)  
 &nbsp;&nbsp;&nbsp;[Personal Webpage](http://www.peterhickey.org)  
-<br><br><br><br>
+<br><br><br><br><br>
 
 <img alt="Kipper Fletez-Brant" align="left" src="media/people/kipper.jpg" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Kipper Fletez-Brant  
 &nbsp;&nbsp;&nbsp;Was: Graduate Student in Human Genetics  
-&nbsp;&nbsp;&nbsp;Now: 23andMe.
+&nbsp;&nbsp;&nbsp;Now: 23andMe.__
 <br>
 &nbsp;&nbsp;&nbsp;Twitter: [@kipperfb](https://twitter.com/kipperfb) | GitHub: [cafletezbrant](https://github.com/cafletezbrant)  
 <br><br><br><br>
