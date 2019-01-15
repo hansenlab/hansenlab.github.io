@@ -32,7 +32,7 @@ bioRxiv 2018, 219097
 [DOI](https://doi.org/10.1101/219097) |
 <span data-badge-type="4" data-doi="10.1101/219097" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
-**K Fltez-Brant**, Y Qiu, DU Gorkin, M Hu, **KD Hansen**.  
+**K Fletez-Brant**, Y Qiu, DU Gorkin, M Hu, **KD Hansen**.  
 _Removing unwanted variation between samples in Hi-C experiments._  
 bioRxiv 2017, 214361.  
 [DOI](https://doi.org/10.1101/214361) |
