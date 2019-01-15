@@ -51,7 +51,8 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 <img alt="Peter Hickey" align="left" src="media/people/phickey.jpg" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Peter Hickey  
 &nbsp;&nbsp;&nbsp;Was: Postdoctoral Fellow in Biostatistics  
-&nbsp;&nbsp;&nbsp;First Job:   
+&nbsp;&nbsp;&nbsp;Time in lab: __
+&nbsp;&nbsp;&nbsp;First job:   
 &nbsp;&nbsp;&nbsp;Now:   
 <br>
 &nbsp;&nbsp;&nbsp;Twitter: [@PeteHaitch](https://twitter.com/PeteHaitch) |
@@ -62,8 +63,9 @@ GitHub: [PeteHaitch](https://github.com/PeteHaitch)
 <img alt="Kipper Fletez-Brant" align="left" src="media/people/kipper.jpg" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Kipper Fletez-Brant  
 &nbsp;&nbsp;&nbsp;Was: Graduate Student in Human Genetics  
-&nbsp;&nbsp;&nbsp;First job: 23andMe__
-&nbsp;&nbsp;&nbsp;Now: 23andMe.  
+&nbsp;&nbsp;&nbsp;Time in lab:   
+&nbsp;&nbsp;&nbsp;First job: 23andMe  
+&nbsp;&nbsp;&nbsp;Now: 23andMe  
 <br>
 &nbsp;&nbsp;&nbsp;Twitter: [@kipperfb](https://twitter.com/kipperfb) | GitHub: [cafletezbrant](https://github.com/cafletezbrant)  
 <br><br><br><br>
@@ -71,8 +73,8 @@ GitHub: [PeteHaitch](https://github.com/PeteHaitch)
 <img alt="Leslie Myint" align="left" src="media/people/myint.jpg" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Leslie Myint  
 &nbsp;&nbsp;&nbsp;Was: Graduate Student in Biostatistics  
-&nbsp;&nbsp;&nbsp;Time in lab: __
-&nbsp;&nbsp;&nbsp;First job: Assistant Professor at Macalester College__
+&nbsp;&nbsp;&nbsp;Time in lab:  
+&nbsp;&nbsp;&nbsp;First job: Assistant Professor at Macalester College  
 &nbsp;&nbsp;&nbsp;Now: Assistant Professor at [Macalester College](https://www.macalester.edu/mscs/facultystaff/leslie-myint/)  
 <br>
 &nbsp;&nbsp;&nbsp;GitHub: [lmyint](https://github.com/lmyint)  
@@ -82,9 +84,9 @@ GitHub: [PeteHaitch](https://github.com/PeteHaitch)
 <img alt="Jean-Philippe Fortin" align="left" src="media/people/fortin.png" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Jean-Philippe Fortin  
 &nbsp;&nbsp;&nbsp;Was: Graduate Student in Biostatistics  
-&nbsp;&nbsp;&nbsp;Time in lab: __
+&nbsp;&nbsp;&nbsp;Time in lab:   
 &nbsp;&nbsp;&nbsp;First Job: Postdoc at UPenn  
-&nbsp;&nbsp;&nbsp;Now: Genentech__
+&nbsp;&nbsp;&nbsp;Now: Genentech  
 <br>
 &nbsp;&nbsp;&nbsp;Twitter: [@JayPykw](https://twitter.com/JayPykw) |
 GitHub: [Jfortin1](https://github.com/Jfortin1)  
