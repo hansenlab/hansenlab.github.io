@@ -18,36 +18,6 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 &nbsp;&nbsp;&nbsp;[Contact](index.html) | [CV](files/hansen_cv.pdf)  
 <br>
 
-<img alt="Peter Hickey" align="left" src="media/people/phickey.jpg" width="200" height="200"/>
-&nbsp;&nbsp;&nbsp;Peter Hickey  
-&nbsp;&nbsp;&nbsp;Postdoctoral Fellow  
-&nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)  
-&nbsp;&nbsp;&nbsp;Johns Hopkins University  
-<br>
-&nbsp;&nbsp;&nbsp;Twitter: [@PeteHaitch](https://twitter.com/PeteHaitch) |
-GitHub: [PeteHaitch](https://github.com/PeteHaitch)  
-&nbsp;&nbsp;&nbsp;[Personal Webpage](http://www.peterhickey.org)  
-<br><br><br><br>
-
-<img alt="Kipper Fletez-Brant" align="left" src="media/people/kipper.jpg" width="200" height="200"/>
-&nbsp;&nbsp;&nbsp;Kipper Fletez-Brant  
-&nbsp;&nbsp;&nbsp;Graduate Student in Human Genetics  
-&nbsp;&nbsp;&nbsp;[McKusick-Nathans Insitute of Genetic Medicine](http://www.hopkinsmedicine.org/geneticmedicine)  
-&nbsp;&nbsp;&nbsp;Johns Hopkins University  
-<br>
-&nbsp;&nbsp;&nbsp;Twitter: [@kipperfb](https://twitter.com/kipperfb) | GitHub: [cafletezbrant](https://github.com/cafletezbrant)  
-<br><br><br><br>
-
-
-<img alt="Leslie Myint" align="left" src="media/people/myint.jpg" width="200" height="200"/>
-&nbsp;&nbsp;&nbsp;Leslie Myint  
-&nbsp;&nbsp;&nbsp;Graduate Student in Biostatistics  
-&nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)  
-&nbsp;&nbsp;&nbsp;Johns Hopkins University  
-<br>
-&nbsp;&nbsp;&nbsp;GitHub: [lmyint](https://github.com/lmyint)  
-&nbsp;&nbsp;&nbsp;[Personal Webpage](https://lmyint.github.io/) | [Blog](https://lesliemyint.wordpress.com)  
-<br><br><br><br><br><br><br><br>
 
 
 <img alt="Leandros Boukas" align="left" src="media/people/lboukas.png" width="200" height="200"/>
@@ -58,16 +28,6 @@ GitHub: [PeteHaitch](https://github.com/PeteHaitch)
 &nbsp;&nbsp;&nbsp;Johns Hopkins University  
 <br>
 &nbsp;&nbsp;&nbsp;GitHub: [leandrosboukas](https://github.com/leandrosboukas)  
-<br><br><br><br><br>
-
-
-<img alt="Charles Zheng" align="left" src="media/people/czheng.jpg" width="200" height="200"/>
-&nbsp;&nbsp;&nbsp;Shijie (Charles) Zheng  
-&nbsp;&nbsp;&nbsp;Visiting Scholar  
-&nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)  
-&nbsp;&nbsp;&nbsp;Johns Hopkins University  
-<br>
-&nbsp;&nbsp;&nbsp;GitHub: [sjczheng](https://github.com/sjczheng)  
 <br><br><br><br><br>
 
 
@@ -88,13 +48,53 @@ GitHub: [PeteHaitch](https://github.com/PeteHaitch)
 
 ### Alumni
 
+<img alt="Peter Hickey" align="left" src="media/people/phickey.jpg" width="200" height="200"/>
+&nbsp;&nbsp;&nbsp;Peter Hickey  
+&nbsp;&nbsp;&nbsp;Was: Postdoctoral Fellow in Biostatistics  
+&nbsp;&nbsp;&nbsp;Now: 
+<br>
+&nbsp;&nbsp;&nbsp;Twitter: [@PeteHaitch](https://twitter.com/PeteHaitch) |
+GitHub: [PeteHaitch](https://github.com/PeteHaitch)  
+&nbsp;&nbsp;&nbsp;[Personal Webpage](http://www.peterhickey.org)  
+<br><br><br><br>
+
+<img alt="Kipper Fletez-Brant" align="left" src="media/people/kipper.jpg" width="200" height="200"/>
+&nbsp;&nbsp;&nbsp;Kipper Fletez-Brant  
+&nbsp;&nbsp;&nbsp;Was: Graduate Student in Human Genetics  
+&nbsp;&nbsp;&nbsp;Now: 23andMe.
+<br>
+&nbsp;&nbsp;&nbsp;Twitter: [@kipperfb](https://twitter.com/kipperfb) | GitHub: [cafletezbrant](https://github.com/cafletezbrant)  
+<br><br><br><br>
+
+<img alt="Leslie Myint" align="left" src="media/people/myint.jpg" width="200" height="200"/>
+&nbsp;&nbsp;&nbsp;Leslie Myint  
+&nbsp;&nbsp;&nbsp;Was: Graduate Student in Biostatistics  
+&nbsp;&nbsp;&nbsp;Now: Assistant Professor at [Macalester College](https://www.macalester.edu/mscs/facultystaff/leslie-myint/)  
+<br>
+&nbsp;&nbsp;&nbsp;GitHub: [lmyint](https://github.com/lmyint)  
+&nbsp;&nbsp;&nbsp;[Personal Webpage](https://lmyint.github.io/)__
+<br><br><br><br><br><br><br><br>
+
 <img alt="Jean-Philippe Fortin" align="left" src="media/people/fortin.png" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Jean-Philippe Fortin  
 &nbsp;&nbsp;&nbsp;Was: Graduate Student in Biostatistics  
-&nbsp;&nbsp;&nbsp;Now: Postdoc at UPenn  
-<br>
+&nbsp;&nbsp;&nbsp;First Job: Postdoc at UPenn  
+&nbsp;&nbsp;&nbsp;Now: Genentech__
 <br>
 &nbsp;&nbsp;&nbsp;Twitter: [@JayPykw](https://twitter.com/JayPykw) |
 GitHub: [Jfortin1](https://github.com/Jfortin1)  
 &nbsp;&nbsp;&nbsp;[Personal Webpage](http://jfortinbiostats.com)  
 <br><br><br><br>
+
+### Previous Visitors
+
+<img alt="Charles Zheng" align="left" src="media/people/czheng.jpg" width="200" height="200"/>
+&nbsp;&nbsp;&nbsp;Shijie (Charles) Zheng  
+&nbsp;&nbsp;&nbsp;Visiting Scholar  
+&nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)  
+&nbsp;&nbsp;&nbsp;Johns Hopkins University  
+<br>
+&nbsp;&nbsp;&nbsp;GitHub: [sjczheng](https://github.com/sjczheng)  
+<br><br><br><br><br>
+
+
