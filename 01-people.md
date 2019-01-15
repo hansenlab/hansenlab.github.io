@@ -30,9 +30,6 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 &nbsp;&nbsp;&nbsp;GitHub: [leandrosboukas](https://github.com/leandrosboukas)  
 <br><br><br><br><br>
 
-
-<br><br><br><br>
-
 ### Support staff
 
 <img alt="Jeffrey" align="left" src="media/people/jeffrey.png" width="200" height="200"/>
@@ -43,8 +40,7 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<b>Bio</b>: Jeffrey has a bachelor degree from Utah State and joins us  
 &nbsp;&nbsp;&nbsp;with 3.5 years of experience working with toddlers and infants.  
-<br>
-<br><br><br><br>
+<br><br><br><br><br>
 
 ### Alumni
 
