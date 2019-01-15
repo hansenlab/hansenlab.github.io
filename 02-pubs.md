@@ -44,13 +44,6 @@ bioRxiv 2017, 196394.
 [DOI](https://doi.org/10.1101/196394) |
 <span data-badge-type="4" data-doi="10.1101/196394" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
-L Rizzardi<sup>&lowast;</sup>, **P Hickey**<sup>&lowast;</sup>, V Rodriguez, R Tryggvadottir, C Callahan, A Idrizi, **KD Hansen**<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
-_Neuronal brain region-specific DNA methylation and chromatin accessibility are associated with neuropsychiatric disease heritability._   
-bioRxiv 2017, 120386.  
-[UCSC Genome Browser Hub](http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&hubUrl=https://s3.us-east-2.amazonaws.com/brainepigenome/hub.txt)  
-[DOI](https://doi.org/10.1101/120386) | 
-<span data-badge-type="4" data-doi="10.1101/120386" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
 P Wulfridge, B Langmead, AP Feinberg, **KD Hansen**<sup>&dagger;</sup>.  
 _Analyzing whole genome bisulfite sequencing data from highly divergent genotypes._  
 bioRxiv 2018, 076844.  
@@ -58,9 +51,18 @@ bioRxiv 2018, 076844.
 <span data-badge-type="4" data-doi="10.1101/076844" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 
-
 Computational Biology
 ---------------------
+
+**2019**
+
+LF Rizzardi<sup>&lowast;</sup>, **PF Hickey**<sup>&lowast;</sup>, VR DiBlasi, R Tryggvadottir, CM Callahan, A Idrizi, **KD Hansen**<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
+_Neuronal brain-region-specific DNA methylation and chromatin accessibility are associated with neuropsychiatric trait heritability._  
+Nature Neuroscience 2019, _In press_.  
+[UCSC Genome Browser Hub](http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&hubUrl=https://s3.us-east-2.amazonaws.com/brainepigenome/hub.txt)__
+[DOI](https://doi.org/10.1038/s41593-018-0297-8) |
+[Preprint](https://doi.org/10.1101/120386) |
+<span data-badge-type="4" data-doi="10.1038/s41593-018-0297-8" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 **2018**
 
@@ -516,6 +518,14 @@ Leanpub, 2016.
 
 Published Preprints
 -------------------
+
+L Rizzardi<sup>&lowast;</sup>, **P Hickey**<sup>&lowast;</sup>, V Rodriguez, R Tryggvadottir, C Callahan, A Idrizi, **KD Hansen**<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
+_Neuronal brain region-specific DNA methylation and chromatin accessibility are associated with neuropsychiatric disease heritability._   
+bioRxiv 2017, 120386.  
+[UCSC Genome Browser Hub](http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&hubUrl=https://s3.us-east-2.amazonaws.com/brainepigenome/hub.txt)  
+[DOI](https://doi.org/10.1101/120386) | 
+<span data-badge-type="4" data-doi="10.1101/120386" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+Published in Nature Neuroscience 2019
 
 V Gaysinskaya, BF Miller, GW van der Heijden, **KD Hansen**, A Bortvin.  
 _Transient Reduction Of DNA Methylation At The Onset Of Meiosis In Male Mice._  
