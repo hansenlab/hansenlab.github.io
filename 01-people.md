@@ -73,7 +73,7 @@ GitHub: [PeteHaitch](https://github.com/PeteHaitch)
 &nbsp;&nbsp;&nbsp;First job: Assistant Professor at Macalester College  
 &nbsp;&nbsp;&nbsp;Now: Assistant Professor at [Macalester College](https://www.macalester.edu/mscs/facultystaff/leslie-myint/)  
 <br>
-&nbsp;&nbsp;&nbsp;GitHub: [lmyint](https://github.com/lmyint)  
+&nbsp;&nbsp;&nbsp;Twitter: [@lesliemyint](https://twitter.com/lesliemyint) | GitHub: [lmyint](https://github.com/lmyint)  
 &nbsp;&nbsp;&nbsp;[Personal Webpage](https://lmyint.github.io/)__
 <br><br><br><br><br><br><br><br>
 
