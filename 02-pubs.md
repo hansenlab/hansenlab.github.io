@@ -50,6 +50,13 @@ Computational Biology
 
 **2019**
 
+**L Myint**, DG Avramopoulos, LA Goff, **KD Hansen**.  
+_Linear models enable powerful differential activity analysis in massively parallel reporter assays._  
+BMC Genomics 2019, 20:209.
+[DOI](https://doi.org/10.1186/s12864-019-5556-x) |
+[Preprint](https://doi.org/10.1101/196394) |
+<span data-badge-type="4" data-doi="10.1186/s12864-019-5556-x" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
 **L Boukas**, JM Havrilla, **PF Hickey**, AR Quinlan, HT Bjornsson<sup>&dagger;</sup>, **KD Hansen**<sup>&dagger;</sup>.  
 _Co-expression patterns define epigenetic regulators associated with neurological dysfunction._  
 Genome Research 2019, in press.  
@@ -523,6 +530,13 @@ Leanpub, 2016.
 
 Published Preprints
 -------------------
+
+**L Myint**, DG Avramopoulos, LA Goff, **KD Hansen**.  
+_Linear models enable powerful differential activity analysis in massively parallel reporter assays._  
+bioRxiv 2017, 196394.  
+[DOI](https://doi.org/10.1101/196394) |
+<span data-badge-type="4" data-doi="10.1101/196394" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
+Publish in BMC Genomics 2019
 
 **L Boukas**, JM Havrilla, AR Quinlan, HT Bjornsson, **KD Hansen**.  
 _Co-expression patterns define epigenetic regulators associated with neurological dysfunction._  
