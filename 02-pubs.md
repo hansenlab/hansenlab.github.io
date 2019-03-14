@@ -26,12 +26,6 @@ bioRxiv 2018, 447557
 [DOI](https://doi.org/10.1101/447557) |
 <span data-badge-type="4" data-doi="10.1101/447557" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
-**L Boukas**, JM Havrilla, AR Quinlan, HT Bjornsson, **KD Hansen**.  
-_Co-expression patterns define epigenetic regulators associated with neurological dysfunction._  
-bioRxiv 2018, 219097  
-[DOI](https://doi.org/10.1101/219097) |
-<span data-badge-type="4" data-doi="10.1101/219097" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
 **K Fletez-Brant**, Y Qiu, DU Gorkin, M Hu, **KD Hansen**.  
 _Removing unwanted variation between samples in Hi-C experiments._  
 bioRxiv 2017, 214361.  
@@ -55,6 +49,14 @@ Computational Biology
 ---------------------
 
 **2019**
+
+**L Boukas**, JM Havrilla, **PF Hickey**, AR Quinlan, HT Bjornsson<sup>&dagger;</sup>, **KD Hansen**<sup>&dagger;</sup>.  
+_Co-expression patterns define epigenetic regulators associated with neurological dysfunction._  
+Genome Research 2019, in press__
+[DOI](https://doi.org/10.1101/gr.239442.118) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/30858344) |
+<span data-badge-type="4" data-doi="10.1101/gr.239442.118" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 
 LF Rizzardi<sup>&lowast;</sup>, **PF Hickey**<sup>&lowast;</sup>, VR DiBlasi, R Tryggvadottir, CM Callahan, A Idrizi, **KD Hansen**<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
 _Neuronal brain-region-specific DNA methylation and chromatin accessibility are associated with neuropsychiatric trait heritability._  
@@ -521,12 +523,19 @@ Leanpub, 2016.
 Published Preprints
 -------------------
 
+**L Boukas**, JM Havrilla, AR Quinlan, HT Bjornsson, **KD Hansen**.  
+_Co-expression patterns define epigenetic regulators associated with neurological dysfunction._  
+bioRxiv 2018, 219097  
+[DOI](https://doi.org/10.1101/219097) |
+<span data-badge-type="4" data-doi="10.1101/219097" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
+Published in Genome Research 2019
+
 L Rizzardi<sup>&lowast;</sup>, **P Hickey**<sup>&lowast;</sup>, V Rodriguez, R Tryggvadottir, C Callahan, A Idrizi, **KD Hansen**<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
 _Neuronal brain region-specific DNA methylation and chromatin accessibility are associated with neuropsychiatric disease heritability._   
 bioRxiv 2017, 120386.  
 [UCSC Genome Browser Hub](http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&hubUrl=https://s3.us-east-2.amazonaws.com/brainepigenome/hub.txt)  
 [DOI](https://doi.org/10.1101/120386) | 
-<span data-badge-type="4" data-doi="10.1101/120386" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+<span data-badge-type="4" data-doi="10.1101/120386" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
 Published in Nature Neuroscience 2019
 
 V Gaysinskaya, BF Miller, GW van der Heijden, **KD Hansen**, A Bortvin.  
