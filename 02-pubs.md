@@ -52,9 +52,10 @@ Computational Biology
 
 **L Boukas**, JM Havrilla, **PF Hickey**, AR Quinlan, HT Bjornsson<sup>&dagger;</sup>, **KD Hansen**<sup>&dagger;</sup>.  
 _Co-expression patterns define epigenetic regulators associated with neurological dysfunction._  
-Genome Research 2019, in press__
+Genome Research 2019, in press.  
 [DOI](https://doi.org/10.1101/gr.239442.118) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/30858344) |
+[Preprint](https://doi.org/10.1101/219097) |
 <span data-badge-type="4" data-doi="10.1101/gr.239442.118" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 
