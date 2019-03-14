@@ -52,7 +52,7 @@ Computational Biology
 
 **L Myint**, DG Avramopoulos, LA Goff, **KD Hansen**.  
 _Linear models enable powerful differential activity analysis in massively parallel reporter assays._  
-BMC Genomics 2019, 20:209.
+BMC Genomics 2019, 20:209.  
 [DOI](https://doi.org/10.1186/s12864-019-5556-x) |
 [Preprint](https://doi.org/10.1101/196394) |
 <span data-badge-type="4" data-doi="10.1186/s12864-019-5556-x" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
