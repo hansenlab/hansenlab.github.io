@@ -32,11 +32,6 @@ bioRxiv 2017, 214361.
 [DOI](https://doi.org/10.1101/214361) |
 <span data-badge-type="4" data-doi="10.1101/214361" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
-**L Myint**, DG Avramopoulos, LA Goff, **KD Hansen**.  
-_Linear models enable powerful differential activity analysis in massively parallel reporter assays._  
-bioRxiv 2017, 196394.  
-[DOI](https://doi.org/10.1101/196394) |
-<span data-badge-type="4" data-doi="10.1101/196394" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 P Wulfridge, B Langmead, AP Feinberg, **KD Hansen**<sup>&dagger;</sup>.  
 _Analyzing whole genome bisulfite sequencing data from highly divergent genotypes._  
@@ -54,6 +49,8 @@ Computational Biology
 _Linear models enable powerful differential activity analysis in massively parallel reporter assays._  
 BMC Genomics 2019, 20:209.  
 [DOI](https://doi.org/10.1186/s12864-019-5556-x) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/30866806) | 
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6417258) |
 [Preprint](https://doi.org/10.1101/196394) |
 <span data-badge-type="4" data-doi="10.1186/s12864-019-5556-x" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
