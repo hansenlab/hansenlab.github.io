@@ -20,6 +20,12 @@ Publication Repositories
 Current Preprints
 -----------------
 
+DU Gorkin, Y Qiu, M Hu, **K Fletez-Brant**, T Liu, AD Schmitt, A Noor, J Chiou, KJ Gaulton, J Sebat, Y Li, **KD Hansen**, B Ren.  
+_Common DNA sequence variation influences 3-dimensional conformation of the human genome._  
+bioRxiv 2019, 592741  
+[DOI](https://doi.org/10.1101/592741) |
+<span data-badge-type="4" data-doi="10.1101/592741" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
 **L Myint**, R Wang, **L Boukas**, **KD Hansen**, LA Goff, DG Avramopoulos.  
 _Testing the Regulatory Consequences of 1,049 Schizophrenia Associated Variants With a Massively Parallel Reporter Assay._  
 bioRxiv 2018, 447557  
@@ -31,7 +37,6 @@ _Removing unwanted variation between samples in Hi-C experiments._
 bioRxiv 2017, 214361.  
 [DOI](https://doi.org/10.1101/214361) |
 <span data-badge-type="4" data-doi="10.1101/214361" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
 
 P Wulfridge, B Langmead, AP Feinberg, **KD Hansen**<sup>&dagger;</sup>.  
 _Analyzing whole genome bisulfite sequencing data from highly divergent genotypes._  
@@ -61,7 +66,6 @@ Genome Research 2019, in press.
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/30858344) |
 [Preprint](https://doi.org/10.1101/219097) |
 <span data-badge-type="4" data-doi="10.1101/gr.239442.118" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
 
 LF Rizzardi<sup>&lowast;</sup>, **PF Hickey**<sup>&lowast;</sup>, VR DiBlasi, R Tryggvadottir, CM Callahan, A Idrizi, **KD Hansen**<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
 _Neuronal brain-region-specific DNA methylation and chromatin accessibility are associated with neuropsychiatric trait heritability._  
