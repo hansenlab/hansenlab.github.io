@@ -76,6 +76,7 @@ _Co-expression patterns define epigenetic regulators associated with neurologica
 Genome Research 2019, 29(4):532-542.  
 [DOI](https://doi.org/10.1101/gr.239442.118) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/30858344) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6442390) |
 [Preprint](https://doi.org/10.1101/219097) |
 <span data-badge-type="4" data-doi="10.1101/gr.239442.118" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
