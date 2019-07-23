@@ -20,7 +20,19 @@ Publication Repositories
 Current Preprints
 -----------------
 
-DU Gorkin, Y Qiu, M Hu, **K Fletez-Brant**, T Liu, AD Schmitt, A Noor, J Chiou, KJ Gaulton, J Sebat, Y Li, **KD Hansen**, B Ren.  
+GA Carosso, **L Boukas** , JJ Augustin, HN Nguyen, BL Winer, GH Cannon, JD Robertson, L Zhang, **KD Hansen**, Johanna D, LA Goff, HT Bjornsson.  
+_Precocious neuronal differentiation and disrupted oxygen responses in Kabuki syndrome._  
+bioRxiv 2019, 484410  
+[DOI](https://doi.org/10.1101/484410) | 
+<span data-badge-type="4" data-doi="10.1101/484410" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
+JA Fahrner<sup>&dagger;</sup>, and W-Y Lin, RC Riddle, **L Boukas**, VB DeLeon, S Chopra, SE Lad, TR Luperchio, **KD Hansen**, HT Bjornsson<sup>&dagger;</sup>.  
+_Precocious chondrocyte differentiation disrupts skeletal growth in Kabuki syndrome mice._  
+bioRxiv 2019, 599878  
+[DOI](https://doi.org/10.1101/599878) | 
+<span data-badge-type="4" data-doi="10.1101/599878" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
+DU Gorkin, Y Qiu, M Hu<sup>&dagger;</sup>, **K Fletez-Brant**, T Liu, AD Schmitt, A Noor, J Chiou, KJ Gaulton, J Sebat, Y Li, **KD Hansen**, B Ren<sup>&dagger;</sup>.  
 _Common DNA sequence variation influences 3-dimensional conformation of the human genome._  
 bioRxiv 2019, 592741  
 [DOI](https://doi.org/10.1101/592741) |
