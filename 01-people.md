@@ -26,7 +26,7 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 &nbsp;&nbsp;&nbsp;Johns Hopkins University  
 <br>
 &nbsp;&nbsp;&nbsp;GitHub: [leandrosboukas](https://github.com/leandrosboukas)  
-<br><br><br><br><br>
+<br><br><br><br>
 
 <img alt="Yi Wang" align="left" src="media/people/yiwang.png">/
 &nbsp;&nbsp;&nbsp;Yi Wang  
@@ -34,9 +34,8 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 &nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)  
 &nbsp;&nbsp;&nbsp;Johns Hopkins University  
 <br>
-<br>
 &nbsp;&nbsp;&nbsp;GitHub: [yiwang12](https://github.com/yiwang12)  
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 
 ### Support staff
