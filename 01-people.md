@@ -18,8 +18,6 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 &nbsp;&nbsp;&nbsp;[Contact](index.html) | [CV](files/hansen_cv.pdf)  
 <br>
 
-
-
 <img alt="Leandros Boukas" align="left" src="media/people/lboukas.png" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Leandros Boukas  
 &nbsp;&nbsp;&nbsp;Graduate Student in Human Genetics  
@@ -29,6 +27,17 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 <br>
 &nbsp;&nbsp;&nbsp;GitHub: [leandrosboukas](https://github.com/leandrosboukas)  
 <br><br><br><br><br>
+
+<img alt="Yi Wang" align="left" src="media/people/yiwang.png">/
+&nbsp;&nbsp;&nbsp;Yi Wang  
+&nbsp;&nbsp;&nbsp;Graduate Student in Biostatistics  
+&nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)  
+&nbsp;&nbsp;&nbsp;Johns Hopkins University  
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;GitHub: [yiwang12](https://github.com/yiwang12)  
+<br><br><br><br><br>
+
 
 ### Support staff
 
