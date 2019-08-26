@@ -38,12 +38,6 @@ bioRxiv 2019, 592741
 [DOI](https://doi.org/10.1101/592741) |
 <span data-badge-type="4" data-doi="10.1101/592741" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
-**L Myint**, R Wang, **L Boukas**, **KD Hansen**, LA Goff, DG Avramopoulos.  
-_Testing the Regulatory Consequences of 1,049 Schizophrenia Associated Variants With a Massively Parallel Reporter Assay._  
-bioRxiv 2018, 447557  
-[DOI](https://doi.org/10.1101/447557) |
-<span data-badge-type="4" data-doi="10.1101/447557" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
 **K Fletez-Brant**, Y Qiu, DU Gorkin, M Hu, **KD Hansen**.  
 _Removing unwanted variation between samples in Hi-C experiments._  
 bioRxiv 2017, 214361.  
@@ -56,10 +50,17 @@ Computational Biology
 
 **2019**
 
+**L Myint**, R Wang, **L Boukas**, **KD Hansen**, LA Goff, DG Avramopoulos.  
+_A screen of 1,049 schizophrenia and 30 Alzheimer's-associated variants for regulatory potential_  
+American Journal of Medical Genetics Part B: Neuropsychiatric Genetics 2019, In press.  
+[DOI](https://doi.org/10.1002/ajmg.b.32761) | 
+<span data-badge-type="4" data-doi="10.1002/ajmg.b.32761" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
 P Wulfridge, B Langmead, AP Feinberg, **KD Hansen**<sup>&dagger;</sup>.  
 _Analyzing whole genome bisulfite sequencing data from highly divergent genotypes._  
 Nucleic Acids Research 2019, In press.  
 [DOI](https://doi.org/10.1093/nar/gkz674) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/31392989) | 
 [Preprint](https://doi.org/10.1101/076844) |
 <span data-badge-type="4" data-doi="10.1093/nar/gkz674" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
@@ -134,6 +135,7 @@ _Correcting for cell-type heterogeneity in epigenome-wide association studies: r
 Nature Methods 2017, 14(3):216-217.  
 [DOI](http://doi.org/10.1038/nmeth.4187) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/28245219) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6659733) | 
 <span data-badge-type="4" data-doi="10.1038/nmeth.4187" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 **L Myint**, A Kleensang, L Zhao, T Hartung, and **KD Hansen**<sup>&dagger;</sup>.  
@@ -545,6 +547,18 @@ Leanpub, 2016.
 
 Published Preprints
 -------------------
+
+**L Myint**, R Wang, **L Boukas**, **KD Hansen**, LA Goff, DG Avramopoulos.  
+_Testing the Regulatory Consequences of 1,049 Schizophrenia Associated Variants With a Massively Parallel Reporter Assay._  
+bioRxiv 2018, 447557  
+[DOI](https://doi.org/10.1101/447557) |
+<span data-badge-type="4" data-doi="10.1101/447557" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
+P Wulfridge, B Langmead, AP Feinberg, **KD Hansen**<sup>&dagger;</sup>.  
+_Analyzing whole genome bisulfite sequencing data from highly divergent genotypes._  
+bioRxiv 2018, 076844__
+[DOI](https://doi.org/10.1101/076844) |
+<span data-badge-type="4" data-doi="10.1101/076844" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 **L Myint**, DG Avramopoulos, LA Goff, **KD Hansen**.  
 _Linear models enable powerful differential activity analysis in massively parallel reporter assays._  
