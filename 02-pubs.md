@@ -54,6 +54,7 @@ Computational Biology
 _A screen of 1,049 schizophrenia and 30 Alzheimer's-associated variants for regulatory potential_  
 American Journal of Medical Genetics Part B: Neuropsychiatric Genetics 2019, In press.  
 [DOI](https://doi.org/10.1002/ajmg.b.32761) | 
+[Preprint](https://doi.org/10.1101/447557) |
 <span data-badge-type="4" data-doi="10.1002/ajmg.b.32761" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 P Wulfridge, B Langmead, AP Feinberg, **KD Hansen**<sup>&dagger;</sup>.  
