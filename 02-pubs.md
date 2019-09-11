@@ -20,11 +20,6 @@ Publication Repositories
 Current Preprints
 -----------------
 
-GA Carosso, **L Boukas** , JJ Augustin, HN Nguyen, BL Winer, GH Cannon, JD Robertson, L Zhang, **KD Hansen**, Johanna D, LA Goff, HT Bjornsson.  
-_Precocious neuronal differentiation and disrupted oxygen responses in Kabuki syndrome._  
-bioRxiv 2019, 484410  
-[DOI](https://doi.org/10.1101/484410) | 
-<span data-badge-type="4" data-doi="10.1101/484410" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 JA Fahrner<sup>&dagger;</sup>, and W-Y Lin, RC Riddle, **L Boukas**, VB DeLeon, S Chopra, SE Lad, TR Luperchio, **KD Hansen**, HT Bjornsson<sup>&dagger;</sup>.  
 _Precocious chondrocyte differentiation disrupts skeletal growth in Kabuki syndrome mice._  
@@ -50,16 +45,25 @@ Computational Biology
 
 **2019**
 
+GA Carosso, **L Boukas** , JJ Augustin, HN Nguyen, BL Winer, GH Cannon, JD Robertson, L Zhang, **KD Hansen**, Johanna D, LA Goff, HT Bjornsson.  
+_Precocious neuronal differentiation and disrupted oxygen responses in Kabuki syndrome._  
+JCI Insight 2019, in press.  
+[DOI](10.1172/jci.insight.129375) | 
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/31465303) |
+[Preprint](https://doi.org/10.1101/484410) |
+<span data-badge-type="4" data-doi="10.1172/jci.insight.129375" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
 **L Myint**, R Wang, **L Boukas**, **KD Hansen**, LA Goff, DG Avramopoulos.  
 _A screen of 1,049 schizophrenia and 30 Alzheimer's-associated variants for regulatory potential_  
-American Journal of Medical Genetics Part B: Neuropsychiatric Genetics 2019, In press.  
+American Journal of Medical Genetics Part B: Neuropsychiatric Genetics 2019, in press.  
 [DOI](https://doi.org/10.1002/ajmg.b.32761) | 
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/31503409) |
 [Preprint](https://doi.org/10.1101/447557) |
 <span data-badge-type="4" data-doi="10.1002/ajmg.b.32761" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 P Wulfridge, B Langmead, AP Feinberg, **KD Hansen**<sup>&dagger;</sup>.  
 _Analyzing whole genome bisulfite sequencing data from highly divergent genotypes._  
-Nucleic Acids Research 2019, In press.  
+Nucleic Acids Research 2019, in press.  
 [DOI](https://doi.org/10.1093/nar/gkz674) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/31392989) | 
 [Preprint](https://doi.org/10.1101/076844) |
@@ -548,6 +552,12 @@ Leanpub, 2016.
 
 Published Preprints
 -------------------
+
+GA Carosso, **L Boukas** , JJ Augustin, HN Nguyen, BL Winer, GH Cannon, JD Robertson, L Zhang, **KD Hansen**, Johanna D, LA Goff, HT Bjornsson.  
+_Precocious neuronal differentiation and disrupted oxygen responses in Kabuki syndrome._  
+bioRxiv 2019, 484410  
+[DOI](https://doi.org/10.1101/484410) | 
+<span data-badge-type="4" data-doi="10.1101/484410" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 **L Myint**, R Wang, **L Boukas**, **KD Hansen**, LA Goff, DG Avramopoulos.  
 _Testing the Regulatory Consequences of 1,049 Schizophrenia Associated Variants With a Massively Parallel Reporter Assay._  
