@@ -48,7 +48,7 @@ Computational Biology
 GA Carosso, **L Boukas** , JJ Augustin, HN Nguyen, BL Winer, GH Cannon, JD Robertson, L Zhang, **KD Hansen**, Johanna D, LA Goff, HT Bjornsson.  
 _Precocious neuronal differentiation and disrupted oxygen responses in Kabuki syndrome._  
 JCI Insight 2019, in press.  
-[DOI](10.1172/jci.insight.129375) | 
+[DOI](https://doi.org/10.1172/jci.insight.129375) | 
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/31465303) |
 [Preprint](https://doi.org/10.1101/484410) |
 <span data-badge-type="4" data-doi="10.1172/jci.insight.129375" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
