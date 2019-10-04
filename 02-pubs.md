@@ -20,13 +20,6 @@ Publication Repositories
 Current Preprints
 -----------------
 
-
-JA Fahrner<sup>&dagger;</sup>, and W-Y Lin, RC Riddle, **L Boukas**, VB DeLeon, S Chopra, SE Lad, TR Luperchio, **KD Hansen**, HT Bjornsson<sup>&dagger;</sup>.  
-_Precocious chondrocyte differentiation disrupts skeletal growth in Kabuki syndrome mice._  
-bioRxiv 2019, 599878  
-[DOI](https://doi.org/10.1101/599878) | 
-<span data-badge-type="4" data-doi="10.1101/599878" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
 DU Gorkin, Y Qiu, M Hu<sup>&dagger;</sup>, **K Fletez-Brant**, T Liu, AD Schmitt, A Noor, J Chiou, KJ Gaulton, J Sebat, Y Li, **KD Hansen**, B Ren<sup>&dagger;</sup>.  
 _Common DNA sequence variation influences 3-dimensional conformation of the human genome._  
 bioRxiv 2019, 592741  
@@ -44,6 +37,14 @@ Computational Biology
 ---------------------
 
 **2019**
+
+JA Fahrner<sup>&dagger;</sup>, and W-Y Lin, RC Riddle, **L Boukas**, VB DeLeon, S Chopra, SE Lad, TR Luperchio, **KD Hansen**, HT Bjornsson<sup>&dagger;</sup>.  
+_Precocious chondrocyte differentiation disrupts skeletal growth in Kabuki syndrome mice._  
+JCI Insight 2019, in press.  
+[DOI](https://doi.org/10.1172/jci.insight.129380) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/31557133) |
+[Preprint](https://doi.org/10.1101/599878) | 
+<span data-badge-type="4" data-doi="10.1172/jci.insight.129380" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 GA Carosso, **L Boukas** , JJ Augustin, HN Nguyen, BL Winer, GH Cannon, JD Robertson, L Zhang, **KD Hansen**, Johanna D, LA Goff, HT Bjornsson.  
 _Precocious neuronal differentiation and disrupted oxygen responses in Kabuki syndrome._  
@@ -552,6 +553,12 @@ Leanpub, 2016.
 
 Published Preprints
 -------------------
+
+JA Fahrner<sup>&dagger;</sup>, and W-Y Lin, RC Riddle, **L Boukas**, VB DeLeon, S Chopra, SE Lad, TR Luperchio, **KD Hansen**, HT Bjornsson<sup>&dagger;</sup>.  
+_Precocious chondrocyte differentiation disrupts skeletal growth in Kabuki syndrome mice._  
+bioRxiv 2019, 599878  
+[DOI](https://doi.org/10.1101/599878) | 
+<span data-badge-type="4" data-doi="10.1101/599878" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 GA Carosso, **L Boukas** , JJ Augustin, HN Nguyen, BL Winer, GH Cannon, JD Robertson, L Zhang, **KD Hansen**, Johanna D, LA Goff, HT Bjornsson.  
 _Precocious neuronal differentiation and disrupted oxygen responses in Kabuki syndrome._  
