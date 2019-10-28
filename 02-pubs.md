@@ -40,7 +40,7 @@ Computational Biology
 
 JA Fahrner<sup>&dagger;</sup>, and W-Y Lin, RC Riddle, **L Boukas**, VB DeLeon, S Chopra, SE Lad, TR Luperchio, **KD Hansen**, HT Bjornsson<sup>&dagger;</sup>.  
 _Precocious chondrocyte differentiation disrupts skeletal growth in Kabuki syndrome mice._  
-JCI Insight 2019, in press.  
+JCI Insight 2019, 4(20):129380.  
 [DOI](https://doi.org/10.1172/jci.insight.129380) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/31557133) |
 [Preprint](https://doi.org/10.1101/599878) | 
@@ -48,7 +48,7 @@ JCI Insight 2019, in press.
 
 GA Carosso, **L Boukas** , JJ Augustin, HN Nguyen, BL Winer, GH Cannon, JD Robertson, L Zhang, **KD Hansen**, Johanna D, LA Goff, HT Bjornsson.  
 _Precocious neuronal differentiation and disrupted oxygen responses in Kabuki syndrome._  
-JCI Insight 2019, in press.  
+JCI Insight 2019, 4(20):129375.  
 [DOI](https://doi.org/10.1172/jci.insight.129375) | 
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/31465303) |
 [Preprint](https://doi.org/10.1101/484410) |
@@ -64,7 +64,7 @@ American Journal of Medical Genetics Part B: Neuropsychiatric Genetics 2019, in 
 
 P Wulfridge, B Langmead, AP Feinberg, **KD Hansen**<sup>&dagger;</sup>.  
 _Analyzing whole genome bisulfite sequencing data from highly divergent genotypes._  
-Nucleic Acids Research 2019, in press.  
+Nucleic Acids Research 2019, 47(19):e117.  
 [DOI](https://doi.org/10.1093/nar/gkz674) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/31392989) | 
 [Preprint](https://doi.org/10.1101/076844) |
