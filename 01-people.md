@@ -37,6 +37,16 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 &nbsp;&nbsp;&nbsp;GitHub: [yiwang12](https://github.com/yiwang12)  
 <br><br><br><br><br><br><br><br>
 
+<img alt="Charles Zheng" align="left" src="media/people/czheng.png" width="200" height="200"/>
+&nbsp;&nbsp;&nbsp;Shijie (Charles) Zheng  
+&nbsp;&nbsp;&nbsp;Postdoctoral Fellow in  Biostatistics  
+&nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)  
+&nbsp;&nbsp;&nbsp;Johns Hopkins University  
+<br>
+&nbsp;&nbsp;&nbsp;GitHub: [sjczheng](https://github.com/sjczheng)  
+<br><br><br><br><br><br><br>
+
+
 
 ### Support staff
 
