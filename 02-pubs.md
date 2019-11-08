@@ -67,6 +67,7 @@ _Analyzing whole genome bisulfite sequencing data from highly divergent genotype
 Nucleic Acids Research 2019, 47(19):e117.  
 [DOI](https://doi.org/10.1093/nar/gkz674) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/31392989) | 
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6821270)
 [Preprint](https://doi.org/10.1101/076844) |
 <span data-badge-type="4" data-doi="10.1093/nar/gkz674" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
