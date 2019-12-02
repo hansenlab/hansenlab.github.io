@@ -20,12 +20,6 @@ Publication Repositories
 Current Preprints
 -----------------
 
-DU Gorkin, Y Qiu, M Hu<sup>&dagger;</sup>, **K Fletez-Brant**, T Liu, AD Schmitt, A Noor, J Chiou, KJ Gaulton, J Sebat, Y Li, **KD Hansen**, B Ren<sup>&dagger;</sup>.  
-_Common DNA sequence variation influences 3-dimensional conformation of the human genome._  
-bioRxiv 2019, 592741  
-[DOI](https://doi.org/10.1101/592741) |
-<span data-badge-type="4" data-doi="10.1101/592741" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
 **K Fletez-Brant**, Y Qiu, DU Gorkin, M Hu, **KD Hansen**.  
 _Removing unwanted variation between samples in Hi-C experiments._  
 bioRxiv 2017, 214361.  
@@ -38,11 +32,20 @@ Computational Biology
 
 **2019**
 
+DU Gorkin<sup>&lowast;</sup>, Y Qiu<sup>&lowast;</sup>, M Hu<sup>&lowast;,&dagger;</sup>, **K Fletez-Brant**, T Liu, AD Schmitt, A Noor, J Chiou, KJ Gaulton, J Sebat, Y Li, **KD Hansen**, B Ren<sup>&dagger;</sup>.  
+_Common DNA sequence variation influences 3-dimensional conformation of the human genome._  
+Genome Biology 2019, 20:255  
+[DOI](https://doi.org/10.1186/s13059-019-1855-4) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/31779666) |
+[Preprint](https://doi.org/10.1101/592741) |
+<span data-badge-type="4" data-doi="10.1186/s13059-019-1855-4" ansdata-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
 JA Fahrner<sup>&dagger;</sup>, and W-Y Lin, RC Riddle, **L Boukas**, VB DeLeon, S Chopra, SE Lad, TR Luperchio, **KD Hansen**, HT Bjornsson<sup>&dagger;</sup>.  
 _Precocious chondrocyte differentiation disrupts skeletal growth in Kabuki syndrome mice._  
 JCI Insight 2019, 4(20):129380.  
 [DOI](https://doi.org/10.1172/jci.insight.129380) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/31557133) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6824315) |
 [Preprint](https://doi.org/10.1101/599878) | 
 <span data-badge-type="4" data-doi="10.1172/jci.insight.129380" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
@@ -51,6 +54,7 @@ _Precocious neuronal differentiation and disrupted oxygen responses in Kabuki sy
 JCI Insight 2019, 4(20):129375.  
 [DOI](https://doi.org/10.1172/jci.insight.129375) | 
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/31465303) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6824316) |
 [Preprint](https://doi.org/10.1101/484410) |
 <span data-badge-type="4" data-doi="10.1172/jci.insight.129375" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
@@ -67,7 +71,7 @@ _Analyzing whole genome bisulfite sequencing data from highly divergent genotype
 Nucleic Acids Research 2019, 47(19):e117.  
 [DOI](https://doi.org/10.1093/nar/gkz674) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/31392989) | 
-[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6821270)
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6821270) |
 [Preprint](https://doi.org/10.1101/076844) |
 <span data-badge-type="4" data-doi="10.1093/nar/gkz674" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
@@ -554,6 +558,12 @@ Leanpub, 2016.
 
 Published Preprints
 -------------------
+
+DU Gorkin, Y Qiu, M Hu<sup>&dagger;</sup>, **K Fletez-Brant**, T Liu, AD Schmitt, A Noor, J Chiou, KJ Gaulton, J Sebat, Y Li, **KD Hansen**, B Ren<sup>&dagger;</sup>.  
+_Common DNA sequence variation influences 3-dimensional conformation of the human genome._  
+bioRxiv 2019, 592741  
+[DOI](https://doi.org/10.1101/592741) |
+<span data-badge-type="4" data-doi="10.1101/592741" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 JA Fahrner<sup>&dagger;</sup>, and W-Y Lin, RC Riddle, **L Boukas**, VB DeLeon, S Chopra, SE Lad, TR Luperchio, **KD Hansen**, HT Bjornsson<sup>&dagger;</sup>.  
 _Precocious chondrocyte differentiation disrupts skeletal growth in Kabuki syndrome mice._  
