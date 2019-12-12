@@ -37,6 +37,7 @@ _Common DNA sequence variation influences 3-dimensional conformation of the huma
 Genome Biology 2019, 20:255  
 [DOI](https://doi.org/10.1186/s13059-019-1855-4) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/31779666) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6883528) |
 [Preprint](https://doi.org/10.1101/592741) |
 <span data-badge-type="4" data-doi="10.1186/s13059-019-1855-4" ansdata-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
