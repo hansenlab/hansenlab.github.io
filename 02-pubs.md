@@ -20,6 +20,12 @@ Publication Repositories
 Current Preprints
 -----------------
 
+**L Boukas**, HT Bjornsson, **KD Hansen**.  
+_Promoter CpG density predicts downstream gene loss-of-function intolerance._  
+bioRxiv 2020, 10.1101/2020.02.15.936351.  
+[DOI](https://doi.org/10.1101/2020.02.15.936351) |
+<span data-badge-type="4" data-doi="10.1101/2020.02.15.936351" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
 **Y Wang**, SC Hicks, **KD Hansen**.  
 _Co-expression analysis is biased by a mean-correlation relationship._  
 bioRxiv 2020, 2020.02.13.944777.  
@@ -35,6 +41,17 @@ bioRxiv 2017, 214361.
 
 Computational Biology
 ---------------------
+
+**2020**
+
+**L Myint**, R Wang, **L Boukas**, **KD Hansen**, LA Goff, DG Avramopoulos.  
+_A screen of 1,049 schizophrenia and 30 Alzheimer's-associated variants for regulatory potential_  
+American Journal of Medical Genetics Part B: Neuropsychiatric Genetics 2030, 183(1):61-73.  
+[DOI](https://doi.org/10.1002/ajmg.b.32761) | 
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/31503409) |
+[Preprint](https://doi.org/10.1101/447557) |
+<span data-badge-type="4" data-doi="10.1002/ajmg.b.32761" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
 
 **2019**
 
@@ -64,14 +81,6 @@ JCI Insight 2019, 4(20):129375.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6824316) |
 [Preprint](https://doi.org/10.1101/484410) |
 <span data-badge-type="4" data-doi="10.1172/jci.insight.129375" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
-**L Myint**, R Wang, **L Boukas**, **KD Hansen**, LA Goff, DG Avramopoulos.  
-_A screen of 1,049 schizophrenia and 30 Alzheimer's-associated variants for regulatory potential_  
-American Journal of Medical Genetics Part B: Neuropsychiatric Genetics 2019, in press.  
-[DOI](https://doi.org/10.1002/ajmg.b.32761) | 
-[PMID](http://www.ncbi.nlm.nih.gov/pubmed/31503409) |
-[Preprint](https://doi.org/10.1101/447557) |
-<span data-badge-type="4" data-doi="10.1002/ajmg.b.32761" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 P Wulfridge, B Langmead, AP Feinberg, **KD Hansen**<sup>&dagger;</sup>.  
 _Analyzing whole genome bisulfite sequencing data from highly divergent genotypes._  
@@ -145,6 +154,7 @@ _Reproducible RNA-seq analysis using recount2._
 Nature Biotechnology 2017, 35(4):319-321.  
 [DOI](http://doi.org/10.1038/nbt.3838) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/28398307) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6742427) | 
 [Preprint](https://doi.org/10.1101/068478) |
 <span data-badge-type="4" data-doi="10.1038/nbt.3838" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
