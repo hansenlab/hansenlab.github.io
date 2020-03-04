@@ -108,7 +108,7 @@ GitHub: [Jfortin1](https://github.com/Jfortin1)
 
 ### Previous Visitors
 
-<img alt="Charles Zheng" align="left" src="media/people/czheng.jpg" width="200" height="200"/>
+<img alt="Charles Zheng" align="left" src="media/people/czheng.png" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Shijie (Charles) Zheng  
 &nbsp;&nbsp;&nbsp;Visiting Scholar at Biostatistics  
 <br>
