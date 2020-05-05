@@ -1,0 +1,48 @@
+\documentclass[11pt,letterpaper,pdf]{article}
+\usepackage[T1]{fontenc}
+\usepackage{fullpage}
+\usepackage[utf8]{inputenc}
+\usepackage{color,hyperref, url}
+\definecolor{darkblue}{rgb}{0.0,0.0,0.75}
+\hypersetup{colorlinks,breaklinks,
+  linkcolor=darkblue,urlcolor=darkblue,
+  anchorcolor=darkblue,citecolor=darkblue}
+\usepackage[backend=biber,
+           bibstyle=numeric,sorting=ydnt,sortcites=true,natbib=true,defernumbers=true,
+           maxbibnames=99,giveninits=true,uniquename=false]{biblatex}
+\renewbibmacro{in:}{}
+\addbibresource{papers.bib}
+\renewcommand*{\mkbibnamegiven}[1]{%
+\ifitemannotation{highlight}
+{\textbf{#1}}
+{#1}}
+% \ifitemannotation{highlight}
+%   {\textbf{#1}}
+%   {#1}
+\renewcommand*{\mkbibnamefamily}[1]{%
+\ifitemannotation{highlight}
+  {\textbf{#1}}
+  {#1}%
+\ifitemannotation{first}
+  {\textsuperscript{*}}
+  {}%
+\ifitemannotation{corresponding}
+  {$^\dagger$}
+  {}%
+}%%
+
+\begin{document}
+
+
+\section*{PUBLICATIONS}
+
+\nocite{*}
+
+\defbibnote{mynote}{$^*$ indicates equal contributions\\ $^\dagger$ indicates corresponding author(s)
+   (if not the senior author)\\ \textbf{boldface} indicates a member of my lab \\}
+
+\printbibliography[title=Journal Articles (peer reviewed),keyword=peerjournal,prenote=mynote]
+
+\printbibliography[title=Preprints (not peer reviewed),keyword=preprint,prenote=mynote]
+
+\end{document}
