@@ -10,16 +10,12 @@
 \usepackage[backend=biber,
            bibstyle=numeric,sorting=ydnt,sortcites=true,natbib=true,defernumbers=true,
            maxbibnames=99,giveninits=true,uniquename=false]{biblatex}
-\renewbibmacro{in:}{}
 \addbibresource{papers.bib}
-\renewcommand*{\mkbibnamegiven}[1]{%
+\renewcommand*{\mkbibnamegiven}[1]{
 \ifitemannotation{highlight}
 {\textbf{#1}}
 {#1}}
-% \ifitemannotation{highlight}
-%   {\textbf{#1}}
-%   {#1}
-\renewcommand*{\mkbibnamefamily}[1]{%
+\renewcommand*{\mkbibnamefamily}[1]{
 \ifitemannotation{highlight}
   {\textbf{#1}}
   {#1}%
