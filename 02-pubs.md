@@ -20,6 +20,16 @@ Publication Repositories
 Current Preprints
 -----------------
 
+
+
+**L Boukas**, HT Bjornsson, **KD Hansen**.  
+_Purifying selection acts on germline methylation to modify the CpG mutation rate at promoters._  
+bioRxiv 2020, 2020.07.04.187880.  
+[DOI](https://doi.org/10.1101/2020.07.04.187880) | 
+[Tweetorial](https://twitter.com/KasperDHansen/status/1279981186400616449?s=20) |
+<span data-badge-type="4" data-doi="10.1101/2020.07.04.187880" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
+
 **L Boukas**, HT Bjornsson, **KD Hansen**.  
 _Promoter CpG density predicts downstream gene loss-of-function intolerance._  
 bioRxiv 2020, 10.1101/2020.02.15.936351.  
