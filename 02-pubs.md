@@ -34,12 +34,14 @@ bioRxiv 2020, 2020.07.04.187880.
 _Promoter CpG density predicts downstream gene loss-of-function intolerance._  
 bioRxiv 2020, 10.1101/2020.02.15.936351.  
 [DOI](https://doi.org/10.1101/2020.02.15.936351) |
+[Tweetorial](https://twitter.com/KasperDHansen/status/1229601875554635781?s=20) |
 <span data-badge-type="4" data-doi="10.1101/2020.02.15.936351" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 **Y Wang**, SC Hicks, **KD Hansen**.  
 _Co-expression analysis is biased by a mean-correlation relationship._  
 bioRxiv 2020, 2020.02.13.944777.  
 [DOI](https://doi.org/10.1101/2020.02.13.944777) |
+[Tweetorial](https://twitter.com/KasperDHansen/status/1228157664854781952?s=20) |
 <span data-badge-type="4" data-doi="10.1101/2020.02.13.944777" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 **K Fletez-Brant**, Y Qiu, DU Gorkin, M Hu, **KD Hansen**.  
