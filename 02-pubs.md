@@ -20,8 +20,6 @@ Publication Repositories
 Current Preprints
 -----------------
 
-
-
 **L Boukas**, HT Bjornsson, **KD Hansen**.  
 _Purifying selection acts on germline methylation to modify the CpG mutation rate at promoters._  
 bioRxiv 2020, 2020.07.04.187880.  
@@ -29,13 +27,11 @@ bioRxiv 2020, 2020.07.04.187880.
 [Tweetorial](https://twitter.com/KasperDHansen/status/1279981186400616449?s=20) |
 <span data-badge-type="4" data-doi="10.1101/2020.07.04.187880" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
-
-**L Boukas**, HT Bjornsson, **KD Hansen**.  
-_Promoter CpG density predicts downstream gene loss-of-function intolerance._  
-bioRxiv 2020, 10.1101/2020.02.15.936351.  
-[DOI](https://doi.org/10.1101/2020.02.15.936351) |
-[Tweetorial](https://twitter.com/KasperDHansen/status/1229601875554635781?s=20) |
-<span data-badge-type="4" data-doi="10.1101/2020.02.15.936351" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+JJ Credle, ML Robinson, J Gunn, D Monaco, B Sie, A Tchir, J Hardick, X Zheng, K Shaw-Saliba, RE Rothman, SH Eshleman, A Pekosz, **KD Hansen**, H Mostafa, M Steinegger, HB Larman.  
+_Highly multiplexed oligonucleotide probe-ligation testing enables efficient extraction-free SARS-CoV-2 detection and viral genotyping._  
+bioRxiv 2020, 2020.06.03.130591.  
+[DOI](https://doi.org/10.1101/2020.06.03.130591) |
+<span data-badge-type="4" data-doi="10.1101/2020.06.03.130591" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 **Y Wang**, SC Hicks, **KD Hansen**.  
 _Co-expression analysis is biased by a mean-correlation relationship._  
@@ -56,11 +52,20 @@ Computational Biology
 
 **2020**
 
+**L Boukas**, HT Bjornsson, **KD Hansen**.  
+_Promoter CpG density predicts downstream gene loss-of-function intolerance._  
+AJHG 2020, In press.  
+[DOI](https://doi.org/10.1016/j.ajhg.2020.07.014) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/32800095) |
+[Preprint](https://doi.org/10.1101/2020.02.15.936351) |
+[Tweetorial](https://twitter.com/KasperDHansen/status/1295668746972016642?s=20) | <span data-badge-type="4" data-doi="10.1016/j.ajhg.2020.07.014" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
 **L Myint**, R Wang, **L Boukas**, **KD Hansen**, LA Goff, DG Avramopoulos.  
 _A screen of 1,049 schizophrenia and 30 Alzheimer's-associated variants for regulatory potential_  
 American Journal of Medical Genetics Part B: Neuropsychiatric Genetics 2030, 183(1):61-73.  
 [DOI](https://doi.org/10.1002/ajmg.b.32761) | 
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/31503409) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233147)
 [Preprint](https://doi.org/10.1101/447557) |
 <span data-badge-type="4" data-doi="10.1002/ajmg.b.32761" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
@@ -587,6 +592,13 @@ Leanpub, 2016.
 
 Published Preprints
 -------------------
+
+**L Boukas**, HT Bjornsson, **KD Hansen**.  
+_Promoter CpG density predicts downstream gene loss-of-function intolerance._  
+bioRxiv 2020, 10.1101/2020.02.15.936351.  
+[DOI](https://doi.org/10.1101/2020.02.15.936351) |
+[Tweetorial](https://twitter.com/KasperDHansen/status/1229601875554635781?s=20) |
+<span data-badge-type="4" data-doi="10.1101/2020.02.15.936351" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 DU Gorkin, Y Qiu, M Hu<sup>&dagger;</sup>, **K Fletez-Brant**, T Liu, AD Schmitt, A Noor, J Chiou, KJ Gaulton, J Sebat, Y Li, **KD Hansen**, B Ren<sup>&dagger;</sup>.  
 _Common DNA sequence variation influences 3-dimensional conformation of the human genome._  
