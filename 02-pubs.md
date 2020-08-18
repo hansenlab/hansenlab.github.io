@@ -58,7 +58,8 @@ AJHG 2020, In press.
 [DOI](https://doi.org/10.1016/j.ajhg.2020.07.014) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/32800095) |
 [Preprint](https://doi.org/10.1101/2020.02.15.936351) |
-[Tweetorial](https://twitter.com/KasperDHansen/status/1295668746972016642?s=20) | <span data-badge-type="4" data-doi="10.1016/j.ajhg.2020.07.014" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+[Tweetorial](https://twitter.com/KasperDHansen/status/1295668746972016642?s=20) | 
+<span data-badge-type="4" data-doi="10.1016/j.ajhg.2020.07.014" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 **L Myint**, R Wang, **L Boukas**, **KD Hansen**, LA Goff, DG Avramopoulos.  
 _A screen of 1,049 schizophrenia and 30 Alzheimer's-associated variants for regulatory potential_  
