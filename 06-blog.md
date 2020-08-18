@@ -12,6 +12,7 @@ permalink: "blog.html"
 				      style="vertical-align:middle;border:0"/></a>&nbsp;<a href="http://feeds.feedburner.com/HansenLab"
 											   rel="alternate"
 											   type="application/rss+xml">Subscribe</a>
-
+<ul>
 {% assign posts_collate = site.posts %}
 {% include JB/posts_collate %}
+</ul>
