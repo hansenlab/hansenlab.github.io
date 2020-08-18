@@ -17,12 +17,3 @@ permalink: "blog.html"
   {% endfor %}
 </ul>
 
-<!-- <ul> -->
-<!--   {% for post in site.posts %} -->
-<!--     <li> -->
-<!--       <h3><a href="{{ post.url }}">{{ post.date }}{{ post.title }}</a></h3> -->
-<!--       {{ post.excerpt }} -->
-<!--     </li> -->
-<!--   {% endfor %} -->
-<!-- </ul> -->
-
