@@ -32,7 +32,7 @@ This assumes that the batch effect operates on the total expression (S+U) and do
 
 In our experience, this approach works best on log transformed expression measures. Specifically, we correct S and U for library size, and form M=U+S. Then we log transform M as log(M+1), use ComBat and invert the log transformation. This is what we feed to scVelo and friends. Note that the sum happens on the original scale.
 
-Furthermore, in our experience, Alevin exhibits less batch effects compared to Kallisto. And transformation-wise, doing ComBat on the log-scale is better than not log transforming. Finally, we found ComBat on the log-scale to be superior to ComBat-seq. We emphasize that this is just our experience based on a couple of datasets.
+Furthermore, in our experience, Alevin exhibits less batch effects compared to Kallisto. And transformation-wise, doing ComBat on the log-scale is better than not log transforming. Finally, we found ComBat on the log-scale to be superior to ComBat-seq. We emphasize that this is just our experience based on a couple of datasets. **Update** I want to emphasize that I don't fully understand these two observations (Alevin vs. Kallisto and ComBat vs. ComBat-seq), which suggests that this may not hold in general (we do not claim to have looked at this comprehensively) or that we are not looking at this the *right* way. Nevertheless, I am puzzled by this, which is why I think its worth noting.
 
 Doing this yields the bottom row of the figure, where the two phase plots are now on the same scale. 
 
