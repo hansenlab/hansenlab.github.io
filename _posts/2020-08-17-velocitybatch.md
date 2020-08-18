@@ -14,19 +14,19 @@ The goal is to predict the future expression state of a cell. The input to this 
 
 The two publications mentioned above only analyzes a single sample (ie. many cells from one sample). In gene expression analysis -- including analysis of scRNA-seq data -- we expect the presence of batch effects or "unwanted variation" between samples processed in different batches, see Leek et al (2010 Nature Rev Genet) for a review. This raises the question of whether batch effects exists for this type of data.
 
-As someone who has worked on batch effects and normalization for a while, my gut reaction to this question is "yes" since I expect batch effects to exists in all high-throughput genomic data. A better question is whether batch effects are big enough to worry about. Because RNA velocity is estimated by the relationship between S and U, and these two quantities are derived from the same sample, perhaps this serves as a within-sample normalization which alleviates (but probably does not completely remove) a possible batch effect.  Indeed, this was our expectation when [Charles Zheng](https://www.hansenlab.org/people.html), [Loyal Goff](https://www.gofflab.org) and I started to look at this type of analysis.
+As someone who has worked on batch effects and normalization for a while, my gut reaction to this question is "yes" since I expect batch effects to exists in all high-throughput genomic data. A better question is whether batch effects are big enough to worry about. However, because RNA velocity is estimated by the relationship between S and U, and these two quantities are derived from the same sample, perhaps this serves as a within-sample normalization which alleviates (but probably does not completely remove) a possible batch effect.  Indeed, this was our expectation when [Charles Zheng](https://www.hansenlab.org/people.html), [Loyal Goff](https://www.gofflab.org) and I started to look at this type of analysis.
 
-However, this turns out to not be the case (below), which opens up the question: "how should we remove batch effects from this type of data". This is a new problem, because we have two related matrices U and S and we want to batch correct both of them at the same time, something which is not trivial with existing algorithms.
-
-In the figure below we show (first row) data from a single gene and two replicates processed in two different batches. We observe that the cloud of points extends differently in the two replicates. This difference introduces a batch effect in the velocity estimation.
+In the figure below we show (first row) data from a single gene and two replicates processed in two different batches. We observe that the cloud of points extends differently in the two replicates. This difference introduces a batch effect in the velocity estimation, contrary to what might be expected. The skeptical reader will note we are only showing one gene, but take our word for it, it is quite visible across many genes.
 
 ![](/media/velocitybatch/ComBatExample.png)
+
+This opens the question of how to correct for this batch effect. In (differential) gene expression analysis we have many such methods. But a challenge for RNA velocity is that we need to batch correct not 1 but 2 matrices simultaneously, which is a new problem.
 
 To address this, Charles Zheng came up with the following idea:
 
 1. Construct M = S + U, as well as R = S/U
 2. Batch correct M, for example by using ComBat, to get a corrected matrix Mb (see extended comments below).
-3. Back transform into corrected matrices by Sb = Mb * R, Ub = Mb * (1-R)
+3. Back transform into corrected matrices Sb, Ub by Sb = Mb * R, Ub = Mb * (1-R)
 
 This assumes that the batch effect operates on the total expression (S+U) and does not affect the ratio. However, it allows us a first attempt at batch correcting the data.
 
@@ -34,6 +34,6 @@ In our experience, this approach works best on log transformed expression measur
 
 Furthermore, in our experience, Alevin exhibits less batch effects compared to Kallisto. And transformation-wise, doing ComBat on the log-scale is better than not log transforming. Finally, we found ComBat on the log-scale to be superior to ComBat-seq. We emphasize that this is just our experience based on a couple of datasets.
 
-Doing this yields the bottom row of the figure, where the two phase plots are now on the same scale.
+Doing this yields the bottom row of the figure, where the two phase plots are now on the same scale. 
 
 It's clear that this is not the last word on correcting for batch effects in RNA velocity, but we have found this to be a good start. Certainly better than doing nothing.
