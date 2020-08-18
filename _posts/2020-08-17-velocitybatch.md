@@ -20,7 +20,7 @@ However, this turns out to not be the case (below), which opens up the question:
 
 In the figure below we show (first row) data from a single gene and two replicates processed in two different batches. We observe that the cloud of points extends differently in the two replicates. This difference introduces a batch effect in the velocity estimation.
 
-![Phaseplots for a single gene, measured in two replicates from two batches (AW1 and AW2). First row is uncorrected, second row is following the approach outlined here.](/media/velocitybatch/ComBatExample.png)
+![](/media/velocitybatch/ComBatExample.png)
 
 To address this, Charles Zheng came up with the following idea:
 
