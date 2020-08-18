@@ -26,7 +26,8 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 &nbsp;&nbsp;&nbsp;Johns Hopkins University  
 <br>
 &nbsp;&nbsp;&nbsp;GitHub: [leandrosboukas](https://github.com/leandrosboukas)  
-<br><br><br><br>
+&nbsp;&nbsp;&nbsp;Google Scholar: [Leandros Boukas](https://scholar.google.com/citations?user=lOJ4aQEAAAAJ&hl=en&oi=ao)
+<br><br><br>
 
 <img alt="Yi Wang" align="left" src="media/people/yiwang.png">/
 &nbsp;&nbsp;&nbsp;Yi Wang  
@@ -44,7 +45,8 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 &nbsp;&nbsp;&nbsp;Johns Hopkins University  
 <br>
 &nbsp;&nbsp;&nbsp;GitHub: [sjczheng](https://github.com/sjczheng)  
-<br><br><br><br><br><br><br>
+&nbsp;&nbsp;&nbsp;Google Scholar: [Shijie C. Zheng](https://scholar.google.com/citations?user=tpStkPAAAAAJ&hl=en&oi=ao)  
+<br><br><br><br><br><br>
 
 
 
