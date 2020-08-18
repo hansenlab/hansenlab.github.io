@@ -16,7 +16,7 @@ author :
   name : Kasper Daniel Hansen
   email : kasperdanielhansen@gmail.com
   github : kasperdanielhansen
-  twitter : username
+  twitter : KasperDHansen
   feedburner : HansenLab
 
 # The production_url is only used when full-domain names are needed
@@ -82,18 +82,19 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
-    disqus :
-      short_name : kasperdanielhansenblog
-    livefyre :
-      site_id : 123
-    intensedebate :
-      account : 123abc
-    facebook :
-      appid : 123
-      num_posts: 5
-      width: 580
-      colorscheme: light
+    provider: false
+    # provider : disqus
+    # disqus :
+    #   short_name : kasperdanielhansenblog
+    # livefyre :
+    #   site_id : 123
+    # intensedebate :
+    #   account : 123abc
+    # facebook :
+    #   appid : 123
+    #   num_posts: 5
+    #   width: 580
+    #   colorscheme: light
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
