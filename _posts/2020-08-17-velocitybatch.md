@@ -4,7 +4,7 @@ title: Batch effects in scRNA velocity analysis
 permalink: velocity_batch
 ---
 
-*... in which we discuss whether batch effects exists in scRNA velocity data and how to correct it."*
+*... in which we discuss whether batch effects exists in scRNA velocity data and how to correct it.*
 
 First some background.
 
