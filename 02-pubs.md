@@ -61,6 +61,14 @@ AJHG 2020, In press.
 [Tweetorial](https://twitter.com/KasperDHansen/status/1295668746972016642?s=20) | 
 <span data-badge-type="4" data-doi="10.1016/j.ajhg.2020.07.014" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
+S Rajagopalan<sup>&lowast;&dagger;</sup>, B Park<sup>&lowast;</sup>, R Palanivel, V Vinayachandran, JA Deiuliis, RS Gangwar, LM Das, J Yin, Y Choi, S Al-Kindi, MK Jain, **KD Hansen**, Shyam Biswal<sup>&dagger;</sup>.  
+_Metabolic effects of air pollution exposure and reversibility._  
+JCI 2020, In press.  
+[DOI](https://doi.org/10.1172/JCI137315)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/32780721) |
+<span data-badge-type="4" data-doi="10.1172/JCI137315" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
+
 **L Myint**, R Wang, **L Boukas**, **KD Hansen**, LA Goff, DG Avramopoulos.  
 _A screen of 1,049 schizophrenia and 30 Alzheimer's-associated variants for regulatory potential_  
 American Journal of Medical Genetics Part B: Neuropsychiatric Genetics 2030, 183(1):61-73.  
