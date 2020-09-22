@@ -54,9 +54,10 @@ Computational Biology
 
 **L Boukas**, HT Bjornsson, **KD Hansen**.  
 _Promoter CpG density predicts downstream gene loss-of-function intolerance._  
-AJHG 2020, In press.  
+AJHG 2020, 107(3):487-498.  
 [DOI](https://doi.org/10.1016/j.ajhg.2020.07.014) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/32800095) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7477270) |
 [Preprint](https://doi.org/10.1101/2020.02.15.936351) |
 [Tweetorial](https://twitter.com/KasperDHansen/status/1295668746972016642?s=20) | 
 <span data-badge-type="4" data-doi="10.1016/j.ajhg.2020.07.014" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
@@ -64,7 +65,7 @@ AJHG 2020, In press.
 S Rajagopalan<sup>&lowast;&dagger;</sup>, B Park<sup>&lowast;</sup>, R Palanivel, V Vinayachandran, JA Deiuliis, RS Gangwar, LM Das, J Yin, Y Choi, S Al-Kindi, MK Jain, **KD Hansen**, Shyam Biswal<sup>&dagger;</sup>.  
 _Metabolic effects of air pollution exposure and reversibility._  
 JCI 2020, In press.  
-[DOI](https://doi.org/10.1172/JCI137315)
+[DOI](https://doi.org/10.1172/JCI137315) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/32780721) |
 <span data-badge-type="4" data-doi="10.1172/JCI137315" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
@@ -74,7 +75,7 @@ _A screen of 1,049 schizophrenia and 30 Alzheimer's-associated variants for regu
 American Journal of Medical Genetics Part B: Neuropsychiatric Genetics 2030, 183(1):61-73.  
 [DOI](https://doi.org/10.1002/ajmg.b.32761) | 
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/31503409) |
-[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233147)
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233147) |
 [Preprint](https://doi.org/10.1101/447557) |
 <span data-badge-type="4" data-doi="10.1002/ajmg.b.32761" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
