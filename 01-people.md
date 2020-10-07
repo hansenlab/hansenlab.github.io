@@ -16,7 +16,6 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Twitter: [@KasperDHansen](https://twitter.com/KasperDHansen) |
 GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)  
 &nbsp;&nbsp;&nbsp;[Contact](index.html) | [CV](files/hansen_cv.pdf)  
-<br>
 
 <img alt="Leandros Boukas" align="left" src="media/people/lboukas.png" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Leandros Boukas  
@@ -36,7 +35,7 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 <br>
 &nbsp;&nbsp;&nbsp;GitHub: [sjczheng](https://github.com/sjczheng)  
 &nbsp;&nbsp;&nbsp;Google Scholar: [Shijie C. Zheng](https://scholar.google.com/citations?user=tpStkPAAAAAJ&hl=en&oi=ao)  
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 <img alt="Yi Wang" align="left" src="media/people/yiwang.png">
 &nbsp;&nbsp;&nbsp;Yi Wang  
