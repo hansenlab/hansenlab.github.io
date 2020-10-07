@@ -35,7 +35,7 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 <br>
 &nbsp;&nbsp;&nbsp;GitHub: [sjczheng](https://github.com/sjczheng)  
 &nbsp;&nbsp;&nbsp;Google Scholar: [Shijie C. Zheng](https://scholar.google.com/citations?user=tpStkPAAAAAJ&hl=en&oi=ao)  
-<br><br><br><br>
+<br><br>
 
 <img alt="Yi Wang" align="left" src="media/people/yiwang.png">
 &nbsp;&nbsp;&nbsp;Yi Wang  
@@ -45,8 +45,6 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 <br>
 &nbsp;&nbsp;&nbsp;GitHub: [yiwang12](https://github.com/yiwang12)  
 <br><br><br><br><br><br><br><br>
-
-
 
 ### Support staff
 
@@ -72,7 +70,7 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 &nbsp;&nbsp;&nbsp;Twitter: [@PeteHaitch](https://twitter.com/PeteHaitch) |
 GitHub: [PeteHaitch](https://github.com/PeteHaitch)  
 &nbsp;&nbsp;&nbsp;[Personal Webpage](http://www.peterhickey.org)  
-<br><br><br><br><br>
+<br><br>
 
 <img alt="Kipper Fletez-Brant" align="left" src="media/people/kipper.jpg" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Kipper Fletez-Brant  
@@ -82,7 +80,7 @@ GitHub: [PeteHaitch](https://github.com/PeteHaitch)
 &nbsp;&nbsp;&nbsp;  
 <br>
 &nbsp;&nbsp;&nbsp;Twitter: [@kipperfb](https://twitter.com/kipperfb) | GitHub: [cafletezbrant](https://github.com/cafletezbrant)  
-<br><br><br><br>
+<br><br>
 
 <img alt="Leslie Myint" align="left" src="media/people/myint.jpg" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Leslie Myint  
