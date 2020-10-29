@@ -35,7 +35,7 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 <br>
 &nbsp;&nbsp;&nbsp;GitHub: [sjczheng](https://github.com/sjczheng)  
 &nbsp;&nbsp;&nbsp;Google Scholar: [Shijie C. Zheng](https://scholar.google.com/citations?user=tpStkPAAAAAJ&hl=en&oi=ao)  
-<br><br>
+<br><br><br>
 
 <img alt="Yi Wang" align="left" src="media/people/yiwang.png">
 &nbsp;&nbsp;&nbsp;Yi Wang  

@@ -23,6 +23,15 @@ We are a computational biology lab, interested in analysis of high-throughput ex
 special interest are epigenetics (particular DNA methylation), gene expression, and biases in
 high-throughput technologies.
 
+A **selection** of current topics in the lab:
+
+- Understanding selective pressures on chromatin in humans
+- RNA velocity in single cells
+- Ultra-large (200,000+ samples) scale analysis of RNA-seq data
+- Using genetic techniques to understand epigenetics by studying Mendelian disorders of the epigenetic machinery
+- Analysis of DNA methylation and other epigenetic marks using Nanopore sequencing
+
+
 Contact
 -------
 
