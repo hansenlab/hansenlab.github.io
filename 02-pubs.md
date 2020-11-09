@@ -20,7 +20,13 @@ Publication Repositories
 Current Preprints
 -----------------
 
-**L Boukas**, HT Bjornsson, **KD Hansen**.  
+TR Luperchio<sup>&lowast;</sup>, **L Boukas**<sup>&lowast;</sup>, L Zhang, GO Pilarowski, J Jiang, A Kalinousky, **KD Hansen**<sup>&dagger;, HT Bjornsson<sup>&dagger;.  
+_Leveraging the Mendelian Disorders of the Epigenetic Machinery to Systematically Map Functional Epigenetic Variation._  
+bioRxiv 2020, 2020.11.08.373456.  
+[DOI](https://doi.org/10.1101/2020.11.08.373456) |
+<span data-badge-type="4" data-doi="10.1101/2020.11.08.373456" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
+**L Boukas**, HT Bjornsson<sup>&dagger;, **KD Hansen**<sup>&dagger;.  
 _Purifying selection acts on germline methylation to modify the CpG mutation rate at promoters._  
 bioRxiv 2020, 2020.07.04.187880.  
 [DOI](https://doi.org/10.1101/2020.07.04.187880) | 
@@ -52,7 +58,7 @@ Computational Biology
 
 **2020**
 
-**L Boukas**, HT Bjornsson, **KD Hansen**.  
+**L Boukas**, HT Bjornsson<sup>&dagger;, **KD Hansen**<sup>&dagger;.  
 _Promoter CpG density predicts downstream gene loss-of-function intolerance._  
 AJHG 2020, 107(3):487-498.  
 [DOI](https://doi.org/10.1016/j.ajhg.2020.07.014) |
