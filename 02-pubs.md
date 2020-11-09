@@ -70,9 +70,10 @@ AJHG 2020, 107(3):487-498.
 
 S Rajagopalan<sup>&lowast;&dagger;</sup>, B Park<sup>&lowast;</sup>, R Palanivel, V Vinayachandran, JA Deiuliis, RS Gangwar, LM Das, J Yin, Y Choi, S Al-Kindi, MK Jain, **KD Hansen**, Shyam Biswal<sup>&dagger;</sup>.  
 _Metabolic effects of air pollution exposure and reversibility._  
-JCI 2020, In press.  
+JCI 2020, 130(11):6034-6040.  
 [DOI](https://doi.org/10.1172/JCI137315) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/32780721) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7598058) |
 <span data-badge-type="4" data-doi="10.1172/JCI137315" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 
