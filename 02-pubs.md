@@ -24,6 +24,7 @@ TR Luperchio<sup>&lowast;</sup>, **L Boukas**<sup>&lowast;</sup>, L Zhang, GO Pi
 _Leveraging the Mendelian Disorders of the Epigenetic Machinery to Systematically Map Functional Epigenetic Variation._  
 bioRxiv 2020, 2020.11.08.373456.  
 [DOI](https://doi.org/10.1101/2020.11.08.373456) |
+[Tweetorial](https://twitter.com/KasperDHansen/status/1326157533631963136?s=20) |
 <span data-badge-type="4" data-doi="10.1101/2020.11.08.373456" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 **L Boukas**, HT Bjornsson<sup>&dagger;</sup>, **KD Hansen**<sup>&dagger;</sup>.  
@@ -48,7 +49,7 @@ bioRxiv 2020, 2020.02.13.944777.
 
 **K Fletez-Brant**, Y Qiu, DU Gorkin, M Hu, **KD Hansen**.  
 _Removing unwanted variation between samples in Hi-C experiments._  
-bioRxiv 2017, 214361.  
+bioRxiv 2020, 214361.  
 [DOI](https://doi.org/10.1101/214361) |
 <span data-badge-type="4" data-doi="10.1101/214361" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
