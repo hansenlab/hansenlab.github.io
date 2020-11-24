@@ -20,6 +20,12 @@ Publication Repositories
 Current Preprints
 -----------------
 
+SK Maden, RF Thompson, **KD Hansen**, A Nellore.  
+_Human methylome variation across Infinium 450K data on the Gene Expression Omnibus._  
+bioRxiv 2020, 2020.11.17.387548.  
+[DOI](https://doi.org/10.1101/10.1101/2020.11.17.387548) |
+<span data-badge-type="4" data-doi="10.1101/2020.11.17.387548" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
 TR Luperchio<sup>&lowast;</sup>, **L Boukas**<sup>&lowast;</sup>, L Zhang, GO Pilarowski, J Jiang, A Kalinousky, **KD Hansen**<sup>&dagger;</sup>, HT Bjornsson<sup>&dagger;</sup>.  
 _Leveraging the Mendelian Disorders of the Epigenetic Machinery to Systematically Map Functional Epigenetic Variation._  
 bioRxiv 2020, 2020.11.08.373456.  
@@ -58,6 +64,13 @@ Computational Biology
 ---------------------
 
 **2020**
+
+I Lee, R Razaghi, T Gilpatrick, M Molnar, A Gershman, N Sadowski, FJ Sedlazeck, **KD Hansen**, JT Simpson, W Timp.  
+_Simultaneous profiling of chromatin accessibility and methylation on human cell lines with nanopore sequencing._  
+Nature Methods 2020, In press.  
+[DOI](https://doi.org/10.1038/s41592-020-01000-7) |
+[Readcube](https://rdcu.be/cbcd9) |
+<span data-badge-type="4" data-doi="10.1038/s41592-020-01000-7" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 **L Boukas**, HT Bjornsson<sup>&dagger;</sup>, **KD Hansen**<sup>&dagger;</sup>.  
 _Promoter CpG density predicts downstream gene loss-of-function intolerance._  
