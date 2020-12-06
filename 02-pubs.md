@@ -69,6 +69,7 @@ I Lee, R Razaghi, T Gilpatrick, M Molnar, A Gershman, N Sadowski, FJ Sedlazeck, 
 _Simultaneous profiling of chromatin accessibility and methylation on human cell lines with nanopore sequencing._  
 Nature Methods 2020, In press.  
 [DOI](https://doi.org/10.1038/s41592-020-01000-7) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/33230324) |
 [Readcube](https://rdcu.be/cbcd9) |
 <span data-badge-type="4" data-doi="10.1038/s41592-020-01000-7" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
@@ -178,7 +179,7 @@ Epigenetics & Chromatin 2018, 11(1):15.
 [Preprint](https://doi.org/10.1101/177535) |
 <span data-badge-type="4" data-doi="10.1186/s13072-018-0186-0" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-WT Barrington, P Wulfridge, AE Wells, CM Rojas, SYF Howe, A Perry, K Hua, MA Pellizzon, **KD Hansen**, BH Voy, BJ Bennett, D Pomp, AP Feinberg, DW Threadgill, David W.  
+WT Barrington, P Wulfridge, AE Wells, CM Rojas, SYF Howe, A Perry, K Hua, MA Pellizzon, **KD Hansen**, BH Voy, BJ Bennett, D Pomp, AP Feinberg, DW Threadgill.  
 _Improving metabolic health through precision dietetics in mice._  
 Genetics 2018, 208(1):399-417.  
 [DOI](https://doi.org/10.1534/genetics.117.300536) |
