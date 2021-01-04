@@ -20,6 +20,12 @@ Publication Repositories
 Current Preprints
 -----------------
 
+LF Rizzardi, **PF Hickey**, A Idrizi, R Tryggvadottir, CM Callahan, KE Stephens, SD Taverna, H Zhang, S Ramazanoglu, GTEx Consortium, **KD Hansen**<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
+_Human brain region-specific variably methylated regions (VMRs) are enriched for heritability of distinct neuropsychiatric traits._  
+bioRxiv 2021, 2021.01.02.425010.
+[DOI](https://doi.org/10.1101/2021.01.02.425010) |
+<span data-badge-type="4" data-doi="10.1101/2021.01.02.425010" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 SK Maden, RF Thompson, **KD Hansen**, A Nellore.  
 _Human methylome variation across Infinium 450K data on the Gene Expression Omnibus._  
 bioRxiv 2020, 2020.11.17.387548.  
@@ -67,9 +73,10 @@ Computational Biology
 
 I Lee, R Razaghi, T Gilpatrick, M Molnar, A Gershman, N Sadowski, FJ Sedlazeck, **KD Hansen**, JT Simpson, W Timp.  
 _Simultaneous profiling of chromatin accessibility and methylation on human cell lines with nanopore sequencing._  
-Nature Methods 2020, In press.  
+Nature Methods 2020, 17(12):1191-1199.  
 [DOI](https://doi.org/10.1038/s41592-020-01000-7) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/33230324) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7704922) |
 [Readcube](https://rdcu.be/cbcd9) |
 <span data-badge-type="4" data-doi="10.1038/s41592-020-01000-7" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
