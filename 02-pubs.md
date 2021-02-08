@@ -46,12 +46,6 @@ bioRxiv 2020, 2020.07.04.187880.
 [Tweetorial](https://twitter.com/KasperDHansen/status/1279981186400616449?s=20) |
 <span data-badge-type="4" data-doi="10.1101/2020.07.04.187880" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
-JJ Credle, ML Robinson, J Gunn, D Monaco, B Sie, A Tchir, J Hardick, X Zheng, K Shaw-Saliba, RE Rothman, SH Eshleman, A Pekosz, **KD Hansen**, H Mostafa, M Steinegger, HB Larman.  
-_Highly multiplexed oligonucleotide probe-ligation testing enables efficient extraction-free SARS-CoV-2 detection and viral genotyping._  
-bioRxiv 2020, 2020.06.03.130591.  
-[DOI](https://doi.org/10.1101/2020.06.03.130591) |
-<span data-badge-type="4" data-doi="10.1101/2020.06.03.130591" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
 **Y Wang**, SC Hicks, **KD Hansen**.  
 _Co-expression analysis is biased by a mean-correlation relationship._  
 bioRxiv 2020, 2020.02.13.944777.  
@@ -70,6 +64,14 @@ Computational Biology
 ---------------------
 
 **2020**
+
+JJ Credle, ML Robinson, J Gunn, D Monaco, B Sie, A Tchir, J Hardick, X Zheng, K Shaw-Saliba, RE Rothman, SH Eshleman, A Pekosz, **KD Hansen**, H Mostafa, M Steinegger, HB Larman.  
+_Highly multiplexed oligonucleotide probe-ligation testing enables efficient extraction-free SARS-CoV-2 detection and viral genotyping._  
+Modern Pathology 2021, In press.  
+[DOI](https://doi.org/10.1038/s41379-020-00730-5) |
+[Preprint](https://doi.org/10.1101/2020.06.03.130591) |
+<span data-badge-type="4" data-doi="10.1038/s41379-020-00730-5" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
 
 I Lee, R Razaghi, T Gilpatrick, M Molnar, A Gershman, N Sadowski, FJ Sedlazeck, **KD Hansen**, JT Simpson, W Timp.  
 _Simultaneous profiling of chromatin accessibility and methylation on human cell lines with nanopore sequencing._  
@@ -631,6 +633,12 @@ Leanpub, 2016.
 
 Published Preprints
 -------------------
+
+JJ Credle, ML Robinson, J Gunn, D Monaco, B Sie, A Tchir, J Hardick, X Zheng, K Shaw-Saliba, RE Rothman, SH Eshleman, A Pekosz, **KD Hansen**, H Mostafa, M Steinegger, HB Larman.  
+_Highly multiplexed oligonucleotide probe-ligation testing enables efficient extraction-free SARS-CoV-2 detection and viral genotyping._  
+bioRxiv 2020, 2020.06.03.130591.  
+[DOI](https://doi.org/10.1101/2020.06.03.130591) |
+<span data-badge-type="4" data-doi="10.1101/2020.06.03.130591" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 **L Boukas**, HT Bjornsson, **KD Hansen**.  
 _Promoter CpG density predicts downstream gene loss-of-function intolerance._  
