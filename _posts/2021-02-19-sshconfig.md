@@ -33,5 +33,5 @@ scp FILE e:
 
 copies FILE to the root directory on the `e` server.
 
-In the configuration file you can see how I disable X11 forwarding for the `bitbucket` host and I enable X11 forwarding by default (the `Host *`). This means I no longer have to think about whether to add `-X` to my `ssh` call.
+In the configuration file you can see how I disable X11 forwarding for the `bitbucket` host and I enable X11 forwarding by default (the `Host *` line specifies default choices). This means I no longer have to think about whether to add `-X` to my `ssh` call.
 
