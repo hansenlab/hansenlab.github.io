@@ -8,7 +8,7 @@ permalink: sshconfig
 
 If you're working remotely on a HPC system (or other remote) work, chances are that you're using SSH a lot. This short blog post will detail a number of really convenient configurations you can easily make.
 
-The best trick for working with SSH is using SSH keys to avoid entering your password all the time. This trixk is well covered on the internet. Instead I'll start by introducing the more obscure, but highly useful `.ssh/config` file. You're like to have a `~/.ssh` folder on your machine (but probably not a `~/.ssh/config` file). Inside this folder you can place a `~/.ssh/config` file, the format of which is self-evident:
+The best trick for working with SSH is using SSH keys to avoid entering your password all the time. This trixk is well covered on the internet. Instead I'll start by introducing the more obscure, but highly useful `~/.ssh/config` file. This file is unlikely to exists on your system (unlike the `.ssh` directory). The format of the file is self-evident, following an example:
 
 ```
 Host jhpce01.jhsph.edu e
