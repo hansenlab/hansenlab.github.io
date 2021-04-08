@@ -20,6 +20,20 @@ Publication Repositories
 Current Preprints
 -----------------
 
+
+**SC Zheng**, G Stein-O'Brien, JJ Augustin, J Slosberg, GA Carosso, B Winer, G Shin, HT Bjornsson, LA Goff<sup>&dagger;</sup>, **KD Hansen**<sup>&dagger;</sup>.  
+_Universal prediction of cell cycle position using transfer learning._  
+bioRxiv 2021, 2021.04.06.438463.  
+[DOI])https://doi.org/10.1101/2021.04.06.438463) |
+[Tweetorial (LA Goff)](https://twitter.com/loyalgoff/status/1379806742167527427?s=20) |
+<span data-badge-type="4" data-doi="10.1101/2021.04.06.438463" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+C Ladd-Acosta<sup>&lowast;</sup>, SV Andrews<sup>&lowast;</sup>, KM Bakulski, JI Feinberg, R Tryggvadottir, R Yao, LA Croen, I Hertz-Picciotto, CJ Newschaffer, CM Salafia, AP Feinberg, **KD Hansen**, MD Fallin.  
+_Placenta DNA methylation at ZNF300 is associated with fetal sex and placental morphology._  
+bioRxiv 2021, 2021.03.05.433992.  
+[DOI](https://doi.org/10.1101/2021.03.05.433992) |
+<span data-badge-type="4" data-doi="10.1101/2021.03.05.433992" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 LF Rizzardi, **PF Hickey**, A Idrizi, R Tryggvadottir, CM Callahan, KE Stephens, SD Taverna, H Zhang, S Ramazanoglu, GTEx Consortium, **KD Hansen**<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
 _Human brain region-specific variably methylated regions (VMRs) are enriched for heritability of distinct neuropsychiatric traits._  
 bioRxiv 2021, 2021.01.02.425010.  
