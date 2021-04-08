@@ -77,7 +77,7 @@ bioRxiv 2020, 214361.
 Computational Biology
 ---------------------
 
-**2020**
+**2021**
 
 JJ Credle, ML Robinson, J Gunn, D Monaco, B Sie, A Tchir, J Hardick, X Zheng, K Shaw-Saliba, RE Rothman, SH Eshleman, A Pekosz, **KD Hansen**, H Mostafa, M Steinegger, HB Larman.  
 _Highly multiplexed oligonucleotide probe-ligation testing enables efficient extraction-free SARS-CoV-2 detection and viral genotyping._  
@@ -86,6 +86,7 @@ Modern Pathology 2021, In press.
 [Preprint](https://doi.org/10.1101/2020.06.03.130591) |
 <span data-badge-type="4" data-doi="10.1038/s41379-020-00730-5" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
+**2020**
 
 I Lee, R Razaghi, T Gilpatrick, M Molnar, A Gershman, N Sadowski, FJ Sedlazeck, **KD Hansen**, JT Simpson, W Timp.  
 _Simultaneous profiling of chromatin accessibility and methylation on human cell lines with nanopore sequencing._  
