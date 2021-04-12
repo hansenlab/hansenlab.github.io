@@ -84,6 +84,8 @@ JJ Credle, ML Robinson, J Gunn, D Monaco, B Sie, A Tchir, J Hardick, X Zheng, K 
 _Highly multiplexed oligonucleotide probe-ligation testing enables efficient extraction-free SARS-CoV-2 detection and viral genotyping._  
 Modern Pathology 2021, In press.  
 [DOI](https://doi.org/10.1038/s41379-020-00730-5) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/33536572) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7856856) |
 [Preprint](https://doi.org/10.1101/2020.06.03.130591) |
 <span data-badge-type="4" data-doi="10.1038/s41379-020-00730-5" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
