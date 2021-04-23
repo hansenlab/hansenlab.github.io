@@ -35,17 +35,6 @@ bioRxiv 2021, 2021.03.05.433992.
 [DOI](https://doi.org/10.1101/2021.03.05.433992) |
 <span data-badge-type="4" data-doi="10.1101/2021.03.05.433992" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-LF Rizzardi, **PF Hickey**, A Idrizi, R Tryggvadottir, CM Callahan, KE Stephens, SD Taverna, H Zhang, S Ramazanoglu, GTEx Consortium, **KD Hansen**<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
-_Human brain region-specific variably methylated regions (VMRs) are enriched for heritability of distinct neuropsychiatric traits._  
-bioRxiv 2021, 2021.01.02.425010.  
-[DOI](https://doi.org/10.1101/2021.01.02.425010) |
-<span data-badge-type="4" data-doi="10.1101/2021.01.02.425010" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-SK Maden, RF Thompson, **KD Hansen**, A Nellore.  
-_Human methylome variation across Infinium 450K data on the Gene Expression Omnibus._  
-bioRxiv 2020, 2020.11.17.387548.  
-[DOI](https://doi.org/10.1101/2020.11.17.387548) |
-<span data-badge-type="4" data-doi="10.1101/2020.11.17.387548" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 TR Luperchio<sup>&lowast;</sup>, **L Boukas**<sup>&lowast;</sup>, L Zhang, GO Pilarowski, J Jiang, A Kalinousky, **KD Hansen**<sup>&dagger;</sup>, HT Bjornsson<sup>&dagger;</sup>.  
 _Leveraging the Mendelian Disorders of the Epigenetic Machinery to Systematically Map Functional Epigenetic Variation._  
@@ -79,6 +68,22 @@ Computational Biology
 ---------------------
 
 **2021**
+
+LF Rizzardi, **PF Hickey**, A Idrizi, R Tryggvadottir, CM Callahan, KE Stephens, SD Taverna, H Zhang, S Ramazanoglu, GTEx Consortium, **KD Hansen**<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
+_Human brain region-specific variably methylated regions are enriched for heritability of distinct neuropsychiatric traits._  
+Genome Biology 2021, 22:116.  
+[DOI](https://doi.org/10.1186/s13059-021-02335-w) |
+[Readcube](https://rdcu.be/cjdaC) |
+[Preprint](https://doi.org/10.1101/2021.01.02.425010) |
+<span data-badge-type="4" data-doi="10.1186/s13059-021-02335-w" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+SK Maden, RF Thompson, **KD Hansen**<sup>&dagger;</sup>, A Nellore<sup>&dagger;</sup>.  
+_Human methylome variation across Infinium 450K data on the Gene Expression Omnibus._  
+NAR Genomics and Bioinformatics 2021, 3(2):lqab025.  
+[DOI](https://doi.org/10.1093/nargab/lqab025) |
+[Free version](https://academic.oup.com/nargab/article/doi/10.1093/nargab/lqab025/6246165?guestAccessKey=0a635af8-3946-4dff-a288-f20ae6290bc8) |
+[Preprint](https://doi.org/10.1101/2020.11.17.387548) |
+<span data-badge-type="4" data-doi="10.1093/nargab/lqab025" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 JJ Credle, ML Robinson, J Gunn, D Monaco, B Sie, A Tchir, J Hardick, X Zheng, K Shaw-Saliba, RE Rothman, SH Eshleman, A Pekosz, **KD Hansen**, H Mostafa, M Steinegger, HB Larman.  
 _Highly multiplexed oligonucleotide probe-ligation testing enables efficient extraction-free SARS-CoV-2 detection and viral genotyping._  
@@ -651,6 +656,18 @@ Leanpub, 2016.
 
 Published Preprints
 -------------------
+
+LF Rizzardi, **PF Hickey**, A Idrizi, R Tryggvadottir, CM Callahan, KE Stephens, SD Taverna, H Zhang, S Ramazanoglu, GTEx Consortium, **KD Hansen**<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
+_Human brain region-specific variably methylated regions (VMRs) are enriched for heritability of distinct neuropsychiatric traits._  
+bioRxiv 2021, 2021.01.02.425010.  
+[DOI](https://doi.org/10.1101/2021.01.02.425010) |
+<span data-badge-type="4" data-doi="10.1101/2021.01.02.425010" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+SK Maden, RF Thompson, **KD Hansen**, A Nellore.  
+_Human methylome variation across Infinium 450K data on the Gene Expression Omnibus._  
+bioRxiv 2020, 2020.11.17.387548.  
+[DOI](https://doi.org/10.1101/2020.11.17.387548) |
+<span data-badge-type="4" data-doi="10.1101/2020.11.17.387548" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 JJ Credle, ML Robinson, J Gunn, D Monaco, B Sie, A Tchir, J Hardick, X Zheng, K Shaw-Saliba, RE Rothman, SH Eshleman, A Pekosz, **KD Hansen**, H Mostafa, M Steinegger, HB Larman.  
 _Highly multiplexed oligonucleotide probe-ligation testing enables efficient extraction-free SARS-CoV-2 detection and viral genotyping._  
