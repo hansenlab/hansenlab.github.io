@@ -25,6 +25,7 @@ Current Preprints
 _Universal prediction of cell cycle position using transfer learning._  
 bioRxiv 2021, 2021.04.06.438463.  
 [DOI](https://doi.org/10.1101/2021.04.06.438463) |
+[Tweetorial](https://twitter.com/KasperDHansen/status/1380235534035992583?s=20) |
 [Tweetorial (LA Goff)](https://twitter.com/loyalgoff/status/1379806742167527427?s=20) |
 <span data-badge-type="4" data-doi="10.1101/2021.04.06.438463" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
@@ -73,6 +74,7 @@ Genome Biology 2021, 22:116.
 [DOI](https://doi.org/10.1186/s13059-021-02335-w) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/33888138) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8061076) |
+[Readcube](https://rdcu.be/cjdaC) |
 [Preprint](https://doi.org/10.1101/2021.01.02.425010) |
 <span data-badge-type="4" data-doi="10.1186/s13059-021-02335-w" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
@@ -82,6 +84,7 @@ NAR Genomics and Bioinformatics 2021, 3(2):lqab025.
 [DOI](https://doi.org/10.1093/nargab/lqab025) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/33937763) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8061458) |
+[Free version](https://academic.oup.com/nargab/article/doi/10.1093/nargab/lqab025/6246165?guestAccessKey=0a635af8-3946-4dff-a288-f20ae6290bc8) |
 [Preprint](https://doi.org/10.1101/2020.11.17.387548) |
 <span data-badge-type="4" data-doi="10.1093/nargab/lqab025" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 

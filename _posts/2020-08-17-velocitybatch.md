@@ -24,7 +24,7 @@ This opens the question of how to correct for this batch effect. In (differentia
 
 To address this, Charles Zheng came up with the following idea:
 
-1. Construct M = S + U, as well as R = S/U
+1. Construct M = S + U, as well as $R = S/(S+U)$. This means we have S = M*R and U = M*(1-R).
 2. Batch correct M, for example by using ComBat, to get a corrected matrix Mb (see extended comments below).
 3. Back transform into corrected matrices Sb, Ub by Sb = Mb * R, Ub = Mb * (1-R)
 
@@ -37,3 +37,6 @@ Furthermore, in our experience, Alevin exhibits less batch effects compared to K
 Doing this yields the bottom row of the figure, where the two phase plots are now on the same scale. 
 
 It's clear that this is not the last word on correcting for batch effects in RNA velocity, but we have found this to be a good start. Certainly better than doing nothing.
+
+Update (2021/4/14): fixed a typo in the definition of R from R=S/U (wrong) to R=S/(S+U) (correct). Thanks to Cal Gunnarson and Alex Ascension for pointing it out.
+
