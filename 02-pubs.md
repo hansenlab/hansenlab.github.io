@@ -20,7 +20,11 @@ Publication Repositories
 Current Preprints
 -----------------
 
-Test
+BK Johnson, **JP Fortin**, **KD Hansen**, H Shen<sup>&dagger;</sup>, T Triche Jr<sup>&dagger;</sup>.  
+_Compartmap enables inference of higher-order chromatin structure in individual cells from scRNA-seq and scATAC-seq._  
+bioRxiv 2021, 2021.05.17.444465.  
+[DOI](https://doi.org/10.1101/2021.05.17.444465) |
+<span data-badge-type="4" data-doi="10.1101/2021.05.17.444465" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 **SC Zheng**, G Stein-O'Brien, JJ Augustin, J Slosberg, GA Carosso, B Winer, G Shin, HT Bjornsson, LA Goff<sup>&dagger;</sup>, **KD Hansen**<sup>&dagger;</sup>.  
 _Universal prediction of cell cycle position using transfer learning._  
