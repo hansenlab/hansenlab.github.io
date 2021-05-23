@@ -7,7 +7,7 @@ permalink: "publications.html"
 {% include JB/setup %}
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-
+	
 Publication Repositories
 ------------------------
 
@@ -19,6 +19,12 @@ Publication Repositories
 
 Current Preprints
 -----------------
+
+C Wilks, **SC Zheng**, **FY Chen**, R Charles, B Solomon, JP Ling, EL Imada, D Zhang, L Joseph, LT Leek, AE Jaffe, A Nellore, L Collado-Torres, **KD Hansen<sup>&dagger;</sup>**, B Langmead<sup>&dagger;</sup>.  
+_recount3: summaries and queries for large-scale {RNA-seq} expression and splicing._  
+bioRxiv 2021, 2021.05.21.445138".  
+[DOI](https://doi.org/10.1101/2021.05.21.445138) |
+<span data-badge-type="4" data-doi="10.1101/2021.05.21.445138" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 BK Johnson, **JP Fortin**, **KD Hansen**, H Shen<sup>&dagger;</sup>, T Triche Jr<sup>&dagger;</sup>.  
 _Compartmap enables inference of higher-order chromatin structure in individual cells from scRNA-seq and scATAC-seq._  
