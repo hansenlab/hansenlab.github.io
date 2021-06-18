@@ -27,7 +27,7 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 &nbsp;&nbsp;&nbsp;Google Scholar: [Leandros Boukas](https://scholar.google.com/citations?user=lOJ4aQEAAAAJ&hl=en&oi=ao)
 <br><br><br><br>
 
-<img alt="Charles Zheng" align="left" src="media/people/czheng.png" width="200" height="200"/>
+<img alt="Charles Zheng" align="left" src="media/people/czheng.jpg" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Shijie (Charles) Zheng  
 &nbsp;&nbsp;&nbsp;Postdoctoral Fellow in  Biostatistics  
 &nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)  
@@ -37,7 +37,7 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 &nbsp;&nbsp;&nbsp;Google Scholar: [Shijie C. Zheng](https://scholar.google.com/citations?user=tpStkPAAAAAJ&hl=en&oi=ao)  
 <br><br><br>
 
-<img alt="Yi Wang" align="left" src="media/people/yiwang.png">
+<img alt="Yi Wang" align="left" src="media/people/yiwang.jpg">
 &nbsp;&nbsp;&nbsp;Yi Wang  
 &nbsp;&nbsp;&nbsp;Graduate Student in Biostatistics  
 &nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)  
@@ -48,7 +48,7 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 
 ### Support staff
 
-<img alt="Jeffrey" align="left" src="media/people/jeffrey.png" width="200" height="200"/>
+<img alt="Jeffrey" align="left" src="media/people/jeffrey.jpg" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;<b>Lab Manny:</b> Jeffrey L.  
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<b>Responsibility</b>: During the summer months, Jeffrey is responsible for  
@@ -106,7 +106,7 @@ GitHub: [Jfortin1](https://github.com/Jfortin1)
 
 ### Previous Visitors
 
-<img alt="Charles Zheng" align="left" src="media/people/czheng.png" width="200" height="200"/>
+<img alt="Charles Zheng" align="left" src="media/people/czheng.jpg" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Shijie (Charles) Zheng  
 &nbsp;&nbsp;&nbsp;Visiting Scholar at Biostatistics  
 <br>
