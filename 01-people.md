@@ -44,23 +44,23 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 &nbsp;&nbsp;&nbsp;Johns Hopkins University  
 <br>
 &nbsp;&nbsp;&nbsp;GitHub: [yiwang12](https://github.com/yiwang12)  
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <img alt="Afrooz Razi" align="left" src="media/people/arazi.jpg" width="200">
 &nbsp;&nbsp;&nbsp;Afrooz Razi  
 &nbsp;&nbsp;&nbsp;Graduate Student in Human Genetics  
 &nbsp;&nbsp;&nbsp;[Department of Genetic Medine](https://www.hopkinsmedicine.org/institute-genetic-medicine/)  
 &nbsp;&nbsp;&nbsp;Johns Hopkins University  
-<br>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <img alt="Leon Di Stefano" align="left" src="media/people/ldistefano.jpg" width="200">
 &nbsp;&nbsp;&nbsp;Leon Di Stefano  
 &nbsp;&nbsp;&nbsp;Graduate Student in Biostatistics  
 &nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)  
 &nbsp;&nbsp;&nbsp;Johns Hopkins University  
-<br>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
+
+<br><br><br>
 
 
 ### Support staff
