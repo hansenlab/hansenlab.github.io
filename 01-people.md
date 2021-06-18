@@ -17,7 +17,7 @@ permalink: "people.html"
 GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)  
 &nbsp;&nbsp;&nbsp;[Contact](index.html) | [CV](files/hansen_cv.pdf)  
 
-<img alt="Leandros Boukas" align="left" src="media/people/lboukas.png" width="200" height="200"/>
+<img alt="Leandros Boukas" align="left" src="media/people/lboukas.jpg" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Leandros Boukas  
 &nbsp;&nbsp;&nbsp;Postdoctoral Fellow in Biostatistics  
 &nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)  
@@ -45,6 +45,23 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 <br>
 &nbsp;&nbsp;&nbsp;GitHub: [yiwang12](https://github.com/yiwang12)  
 <br><br><br><br><br><br><br><br>
+
+<img alt="Afrooz Razi" align="left" src="media/people/arazi.jpg">
+&nbsp;&nbsp;&nbsp;Afrooz Razi  
+&nbsp;&nbsp;&nbsp;Graduate Student in Human Genetics  
+&nbsp;&nbsp;&nbsp;[Department of Genetic Medine](https://www.hopkinsmedicine.org/institute-genetic-medicine/)  
+&nbsp;&nbsp;&nbsp;Johns Hopkins University  
+<br>
+<br><br><br><br><br><br><br><br>
+
+<img alt="Leon Di Stefano" align="left" src="media/people/ldistefano.jpg">
+&nbsp;&nbsp;&nbsp;Leon Di Stefano  
+&nbsp;&nbsp;&nbsp;Graduate Student in Biostatistics  
+&nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)  
+&nbsp;&nbsp;&nbsp;Johns Hopkins University  
+<br>
+<br><br><br><br><br><br><br><br><br>
+
 
 ### Support staff
 
@@ -93,7 +110,7 @@ GitHub: [PeteHaitch](https://github.com/PeteHaitch)
 &nbsp;&nbsp;&nbsp;[Personal Webpage](https://lmyint.github.io/)__
 <br><br><br><br><br><br><br><br>
 
-<img alt="Jean-Philippe Fortin" align="left" src="media/people/fortin.png" width="200" height="200"/>
+<img alt="Jean-Philippe Fortin" align="left" src="media/people/fortin.jpg" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Jean-Philippe Fortin  
 &nbsp;&nbsp;&nbsp;Was: Graduate Student in Biostatistics  
 &nbsp;&nbsp;&nbsp;Time in lab: 2012-2016  
