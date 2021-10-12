@@ -46,13 +46,6 @@ bioRxiv 2021, 2021.03.05.433992.
 [DOI](https://doi.org/10.1101/2021.03.05.433992) |
 <span data-badge-type="4" data-doi="10.1101/2021.03.05.433992" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-TR Luperchio<sup>&lowast;</sup>, **L Boukas**<sup>&lowast;</sup>, L Zhang, GO Pilarowski, J Jiang, A Kalinousky, **KD Hansen**<sup>&dagger;</sup>, HT Bjornsson<sup>&dagger;</sup>.  
-_Leveraging the Mendelian Disorders of the Epigenetic Machinery to Systematically Map Functional Epigenetic Variation._  
-bioRxiv 2020, 2020.11.08.373456.  
-[DOI](https://doi.org/10.1101/2020.11.08.373456) |
-[Tweetorial](https://twitter.com/KasperDHansen/status/1326157533631963136?s=20) |
-<span data-badge-type="4" data-doi="10.1101/2020.11.08.373456" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
 **L Boukas**, HT Bjornsson<sup>&dagger;</sup>, **KD Hansen**<sup>&dagger;</sup>.  
 _Purifying selection acts on germline methylation to modify the CpG mutation rate at promoters._  
 bioRxiv 2020, 2020.07.04.187880.  
@@ -78,6 +71,14 @@ Computational Biology
 ---------------------
 
 **2021**
+
+TR Luperchio<sup>&lowast;</sup>, **L Boukas**<sup>&lowast;</sup>, L Zhang, GO Pilarowski, J Jiang, A Kalinousky, **KD Hansen**<sup>&dagger;</sup>, HT Bjornsson<sup>&dagger;</sup>.  
+_Leveraging the Mendelian disorders of the epigenetic machinery to systematically map functional epigenetic variation._  
+eLife 2021;10:e65884.  
+[DOI](https://doi.org/10.7554/eLife.65884) | 
+[Tweetorial](https://twitter.com/KasperDHansen/status/1326157533631963136?s=20) |
+[Preprint](https://doi.org/10.1101/2020.11.08.373456) | 
+<span data-badge-type="4" data-doi="10.7554/eLife.65884" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 LF Rizzardi, **PF Hickey**, A Idrizi, R Tryggvadottir, CM Callahan, KE Stephens, SD Taverna, H Zhang, S Ramazanoglu, GTEx Consortium, **KD Hansen**<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
 _Human brain region-specific variably methylated regions are enriched for heritability of distinct neuropsychiatric traits._  
@@ -670,6 +671,13 @@ Leanpub, 2016.
 
 Published Preprints
 -------------------
+
+TR Luperchio<sup>&lowast;</sup>, **L Boukas**<sup>&lowast;</sup>, L Zhang, GO Pilarowski, J Jiang, A Kalinousky, **KD Hansen**<sup>&dagger;</sup>, HT Bjornsson<sup>&dagger;</sup>.  
+_Leveraging the Mendelian Disorders of the Epigenetic Machinery to Systematically Map Functional Epigenetic Variation._  
+bioRxiv 2020, 2020.11.08.373456.  
+[DOI](https://doi.org/10.1101/2020.11.08.373456) |
+[Tweetorial](https://twitter.com/KasperDHansen/status/1326157533631963136?s=20) |
+<span data-badge-type="4" data-doi="10.1101/2020.11.08.373456" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 SK Maden, RF Thompson, **KD Hansen**, A Nellore.  
 _Human methylome variation across Infinium 450K data on the Gene Expression Omnibus._  
