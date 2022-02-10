@@ -20,25 +20,11 @@ Publication Repositories
 Current Preprints
 -----------------
 
-C Wilks, **SC Zheng**, **FY Chen**, R Charles, B Solomon, JP Ling, EL Imada, D Zhang, L Joseph, LT Leek, AE Jaffe, A Nellore, L Collado-Torres, **KD Hansen<sup>&dagger;</sup>**, B Langmead<sup>&dagger;</sup>.  
-_recount3: summaries and queries for large-scale {RNA-seq} expression and splicing._  
-bioRxiv 2021, 2021.05.21.445138".  
-[DOI](https://doi.org/10.1101/2021.05.21.445138) |
-<span data-badge-type="4" data-doi="10.1101/2021.05.21.445138" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
 BK Johnson, **JP Fortin**, **KD Hansen**, H Shen<sup>&dagger;</sup>, T Triche Jr<sup>&dagger;</sup>.  
 _Compartmap enables inference of higher-order chromatin structure in individual cells from scRNA-seq and scATAC-seq._  
 bioRxiv 2021, 2021.05.17.444465.  
 [DOI](https://doi.org/10.1101/2021.05.17.444465) |
 <span data-badge-type="4" data-doi="10.1101/2021.05.17.444465" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-**SC Zheng**, G Stein-O'Brien, JJ Augustin, J Slosberg, GA Carosso, B Winer, G Shin, HT Bjornsson, LA Goff<sup>&dagger;</sup>, **KD Hansen**<sup>&dagger;</sup>.  
-_Universal prediction of cell cycle position using transfer learning._  
-bioRxiv 2021, 2021.04.06.438463.  
-[DOI](https://doi.org/10.1101/2021.04.06.438463) |
-[Tweetorial](https://twitter.com/KasperDHansen/status/1380235534035992583?s=20) |
-[Tweetorial (LA Goff)](https://twitter.com/loyalgoff/status/1379806742167527427?s=20) |
-<span data-badge-type="4" data-doi="10.1101/2021.04.06.438463" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 C Ladd-Acosta<sup>&lowast;</sup>, SV Andrews<sup>&lowast;</sup>, KM Bakulski, JI Feinberg, R Tryggvadottir, R Yao, LA Croen, I Hertz-Picciotto, CJ Newschaffer, CM Salafia, AP Feinberg, **KD Hansen**, MD Fallin.  
 _Placenta DNA methylation at ZNF300 is associated with fetal sex and placental morphology._  
@@ -70,12 +56,44 @@ bioRxiv 2020, 214361.
 Computational Biology
 ---------------------
 
+**2022**
+
+**SC Zheng**, G Stein-O'Brien, JJ Augustin, J Slosberg, GA Carosso, B Winer, G Shin, HT Bjornsson, LA Goff<sup>&dagger;</sup>, **KD Hansen**<sup>&dagger;</sup>.  
+_Universal prediction of cell cycle position using transfer learning._  
+Genome Biology 2022, 23:41.  
+[DOI](https://doi.org/10.1186/s13059-021-02581-y) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/35101061) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8802487) |
+[Preprint](https://doi.org/10.1101/2021.05.21.445138) |
+[Tweetorial](https://twitter.com/KasperDHansen/status/1380235534035992583?s=20) |
+[Tweetorial (LA Goff)](https://twitter.com/loyalgoff/status/1379806742167527427?s=20) |
+<span data-badge-type="4" data-doi="10.1186/s13059-021-02581-y" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+JR Hu, L Myint, AS Levery, J Coresh, LA Inker, ME Grams, E Guallar, **KD Hansen**, EP Rhee, T Shafi.  
+_A metabolomics approach identified toxins associated with uremic symptoms in  advanced chronic kidney disease._  
+Kidney International 2022, 201(2):369-378.  
+[DOI](https://doi.org/10.1186/10.1016/j.kint.2021.10.035) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/34843755) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8792216) |
+<span data-badge-type="4" data-doi="10.1016/j.kint.2021.10.035" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 **2021**
+
+C Wilks, **SC Zheng**, **FY Chen**, R Charles, B Solomon, JP Ling, EL Imada, D Zhang, L Joseph, LT Leek, AE Jaffe, A Nellore, L Collado-Torres, **KD Hansen<sup>&dagger;</sup>**, B Langmead<sup>&dagger;</sup>.  
+_recount3: summaries and queries for large-scale RNA-seq expression and splicing._  
+Genome Biology 2022, 22:323.  
+[DOI](https://doi.org/10.1186/s13059-021-02533-6) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/34844637) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8628444) |
+[Preprint](https://doi.org/10.1101/2021.05.21.445138) |
+<span data-badge-type="4" data-doi="10.1186/s13059-021-02533-6" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 TR Luperchio<sup>&lowast;</sup>, **L Boukas**<sup>&lowast;</sup>, L Zhang, GO Pilarowski, J Jiang, A Kalinousky, **KD Hansen**<sup>&dagger;</sup>, HT Bjornsson<sup>&dagger;</sup>.  
 _Leveraging the Mendelian disorders of the epigenetic machinery to systematically map functional epigenetic variation._  
 eLife 2021;10:e65884.  
 [DOI](https://doi.org/10.7554/eLife.65884) | 
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/34463256) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8443249) |
 [Tweetorial](https://twitter.com/KasperDHansen/status/1326157533631963136?s=20) |
 [Preprint](https://doi.org/10.1101/2020.11.08.373456) | 
 <span data-badge-type="4" data-doi="10.7554/eLife.65884" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
@@ -671,6 +689,20 @@ Leanpub, 2016.
 
 Published Preprints
 -------------------
+
+**SC Zheng**, G Stein-O'Brien, JJ Augustin, J Slosberg, GA Carosso, B Winer, G Shin, HT Bjornsson, LA Goff<sup>&dagger;</sup>, **KD Hansen**<sup>&dagger;</sup>.  
+_Universal prediction of cell cycle position using transfer learning._  
+bioRxiv 2021, 2021.04.06.438463.  
+[DOI](https://doi.org/10.1101/2021.04.06.438463) |
+[Tweetorial](https://twitter.com/KasperDHansen/status/1380235534035992583?s=20) |
+[Tweetorial (LA Goff)](https://twitter.com/loyalgoff/status/1379806742167527427?s=20) |
+<span data-badge-type="4" data-doi="10.1101/2021.04.06.438463" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+C Wilks, **SC Zheng**, **FY Chen**, R Charles, B Solomon, JP Ling, EL Imada, D Zhang, L Joseph, LT Leek, AE Jaffe, A Nellore, L Collado-Torres, **KD Hansen<sup>&dagger;</sup>**, B Langmead<sup>&dagger;</sup>.  
+_recount3: summaries and queries for large-scale RNA-seq expression and splicing._  
+bioRxiv 2021, 2021.05.21.445138".  
+[DOI](https://doi.org/10.1101/2021.05.21.445138) |
+<span data-badge-type="4" data-doi="10.1101/2021.05.21.445138" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 TR Luperchio<sup>&lowast;</sup>, **L Boukas**<sup>&lowast;</sup>, L Zhang, GO Pilarowski, J Jiang, A Kalinousky, **KD Hansen**<sup>&dagger;</sup>, HT Bjornsson<sup>&dagger;</sup>.  
 _Leveraging the Mendelian Disorders of the Epigenetic Machinery to Systematically Map Functional Epigenetic Variation._  
