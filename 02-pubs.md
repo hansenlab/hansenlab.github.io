@@ -39,13 +39,6 @@ bioRxiv 2020, 2020.07.04.187880.
 [Tweetorial](https://twitter.com/KasperDHansen/status/1279981186400616449?s=20) |
 <span data-badge-type="4" data-doi="10.1101/2020.07.04.187880" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
-**Y Wang**, SC Hicks, **KD Hansen**.  
-_Co-expression analysis is biased by a mean-correlation relationship._  
-bioRxiv 2020, 2020.02.13.944777.  
-[DOI](https://doi.org/10.1101/2020.02.13.944777) |
-[Tweetorial](https://twitter.com/KasperDHansen/status/1228157664854781952?s=20) |
-<span data-badge-type="4" data-doi="10.1101/2020.02.13.944777" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
 **K Fletez-Brant**, Y Qiu, DU Gorkin, M Hu, **KD Hansen**.  
 _Removing unwanted variation between samples in Hi-C experiments._  
 bioRxiv 2020, 214361.  
@@ -57,6 +50,15 @@ Computational Biology
 ---------------------
 
 **2022**
+
+**Y Wang**, SC Hicks, **KD Hansen**.  
+_Addressing the mean-correlation relationship in co-expression analysis._  
+PLOS Comp Bio 2022, 18(3):e1009954.  
+[DOI](https://doi.org/10.1371/journal.pcbi.1009954) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/35353807) |
+[Preprint](https://doi.org/10.1101/2020.02.13.944777) |
+[Tweetorial](https://twitter.com/KasperDHansen/status/1228157664854781952?s=20) |
+<span data-badge-type="4" data-doi="10.1371/journal.pcbi.1009954" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 **SC Zheng**, G Stein-O'Brien, JJ Augustin, J Slosberg, GA Carosso, B Winer, G Shin, HT Bjornsson, LA Goff<sup>&dagger;</sup>, **KD Hansen**<sup>&dagger;</sup>.  
 _Universal prediction of cell cycle position using transfer learning._  
@@ -689,6 +691,13 @@ Leanpub, 2016.
 
 Published Preprints
 -------------------
+
+**Y Wang**, SC Hicks, **KD Hansen**.  
+_Co-expression analysis is biased by a mean-correlation relationship._  
+bioRxiv 2020, 2020.02.13.944777.  
+[DOI](https://doi.org/10.1101/2020.02.13.944777) |
+[Tweetorial](https://twitter.com/KasperDHansen/status/1228157664854781952?s=20) |
+<span data-badge-type="4" data-doi="10.1101/2020.02.13.944777" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 **SC Zheng**, G Stein-O'Brien, JJ Augustin, J Slosberg, GA Carosso, B Winer, G Shin, HT Bjornsson, LA Goff<sup>&dagger;</sup>, **KD Hansen**<sup>&dagger;</sup>.  
 _Universal prediction of cell cycle position using transfer learning._  
