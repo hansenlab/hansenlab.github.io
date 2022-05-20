@@ -20,6 +20,13 @@ Publication Repositories
 Current Preprints
 -----------------
 
+LM Weber, A Saha, A Datta, **KD Hansen**, SC Hicks.  
+_nnSVG}: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes._  
+bioRxiv 2022, 2022.05.16.492124.  
+[DOI](https://doi.org/10.1101/2022.05.16.492124) |
+[Tweetorial (Weber)](https://twitter.com/lmwebr/status/1527038697861877761) |
+<span data-badge-type="4" data-doi="10.1101/2022.05.16.492124" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 BK Johnson, **JP Fortin**, **KD Hansen**, H Shen<sup>&dagger;</sup>, T Triche Jr<sup>&dagger;</sup>.  
 _Compartmap enables inference of higher-order chromatin structure in individual cells from scRNA-seq and scATAC-seq._  
 bioRxiv 2021, 2021.05.17.444465.  
