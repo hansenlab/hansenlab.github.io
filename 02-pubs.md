@@ -21,7 +21,7 @@ Current Preprints
 -----------------
 
 LM Weber, A Saha, A Datta, **KD Hansen**, SC Hicks.  
-_nnSVG}: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes._  
+_nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes._  
 bioRxiv 2022, 2022.05.16.492124.  
 [DOI](https://doi.org/10.1101/2022.05.16.492124) |
 [Tweetorial (Weber)](https://twitter.com/lmwebr/status/1527038697861877761) |
