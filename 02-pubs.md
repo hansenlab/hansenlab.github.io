@@ -20,6 +20,18 @@ Publication Repositories
 Current Preprints
 -----------------
 
+A Kuo, **KD Hansen**, SC Hicks.  
+_Quantification and statistical modeling of {Chromium}-based single-nucleus RNA-sequencing data._  
+bioRxiv 2022, 2022.05.20.492835.  
+[DOI](https://doi.org/10.1101/2022.05.20.492835) |
+<span data-badge-type="4" data-doi="10.1101/2022.05.20.492835" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+SK Maden, B Walsh, K Ellrott, **KD Hansen**, R Thompson, A Nellore.
+_recountmethylation enables flexible analysis of public blood DNA methylation array data._  
+bioRxiv 2022, 2022.05.19.492680.  
+[DOI](https://doi.org/10.1101/2022.05.19.492680) |
+<span data-badge-type="4" data-doi="10.1101/2022.05.19.492680" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 LM Weber, A Saha, A Datta, **KD Hansen**, SC Hicks.  
 _nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes._  
 bioRxiv 2022, 2022.05.16.492124.  
@@ -73,7 +85,7 @@ Genome Biology 2022, 23:41.
 [DOI](https://doi.org/10.1186/s13059-021-02581-y) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/35101061) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8802487) |
-[Preprint](https://doi.org/10.1101/2021.05.21.445138) |
+[Preprint](https://doi.org/10.1101/2021.04.06.438463) | 
 [Tweetorial](https://twitter.com/KasperDHansen/status/1380235534035992583?s=20) |
 [Tweetorial (LA Goff)](https://twitter.com/loyalgoff/status/1379806742167527427?s=20) |
 <span data-badge-type="4" data-doi="10.1186/s13059-021-02581-y" data-hide-no-mentions="true" class="altmetric-embed"> </span>
