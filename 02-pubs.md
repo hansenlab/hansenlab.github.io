@@ -20,6 +20,12 @@ Publication Repositories
 Current Preprints
 -----------------
 
+**SC Zheng**, G Stein-O'Brien, **L Boukas**, LA Goff<sup>&dagger;</sup>,  **KD Hansen**<sup>&dagger;</sup>.  
+_Pumping the brakes on RNA velocity - understanding and interpreting RNA velocity estimates._  
+bioRxiv 2022, 2022.06.19.494717.  
+[DOI](https://doi.org/10.1101/2022.06.19.494717) |
+<span data-badge-type="4" data-doi="10.1101/2022.06.19.494717" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 A Kuo, **KD Hansen**, SC Hicks.  
 _Quantification and statistical modeling of {Chromium}-based single-nucleus RNA-sequencing data._  
 bioRxiv 2022, 2022.05.20.492835.  
