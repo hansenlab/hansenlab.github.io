@@ -27,12 +27,12 @@ bioRxiv 2022, 2022.06.19.494717.
 <span data-badge-type="4" data-doi="10.1101/2022.06.19.494717" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 A Kuo, **KD Hansen**, SC Hicks.  
-_Quantification and statistical modeling of {Chromium}-based single-nucleus RNA-sequencing data._  
+_Quantification and statistical modeling of Chromium-based single-nucleus RNA-sequencing data._  
 bioRxiv 2022, 2022.05.20.492835.  
 [DOI](https://doi.org/10.1101/2022.05.20.492835) |
 <span data-badge-type="4" data-doi="10.1101/2022.05.20.492835" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-SK Maden, B Walsh, K Ellrott, **KD Hansen**, R Thompson, A Nellore.
+SK Maden, B Walsh, K Ellrott, **KD Hansen**, R Thompson, A Nellore.  
 _recountmethylation enables flexible analysis of public blood DNA methylation array data._  
 bioRxiv 2022, 2022.05.19.492680.  
 [DOI](https://doi.org/10.1101/2022.05.19.492680) |
@@ -96,7 +96,7 @@ Genome Biology 2022, 23:41.
 [Tweetorial (LA Goff)](https://twitter.com/loyalgoff/status/1379806742167527427?s=20) |
 <span data-badge-type="4" data-doi="10.1186/s13059-021-02581-y" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-A Arneson, A Haghani, MJ Thompson, M Pellegrini, SO Kwon, H Vu, E Maciejewski, M Yao, CZ Li, AT Lu, M Morselli, L Rubbi, B Barnes, **KD Hansen, W Zhou, CE Breeze, J Ernst, S Horvath.  
+A Arneson, A Haghani, MJ Thompson, M Pellegrini, SO Kwon, H Vu, E Maciejewski, M Yao, CZ Li, AT Lu, M Morselli, L Rubbi, B Barnes, **KD Hansen**, W Zhou, CE Breeze, J Ernst, S Horvath.  
 _A mammalian methylation array for profiling methylation levels at conserved sequences._  
 Nature Communications 2022, 13(1):783.
 [DOI](https://doi.org/10.1038/s41467-022-28355-z) |
