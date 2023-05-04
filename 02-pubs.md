@@ -62,6 +62,8 @@ bioRxiv 2020, 214361.
 Computational Biology
 ---------------------
 
+**2023**
+
 A Morin<sup>&lowast;</sup>, EE Thompson<sup>&lowast;</sup>, BA Helling<sup>&lowast;</sup>, LE Shorey-Kendrick, P Faber, Pieter, T Gebretsadik, LB Bacharier, M Kattan, GT O'Connor, K Rivera-Spoljaric, RA Wood,  KC Barnes, RA Mathias, MC Altman, **KD Hansen**, CT McEvoy, ER Spindel, T Hartert, DJ Jackson, JE Gern, CG McKennan<sup>&dagger;</sup>, C Ober<sup>&dagger;</sup>, Program collaborators for Environmental Influences on Child Outcomes and Children's Respiratory and Environmental Workgroup.  
 _A functional genomics pipeline to identify high-value asthma and allergy CpGs in the human methylome._  
 The Journal of Allergy and Clinical Immunology, 2023 In press.  
