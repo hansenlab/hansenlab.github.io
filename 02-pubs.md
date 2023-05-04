@@ -26,18 +26,6 @@ bioRxiv 2022, 2022.06.19.494717.
 [DOI](https://doi.org/10.1101/2022.06.19.494717) |
 <span data-badge-type="4" data-doi="10.1101/2022.06.19.494717" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-A Kuo, **KD Hansen**, SC Hicks.  
-_Quantification and statistical modeling of Chromium-based single-nucleus RNA-sequencing data._  
-bioRxiv 2022, 2022.05.20.492835.  
-[DOI](https://doi.org/10.1101/2022.05.20.492835) |
-<span data-badge-type="4" data-doi="10.1101/2022.05.20.492835" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-SK Maden, B Walsh, K Ellrott, **KD Hansen**, R Thompson, A Nellore.  
-_recountmethylation enables flexible analysis of public blood DNA methylation array data._  
-bioRxiv 2022, 2022.05.19.492680.  
-[DOI](https://doi.org/10.1101/2022.05.19.492680) |
-<span data-badge-type="4" data-doi="10.1101/2022.05.19.492680" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
 LM Weber, A Saha, A Datta, **KD Hansen**, SC Hicks.  
 _nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes._  
 bioRxiv 2022, 2022.05.16.492124.  
@@ -74,6 +62,30 @@ bioRxiv 2020, 214361.
 Computational Biology
 ---------------------
 
+A Morin<sup>&lowast;</sup>, EE Thompson<sup>&lowast;</sup>, BA Helling<sup>&lowast;</sup>, LE Shorey-Kendrick, P Faber, Pieter, T Gebretsadik, LB Bacharier, M Kattan, GT O'Connor, K Rivera-Spoljaric, RA Wood,  KC Barnes, RA Mathias, MC Altman, **KD Hansen**, CT McEvoy, ER Spindel, T Hartert, DJ Jackson, JE Gern, CG McKennan<sup>&dagger;</sup>, C Ober<sup>&dagger;</sup>, Program collaborators for Environmental Influences on Child Outcomes and Children's Respiratory and Environmental Workgroup.  
+_A functional genomics pipeline to identify high-value asthma and allergy CpGs in the human methylome._  
+The Journal of Allergy and Clinical Immunology, 2023 In press.  
+[DOI](https://doi.org/10.1016/j.jaci.2022.12.828) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/36754293) |
+[Preprint](https://doi.org/10.1101/2022.05.19.22275204) | 
+<span data-badge-type="4" data-doi="10.1016/j.jaci.2022.12.828" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+A Kuo, **KD Hansen**, SC Hicks.  
+_Quantification and statistical modeling of Chromium-based single-nucleus RNA-sequencing data._  
+Biostatistics 2023, In press.  
+[DOI](https://doi.org/10.1101/2022.05.20.492835) |
+[Preprint](https://doi.org/10.1101/2022.05.20.492835) | 
+<span data-badge-type="4" data-doi="10.1101/2022.05.20.492835" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+SK Maden, B Walsh, K Ellrott, **KD Hansen**, R Thompson, A Nellore.  
+_recountmethylation enables flexible analysis of public blood DNA methylation array data._  
+Bioinformatics Advances 2023, 3:vbad020.  
+[DOI](https://doi.org/10.1093/bioadv/vbad020) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/36874953) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9976962) |
+[Preprint](https://doi.org/10.1101/2022.05.19.492680) | 
+<span data-badge-type="4" data-doi="10.1093/bioadv/vbad020" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 **2022**
 
 **Y Wang**, SC Hicks, **KD Hansen**.  
@@ -81,6 +93,7 @@ _Addressing the mean-correlation relationship in co-expression analysis._
 PLOS Comp Bio 2022, 18(3):e1009954.  
 [DOI](https://doi.org/10.1371/journal.pcbi.1009954) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/35353807) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9009771) |
 [Preprint](https://doi.org/10.1101/2020.02.13.944777) |
 [Tweetorial](https://twitter.com/KasperDHansen/status/1228157664854781952?s=20) |
 <span data-badge-type="4" data-doi="10.1371/journal.pcbi.1009954" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
@@ -724,6 +737,19 @@ Leanpub, 2016.
 
 Published Preprints
 -------------------
+
+A Kuo, **KD Hansen**, SC Hicks.  
+_Quantification and statistical modeling of Chromium-based single-nucleus RNA-sequencing data._  
+bioRxiv 2022, 2022.05.20.492835.  
+[DOI](https://doi.org/10.1101/2022.05.20.492835) |
+<span data-badge-type="4" data-doi="10.1101/2022.05.20.492835" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+SK Maden, B Walsh, K Ellrott, **KD Hansen**, R Thompson, A Nellore.  
+_recountmethylation enables flexible analysis of public blood DNA methylation array data._  
+bioRxiv 2022, 2022.05.19.492680.  
+[DOI](https://doi.org/10.1101/2022.05.19.492680) |
+<span data-badge-type="4" data-doi="10.1101/2022.05.19.492680" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 
 **Y Wang**, SC Hicks, **KD Hansen**.  
 _Co-expression analysis is biased by a mean-correlation relationship._  
