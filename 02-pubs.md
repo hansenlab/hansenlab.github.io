@@ -73,7 +73,6 @@ The Journal of Allergy and Clinical Immunology, 2023 In press.
 A Kuo, **KD Hansen**, SC Hicks.  
 _Quantification and statistical modeling of Chromium-based single-nucleus RNA-sequencing data._  
 Biostatistics 2023, In press.  
-[DOI](https://doi.org/10.1101/2022.05.20.492835) |
 [Preprint](https://doi.org/10.1101/2022.05.20.492835) | 
 <span data-badge-type="4" data-doi="10.1101/2022.05.20.492835" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
