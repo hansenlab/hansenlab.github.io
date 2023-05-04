@@ -111,7 +111,7 @@ Genome Biology 2022, 23:41.
 
 A Arneson, A Haghani, MJ Thompson, M Pellegrini, SO Kwon, H Vu, E Maciejewski, M Yao, CZ Li, AT Lu, M Morselli, L Rubbi, B Barnes, **KD Hansen**, W Zhou, CE Breeze, J Ernst, S Horvath.  
 _A mammalian methylation array for profiling methylation levels at conserved sequences._  
-Nature Communications 2022, 13(1):783.
+Nature Communications 2022, 13(1):783.  
 [DOI](https://doi.org/10.1038/s41467-022-28355-z) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/35145108) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8831611) |
@@ -120,7 +120,7 @@ Nature Communications 2022, 13(1):783.
 JR Hu, L Myint, AS Levery, J Coresh, LA Inker, ME Grams, E Guallar, **KD Hansen**, EP Rhee, T Shafi.  
 _A metabolomics approach identified toxins associated with uremic symptoms in  advanced chronic kidney disease._  
 Kidney International 2022, 201(2):369-378.  
-[DOI](https://doi.org/10.1186/10.1016/j.kint.2021.10.035) |
+[DOI](https://doi.org/10.1016/j.kint.2021.10.035) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/34843755) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8792216) |
 <span data-badge-type="4" data-doi="10.1016/j.kint.2021.10.035" data-hide-no-mentions="true" class="altmetric-embed"> </span>
