@@ -76,7 +76,9 @@ A Kuo, **KD Hansen**, SC Hicks.
 _Quantification and statistical modeling of Chromium-based single-nucleus RNA-sequencing data._  
 Biostatistics 2023, In press.  
 [Preprint](https://doi.org/10.1101/2022.05.20.492835) | 
-<span data-badge-type="4" data-doi="10.1101/2022.05.20.492835" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+[DOI](https://doi.org/10.1093/biostatistics/kxad010) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/37257175) |
+<span data-badge-type="4" data-doi="10.1093/biostatistics/kxad010" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 SK Maden, B Walsh, K Ellrott, **KD Hansen**, R Thompson, A Nellore.  
 _recountmethylation enables flexible analysis of public blood DNA methylation array data._  
