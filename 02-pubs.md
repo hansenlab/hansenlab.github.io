@@ -17,21 +17,40 @@ Publication Repositories
 [Europe PMC Citations](http://europepmc.org/authors/0000-0003-0086-0687) |
 [Impactstory](https://impactstory.org/u/0000-0003-0086-0687)
 
+
 Current Preprints
 -----------------
+
+
+**L Boukas**<sup>&lowast;</sup>, TR Luperchio<sup>&lowast;</sup>, **A Razi**, **KD Hansen**<sup>&dagger;</sup>, HT Bjornsson<sup>&dagger;</sup>.  
+_Neuron-specific chromatin disruption at CpG islands and aging-related regions in Kabuki syndrome mice._  
+bioRxiv 2023, 2023.08.01.551456.  
+[DOI](https://doi.org/10.1101/2023.08.01.551456) | 
+<span data-badge-type="4" data-doi="10.1101/2023.08.01.551456" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+CW Gao<sup>&lowast;</sup>, WY Lin<sup>&lowast;</sup>, RC Riddle, P Kushwaha, **L Boukas**, HT Bjornsson, **KD Hansen**, JA Fahrner.  
+_Novel mouse model of Weaver syndrome displays overgrowth and excess osteogenesis reversible with KDM6A/6B inhibition._  
+bioRxiv 2023, 2023.06.23.546270.  
+[DOI](https://doi.org/10.1101/2023.06.23.546270) |
+<span data-badge-type="4" data-doi="10.1101/2023.06.23.546270" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+T Kayikcioglu<sup>&lowast;</sup>, JS Zarb<sup>&lowast;</sup>, S Mohapatra, CT Lin, JA London, **KD Hansen**, R Fishel, T Ha.  
+_Massively parallel single molecule tracking of sequence-dependent DNA mismatch repair in vivo._  
+bioRxiv 2023, 2023.01.08.523062.  
+[DOI](https://doi.org/10.1101/2023.01.08.523062) |
+<span data-badge-type="4" data-doi="10.1101/2023.01.08.523062" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+P Wulfridge<sup>&lowast;</sup>, A Davidovich<sup>&lowast;</sup>, AC Salvador<sup>&lowast;</sup>, GC Manno, R Tryggvadottir, A Idrizi, MN Huda, BJ Bennett, LG Adams, **KD Hansen**<sup>&dagger;</sup>, DW Threadgill<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
+_Precision pharmacological reversal of genotype-specific diet-induced metabolic syndrome in mice informed by transcriptional regulation._  
+bioRxiv 2023, 2023.04.25.538156.  
+[DOI](https://doi.org/10.1101/2023.04.25.538156) |
+<span data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 **SC Zheng**, G Stein-O'Brien, **L Boukas**, LA Goff<sup>&dagger;</sup>,  **KD Hansen**<sup>&dagger;</sup>.  
 _Pumping the brakes on RNA velocity - understanding and interpreting RNA velocity estimates._  
 bioRxiv 2022, 2022.06.19.494717.  
 [DOI](https://doi.org/10.1101/2022.06.19.494717) |
 <span data-badge-type="4" data-doi="10.1101/2022.06.19.494717" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-LM Weber, A Saha, A Datta, **KD Hansen**, SC Hicks.  
-_nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes._  
-bioRxiv 2022, 2022.05.16.492124.  
-[DOI](https://doi.org/10.1101/2022.05.16.492124) |
-[Tweetorial (Weber)](https://twitter.com/lmwebr/status/1527038697861877761) |
-<span data-badge-type="4" data-doi="10.1101/2022.05.16.492124" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 BK Johnson, **JP Fortin**, **KD Hansen**, H Shen<sup>&dagger;</sup>, T Triche Jr<sup>&dagger;</sup>.  
 _Compartmap enables inference of higher-order chromatin structure in individual cells from scRNA-seq and scATAC-seq._  
@@ -64,9 +83,28 @@ Computational Biology
 
 **2023**
 
+
+EKW Lo<sup>&lowast;</sup>, BM Mears<sup>&lowast;</sup>, HC Maurer, A Idrizi, **KD Hansen**, ED Thompson, RH Hruban, KP Olive, AP Feinberg.  
+_Comprehensive DNA Methylation Analysis Indicates That Pancreatic Intraepithelial Neoplasia Lesions Are Acinar-Derived and Epigenetically Primed for Carcinogenesis._  
+Cancer Research 2023, 83(11):1905-1916.  
+[DOI](10.1158/0008-5472.CAN-22-4052) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/36989344) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10239363) |
+<span data-badge-type="4" data-doi="10.1158/0008-5472.CAN-22-4052" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+LM Weber, A Saha, A Datta, **KD Hansen**, SC Hicks.  
+_nnSVG for the scalable identification of spatially variable genes using nearest-neighbor Gaussian processes._  
+Nature Communications 2023, 14:4059.  
+[DOI](10.1038/s41467-023-39748-z) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/37429865) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10333391) |
+[Preprint](https://doi.org/10.1101/2022.05.16.492124) |
+[Tweetorial (Weber)](https://twitter.com/lmwebr/status/1527038697861877761) |
+<span data-badge-type="4" data-doi="10.1038/s41467-023-39748-z" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 A Morin<sup>&lowast;</sup>, EE Thompson<sup>&lowast;</sup>, BA Helling<sup>&lowast;</sup>, LE Shorey-Kendrick, P Faber, Pieter, T Gebretsadik, LB Bacharier, M Kattan, GT O'Connor, K Rivera-Spoljaric, RA Wood,  KC Barnes, RA Mathias, MC Altman, **KD Hansen**, CT McEvoy, ER Spindel, T Hartert, DJ Jackson, JE Gern, CG McKennan<sup>&dagger;</sup>, C Ober<sup>&dagger;</sup>, Program collaborators for Environmental Influences on Child Outcomes and Children's Respiratory and Environmental Workgroup.  
 _A functional genomics pipeline to identify high-value asthma and allergy CpGs in the human methylome._  
-The Journal of Allergy and Clinical Immunology, 2023 In press.  
+The Journal of Allergy and Clinical Immunology 2023, 151(6):1609-1621.  
 [DOI](https://doi.org/10.1016/j.jaci.2022.12.828) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/36754293) |
 [Preprint](https://doi.org/10.1101/2022.05.19.22275204) | 
@@ -75,14 +113,14 @@ The Journal of Allergy and Clinical Immunology, 2023 In press.
 A Kuo, **KD Hansen**, SC Hicks.  
 _Quantification and statistical modeling of Chromium-based single-nucleus RNA-sequencing data._  
 Biostatistics 2023, In press.  
-[Preprint](https://doi.org/10.1101/2022.05.20.492835) | 
 [DOI](https://doi.org/10.1093/biostatistics/kxad010) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/37257175) |
+[Preprint](https://doi.org/10.1101/2022.05.20.492835) | 
 <span data-badge-type="4" data-doi="10.1093/biostatistics/kxad010" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 SK Maden, B Walsh, K Ellrott, **KD Hansen**, R Thompson, A Nellore.  
 _recountmethylation enables flexible analysis of public blood DNA methylation array data._  
-Bioinformatics Advances 2023, 3:vbad020.  
+Bioinformatics Advances 2023, 3(1):vbad020.  
 [DOI](https://doi.org/10.1093/bioadv/vbad020) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/36874953) |
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9976962) |
@@ -741,6 +779,13 @@ Leanpub, 2016.
 Published Preprints
 -------------------
 
+LM Weber, A Saha, A Datta, **KD Hansen**, SC Hicks.  
+_nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes._  
+bioRxiv 2022, 2022.05.16.492124.  
+[DOI](https://doi.org/10.1101/2022.05.16.492124) |
+[Tweetorial (Weber)](https://twitter.com/lmwebr/status/1527038697861877761) |
+<span data-badge-type="4" data-doi="10.1101/2022.05.16.492124" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 A Kuo, **KD Hansen**, SC Hicks.  
 _Quantification and statistical modeling of Chromium-based single-nucleus RNA-sequencing data._  
 bioRxiv 2022, 2022.05.20.492835.  
@@ -752,7 +797,6 @@ _recountmethylation enables flexible analysis of public blood DNA methylation ar
 bioRxiv 2022, 2022.05.19.492680.  
 [DOI](https://doi.org/10.1101/2022.05.19.492680) |
 <span data-badge-type="4" data-doi="10.1101/2022.05.19.492680" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
 
 **Y Wang**, SC Hicks, **KD Hansen**.  
 _Co-expression analysis is biased by a mean-correlation relationship._  
