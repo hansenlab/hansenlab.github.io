@@ -21,6 +21,11 @@ Publication Repositories
 Current Preprints
 -----------------
 
+CW Gao, WY Lin, RC Riddle, S Chopra, **L Boukas**, **KD Hansen**, HT Bjornsson, JA Fahrner.  
+_Growth retardation in a mouse model of Kabuki syndrome 2 bears mechanistic similarities to Kabuki syndrome 1._  
+bioRxiv 2023, 2023.10.15.562327.  
+[DOI](https://doi.org/10.1101/2023.10.15.562327) | 
+<span data-badge-type="4" data-doi="10.1101/2023.10.15.562327" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 **L Boukas**<sup>&lowast;</sup>, TR Luperchio<sup>&lowast;</sup>, **A Razi**, **KD Hansen**<sup>&dagger;</sup>, HT Bjornsson<sup>&dagger;</sup>.  
 _Neuron-specific chromatin disruption at CpG islands and aging-related regions in Kabuki syndrome mice._  
@@ -44,7 +49,7 @@ P Wulfridge<sup>&lowast;</sup>, A Davidovich<sup>&lowast;</sup>, AC Salvador<sup
 _Precision pharmacological reversal of genotype-specific diet-induced metabolic syndrome in mice informed by transcriptional regulation._  
 bioRxiv 2023, 2023.04.25.538156.  
 [DOI](https://doi.org/10.1101/2023.04.25.538156) |
-<span data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+<span data-badge-type="4" data-doi="10.1101/2023.04.25.538156" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 **SC Zheng**, G Stein-O'Brien, **L Boukas**, LA Goff<sup>&dagger;</sup>,  **KD Hansen**<sup>&dagger;</sup>.  
 _Pumping the brakes on RNA velocity - understanding and interpreting RNA velocity estimates._  
