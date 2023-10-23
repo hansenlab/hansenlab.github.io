@@ -21,6 +21,12 @@ Publication Repositories
 Current Preprints
 -----------------
 
+A Razi<sup>&lowast;</sup>, CL Lo<sup>&lowast;</sup>, S Wang, JT Leek<sup>&dagger;</sup>, KD Hansen<sup>&dagger;</sup>.  
+_Genotype prediction of 336,463 samples from public expression data._  
+bioRxiv 2023, 2023.10.21.562237.  
+[DOI](https://doi.org/10.1101/2023.10.21.562237) | 
+<span data-badge-type="4" data-doi="10.1101/2023.10.21.562237" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 CW Gao, WY Lin, RC Riddle, S Chopra, **L Boukas**, **KD Hansen**, HT Bjornsson, JA Fahrner.  
 _Growth retardation in a mouse model of Kabuki syndrome 2 bears mechanistic similarities to Kabuki syndrome 1._  
 bioRxiv 2023, 2023.10.15.562327.  
