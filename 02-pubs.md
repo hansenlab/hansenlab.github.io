@@ -51,18 +51,6 @@ bioRxiv 2023, 2023.01.08.523062.
 [DOI](https://doi.org/10.1101/2023.01.08.523062) |
 <span data-badge-type="4" data-doi="10.1101/2023.01.08.523062" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-P Wulfridge<sup>&lowast;</sup>, A Davidovich<sup>&lowast;</sup>, AC Salvador<sup>&lowast;</sup>, GC Manno, R Tryggvadottir, A Idrizi, MN Huda, BJ Bennett, LG Adams, **KD Hansen**<sup>&dagger;</sup>, DW Threadgill<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
-_Precision pharmacological reversal of genotype-specific diet-induced metabolic syndrome in mice informed by transcriptional regulation._  
-bioRxiv 2023, 2023.04.25.538156.  
-[DOI](https://doi.org/10.1101/2023.04.25.538156) |
-<span data-badge-type="4" data-doi="10.1101/2023.04.25.538156" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-**SC Zheng**, G Stein-O'Brien, **L Boukas**, LA Goff<sup>&dagger;</sup>,  **KD Hansen**<sup>&dagger;</sup>.  
-_Pumping the brakes on RNA velocity - understanding and interpreting RNA velocity estimates._  
-bioRxiv 2022, 2022.06.19.494717.  
-[DOI](https://doi.org/10.1101/2022.06.19.494717) |
-<span data-badge-type="4" data-doi="10.1101/2022.06.19.494717" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
 BK Johnson, **JP Fortin**, **KD Hansen**, H Shen<sup>&dagger;</sup>, T Triche Jr<sup>&dagger;</sup>.  
 _Compartmap enables inference of higher-order chromatin structure in individual cells from scRNA-seq and scATAC-seq._  
 bioRxiv 2021, 2021.05.17.444465.  
@@ -94,6 +82,23 @@ Computational Biology
 
 **2023**
 
+P Wulfridge<sup>&lowast;</sup>, A Davidovich<sup>&lowast;</sup>, AC Salvador<sup>&lowast;</sup>, GC Manno, R Tryggvadottir, A Idrizi, MN Huda, BJ Bennett, LG Adams, **KD Hansen**<sup>&dagger;</sup>, DW Threadgill<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
+_Precision pharmacological reversal of strain-specific diet-induced metabolic syndrome in mice informed by epigenetic and transcriptional regulation._  
+PLOS Genetics 2023, 19(10):e1010997.  
+[DOI](https://doi.org/10.1371/journal.pgen.1010997) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/37871105) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10621921) |
+[Preprint](https://doi.org/10.1101/2023.04.25.538156) |
+<span data-badge-type="4" data-doi="10.1371/journal.pgen.1010997" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+**SC Zheng**, G Stein-O'Brien, **L Boukas**, LA Goff<sup>&dagger;</sup>,  **KD Hansen**<sup>&dagger;</sup>.  
+_Pumping the brakes on RNA velocity by understanding and interpreting RNA velocity estimates._  
+Genome Biology 2023, 24(1):246.  
+[DOI](https://doi.org/10.1186/s13059-023-03065-x) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/37885016) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10601342) |
+[Preprint](https://doi.org/10.1101/2022.06.19.494717) |
+<span data-badge-type="4" data-doi="10.1186/s13059-023-03065-x" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 EKW Lo<sup>&lowast;</sup>, BM Mears<sup>&lowast;</sup>, HC Maurer, A Idrizi, **KD Hansen**, ED Thompson, RH Hruban, KP Olive, AP Feinberg.  
 _Comprehensive DNA Methylation Analysis Indicates That Pancreatic Intraepithelial Neoplasia Lesions Are Acinar-Derived and Epigenetically Primed for Carcinogenesis._  
@@ -789,6 +794,18 @@ Leanpub, 2016.
 
 Published Preprints
 -------------------
+
+P Wulfridge<sup>&lowast;</sup>, A Davidovich<sup>&lowast;</sup>, AC Salvador<sup>&lowast;</sup>, GC Manno, R Tryggvadottir, A Idrizi, MN Huda, BJ Bennett, LG Adams, **KD Hansen**<sup>&dagger;</sup>, DW Threadgill<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
+_Precision pharmacological reversal of genotype-specific diet-induced metabolic syndrome in mice informed by transcriptional regulation._  
+bioRxiv 2023, 2023.04.25.538156.  
+[DOI](https://doi.org/10.1101/2023.04.25.538156) |
+<span data-badge-type="4" data-doi="10.1101/2023.04.25.538156" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+**SC Zheng**, G Stein-O'Brien, **L Boukas**, LA Goff<sup>&dagger;</sup>,  **KD Hansen**<sup>&dagger;</sup>.  
+_Pumping the brakes on RNA velocity - understanding and interpreting RNA velocity estimates._  
+bioRxiv 2022, 2022.06.19.494717.  
+[DOI](https://doi.org/10.1101/2022.06.19.494717) |
+<span data-badge-type="4" data-doi="10.1101/2022.06.19.494717" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 LM Weber, A Saha, A Datta, **KD Hansen**, SC Hicks.  
 _nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes._  
