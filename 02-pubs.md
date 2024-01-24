@@ -21,7 +21,13 @@ Publication Repositories
 Current Preprints
 -----------------
 
-A Razi<sup>&lowast;</sup>, CL Lo<sup>&lowast;</sup>, S Wang, JT Leek<sup>&dagger;</sup>, KD Hansen<sup>&dagger;</sup>.  
+A Ravichandran, P Parsana, R Keener, **KD Hansen**, A Battle.  
+_Aggregation of recount3 RNA-seq data improves the inference of consensus and tissue-specific gene co-expression networks._  
+bioRxiv 2024, 2024.01.20.576447.  
+[DOI](https://doi.org/10.1101/2024.01.20.576447) |
+<span data-badge-type="4" data-doi="10.1101/2024.01.20.576447" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+**A Razi**<sup>&lowast;</sup>, **CL Lo**<sup>&lowast;</sup>, S Wang, JT Leek<sup>&dagger;</sup>, **KD Hansen**<sup>&dagger;</sup>.  
 _Genotype prediction of 336,463 samples from public expression data._  
 bioRxiv 2023, 2023.10.21.562237.  
 [DOI](https://doi.org/10.1101/2023.10.21.562237) | 
@@ -38,12 +44,6 @@ _Neuron-specific chromatin disruption at CpG islands and aging-related regions i
 bioRxiv 2023, 2023.08.01.551456.  
 [DOI](https://doi.org/10.1101/2023.08.01.551456) | 
 <span data-badge-type="4" data-doi="10.1101/2023.08.01.551456" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-CW Gao<sup>&lowast;</sup>, WY Lin<sup>&lowast;</sup>, RC Riddle, P Kushwaha, **L Boukas**, HT Bjornsson, **KD Hansen**, JA Fahrner.  
-_Novel mouse model of Weaver syndrome displays overgrowth and excess osteogenesis reversible with KDM6A/6B inhibition._  
-bioRxiv 2023, 2023.06.23.546270.  
-[DOI](https://doi.org/10.1101/2023.06.23.546270) |
-<span data-badge-type="4" data-doi="10.1101/2023.06.23.546270" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 T Kayikcioglu<sup>&lowast;</sup>, JS Zarb<sup>&lowast;</sup>, S Mohapatra, CT Lin, JA London, **KD Hansen**, R Fishel, T Ha.  
 _Massively parallel single molecule tracking of sequence-dependent DNA mismatch repair in vivo._  
@@ -79,6 +79,18 @@ bioRxiv 2020, 214361.
 
 Computational Biology
 ---------------------
+
+**2024**
+
+CW Gao<sup>&lowast;</sup>, WY Lin<sup>&lowast;</sup>, RC Riddle, P Kushwaha, **L Boukas**, HT Bjornsson, **KD Hansen**, JA Fahrner.  
+_A mouse model of Weaver syndrome displays overgrowth and excess osteogenesis reversible with KDM6A/6B inhibition._  
+bioRxiv 2023, 2023.06.23.546270.  
+[DOI](https://doi.org/10.1172/jci.insight.173392) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/38015625) |
+[Preprint](https://doi.org/10.1101/2023.06.23.546270) |
+<span data-badge-type="4" data-doi="10.1172/jci.insight.173392" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+
 
 **2023**
 
@@ -794,6 +806,13 @@ Leanpub, 2016.
 
 Published Preprints
 -------------------
+
+
+CW Gao<sup>&lowast;</sup>, WY Lin<sup>&lowast;</sup>, RC Riddle, P Kushwaha, **L Boukas**, HT Bjornsson, **KD Hansen**, JA Fahrner.  
+_Novel mouse model of Weaver syndrome displays overgrowth and excess osteogenesis reversible with KDM6A/6B inhibition._  
+bioRxiv 2023, 2023.06.23.546270.  
+[DOI](https://doi.org/10.1101/2023.06.23.546270) |
+<span data-badge-type="4" data-doi="10.1101/2023.06.23.546270" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 P Wulfridge<sup>&lowast;</sup>, A Davidovich<sup>&lowast;</sup>, AC Salvador<sup>&lowast;</sup>, GC Manno, R Tryggvadottir, A Idrizi, MN Huda, BJ Bennett, LG Adams, **KD Hansen**<sup>&dagger;</sup>, DW Threadgill<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
 _Precision pharmacological reversal of genotype-specific diet-induced metabolic syndrome in mice informed by transcriptional regulation._  
