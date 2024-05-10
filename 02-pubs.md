@@ -39,12 +39,6 @@ bioRxiv 2023, 2023.10.15.562327.
 [DOI](https://doi.org/10.1101/2023.10.15.562327) | 
 <span data-badge-type="4" data-doi="10.1101/2023.10.15.562327" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-**L Boukas**<sup>&lowast;</sup>, TR Luperchio<sup>&lowast;</sup>, **A Razi**, **KD Hansen**<sup>&dagger;</sup>, HT Bjornsson<sup>&dagger;</sup>.  
-_Neuron-specific chromatin disruption at CpG islands and aging-related regions in Kabuki syndrome mice._  
-bioRxiv 2023, 2023.08.01.551456.  
-[DOI](https://doi.org/10.1101/2023.08.01.551456) | 
-<span data-badge-type="4" data-doi="10.1101/2023.08.01.551456" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
 T Kayikcioglu<sup>&lowast;</sup>, JS Zarb<sup>&lowast;</sup>, S Mohapatra, CT Lin, JA London, **KD Hansen**, R Fishel, T Ha.  
 _Massively parallel single molecule tracking of sequence-dependent DNA mismatch repair in vivo._  
 bioRxiv 2023, 2023.01.08.523062.  
@@ -70,26 +64,37 @@ bioRxiv 2020, 2020.07.04.187880.
 [Tweetorial](https://twitter.com/KasperDHansen/status/1279981186400616449?s=20) |
 <span data-badge-type="4" data-doi="10.1101/2020.07.04.187880" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
-**K Fletez-Brant**, Y Qiu, DU Gorkin, M Hu, **KD Hansen**.  
-_Removing unwanted variation between samples in Hi-C experiments._  
-bioRxiv 2020, 214361.  
-[DOI](https://doi.org/10.1101/214361) |
-<span data-badge-type="4" data-doi="10.1101/214361" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
 
 Computational Biology
 ---------------------
 
 **2024**
 
+**K Fletez-Brant**, Y Qiu, DU Gorkin, M Hu, **KD Hansen**.  
+_Removing unwanted variation between samples in Hi-C experiments._  
+Briefings in Bioinformatics 2024, 25(3):bbae217.  
+[DOI](https://doi.org/10.1093/bib/bbae217) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/38711367) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11074651) |
+[Preprint](https://doi.org/10.1101/214361) |
+<span data-badge-type="4" data-doi="10.1093/bib/bbae217" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
+**L Boukas**<sup>&lowast;</sup>, TR Luperchio<sup>&lowast;</sup>, **A Razi**, **KD Hansen**<sup>&dagger;</sup>, HT Bjornsson<sup>&dagger;</sup>.  
+_Neuron-specific chromatin disruption at CpG islands and aging-related regions in Kabuki syndrome mice._  
+Genome Research 2024, in press.  
+[DOI](https://doi.org/10.1101/10.1101/gr.278416.123) | 
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/38702196) |
+[Preprint](https://doi.org/10.1101/2023.08.01.551456) |
+<span data-badge-type="4" data-doi="10.1101/gr.278416.123" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 CW Gao<sup>&lowast;</sup>, WY Lin<sup>&lowast;</sup>, RC Riddle, P Kushwaha, **L Boukas**, HT Bjornsson, **KD Hansen**, JA Fahrner.  
 _A mouse model of Weaver syndrome displays overgrowth and excess osteogenesis reversible with KDM6A/6B inhibition._  
-bioRxiv 2023, 2023.06.23.546270.  
+JCI Insight, 9(1):e173392.  
 [DOI](https://doi.org/10.1172/jci.insight.173392) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/38015625) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10906465) |
 [Preprint](https://doi.org/10.1101/2023.06.23.546270) |
 <span data-badge-type="4" data-doi="10.1172/jci.insight.173392" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
 
 
 **2023**
@@ -807,6 +812,17 @@ Leanpub, 2016.
 Published Preprints
 -------------------
 
+**K Fletez-Brant**, Y Qiu, DU Gorkin, M Hu, **KD Hansen**.  
+_Removing unwanted variation between samples in Hi-C experiments._  
+bioRxiv 2020, 214361.  
+[DOI](https://doi.org/10.1101/214361) |
+<span data-badge-type="4" data-doi="10.1101/214361" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
+**L Boukas**<sup>&lowast;</sup>, TR Luperchio<sup>&lowast;</sup>, **A Razi**, **KD Hansen**<sup>&dagger;</sup>, HT Bjornsson<sup>&dagger;</sup>.  
+_Neuron-specific chromatin disruption at CpG islands and aging-related regions in Kabuki syndrome mice._  
+bioRxiv 2023, 2023.08.01.551456.  
+[DOI](https://doi.org/10.1101/2023.08.01.551456) | 
+<span data-badge-type="4" data-doi="10.1101/2023.08.01.551456" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 CW Gao<sup>&lowast;</sup>, WY Lin<sup>&lowast;</sup>, RC Riddle, P Kushwaha, **L Boukas**, HT Bjornsson, **KD Hansen**, JA Fahrner.  
 _Novel mouse model of Weaver syndrome displays overgrowth and excess osteogenesis reversible with KDM6A/6B inhibition._  
