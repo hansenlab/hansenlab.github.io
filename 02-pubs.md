@@ -33,12 +33,6 @@ bioRxiv 2023, 2023.10.21.562237.
 [DOI](https://doi.org/10.1101/2023.10.21.562237) | 
 <span data-badge-type="4" data-doi="10.1101/2023.10.21.562237" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-CW Gao, WY Lin, RC Riddle, S Chopra, **L Boukas**, **KD Hansen**, HT Bjornsson, JA Fahrner.  
-_Growth retardation in a mouse model of Kabuki syndrome 2 bears mechanistic similarities to Kabuki syndrome 1._  
-bioRxiv 2023, 2023.10.15.562327.  
-[DOI](https://doi.org/10.1101/2023.10.15.562327) | 
-<span data-badge-type="4" data-doi="10.1101/2023.10.15.562327" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
 T Kayikcioglu<sup>&lowast;</sup>, JS Zarb<sup>&lowast;</sup>, S Mohapatra, CT Lin, JA London, **KD Hansen**, R Fishel, T Ha.  
 _Massively parallel single molecule tracking of sequence-dependent DNA mismatch repair in vivo._  
 bioRxiv 2023, 2023.01.08.523062.  
@@ -69,6 +63,13 @@ Computational Biology
 ---------------------
 
 **2024**
+
+CW Gao, WY Lin, RC Riddle, S Chopra, **L Boukas**, **KD Hansen**, HT Bjornsson, JA Fahrner.  
+_Growth retardation in a mouse model of Kabuki syndrome 2 bears mechanistic similarities to Kabuki syndrome 1._  
+PLOS Genetics 2024, in press.  
+[DOI](https://doi.org/10.1371/journal.pgen.1011310) |
+[Preprint](https://doi.org/10.1101/2023.10.15.562327) | 
+<span data-badge-type="4" data-doi="10.1371/journal.pgen.1011310" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 **K Fletez-Brant**, Y Qiu, DU Gorkin, M Hu, **KD Hansen**.  
 _Removing unwanted variation between samples in Hi-C experiments._  
@@ -811,6 +812,12 @@ Leanpub, 2016.
 
 Published Preprints
 -------------------
+
+CW Gao, WY Lin, RC Riddle, S Chopra, **L Boukas**, **KD Hansen**, HT Bjornsson, JA Fahrner.  
+_Growth retardation in a mouse model of Kabuki syndrome 2 bears mechanistic similarities to Kabuki syndrome 1._  
+bioRxiv 2023, 2023.10.15.562327.  
+[DOI](https://doi.org/10.1101/2023.10.15.562327) | 
+<span data-badge-type="4" data-doi="10.1101/2023.10.15.562327" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 **K Fletez-Brant**, Y Qiu, DU Gorkin, M Hu, **KD Hansen**.  
 _Removing unwanted variation between samples in Hi-C experiments._  
