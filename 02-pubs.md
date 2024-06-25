@@ -66,8 +66,10 @@ Computational Biology
 
 CW Gao, WY Lin, RC Riddle, S Chopra, **L Boukas**, **KD Hansen**, HT Bjornsson, JA Fahrner.  
 _Growth retardation in a mouse model of Kabuki syndrome 2 bears mechanistic similarities to Kabuki syndrome 1._  
-PLOS Genetics 2024, in press.  
+PLOS Genetics 2024, 20(6):e1011310.  
 [DOI](https://doi.org/10.1371/journal.pgen.1011310) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/38857303) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11192384) |
 [Preprint](https://doi.org/10.1101/2023.10.15.562327) | 
 <span data-badge-type="4" data-doi="10.1371/journal.pgen.1011310" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
@@ -82,8 +84,8 @@ Briefings in Bioinformatics 2024, 25(3):bbae217.
 
 **L Boukas**<sup>&lowast;</sup>, TR Luperchio<sup>&lowast;</sup>, **A Razi**, **KD Hansen**<sup>&dagger;</sup>, HT Bjornsson<sup>&dagger;</sup>.  
 _Neuron-specific chromatin disruption at CpG islands and aging-related regions in Kabuki syndrome mice._  
-Genome Research 2024, in press.  
-[DOI](https://doi.org/10.1101/10.1101/gr.278416.123) | 
+Genome Research 2024, 34:696-710.  
+[DOI](https://doi.org/10.1101/gr.278416.123) | 
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/38702196) |
 [Preprint](https://doi.org/10.1101/2023.08.01.551456) |
 <span data-badge-type="4" data-doi="10.1101/gr.278416.123" data-hide-no-mentions="true" class="altmetric-embed"> </span>
@@ -96,6 +98,14 @@ JCI Insight, 9(1):e173392.
 [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10906465) |
 [Preprint](https://doi.org/10.1101/2023.06.23.546270) |
 <span data-badge-type="4" data-doi="10.1172/jci.insight.173392" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+A Kuo, **KD Hansen**, SC Hicks.  
+_Quantification and statistical modeling of Chromium-based single-nucleus RNA-sequencing data._  
+Biostatistics 2024, in press.  
+[DOI](https://doi.org/10.1093/biostatistics/kxad010) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/37257175) |
+[Preprint](https://doi.org/10.1101/2022.05.20.492835) | 
+<span data-badge-type="4" data-doi="10.1093/biostatistics/kxad010" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 
 **2023**
@@ -143,14 +153,6 @@ The Journal of Allergy and Clinical Immunology 2023, 151(6):1609-1621.
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/36754293) |
 [Preprint](https://doi.org/10.1101/2022.05.19.22275204) | 
 <span data-badge-type="4" data-doi="10.1016/j.jaci.2022.12.828" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-A Kuo, **KD Hansen**, SC Hicks.  
-_Quantification and statistical modeling of Chromium-based single-nucleus RNA-sequencing data._  
-Biostatistics 2023, In press.  
-[DOI](https://doi.org/10.1093/biostatistics/kxad010) |
-[PMID](http://www.ncbi.nlm.nih.gov/pubmed/37257175) |
-[Preprint](https://doi.org/10.1101/2022.05.20.492835) | 
-<span data-badge-type="4" data-doi="10.1093/biostatistics/kxad010" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 SK Maden, B Walsh, K Ellrott, **KD Hansen**, R Thompson, A Nellore.  
 _recountmethylation enables flexible analysis of public blood DNA methylation array data._  
