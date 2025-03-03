@@ -8,11 +8,12 @@ permalink: "people.html"
 
 <img alt="Kasper Daniel Hansen" align="left" src="media/people/khansen.jpg" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Kasper Daniel Hansen  
-&nbsp;&nbsp;&nbsp;Associate Professor  
-&nbsp;&nbsp;&nbsp;[McKusick-Nathans Insitute of Genetic Medicine](http://www.hopkinsmedicine.org/geneticmedicine)  
+&nbsp;&nbsp;&nbsp;Professor  
+Medicine](http://www.hopkinsmedicine.org/geneticmedicine)  
 &nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)  
+&nbsp;&nbsp;&nbsp;[Department of Genetic Medicine  
+&nbsp;&nbsp;&nbsp;[Department of Biomedical Engineering  
 &nbsp;&nbsp;&nbsp;Johns Hopkins University  
-<br>
 &nbsp;&nbsp;&nbsp;Twitter: [@KasperDHansen](https://twitter.com/KasperDHansen) |
 GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)  
 &nbsp;&nbsp;&nbsp;[Contact](index.html) | [CV](files/hansen_cv.pdf)  
