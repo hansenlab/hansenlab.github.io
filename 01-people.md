@@ -9,10 +9,9 @@ permalink: "people.html"
 <img alt="Kasper Daniel Hansen" align="left" src="media/people/khansen.jpg" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Kasper Daniel Hansen  
 &nbsp;&nbsp;&nbsp;Professor  
-Medicine](http://www.hopkinsmedicine.org/geneticmedicine)  
 &nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)  
-&nbsp;&nbsp;&nbsp;[Department of Genetic Medicine  
-&nbsp;&nbsp;&nbsp;[Department of Biomedical Engineering  
+&nbsp;&nbsp;&nbsp;[Department of Genetic Medicine Medicine](http://www.hopkinsmedicine.org/geneticmedicine)  
+&nbsp;&nbsp;&nbsp;[Department of Biomedical Engineering](https://www.bme.jhu.edu)  
 &nbsp;&nbsp;&nbsp;Johns Hopkins University  
 &nbsp;&nbsp;&nbsp;Twitter: [@KasperDHansen](https://twitter.com/KasperDHansen) |
 GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)  
