@@ -11,10 +11,11 @@ Overview
 
 The Hansen lab is led by Kasper Daniel Hansen.
 
-The lab is associated with the
-[McKusick-Nathans Insitute of Genetic Medicine](http://www.hopkinsmedicine.org/geneticmedicine) and
-the [Department of Biostatistics](http://www.biostat.jhsph.edu) at Johns Hopkins University.  We are
-part of [Center for Computational Biology](http://ccb.jhu.edu).
+The lab is associated with the following departments at Johns Hopkins University:
+
+- The [Department of Biostatistics](https://www.biostat.jhsph.edu) 
+- The [Department of Genetic Medicine](https://www.hopkinsmedicine.org/genetic-medicine) 
+- The [Department of Biomedical Engineering](https://www.bme.jhu.edu) 
 
 Research Interests
 ------------------

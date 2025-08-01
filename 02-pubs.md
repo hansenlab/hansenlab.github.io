@@ -21,23 +21,11 @@ Publication Repositories
 Current Preprints
 -----------------
 
-**G Gui**, MA Bingham, JR Herzog, A Wong-Rolle, LW Dillon, M Goswami, E Martin, J Reeves, S Kim, A Bahrami, H Degenhardt, G Zaki, P Divakar, EC Schrom, K Calvo, CS Hourigan<sup>&dagger;</sup>, **KD Hansen**<sup>&dagger;</sup>, C Zhao<sup>&dagger;</sup>.  
-_Single cell spatial transcriptomics reveals immunotherapy-driven bone marrow niche remodeling in AML._  
-bioRxiv 2025, 2025.01.24.634753.  
-[DOI](https://doi.org/10.1101/2025.01.24.634753) |
-<span data-badge-type="4" data-doi="10.1101/2025.01.24.634753" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
 B Mulvey, **Y Wang**, HR Divecha, SV Bach, KD Montgomery, S Cinquemani, A Chandra, Y Du, RA Miller, JE Kleinman, SC Page, TM Hyde, K Martinowich, SC Hicks, **KD Hansen**<sup>&dagger;</sup>, KR Maynard<sup>&dagger;</sup>.  
 _Spatially-resolved molecular sex differences at single cell resolution in the adult human hypothalamus._  
 bioRxiv 2024, 2024.12.07.627362.  
 [DOI](https://doi.org/10.1101/2024.12.07.627362) |
 <span data-badge-type="4" data-doi="10.1101/2024.12.07.627362" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-**Y Wang**, K Woyshner, C Sriworarat, G Stein-O’Brien, LA Goff, **KD Hansen**.  
-_Multi-sample non-negative spatial factorization._  
-bioRxiv 2024, 2024.07.01.599554.  
-[DOI](https://doi.org/10.1101/2024.07.01.599554) |
-<span data-badge-type="4" data-doi="10.1101/2024.07.01.599554" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 A Ravichandran, P Parsana, R Keener, **KD Hansen**, A Battle.  
 _Aggregation of recount3 RNA-seq data improves the inference of consensus and tissue-specific gene co-expression networks._  
@@ -80,6 +68,23 @@ bioRxiv 2020, 2020.07.04.187880.
 Computational Biology
 ---------------------
 
+**2025**
+
+**Y Wang**, K Woyshner, C Sriworarat, G Stein-O’Brien, LA Goff, **KD Hansen**.  
+_mNSF: multi-sample non-negative spatial factorization._  
+Genome Biology 2025, 26:149.  
+[DOI](https://doi.org/10.1186/s13059-025-03601-x) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/40457480) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC12128389) |
+[Preprint](https://doi.org/10.1101/2024.07.01.599554) |
+<span data-badge-type="4" data-doi="10.1186/s13059-025-03601-x" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+**G Gui**, MA Bingham, JR Herzog, A Wong-Rolle, LW Dillon, M Goswami, E Martin, J Reeves, S Kim, A Bahrami, H Degenhardt, G Zaki, P Divakar, EC Schrom, K Calvo, CS Hourigan<sup>&dagger;</sup>, **KD Hansen**<sup>&dagger;</sup>, C Zhao<sup>&dagger;</sup>.  
+_Single cell spatial transcriptomics reveals immunotherapy-driven bone marrow niche remodeling in AML._  
+Science Advances 2025, in press.  
+[Preprint](https://doi.org/10.1101/2025.01.24.634753) |
+<span data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 **2024**
 
 CW Gao, WY Lin, RC Riddle, S Chopra, **L Boukas**, **KD Hansen**, HT Bjornsson, JA Fahrner.  
@@ -105,6 +110,7 @@ _Large-scale genotype prediction from {RNA} sequence data necessitates a new eth
 Nature Genetics 2024, 56(8):1537-1540.  
 [DOI](https://doi.org/10.1038/s41588-024-01825-4) | 
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/39039279) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11938814) |
 <span data-badge-type="4" data-doi="10.1038/s41588-024-01825-4" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
   
 **L Boukas**<sup>&lowast;</sup>, TR Luperchio<sup>&lowast;</sup>, **A Razi**, **KD Hansen**<sup>&dagger;</sup>, HT Bjornsson<sup>&dagger;</sup>.  
