@@ -27,12 +27,6 @@ bioRxiv 2024, 2024.12.07.627362.
 [DOI](https://doi.org/10.1101/2024.12.07.627362) |
 <span data-badge-type="4" data-doi="10.1101/2024.12.07.627362" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-A Ravichandran, P Parsana, R Keener, **KD Hansen**, A Battle.  
-_Aggregation of recount3 RNA-seq data improves the inference of consensus and tissue-specific gene co-expression networks._  
-bioRxiv 2024, 2024.01.20.576447.  
-[DOI](https://doi.org/10.1101/2024.01.20.576447) |
-<span data-badge-type="4" data-doi="10.1101/2024.01.20.576447" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
 **A Razi**<sup>&lowast;</sup>, **CL Lo**<sup>&lowast;</sup>, S Wang, JT Leek<sup>&dagger;</sup>, **KD Hansen**<sup>&dagger;</sup>.  
 _Genotype prediction of 336,463 samples from public expression data._  
 bioRxiv 2023, 2023.10.21.562237.  
@@ -70,6 +64,14 @@ Computational Biology
 
 **2025**
 
+A Ravichandran, P Parsana, R Keener, **KD Hansen**, A Battle.  
+_Aggregation of recount3 RNA-seq data improves the inference of consensus and tissue-specific gene coexpression networks._  
+Genome Biology 2025, in press.  
+[DOI](https://doi.org/10.1101/gr.280808.125) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/40675817) |
+[Preprint](https://doi.org/10.1101/2024.01.20.576447) |
+<span data-badge-type="4" data-doi="10.1101/gr.280808.125" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 **Y Wang**, K Woyshner, C Sriworarat, G Stein-O’Brien, LA Goff, **KD Hansen**.  
 _mNSF: multi-sample non-negative spatial factorization._  
 Genome Biology 2025, 26:149.  
@@ -81,9 +83,12 @@ Genome Biology 2025, 26:149.
 
 **G Gui**, MA Bingham, JR Herzog, A Wong-Rolle, LW Dillon, M Goswami, E Martin, J Reeves, S Kim, A Bahrami, H Degenhardt, G Zaki, P Divakar, EC Schrom, K Calvo, CS Hourigan<sup>&dagger;</sup>, **KD Hansen**<sup>&dagger;</sup>, C Zhao<sup>&dagger;</sup>.  
 _Single cell spatial transcriptomics reveals immunotherapy-driven bone marrow niche remodeling in AML._  
-Science Advances 2025, in press.  
+Science Advances 2025, 11(28):eadw4871.  
+[DOI](https://doi.org/10.1126/sciadv.adw4871) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/40632867) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC12239967) |
 [Preprint](https://doi.org/10.1101/2025.01.24.634753) |
-<span data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+<span data-badge-type="4" data-doi="10.1126/sciadv.adw4871" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 **2024**
 
