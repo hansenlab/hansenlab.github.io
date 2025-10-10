@@ -21,6 +21,18 @@ Publication Repositories
 Current Preprints
 -----------------
 
+SB Hansen, **KD Hansen**, MT Limborg.  
+_Sample-specific CpG loci are important for accurate long-read methylation analysis._  
+bioRxiv 2025, 2025.04.30.651558.  
+[DOI](https://doi.org/10.1101/2025.04.30.651558) |
+<span data-badge-type="4" data-doi="10.1101/2025.04.30.651558" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+J Ouyang<sup>&lowast;</sup>, K Okay<sup>&lowast;</sup>, K Möller<sup>&lowast;</sup>, K Wang, S Pétursson, T Pierce, A Amirfallah, **A Davidovich**, K Anderson, **KD Hansen**<sup>&dagger;</sup>, HT Bjornsson<sup>&dagger;</sup>.  
+ _Shared molecular consequences of epigenetic machinery disruption in neuronal progenitors._  
+bioRxiv 2025, 2025.09.12.675897.  
+[DOI](https://doi.org/10.1101/2025.09.12.675897) |
+<span data-badge-type="4" data-doi="10.1101/2025.09.12.675897" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 B Mulvey, **Y Wang**, HR Divecha, SV Bach, KD Montgomery, S Cinquemani, A Chandra, Y Du, RA Miller, JE Kleinman, SC Page, TM Hyde, K Martinowich, SC Hicks, **KD Hansen**<sup>&dagger;</sup>, KR Maynard<sup>&dagger;</sup>.  
 _Spatially-resolved molecular sex differences at single cell resolution in the adult human hypothalamus._  
 bioRxiv 2024, 2024.12.07.627362.  
@@ -66,9 +78,10 @@ Computational Biology
 
 A Ravichandran, P Parsana, R Keener, **KD Hansen**, A Battle.  
 _Aggregation of recount3 RNA-seq data improves the inference of consensus and tissue-specific gene coexpression networks._  
-Genome Biology 2025, in press.  
+Genome Research 2025, 35(9):2087-2103.  
 [DOI](https://doi.org/10.1101/gr.280808.125) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/40675817) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC12401056) |
 [Preprint](https://doi.org/10.1101/2024.01.20.576447) |
 <span data-badge-type="4" data-doi="10.1101/gr.280808.125" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
