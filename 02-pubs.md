@@ -21,6 +21,12 @@ Publication Repositories
 Current Preprints
 -----------------
 
+HL Crowell<sup>&dagger;</sup>, Y Dong, I Billato, P Cai, M Emons, S Gunz, B Guo, M Li, A Mahmoud, A Manukyan, H Pagès, P Panwar, S Rao, CJ Sargeant, LS Kern, M Ramos, J Sun, M Totty, VJ Carey, Y Chen, L Collado-Torres, S Ghazanfar, **KD Hansen**, K Martinowich, KR Maynard, E Patrick, D Righelli, D Risso, S Tiberi, L Waldron, R Gottardo<sup>&dagger;</sup>, MD Robinson<sup>&dagger;</sup>, SC Hicks<sup>&dagger;</sup>, LM Weber<sup>&dagger;</sup>.  
+_Orchestrating Spatial Transcriptomics Analysis with Bioconductor._  
+bioRxiv 2025, 2025.11.20.688607.  
+[DOI](https://doi.org/10.1101/2025.11.20.688607) |
+<span data-badge-type="4" data-doi="10.1101/2025.11.20.688607" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 SB Hansen, **KD Hansen**, MT Limborg.  
 _Sample-specific CpG loci are important for accurate long-read methylation analysis._  
 bioRxiv 2025, 2025.04.30.651558.  
@@ -32,12 +38,6 @@ J Ouyang<sup>&lowast;</sup>, K Okay<sup>&lowast;</sup>, K Möller<sup>&lowast;</
 bioRxiv 2025, 2025.09.12.675897.  
 [DOI](https://doi.org/10.1101/2025.09.12.675897) |
 <span data-badge-type="4" data-doi="10.1101/2025.09.12.675897" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-B Mulvey, **Y Wang**, HR Divecha, SV Bach, KD Montgomery, S Cinquemani, A Chandra, Y Du, RA Miller, JE Kleinman, SC Page, TM Hyde, K Martinowich, SC Hicks, **KD Hansen**<sup>&dagger;</sup>, KR Maynard<sup>&dagger;</sup>.  
-_Spatially-resolved molecular sex differences at single cell resolution in the adult human hypothalamus._  
-bioRxiv 2024, 2024.12.07.627362.  
-[DOI](https://doi.org/10.1101/2024.12.07.627362) |
-<span data-badge-type="4" data-doi="10.1101/2024.12.07.627362" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 **A Razi**<sup>&lowast;</sup>, **CL Lo**<sup>&lowast;</sup>, S Wang, JT Leek<sup>&dagger;</sup>, **KD Hansen**<sup>&dagger;</sup>.  
 _Genotype prediction of 336,463 samples from public expression data._  
@@ -73,6 +73,14 @@ bioRxiv 2020, 2020.07.04.187880.
 
 Computational Biology
 ---------------------
+
+**2026**
+
+B Mulvey, **Y Wang**, HR Divecha, SV Bach, KD Montgomery, S Cinquemani, A Chandra, Y Du, RA Miller, JE Kleinman, SC Page, TM Hyde, K Martinowich, SC Hicks, **KD Hansen**<sup>&dagger;</sup>, KR Maynard<sup>&dagger;</sup>.  
+_Spatially-resolved molecular sex differences at single cell resolution in the adult human hypothalamus._  
+Cell Reports 2026, in press.  
+[Preprint](https://doi.org/10.1101/2024.12.07.627362) |
+<span data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 **2025**
 

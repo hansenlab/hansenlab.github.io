@@ -17,14 +17,14 @@ permalink: "people.html"
 GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)  
 &nbsp;&nbsp;&nbsp;[Contact](index.html) | [CV](files/hansen_cv.pdf)  
 
-<img alt="Yi Wang" align="left" src="media/people/yiwang.jpg">
-&nbsp;&nbsp;&nbsp;Yi Wang  
-&nbsp;&nbsp;&nbsp;Graduate Student in Biostatistics  
+&nbsp;&nbsp;&nbsp;Adam Davidovich  
+&nbsp;&nbsp;&nbsp;Postdoctoral Fellow in Biostatsistics.  
 &nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)  
 &nbsp;&nbsp;&nbsp;Johns Hopkins University  
 <br>
-&nbsp;&nbsp;&nbsp;GitHub: [yiwang12](https://github.com/yiwang12)  
-<br><br><br><br><br><br><br><br>
+&nbsp;&nbsp;&nbsp;
+<br><br><br><br>
+
 
 <img alt="Afrooz Razi" align="left" src="media/people/arazi.jpg" width="200">
 &nbsp;&nbsp;&nbsp;Afrooz Razi  
@@ -35,29 +35,27 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 &nbsp;&nbsp;&nbsp;Website: [raziafrooz](https://raziafrooz.github.io)  
 <br><br><br><br>
 
-<img alt="Leon Di Stefano" align="left" src="media/people/ldistefano.jpg" width="200">
-&nbsp;&nbsp;&nbsp;Leon Di Stefano  
-&nbsp;&nbsp;&nbsp;Graduate Student in Biostatistics  
-&nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)  
-&nbsp;&nbsp;&nbsp;Johns Hopkins University  
-<br><br><br><br><br><br><br>
-
 <br><br><br>
 
 
-### Support staff
-
-<img alt="Jeffrey" align="left" src="media/people/jeffrey.jpg" width="200" height="200"/>
-&nbsp;&nbsp;&nbsp;<b>Lab Manny:</b> Jeffrey L.  
-&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp;<b>Responsibility</b>: During the summer months, Jeffrey is responsible for  
-&nbsp;&nbsp;&nbsp;lab child care at the pool.  
-&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp;<b>Bio</b>: Jeffrey has a bachelor degree from Utah State and joins us  
-&nbsp;&nbsp;&nbsp;with 3.5 years of experience working with toddlers and infants.  
-<br><br><br><br><br>
-
 ### Alumni
+
+<img alt="Yi Wang" align="left" src="media/people/yiwang.jpg">
+&nbsp;&nbsp;&nbsp;Yi Wang  
+&nbsp;&nbsp;&nbsp;Was: Graduate Student in Biostatistics  
+&nbsp;&nbsp;&nbsp;Time in lab:  
+&nbsp;&nbsp;&nbsp;First job:  
+<br>
+&nbsp;&nbsp;&nbsp;GitHub: [yiwang12](https://github.com/yiwang12)  
+<br><br><br><br><br><br><br><br>
+
+<img alt="Leon Di Stefano" align="left" src="media/people/ldistefano.jpg" width="200">
+&nbsp;&nbsp;&nbsp;Leon Di Stefano  
+&nbsp;&nbsp;&nbsp;Was: Graduate Student in Biostatistics  
+&nbsp;&nbsp;&nbsp;Time in lab:  
+&nbsp;&nbsp;&nbsp;First job:  
+<br><br><br><br><br><br><br>
+
 
 <img alt="Leandros Boukas" align="left" src="media/people/lboukas.jpg" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Leandros Boukas  
