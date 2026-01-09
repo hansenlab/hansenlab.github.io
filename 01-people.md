@@ -17,6 +17,7 @@ permalink: "people.html"
 GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)  
 &nbsp;&nbsp;&nbsp;[Contact](index.html) | [CV](files/hansen_cv.pdf)  
 
+<img alt="Adam Davidovich" align="left" src="media/people/adavidovich.jpg" width="200">
 &nbsp;&nbsp;&nbsp;Adam Davidovich  
 &nbsp;&nbsp;&nbsp;Postdoctoral Fellow in Biostatsistics.  
 &nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)  
