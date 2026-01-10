@@ -66,7 +66,7 @@ GitHub: [kasperdanielhansen](https://github.com/kasperdanielhansen)
 <br>
 &nbsp;&nbsp;&nbsp;GitHub: [leandrosboukas](https://github.com/leandrosboukas)  
 &nbsp;&nbsp;&nbsp;Google Scholar: [Leandros Boukas](https://scholar.google.com/citations?user=lOJ4aQEAAAAJ&hl=en&oi=ao)
-<br><br>
+<br><br><br><br>
 
 <img alt="Charles Zheng" align="left" src="media/people/czheng.jpg" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;Shijie (Charles) Zheng  
