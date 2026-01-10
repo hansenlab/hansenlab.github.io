@@ -108,7 +108,7 @@ GitHub: [PeteHaitch](https://github.com/PeteHaitch)
 &nbsp;&nbsp;&nbsp;  
 <br>
 &nbsp;&nbsp;&nbsp;Twitter: [@lesliemyint](https://twitter.com/lesliemyint) | GitHub: [lmyint](https://github.com/lmyint)  
-&nbsp;&nbsp;&nbsp;[Personal Webpage](https://lmyint.github.io/)__
+&nbsp;&nbsp;&nbsp;[Personal Webpage](https://lmyint.github.io/)  
 <br><br><br><br><br><br><br><br>
 
 <img alt="Jean-Philippe Fortin" align="left" src="media/people/fortin.jpg" width="200" height="200"/>
@@ -121,14 +121,4 @@ GitHub: [PeteHaitch](https://github.com/PeteHaitch)
 &nbsp;&nbsp;&nbsp;Twitter: [@JayPykw](https://twitter.com/JayPykw) |
 GitHub: [Jfortin1](https://github.com/Jfortin1)  
 <br><br><br><br><br>
-
-### Previous Visitors
-
-<img alt="Charles Zheng" align="left" src="media/people/czheng.jpg" width="200" height="200"/>
-&nbsp;&nbsp;&nbsp;Shijie (Charles) Zheng  
-&nbsp;&nbsp;&nbsp;Visiting Scholar at Biostatistics  
-<br>
-&nbsp;&nbsp;&nbsp;GitHub: [sjczheng](https://github.com/sjczheng)  
-<br><br><br><br><br><br><br>
-
 
