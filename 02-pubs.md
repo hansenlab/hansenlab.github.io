@@ -78,9 +78,11 @@ Computational Biology
 
 B Mulvey, **Y Wang**, HR Divecha, SV Bach, KD Montgomery, S Cinquemani, A Chandra, Y Du, RA Miller, JE Kleinman, SC Page, TM Hyde, K Martinowich, SC Hicks, **KD Hansen**<sup>&dagger;</sup>, KR Maynard<sup>&dagger;</sup>.  
 _Spatially-resolved molecular sex differences at single cell resolution in the adult human hypothalamus._  
-Cell Reports 2026, in press.  
+Cell Reports 2026, 45(2):116877.  
+[DOI](https://doi.org/10.1016/j.celrep.2025.116877) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/41615800) |
 [Preprint](https://doi.org/10.1101/2024.12.07.627362) |
-<span data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+<span data-badge-type="4" data-doi="10.1016/j.celrep.2025.116877" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 **2025**
 
