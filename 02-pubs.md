@@ -64,7 +64,7 @@ Computational Biology
 
 **2026**
 
-J Ouyang, K Okay and K Moller, K Wang, **A Davidovich**, S Petursson, T Pierce, A Amirfallah, K Anderson, **KD Hansen**<sup>&dagger;</sup>, HT Bjornsson<sup>&dagger;</sup>.  
+J Ouyang, K Okay and K Möller, K Wang, **A Davidovich**, S Petursson, T Pierce, A Amirfallah, K Anderson, **KD Hansen**<sup>&dagger;</sup>, HT Bjornsson<sup>&dagger;</sup>.  
 _Shared transcriptional consequences of epigenetic machinery disruption in murine neuronal progenitors._  
 Genome Research 2026, In press.  
 [DOI](https://doi.org/10.1101/gr.281473.125) |
