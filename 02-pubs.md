@@ -27,18 +27,6 @@ bioRxiv 2025, 2025.11.20.688607.
 [DOI](https://doi.org/10.1101/2025.11.20.688607) |
 <span data-badge-type="4" data-doi="10.1101/2025.11.20.688607" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-SB Hansen, **KD Hansen**, MT Limborg.  
-_Sample-specific CpG loci are important for accurate long-read methylation analysis._  
-bioRxiv 2025, 2025.04.30.651558.  
-[DOI](https://doi.org/10.1101/2025.04.30.651558) |
-<span data-badge-type="4" data-doi="10.1101/2025.04.30.651558" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-J Ouyang<sup>&lowast;</sup>, K Okay<sup>&lowast;</sup>, K Möller<sup>&lowast;</sup>, K Wang, S Pétursson, T Pierce, A Amirfallah, **A Davidovich**, K Anderson, **KD Hansen**<sup>&dagger;</sup>, HT Bjornsson<sup>&dagger;</sup>.  
- _Shared molecular consequences of epigenetic machinery disruption in neuronal progenitors._  
-bioRxiv 2025, 2025.09.12.675897.  
-[DOI](https://doi.org/10.1101/2025.09.12.675897) |
-<span data-badge-type="4" data-doi="10.1101/2025.09.12.675897" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
 **A Razi**<sup>&lowast;</sup>, **CL Lo**<sup>&lowast;</sup>, S Wang, JT Leek<sup>&dagger;</sup>, **KD Hansen**<sup>&dagger;</sup>.  
 _Genotype prediction of 336,463 samples from public expression data._  
 bioRxiv 2023, 2023.10.21.562237.  
@@ -81,19 +69,19 @@ _Shared transcriptional consequences of epigenetic machinery disruption in murin
 Genome Research 2026, In press.  
 [DOI](https://doi.org/10.1101/gr.281473.125) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/42844018) |
-[Preprint](https://doi.org/) |
+[Preprint](https://doi.org/10.1101/2025.09.12.675897) |
 <span data-badge-type="4" data-doi="10.1101/gr.281473.125" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 S Hansen, **KD Hansen**, MT Limborg.  
 _Analyzing epigenetic modifications at sample-specific CpG loci in long-read data using a likelihood-based framework in bsseq._  
 Bioinformatics 2026, In presss.  
 [DOI](https://doi.org/10.1093/bioinformatics/btag821) |
-[PMID](http://www.ncbi.nlm.nih.gov/pubmed/) |
-[Preprint](https://doi.org/43023421) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/43023421) |
+[Preprint](https://doi.org/10.1101/2025.04.30.651558) |
 <span data-badge-type="4" data-doi="10.1093/bioinformatics/btag821" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 **A Davidovich**, D Cuomo, H Su, S Kambhampati, Q Gong, A Naron, Alexandra, R Tryggvadottir, L McMillan, **KD Hansen**<sup>&dagger;</sup>, DW Threadgill<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
-_Non-Mendelian inheritance of {DNA} methylation patterns in mice._  
+_Non-Mendelian inheritance of DNA methylation patterns in mice._  
 Nature Genetics 2026, 58(6):1409-1422.  
 [DOI](https://doi.org/10.1038/s41588-026-02604-z) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/42162411) |
@@ -896,257 +884,8 @@ Leanpub, 2016.
 [URL](https://leanpub.com/bioconductor/)
 
 
-Published Preprints
--------------------
-
-CW Gao, WY Lin, RC Riddle, S Chopra, **L Boukas**, **KD Hansen**, HT Bjornsson, JA Fahrner.  
-_Growth retardation in a mouse model of Kabuki syndrome 2 bears mechanistic similarities to Kabuki syndrome 1._  
-bioRxiv 2023, 2023.10.15.562327.  
-[DOI](https://doi.org/10.1101/2023.10.15.562327) | 
-<span data-badge-type="4" data-doi="10.1101/2023.10.15.562327" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-**K Fletez-Brant**, Y Qiu, DU Gorkin, M Hu, **KD Hansen**.  
-_Removing unwanted variation between samples in Hi-C experiments._  
-bioRxiv 2020, 214361.  
-[DOI](https://doi.org/10.1101/214361) |
-<span data-badge-type="4" data-doi="10.1101/214361" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
-**L Boukas**<sup>&lowast;</sup>, TR Luperchio<sup>&lowast;</sup>, **A Razi**, **KD Hansen**<sup>&dagger;</sup>, HT Bjornsson<sup>&dagger;</sup>.  
-_Neuron-specific chromatin disruption at CpG islands and aging-related regions in Kabuki syndrome mice._  
-bioRxiv 2023, 2023.08.01.551456.  
-[DOI](https://doi.org/10.1101/2023.08.01.551456) | 
-<span data-badge-type="4" data-doi="10.1101/2023.08.01.551456" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-CW Gao<sup>&lowast;</sup>, WY Lin<sup>&lowast;</sup>, RC Riddle, P Kushwaha, **L Boukas**, HT Bjornsson, **KD Hansen**, JA Fahrner.  
-_Novel mouse model of Weaver syndrome displays overgrowth and excess osteogenesis reversible with KDM6A/6B inhibition._  
-bioRxiv 2023, 2023.06.23.546270.  
-[DOI](https://doi.org/10.1101/2023.06.23.546270) |
-<span data-badge-type="4" data-doi="10.1101/2023.06.23.546270" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-P Wulfridge<sup>&lowast;</sup>, A Davidovich<sup>&lowast;</sup>, AC Salvador<sup>&lowast;</sup>, GC Manno, R Tryggvadottir, A Idrizi, MN Huda, BJ Bennett, LG Adams, **KD Hansen**<sup>&dagger;</sup>, DW Threadgill<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
-_Precision pharmacological reversal of genotype-specific diet-induced metabolic syndrome in mice informed by transcriptional regulation._  
-bioRxiv 2023, 2023.04.25.538156.  
-[DOI](https://doi.org/10.1101/2023.04.25.538156) |
-<span data-badge-type="4" data-doi="10.1101/2023.04.25.538156" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-**SC Zheng**, G Stein-O'Brien, **L Boukas**, LA Goff<sup>&dagger;</sup>,  **KD Hansen**<sup>&dagger;</sup>.  
-_Pumping the brakes on RNA velocity - understanding and interpreting RNA velocity estimates._  
-bioRxiv 2022, 2022.06.19.494717.  
-[DOI](https://doi.org/10.1101/2022.06.19.494717) |
-<span data-badge-type="4" data-doi="10.1101/2022.06.19.494717" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-LM Weber, A Saha, A Datta, **KD Hansen**, SC Hicks.  
-_nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes._  
-bioRxiv 2022, 2022.05.16.492124.  
-[DOI](https://doi.org/10.1101/2022.05.16.492124) |
-[Tweetorial (Weber)](https://twitter.com/lmwebr/status/1527038697861877761) |
-<span data-badge-type="4" data-doi="10.1101/2022.05.16.492124" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-A Kuo, **KD Hansen**, SC Hicks.  
-_Quantification and statistical modeling of Chromium-based single-nucleus RNA-sequencing data._  
-bioRxiv 2022, 2022.05.20.492835.  
-[DOI](https://doi.org/10.1101/2022.05.20.492835) |
-<span data-badge-type="4" data-doi="10.1101/2022.05.20.492835" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-SK Maden, B Walsh, K Ellrott, **KD Hansen**, R Thompson, A Nellore.  
-_recountmethylation enables flexible analysis of public blood DNA methylation array data._  
-bioRxiv 2022, 2022.05.19.492680.  
-[DOI](https://doi.org/10.1101/2022.05.19.492680) |
-<span data-badge-type="4" data-doi="10.1101/2022.05.19.492680" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-**Y Wang**, SC Hicks, **KD Hansen**.  
-_Co-expression analysis is biased by a mean-correlation relationship._  
-bioRxiv 2020, 2020.02.13.944777.  
-[DOI](https://doi.org/10.1101/2020.02.13.944777) |
-[Tweetorial](https://twitter.com/KasperDHansen/status/1228157664854781952?s=20) |
-<span data-badge-type="4" data-doi="10.1101/2020.02.13.944777" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
-**SC Zheng**, G Stein-O'Brien, JJ Augustin, J Slosberg, GA Carosso, B Winer, G Shin, HT Bjornsson, LA Goff<sup>&dagger;</sup>, **KD Hansen**<sup>&dagger;</sup>.  
-_Universal prediction of cell cycle position using transfer learning._  
-bioRxiv 2021, 2021.04.06.438463.  
-[DOI](https://doi.org/10.1101/2021.04.06.438463) |
-[Tweetorial](https://twitter.com/KasperDHansen/status/1380235534035992583?s=20) |
-[Tweetorial (LA Goff)](https://twitter.com/loyalgoff/status/1379806742167527427?s=20) |
-<span data-badge-type="4" data-doi="10.1101/2021.04.06.438463" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-C Wilks, **SC Zheng**, **FY Chen**, R Charles, B Solomon, JP Ling, EL Imada, D Zhang, L Joseph, LT Leek, AE Jaffe, A Nellore, L Collado-Torres, **KD Hansen<sup>&dagger;</sup>**, B Langmead<sup>&dagger;</sup>.  
-_recount3: summaries and queries for large-scale RNA-seq expression and splicing._  
-bioRxiv 2021, 2021.05.21.445138".  
-[DOI](https://doi.org/10.1101/2021.05.21.445138) |
-<span data-badge-type="4" data-doi="10.1101/2021.05.21.445138" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-TR Luperchio<sup>&lowast;</sup>, **L Boukas**<sup>&lowast;</sup>, L Zhang, GO Pilarowski, J Jiang, A Kalinousky, **KD Hansen**<sup>&dagger;</sup>, HT Bjornsson<sup>&dagger;</sup>.  
-_Leveraging the Mendelian Disorders of the Epigenetic Machinery to Systematically Map Functional Epigenetic Variation._  
-bioRxiv 2020, 2020.11.08.373456.  
-[DOI](https://doi.org/10.1101/2020.11.08.373456) |
-[Tweetorial](https://twitter.com/KasperDHansen/status/1326157533631963136?s=20) |
-<span data-badge-type="4" data-doi="10.1101/2020.11.08.373456" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
-SK Maden, RF Thompson, **KD Hansen**, A Nellore.  
-_Human methylome variation across Infinium 450K data on the Gene Expression Omnibus._  
-bioRxiv 2020, 2020.11.17.387548.  
-[DOI](https://doi.org/10.1101/2020.11.17.387548) |
-<span data-badge-type="4" data-doi="10.1101/2020.11.17.387548" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
-LF Rizzardi, **PF Hickey**, A Idrizi, R Tryggvadottir, CM Callahan, KE Stephens, SD Taverna, H Zhang, S Ramazanoglu, GTEx Consortium, **KD Hansen**<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
-_Human brain region-specific variably methylated regions (VMRs) are enriched for heritability of distinct neuropsychiatric traits._  
-bioRxiv 2021, 2021.01.02.425010.  
-[DOI](https://doi.org/10.1101/2021.01.02.425010) |
-<span data-badge-type="4" data-doi="10.1101/2021.01.02.425010" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-JJ Credle, ML Robinson, J Gunn, D Monaco, B Sie, A Tchir, J Hardick, X Zheng, K Shaw-Saliba, RE Rothman, SH Eshleman, A Pekosz, **KD Hansen**, H Mostafa, M Steinegger, HB Larman.  
-_Highly multiplexed oligonucleotide probe-ligation testing enables efficient extraction-free SARS-CoV-2 detection and viral genotyping._  
-bioRxiv 2020, 2020.06.03.130591.  
-[DOI](https://doi.org/10.1101/2020.06.03.130591) |
-<span data-badge-type="4" data-doi="10.1101/2020.06.03.130591" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
-**L Boukas**, HT Bjornsson, **KD Hansen**.  
-_Promoter CpG density predicts downstream gene loss-of-function intolerance._  
-bioRxiv 2020, 10.1101/2020.02.15.936351.  
-[DOI](https://doi.org/10.1101/2020.02.15.936351) |
-[Tweetorial](https://twitter.com/KasperDHansen/status/1229601875554635781?s=20) |
-<span data-badge-type="4" data-doi="10.1101/2020.02.15.936351" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
-DU Gorkin, Y Qiu, M Hu<sup>&dagger;</sup>, **K Fletez-Brant**, T Liu, AD Schmitt, A Noor, J Chiou, KJ Gaulton, J Sebat, Y Li, **KD Hansen**, B Ren<sup>&dagger;</sup>.  
-_Common DNA sequence variation influences 3-dimensional conformation of the human genome._  
-bioRxiv 2019, 592741  
-[DOI](https://doi.org/10.1101/592741) |
-<span data-badge-type="4" data-doi="10.1101/592741" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
-JA Fahrner<sup>&dagger;</sup>, and W-Y Lin, RC Riddle, **L Boukas**, VB DeLeon, S Chopra, SE Lad, TR Luperchio, **KD Hansen**, HT Bjornsson<sup>&dagger;</sup>.  
-_Precocious chondrocyte differentiation disrupts skeletal growth in Kabuki syndrome mice._  
-bioRxiv 2019, 599878  
-[DOI](https://doi.org/10.1101/599878) | 
-<span data-badge-type="4" data-doi="10.1101/599878" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
-GA Carosso, **L Boukas** , JJ Augustin, HN Nguyen, BL Winer, GH Cannon, JD Robertson, L Zhang, **KD Hansen**, Johanna D, LA Goff, HT Bjornsson.  
-_Precocious neuronal differentiation and disrupted oxygen responses in Kabuki syndrome._  
-bioRxiv 2019, 484410  
-[DOI](https://doi.org/10.1101/484410) | 
-<span data-badge-type="4" data-doi="10.1101/484410" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
-**L Myint**, R Wang, **L Boukas**, **KD Hansen**, LA Goff, DG Avramopoulos.  
-_Testing the Regulatory Consequences of 1,049 Schizophrenia Associated Variants With a Massively Parallel Reporter Assay._  
-bioRxiv 2018, 447557  
-[DOI](https://doi.org/10.1101/447557) |
-<span data-badge-type="4" data-doi="10.1101/447557" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
-P Wulfridge, B Langmead, AP Feinberg, **KD Hansen**<sup>&dagger;</sup>.  
-_Analyzing whole genome bisulfite sequencing data from highly divergent genotypes._  
-bioRxiv 2018, 076844__
-[DOI](https://doi.org/10.1101/076844) |
-<span data-badge-type="4" data-doi="10.1101/076844" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
-
-**L Myint**, DG Avramopoulos, LA Goff, **KD Hansen**.  
-_Linear models enable powerful differential activity analysis in massively parallel reporter assays._  
-bioRxiv 2017, 196394.  
-[DOI](https://doi.org/10.1101/196394) |
-<span data-badge-type="4" data-doi="10.1101/196394" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
-Publish in BMC Genomics 2019
-
-**L Boukas**, JM Havrilla, AR Quinlan, HT Bjornsson, **KD Hansen**.  
-_Co-expression patterns define epigenetic regulators associated with neurological dysfunction._  
-bioRxiv 2018, 219097  
-[DOI](https://doi.org/10.1101/219097) |
-<span data-badge-type="4" data-doi="10.1101/219097" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
-Published in Genome Research 2019
-
-L Rizzardi<sup>&lowast;</sup>, **P Hickey**<sup>&lowast;</sup>, V Rodriguez, R Tryggvadottir, C Callahan, A Idrizi, **KD Hansen**<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
-_Neuronal brain region-specific DNA methylation and chromatin accessibility are associated with neuropsychiatric disease heritability._   
-bioRxiv 2017, 120386.  
-[UCSC Genome Browser Hub](http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&hubUrl=https://s3.us-east-2.amazonaws.com/brainepigenome/hub.txt)  
-[DOI](https://doi.org/10.1101/120386) | 
-<span data-badge-type="4" data-doi="10.1101/120386" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
-Published in Nature Neuroscience 2019
-
-V Gaysinskaya, BF Miller, GW van der Heijden, **KD Hansen**, A Bortvin.  
-_Transient Reduction Of DNA Methylation At The Onset Of Meiosis In Male Mice._  
-bioRxiv 2017, 177535.  
-[DOI](https://doi.org/10.1101/177535) |
-<span data-badge-type="4" data-doi="10.1101/177535" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
-Published in Epigenetics & Chromatin 2018
-
-M Ramos, L Schiffer, A Re, A Azhar, A Basunia, CR Cabrera, T Chan, P Chapman, S Davis, D Gomez-Cabrero, AC Culhane, B Haibe-Kains, **KD Hansen**, H Kodali, MS Louis, AS Mer, M Riester, M Morgan, V Carey, L Waldron.  
-_Software for the integration of multi-omics experiments in Bioconductor._  
-bioRxiv 2017, 144774.  
-[DOI](https://doi.org/10.1101/144774) |
-<span data-badge-type="4" data-doi="10.1101/144774" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
-Published in Cancer Research 2017
-
-L Collado-Torres<sup>&lowast;</sup>, A Nellore<sup>&lowast;</sup>, K Kammers, SE Ellis, MA Taub, **KD Hansen**, AE Jaffe<sup>&dagger;</sup>, B Langmead<sup>&dagger;</sup>,  JT Leek<sup>&dagger;</sup>.  
-_recount: A large-scale resource of analysis-ready RNA-seq expression data._  
-bioRxiv 2016, 068478.  
-[DOI](https://doi.org/10.1101/068478) | 
-<span data-badge-type="4" data-doi="10.1101/068478" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
-Published in Nature Biotechnology 2017.
-
-A Nellore, AE Jaffe, **JP Fortin**, J Alquicira-Hernández, L Collado-Torres, S Wang, RA Phillips, N Karbhari, **KD Hansen**, B Langmead<sup>&dagger;</sup>, and JT Leek<sup>&dagger;</sup>.  
-_Human splicing diversity across the Sequence Read Archive._  
-bioRxiv 2016, 038224.  
-[DOI](https://doi.org/10.1101/038224) | <span data-badge-type="4" data-doi="10.1101/038224" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
-Published in Genome Biology 2016.
-
-**JP Fortin**, T Triche Jr, **KD Hansen**<sup>&dagger;</sup>.  
-_Preprocessing, normalization and integration of the Illumina HumanMethylationEPIC array._  
-bioRxiv 2016, 065490.  
-[DOI](https://doi.org/10.1101/065490) | <span data-badge-type="4" data-doi="10.1101/065490" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
-Published in Bioinformatics 2017.
-
-SV Andrews, C Ladd-Acosta, AP Feinberg, **KD Hansen**, MD Fallin.  
-_'Gap hunting' to identify multimodal distributions of DNA methylation._  
-bioRxiv 2016, 059659.  
-[DOI](https://doi.org/10.1101/059659) | <span data-badge-type="4" data-doi="10.1101/059659" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
-Published in Epigenetics and Chromatin 2016.
-
-X Li, Y Liu, T Salz, **KD Hansen**, AP Feinberg.  
-_Whole genome analysis of the methylome and hydroxymethylome in normal and malignant lung and liver._  
-bioRxiv 2016, 062588.  
-[DOI](https://doi.org/10.1101/062588) | <span data-badge-type="4" data-doi="10.1101/062588" data-hide-no-mentions="true" class="altmetric-embed"> </span> |
-Published in Genome Research 2016.
-
-A Nellore<sup>&dagger;</sup>, C Wilks, **KD Hansen**, JT Leek, and B Langmead<sup>&dagger;</sup>.  
-_Rail-dbGaP: a protocol and tool for analyzing protected genomic data in a commercial cloud._  
-bioRxiv 2015, 035287.  
-[DOI](https://doi.org/10.1101/035287) |
-<span data-badge-type="4" data-doi="10.1101/035287" data-hide-no-mentions="true" class="altmetric-embed"></span> |
-Published in Bioinformatics 2016.
-
-A Pacis, L Tailleux, J Lambourne, V Yotova, A Dumaine, A Danckaert, F Luca, JC Grenier, **KD Hansen**, B Gicquel, M Yu, A Pai, J Tung, C He, T Pastinen, R Pique-Regi, Y Gilad<sup>&dagger;</sup> and L Barreiro<sup>&dagger;</sup>.  
-_Bacterial Infection Remodels the DNA Methylation Landscape of Human Dendritic Cells._  
-bioRxiv 2015, 016022.  
-[DOI](https://doi.org/10.1101/016022) |
-<span data-badge-type="4" data-doi="10.1101/016022" data-hide-no-mentions="true" class="altmetric-embed"></span> |
-Published in Genome Research 2015.
-
-**JP Fortin** and **KD Hansen<sup>&dagger;</sup>.**  
-_Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data._  
-bioRxiv 2015, 019000.  
-[DOI](https://doi.org/10.1101/019000) |
-<span data-badge-type="4" data-doi="10.1101/019000" data-hide-no-mentions="true" class="altmetric-embed"></span> |
-Published in Genome Biology 2015.
-
-**JP Fortin**, A Labbe, M Lemire, BW Zanke, TJ Hudson, EJ Fertig, CMT Greenwood and **KD Hansen**<sup>&dagger;</sup>.  
-_Functional normalization of 450k methylation array data improves replication in large cancer studies._  
-bioRxiv 2014, 002956.  
-[DOI](https://doi.org/10.1101/002956) |
-<span data-badge-type="4" data-doi="10.1101/002956" data-hide-no-mentions="true" class="altmetric-embed"></span> |
-Published in Genome Biology 2014.
-
-**KD Hansen**, RA Irizarry, and Z WU<sup>&dagger;</sup>.  
-_Removing technical variability in RNA-Seq data using conditional
-quantile normalization._  
-Johns Hopkins University, Dept. of Biostatistics Working
-Papers. Working Paper 227.  
-[URL](http://www.bepress.com/jhubiostat/paper227) |
-Published in Biostatistics 2012.
-
-JH Bullard<sup>&lowast;</sup>, EA Purdom<sup>&lowast;</sup>, **KD Hansen**, S Durinck, and
-S Dudoit.  
-_Statistical Inference in mRNA-Seq: Exploratory Data Analysis and
-Differential Expression._  
-Working Paper 247, U.C. Berkeley, Division of Biostatistics, 2009.  
-[URL](http://www.bepress.com/ucbbiostat/paper247/) |
-Published in BMC Bioinformatics 2010.
+Other
+-----
 
 H Bengtsson<sup>&dagger;</sup>, K Simpson, J Bullard, and **KD Hansen**.  
 _aroma.affymetrix: A generic framework in R for analyzing small to
@@ -1156,9 +895,6 @@ California, Berkeley, 2008.
 [PDF](http://www.stat.berkeley.edu/tech-reports/745.pdf) |
 Abandoned.
 
-Other
------
-
 JH Andersen<sup>&dagger;</sup>, M Harhoff, S Grimstrup, I Vilstrup, CF Lassen,
 LPA Brandt, AI Kryger, E Overgaard, **KD Hansen**, and S Mikkelsen.  
 _Computer mouse use predicts acute pain but not prolonged or chronic
@@ -1166,7 +902,6 @@ pain in the neck and shoulder_.
 Occup Environ Med 2008, 65(2):126-131.  
 [DOI](https://doi.org/10.1136/oem.2007.033506) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/17681996)
-
 
 A-M Nybo Andersen<sup>&dagger;</sup>, **KD Hansen**, PK Andersen, and
 G Davey Smith.  
