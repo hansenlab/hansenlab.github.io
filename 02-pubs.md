@@ -76,11 +76,36 @@ Computational Biology
 
 **2026**
 
+J Ouyang, K Okay and K Moller, K Wang, **A Davidovich**, S Petursson, T Pierce, A Amirfallah, K Anderson, **KD Hansen**<sup>&dagger;</sup>, HT Bjornsson<sup>&dagger;</sup>.  
+_Shared transcriptional consequences of epigenetic machinery disruption in murine neuronal progenitors._  
+Genome Research 2026, In press.  
+[DOI](https://doi.org/10.1101/gr.281473.125) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/42844018) |
+[Preprint](https://doi.org/) |
+<span data-badge-type="4" data-doi="10.1101/gr.281473.125" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+S Hansen, **KD Hansen**, MT Limborg.  
+_Analyzing epigenetic modifications at sample-specific CpG loci in long-read data using a likelihood-based framework in bsseq._  
+Bioinformatics 2026, In presss.  
+[DOI](https://doi.org/10.1093/bioinformatics/btag821) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/) |
+[Preprint](https://doi.org/43023421) |
+<span data-badge-type="4" data-doi="10.1093/bioinformatics/btag821" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+**A Davidovich**, D Cuomo, H Su, S Kambhampati, Q Gong, A Naron, Alexandra, R Tryggvadottir, L McMillan, **KD Hansen**<sup>&dagger;</sup>, DW Threadgill<sup>&dagger;</sup>, AP Feinberg<sup>&dagger;</sup>.  
+_Non-Mendelian inheritance of {DNA} methylation patterns in mice._  
+Nature Genetics 2026, 58(6):1409-1422.  
+[DOI](https://doi.org/10.1038/s41588-026-02604-z) |
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/42162411) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC13263155) |
+<span data-badge-type="4" data-doi="10.1038/s41588-026-02604-z" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 B Mulvey, **Y Wang**, HR Divecha, SV Bach, KD Montgomery, S Cinquemani, A Chandra, Y Du, RA Miller, JE Kleinman, SC Page, TM Hyde, K Martinowich, SC Hicks, **KD Hansen**<sup>&dagger;</sup>, KR Maynard<sup>&dagger;</sup>.  
 _Spatially-resolved molecular sex differences at single cell resolution in the adult human hypothalamus._  
 Cell Reports 2026, 45(2):116877.  
 [DOI](https://doi.org/10.1016/j.celrep.2025.116877) |
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/41615800) |
+[PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC13003713) |
 [Preprint](https://doi.org/10.1101/2024.12.07.627362) |
 <span data-badge-type="4" data-doi="10.1016/j.celrep.2025.116877" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
